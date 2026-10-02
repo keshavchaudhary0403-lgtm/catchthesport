@@ -66,6 +66,23 @@ for i, s in enumerate(d.get("schedule", [])):
     for k in ("d", "mo", "title", "meta", "time"):
         need(s, k, str, f"schedule[{i}]")
 
+def check_src(obj, where):
+    for s in obj.get("src", []) or []:
+        if not (isinstance(s, dict) and isinstance(s.get("u"), str) and s["u"].startswith("http")):
+            errors.append(f"{where}: src entries need {{'t': title, 'u': 'https://…'}}")
+
+for i, m in enumerate(d.get("matches", [])):
+    check_src(m, f"matches[{i}]")
+for i, f in enumerate(d.get("feed", [])):
+    check_src(f, f"feed[{i}]")
+    if f.get("match") and f["match"] not in ids:
+        errors.append(f"feed[{i}]: match id '{f['match']}' not found")
+for i, s in enumerate(d.get("schedule", [])):
+    if s.get("match") and s["match"] not in ids:
+        errors.append(f"schedule[{i}]: match id '{s['match']}' not found")
+for i, c in enumerate(d.get("competitions", [])):
+    check_src(c, f"competitions[{i}]")
+
 ev = d.get("event")
 if ev is not None:
     need(ev, "name", str, "event")
@@ -74,6 +91,17 @@ if ev is not None:
             for k in ("g", "s", "b"):
                 if not isinstance(r.get(k), int):
                     errors.append(f"event.medalTable[{i}]: '{k}' must be a whole number")
+    meds = ev.get("indiaMedals")
+    ind = next((r for r in ev.get("medalTable", []) if r.get("code") == "IND"), None)
+    if isinstance(meds, list) and ind:
+        for i, x in enumerate(meds):
+            if x.get("medal") not in ("gold", "silver", "bronze"):
+                errors.append(f"event.indiaMedals[{i}]: medal must be gold, silver or bronze")
+            check_src(x, f"event.indiaMedals[{i}]")
+        for col, k in (("gold", "g"), ("silver", "s"), ("bronze", "b")):
+            n = sum(1 for x in meds if x.get("medal") == col)
+            if n != ind[k]:
+                print(f"warning: indiaMedals has {n} {col} but India's table row says {ind[k]} — add the missing medal(s)")
 
 if errors:
     print("\n".join(errors))

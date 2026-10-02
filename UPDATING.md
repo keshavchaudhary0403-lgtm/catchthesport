@@ -94,13 +94,27 @@ Use `event` only while a multi-sport event India competes in is on (Asian Games,
   "stats": [ { "v": "45", "l": "Nations" }, { "v": "11 · 23 · 33", "l": "India G · S · B" } ],
   "medalAsOf": "…", "medalNote": "optional note under the table",
   "medalTable": [ { "code": "CHN", "name": "China", "g": 154, "s": 71, "b": 63 } ],   // top 9 + India
-  "indiaGolds": [ { "sport": "Archery", "event": "…", "who": "…", "isNew": true } ],
-  "indiaToday": [ { "medal": "gold", "sport": "…", "event": "…", "who": "…" } ],
-  "indiaYesterday": [ … ]
+  "medalSrc": [ { "t": "Khel Now – medal tally", "u": "https://…" } ],
+  "indiaMedals": [   // EVERY India medal — the count per colour must match India's row in medalTable
+    { "medal": "silver", "sport": "Archery", "event": "Recurve mixed team", "who": "Kumkum Mohod & Dhiraj Bommadevara — lost the final 3–5 to China",
+      "day": "2 Oct",   // only for medals won in the last 2 days (drives the "Latest" tab and date badge); remove after that
+      "src": [ { "t": "Outlook India – Day 13 live", "u": "https://…" } ] }
+  ]
 }
 ```
 
 After the closing ceremony: set `statusText` to "Concluded — final standings", update the final table, keep the block for **3 days**, then delete the whole `event` key. Event matches use `"comp": "Asian Games"` (or the event's name).
+
+## Sources and links (everything on the site is clickable)
+
+Every item opens a detail panel that shows its source, so **attach sources**:
+
+- `src`: a list of `{ "t": "Publisher – short title", "u": "https://…" }` on every match, competition, feed item (optional, falls back to its match), and every medal. Use the article you actually read. Never invent URLs.
+- Feed items: add `"match": "<match id>"` when the update is about a match on the site.
+- Schedule rows: add `"match": "<match id>"` when the row is a match on the site (clicking the row opens that match).
+- Competitions: give each an `"id"` and, if its fixtures are on the site, `"comp"` equal to the matches' `comp` value, so the panel lists them.
+- Players: optional `"q"` = the word to match in match names/notes/medals (usually the surname).
+- When a match or medal is updated, update its `src` too.
 
 ## Research rules
 

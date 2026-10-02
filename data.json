@@ -26,7 +26,25 @@
       "big": true,
       "win": "b",
       "day": "2 Oct · Day 13",
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 13 live",
+          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
+        },
+        {
+          "t": "India Sports Hub – archery timings",
+          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
+        },
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "result",
@@ -49,7 +67,25 @@
       "id": "ag-0",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 13 live",
+          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
+        },
+        {
+          "t": "India Sports Hub – archery timings",
+          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
+        },
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "result",
@@ -72,7 +108,25 @@
       "id": "ag-1",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 13 live",
+          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
+        },
+        {
+          "t": "India Sports Hub – archery timings",
+          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
+        },
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "result",
@@ -95,7 +149,17 @@
       "id": "ag-2",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "result",
@@ -118,7 +182,17 @@
       "id": "ag-3",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "result",
@@ -141,7 +215,25 @@
       "id": "ag-4",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 13 live",
+          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
+        },
+        {
+          "t": "India Sports Hub – archery timings",
+          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
+        },
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "result",
@@ -164,7 +256,25 @@
       "id": "ag-5",
       "comp": "Asian Games",
       "india": false,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 13 live",
+          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
+        },
+        {
+          "t": "India Sports Hub – archery timings",
+          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
+        },
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -187,7 +297,17 @@
       "id": "ag-7",
       "comp": "Asian Games",
       "india": true,
-      "big": true
+      "big": true,
+      "src": [
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -209,7 +329,25 @@
       "venue": "",
       "id": "ag-8",
       "comp": "Asian Games",
-      "india": true
+      "india": true,
+      "src": [
+        {
+          "t": "India.com – Day 13 live",
+          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
+        },
+        {
+          "t": "India Sports Hub – archery timings",
+          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
+        },
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -232,7 +370,17 @@
       "id": "ag-9",
       "comp": "Asian Games",
       "india": true,
-      "big": true
+      "big": true,
+      "src": [
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -255,7 +403,17 @@
       "id": "ag-10",
       "comp": "Asian Games",
       "india": true,
-      "big": true
+      "big": true,
+      "src": [
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -279,7 +437,13 @@
       "comp": "Asian Games",
       "india": true,
       "big": true,
-      "watch": "Sony Sports / SonyLIV"
+      "watch": "Sony Sports / SonyLIV",
+      "src": [
+        {
+          "t": "Khel Now – India beat Korea, final vs China",
+          "u": "https://khelnow.com/hockey/india-south-korea-women-report-asian-games-202609"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -303,7 +467,17 @@
       "comp": "Asian Games",
       "india": true,
       "big": true,
-      "watch": "Sony Sports / SonyLIV"
+      "watch": "Sony Sports / SonyLIV",
+      "src": [
+        {
+          "t": "Yahoo Sports – IND v PAK cricket final",
+          "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
+        },
+        {
+          "t": "India.com – Day 12 live updates",
+          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -326,7 +500,17 @@
       "id": "ag-hockey-m-final",
       "comp": "Asian Games",
       "india": true,
-      "big": true
+      "big": true,
+      "src": [
+        {
+          "t": "Malay Mail – Malaysia into final",
+          "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
+        },
+        {
+          "t": "Deccan Chronicle – India 4-3 Pakistan",
+          "u": "https://www.deccanchronicle.com/amp/sports/asian-games-2026-india-beat-pakistan-4-3-to-enter-mens-hockey-final-1992199"
+        }
+      ]
     },
     {
       "st": "result",
@@ -349,7 +533,17 @@
       "id": "ag-14",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "Malay Mail – Malaysia into final",
+          "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
+        },
+        {
+          "t": "Deccan Chronicle – India 4-3 Pakistan",
+          "u": "https://www.deccanchronicle.com/amp/sports/asian-games-2026-india-beat-pakistan-4-3-to-enter-mens-hockey-final-1992199"
+        }
+      ]
     },
     {
       "st": "result",
@@ -372,7 +566,13 @@
       "id": "ag-15",
       "comp": "Asian Games",
       "india": false,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "Malay Mail – Malaysia into final",
+          "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
+        }
+      ]
     },
     {
       "st": "result",
@@ -395,7 +595,17 @@
       "id": "ag-16",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "Yahoo Sports – IND v PAK cricket final",
+          "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
+        },
+        {
+          "t": "India.com – Day 12 live updates",
+          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+        }
+      ]
     },
     {
       "st": "result",
@@ -418,7 +628,13 @@
       "id": "ag-17",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 12 live updates",
+          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+        }
+      ]
     },
     {
       "st": "result",
@@ -441,7 +657,13 @@
       "id": "ag-18",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 12 live updates",
+          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+        }
+      ]
     },
     {
       "st": "result",
@@ -464,7 +686,13 @@
       "id": "ag-19",
       "comp": "Asian Games",
       "india": true,
-      "recent": true
+      "recent": true,
+      "src": [
+        {
+          "t": "India.com – Day 12 live updates",
+          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+        }
+      ]
     },
     {
       "id": "ind-wi-odi3",
@@ -487,7 +715,17 @@
       ],
       "when": "2026-10-03T14:00:00+05:30",
       "note": "India lead the series 2–0 after Shubman Gill's record 222 in Guwahati.",
-      "venue": "New Chandigarh"
+      "venue": "New Chandigarh",
+      "src": [
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        },
+        {
+          "t": "NewsX – IND v WI schedule",
+          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        }
+      ]
     },
     {
       "id": "ind-wi-odi2",
@@ -512,7 +750,21 @@
       "day": "30 Sep",
       "when": "2026-09-30T14:00:00+05:30",
       "note": "India won by 8 wickets in 43 overs — their highest ODI chase. Gill 222 (fastest ODI double hundred, 117 balls), Rohit Sharma 101.",
-      "venue": "Guwahati"
+      "venue": "Guwahati",
+      "src": [
+        {
+          "t": "India.com – 2nd ODI report",
+          "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-2nd-odi-match-30-sept-ind-vs-wi-squad-players-list-shubman-gill-shai-hope-rohit-sharma-virat-kohli-barsapara-cricket-stadium-guwahati-8531517/"
+        },
+        {
+          "t": "ESPNcricinfo – 2nd ODI",
+          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-2nd-odi-1529228/live-cricket-score"
+        },
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        }
+      ]
     },
     {
       "id": "ind-wi-odi1",
@@ -536,7 +788,17 @@
       "day": "27 Sep",
       "when": "2026-09-27T14:00:00+05:30",
       "note": "India won by 8 wickets with 50 balls to spare. Centuries for Gill and Virat Kohli; Kuldeep Yadav led the bowling.",
-      "venue": "Thiruvananthapuram"
+      "venue": "Thiruvananthapuram",
+      "src": [
+        {
+          "t": "ESPNcricinfo – 1st ODI",
+          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-odi-1529227/live-cricket-score"
+        },
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        }
+      ]
     },
     {
       "id": "ind-wi-t20-1",
@@ -558,7 +820,17 @@
       ],
       "when": "2026-10-06T19:00:00+05:30",
       "note": "First of five T20Is. Shreyas Iyer captains India.",
-      "venue": "Lucknow"
+      "venue": "Lucknow",
+      "src": [
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        },
+        {
+          "t": "NewsX – IND v WI schedule",
+          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        }
+      ]
     },
     {
       "id": "ind-wi-t20-2",
@@ -579,7 +851,17 @@
         "#7B1E3A"
       ],
       "when": "2026-10-09T19:00:00+05:30",
-      "venue": "Ranchi"
+      "venue": "Ranchi",
+      "src": [
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        },
+        {
+          "t": "NewsX – IND v WI schedule",
+          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        }
+      ]
     },
     {
       "id": "ind-bra",
@@ -601,7 +883,21 @@
       ],
       "when": "2026-10-03",
       "note": "Brazil's first senior international on Indian soil. Kick-off time to be confirmed by AIFF.",
-      "venue": "Salt Lake Stadium, Kolkata"
+      "venue": "Salt Lake Stadium, Kolkata",
+      "src": [
+        {
+          "t": "AIFF – India to host Brazil",
+          "u": "https://www.the-aiff.com/article/india-to-host-five-time-world-champions-brazil-in-historic-kolkata-friendly"
+        },
+        {
+          "t": "Newsdrum – India v Brazil details",
+          "u": "https://www.newsdrum.in/sports/india-vs-brazil-friendly-on-october-3-venue-tickets-timing-expected-players-12215394"
+        },
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
     },
     {
       "id": "ind-uru",
@@ -623,7 +919,13 @@
       ],
       "when": "2026-10-06",
       "note": "Second Kolkata friendly in four days.",
-      "venue": "Salt Lake Stadium, Kolkata"
+      "venue": "Salt Lake Stadium, Kolkata",
+      "src": [
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
     },
     {
       "id": "ind-rus-w1",
@@ -642,7 +944,13 @@
         "Russia",
         ""
       ],
-      "when": "2026-10-08"
+      "when": "2026-10-08",
+      "src": [
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
     },
     {
       "id": "isl-bfc-del",
@@ -664,7 +972,17 @@
         "#B91C1C"
       ],
       "when": "2026-10-10",
-      "note": "ISL 2026-27 kicks off — 13 teams, playoffs are back. East Bengal are defending champions."
+      "note": "ISL 2026-27 kicks off — 13 teams, playoffs are back. East Bengal are defending champions.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        }
+      ]
     },
     {
       "id": "isl-goa-che",
@@ -685,7 +1003,17 @@
         "",
         "#1D4ED8"
       ],
-      "when": "2026-10-10"
+      "when": "2026-10-10",
+      "src": [
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        }
+      ]
     },
     {
       "id": "isl-chu-mcfc",
@@ -707,7 +1035,17 @@
         "#0EA5E9"
       ],
       "when": "2026-10-11",
-      "note": "Churchill Brothers make their ISL debut after taking over Jamshedpur's licence."
+      "note": "Churchill Brothers make their ISL debut after taking over Jamshedpur's licence.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        }
+      ]
     },
     {
       "id": "epl-ars-lee",
@@ -727,7 +1065,13 @@
         "",
         "#1D428A"
       ],
-      "when": "2026-10-10T17:00:00+05:30"
+      "when": "2026-10-10T17:00:00+05:30",
+      "src": [
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        }
+      ]
     },
     {
       "id": "epl-mun-tot",
@@ -747,7 +1091,13 @@
         "",
         "#132257"
       ],
-      "when": "2026-10-10T22:00:00+05:30"
+      "when": "2026-10-10T22:00:00+05:30",
+      "src": [
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        }
+      ]
     },
     {
       "id": "epl-liv-mci",
@@ -769,7 +1119,13 @@
         "#6CABDD"
       ],
       "when": "2026-10-11T21:00:00+05:30",
-      "note": "Pick of the weekend — the bookmakers can't split them."
+      "note": "Pick of the weekend — the bookmakers can't split them.",
+      "src": [
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        }
+      ]
     }
   ],
   "event": {
@@ -862,114 +1218,1044 @@
         "b": 36
       }
     ],
-    "indiaGolds": [
-      {
-        "sport": "Archery",
-        "event": "Recurve women's team",
-        "who": "Ankita Bhakat, Kirti Sharma, Kumkum Mohod — beat South Korea 5–3 in the final (China 5–1 in the semi). India’s first gold in this event.",
-        "isNew": true
-      },
-      {
-        "sport": "Cricket",
-        "event": "Women's T20",
-        "who": "Harmanpreet Kaur (c), Smriti Mandhana, Shafali Verma, Deepti Sharma, Richa Ghosh and squad"
-      },
-      {
-        "sport": "Kabaddi",
-        "event": "Women's team",
-        "who": "India women’s kabaddi team"
-      },
-      {
-        "sport": "Kabaddi",
-        "event": "Men's team",
-        "who": "India men’s kabaddi team"
-      },
-      {
-        "sport": "Shooting",
-        "event": "10m air pistol mixed team",
-        "who": "Kamaljeet & Suruchi Singh"
-      },
-      {
-        "sport": "Athletics",
-        "event": "Women's 4x400m relay",
-        "who": "Kiran Pahal, Poovamma Machettira, Prachi Choudhary, Vithya Ramraj"
-      },
-      {
-        "sport": "Shooting",
-        "event": "Women's trap",
-        "who": "Neeru Dhanda"
-      },
-      {
-        "sport": "Archery",
-        "event": "Compound women's team",
-        "who": "Jyothi Surekha Vennam, Chikitha Taniparthi, Prithika Pradeep — beat China"
-      },
-      {
-        "sport": "Archery",
-        "event": "Compound mixed team",
-        "who": "Chikitha Taniparthi & Sahil Jadhav — beat South Korea"
-      },
-      {
-        "sport": "Shooting",
-        "event": "Trap mixed team",
-        "who": "Neeru Dhanda & Kynan Chenai"
-      },
-      {
-        "sport": "Archery",
-        "event": "Compound men's team",
-        "who": "India men’s compound team — beat China"
-      }
-    ],
-    "indiaToday": [
-      {
-        "medal": "silver",
-        "sport": "Archery",
-        "event": "Recurve mixed team",
-        "who": "Kumkum Mohod & Dhiraj Bommadevara — lost final 3–5 to China (beat Japan 5–3 in the semi)."
-      },
+    "indiaMedals": [
       {
         "medal": "gold",
         "sport": "Archery",
         "event": "Recurve women's team",
-        "who": "Ankita Bhakat, Kirti Sharma, Kumkum Mohod — beat South Korea 5–3 in the final."
-      }
-    ],
-    "indiaYesterday": [
+        "who": "Ankita Bhakat, Kirti Sharma, Kumkum Mohod — beat South Korea 5–3 in the final (China 5–1 in the semi). India's first gold in this event.",
+        "src": [
+          {
+            "t": "Outlook India – Day 13 live updates",
+            "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          }
+        ],
+        "day": "2 Oct"
+      },
+      {
+        "medal": "gold",
+        "sport": "Cricket",
+        "event": "Women's T20",
+        "who": "Harmanpreet Kaur (c), Smriti Mandhana, Shafali Verma, Arundhati Reddy, Deepti Sharma, Richa Ghosh, Gunalan Kamalini, Bharti Fulmali, Kranti Gaud, Nandani Sharma, Pratika Rawal, Radha Yadav, Renuka Singh Thakur, Shree Charani, Shreyanka Patil",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Kabaddi",
+        "event": "Women's team",
+        "who": "India women's kabaddi team",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Kabaddi",
+        "event": "Men's team",
+        "who": "India men's kabaddi team",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Shooting",
+        "event": "10m air pistol mixed team",
+        "who": "Kamaljeet & Suruchi Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Athletics",
+        "event": "Women's 4x400m relay",
+        "who": "Ansa Babu, Kiran Pahal, Neeru Pathak, Poovamma Machettira, Prachi Choudhary, Rashdeep Kaur, Saloni Nagar, Vithya Ramraj",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Shooting",
+        "event": "Women's trap",
+        "who": "Neeru Dhanda",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Archery",
+        "event": "Compound women's team",
+        "who": "Jyothi Surekha Vennam, Chikitha Taniparthi, Prithika Pradeep — beat China",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Archery",
+        "event": "Compound mixed team",
+        "who": "Chikitha Taniparthi & Sahil Jadhav — beat South Korea",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Shooting",
+        "event": "Trap mixed team",
+        "who": "Neeru Dhanda & Kynan Chenai",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Archery",
+        "event": "Compound men's team",
+        "who": "Kushal Dalal, Sahil Jadhav, T. G. Mani Ratnam — beat China",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Archery",
+        "event": "Recurve mixed team",
+        "who": "Kumkum Mohod & Dhiraj Bommadevara — lost the final 3–5 to China after beating Japan 5–3 in the semi.",
+        "src": [
+          {
+            "t": "Outlook India – Day 13 live updates",
+            "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          }
+        ],
+        "day": "2 Oct"
+      },
       {
         "medal": "silver",
         "sport": "Wrestling",
         "event": "Greco-Roman 97kg",
-        "who": "Nitesh Siwach — lost final 0–4 to Yuri Nakazato (JPN). India’s first Greco-Roman finalist in 64 years."
+        "who": "Nitesh Siwach — lost the final 0–4 to Yuri Nakazato (JPN). India’s first Greco-Roman finalist in 64 years.",
+        "src": [
+          {
+            "t": "India.com – Day 12 live updates",
+            "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+          }
+        ],
+        "day": "1 Oct"
       },
       {
         "medal": "silver",
         "sport": "Sailing",
         "event": "Men's skiff (49er)",
-        "who": "Prince Kurisinkal Noble & Manu Francis — India’s first sailing medal of these Games"
+        "who": "Prince Kurisinkal Noble & Manu Francis",
+        "src": [
+          {
+            "t": "ANI – sailing men's skiff silver",
+            "u": "https://www.aninews.in/news/sports/others/asian-games-2026-manu-francis-prince-noble-win-silver-in-sailing-as-india8217s-overall-medal-tally-reaches-6220261001103400/"
+          }
+        ],
+        "day": "1 Oct"
       },
       {
-        "medal": "bronze",
-        "sport": "Sailing",
-        "event": "Women's skiff (49erFX)",
-        "who": "Harshita Tomar & Shital Verma"
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Women's 10m air rifle",
+        "who": "Elavenil Valarivan",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Women's 10m air rifle team",
+        "who": "Elavenil Valarivan, Sonam Maskar, Vidarsa Vinod",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Men's 10m air rifle",
+        "who": "Himanshu Dhillon",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Men's 10m air rifle team",
+        "who": "Himanshu Dhillon, Parth Mane, Rudrankksh Patil",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Men's 50m rifle 3 positions team",
+        "who": "Aishwary Pratap Singh Tomar, Niraj Kumar, Rudrankksh Patil",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Women's 50m rifle 3 positions team",
+        "who": "Ashi Chouksey, Tilottama Sen, Vidarsa Vinod",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Women's 25m pistol",
+        "who": "Esha Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Shooting",
+        "event": "Women's trap team",
+        "who": "Neeru Dhanda, Manisha Keer, Aashima Ahlawat",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Squash",
+        "event": "Men's singles",
+        "who": "Abhay Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Squash",
+        "event": "Women's singles",
+        "who": "Anahat Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Weightlifting",
+        "event": "Women's 49kg",
+        "who": "Mirabai Chanu",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Wushu",
+        "event": "Women's sanda 60kg",
+        "who": "Naorem Roshibina Devi",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Mixed 4x400m relay",
+        "who": "Poovamma Machettira, Vishal T. K., Vithya Ramraj, Manu T. S. (plus heat runners)",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's 10,000m",
+        "who": "Gulveer Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's 1500m",
+        "who": "Gulveer Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's marathon",
+        "who": "Sawan Barwal",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's shot put",
+        "who": "Tajinderpal Singh Toor",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's high jump",
+        "who": "Sarvesh Kushare",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's long jump",
+        "who": "Murali Sreeshankar",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Women's long jump",
+        "who": "Ancy Sojan",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Athletics",
+        "event": "Men's javelin throw",
+        "who": "Yashvir Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
       },
       {
         "medal": "bronze",
         "sport": "Squash",
         "event": "Men's team",
-        "who": "Lost semi-final 1–2 to Malaysia (Veer Chotrani won his rubber 3–0)"
+        "who": "Veer Chotrani, Abhay Singh, Velavan Senthilkumar — lost the semi-final 1–2 to Malaysia",
+        "src": [
+          {
+            "t": "India.com – Day 12 live updates",
+            "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ],
+        "day": "1 Oct"
       },
       {
         "medal": "bronze",
         "sport": "Squash",
         "event": "Women's team",
-        "who": "Lost semi-final 1–2 to Hong Kong, China"
+        "who": "Anahat Singh, Tanvi Khanna, Joshna Chinappa — lost the semi-final 1–2 to Hong Kong, China",
+        "src": [
+          {
+            "t": "India.com – Day 12 live updates",
+            "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ],
+        "day": "1 Oct"
       },
       {
         "medal": "bronze",
         "sport": "Archery",
         "event": "Compound men's individual",
-        "who": "Ganesh Mani Ratnam Thirumuru"
+        "who": "Ganesh Mani Ratnam Thirumuru",
+        "src": [
+          {
+            "t": "India.com – Day 12 live updates",
+            "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ],
+        "day": "1 Oct"
+      },
+      {
+        "medal": "bronze",
+        "sport": "Sailing",
+        "event": "Women's skiff (49erFX)",
+        "who": "Harshita Tomar & Shital Verma",
+        "src": [
+          {
+            "t": "UNI – sailing women's skiff bronze",
+            "u": "https://www.uniindia.com/sports/asian-games-sailing-womens-bronze/199578"
+          }
+        ],
+        "day": "1 Oct"
+      },
+      {
+        "medal": "bronze",
+        "sport": "Shooting",
+        "event": "Men's 10m air rifle",
+        "who": "Rudrankksh Patil",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Shooting",
+        "event": "Women's skeet team",
+        "who": "Maheshwari Chauhan, Parinaaz Dhaliwal, Raiza Dhillon",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Shooting",
+        "event": "Men's skeet team",
+        "who": "Anantjeet Singh Naruka, Bhavtegh Singh Gill, Mairaj Ahmad Khan",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Shooting",
+        "event": "Mixed skeet team",
+        "who": "Anantjeet Singh Naruka & Parinaaz Dhaliwal",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Badminton",
+        "event": "Men's team",
+        "who": "India men’s badminton team",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Table tennis",
+        "event": "Mixed doubles",
+        "who": "Diya Chitale & Manush Shah",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Squash",
+        "event": "Mixed doubles",
+        "who": "Joshna Chinappa & Velavan Senthilkumar",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Rowing",
+        "event": "Men's double sculls",
+        "who": "Satnam Singh & Salman Khan",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Soft tennis",
+        "event": "Men's singles",
+        "who": "Jay Meena",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Mixed martial arts",
+        "event": "Women's 60kg",
+        "who": "Suchika Tariyal",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Kurash",
+        "event": "Women's 78kg",
+        "who": "Pincky Balhara",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Boxing",
+        "event": "Women's 60kg",
+        "who": "Priya Ghanghas",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Boxing",
+        "event": "Men's 90kg",
+        "who": "Kapil Pokhariya",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Boxing",
+        "event": "Men's +90kg",
+        "who": "Narender Berwal",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Wrestling",
+        "event": "Greco-Roman 87kg",
+        "who": "Sunil Kumar",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's 10,000m",
+        "who": "Seema Kumari",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's pole vault",
+        "who": "Baranica Elangovan",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's shot put",
+        "who": "Manpreet Kaur",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's 400m",
+        "who": "Prachi Choudhary",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's 200m",
+        "who": "Harita Bhadra",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's 400m hurdles",
+        "who": "Vithya Ramraj",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's 3000m steeplechase",
+        "who": "Parul Chaudhary",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's 5000m",
+        "who": "Parul Chaudhary",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Women's high jump",
+        "who": "Pooja Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Men's decathlon",
+        "who": "Tejaswin Shankar",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Men's javelin throw",
+        "who": "Rohit Yadav",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Men's 5000m",
+        "who": "Gulveer Singh",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Mixed 4x100m relay",
+        "who": "Animesh Kujur, Gurindervir Singh, Pranav Gurav, Harita Bhadra, Sneha Gowda, Tamanna Dhankheri, Unnathi Aiyappa",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Athletics",
+        "event": "Men's 4x400m relay",
+        "who": "Dharmveer Choudhary, Jay Kumar, Manu T. S., Mohammed Ashfaq, Rajesh Ramesh, Vishal T. K.",
+        "src": [
+          {
+            "t": "Khel Now – India's medal winners",
+            "u": "https://khelnow.com/asian-games/india-medal-winners-tally-asian-games-202609"
+          },
+          {
+            "t": "Outlook India – India medal list",
+            "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      }
+    ],
+    "medalSrc": [
+      {
+        "t": "Khel Now – medal tally after Day 12",
+        "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
+      },
+      {
+        "t": "Wikipedia – 2026 Asian Games medal table",
+        "u": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table"
       }
     ]
   },
@@ -980,7 +2266,19 @@
       "status": "Live · ends 4 Oct",
       "live": true,
       "india": true,
-      "note": "India 11 gold, 24 silver, 33 bronze. Finals in boxing, hockey, cricket and archery this weekend."
+      "note": "India 11 gold, 24 silver, 33 bronze. Finals in boxing, hockey, cricket and archery this weekend.",
+      "id": "asian-games",
+      "src": [
+        {
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ],
+      "comp": "Asian Games"
     },
     {
       "sport": "Cricket",
@@ -988,48 +2286,125 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "India lead the ODIs 2–0. Third ODI on 3 Oct, then five T20Is from 6 Oct."
+      "note": "India lead the ODIs 2–0. Third ODI on 3 Oct, then five T20Is from 6 Oct.",
+      "id": "ind-wi",
+      "src": [
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        },
+        {
+          "t": "NewsX – IND v WI schedule",
+          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        }
+      ],
+      "comp": "India v West Indies"
     },
     {
       "sport": "Football",
       "name": "India v Brazil & Uruguay",
       "status": "3 & 6 Oct · Kolkata",
       "india": true,
-      "note": "Two glamour friendlies at Salt Lake Stadium for Khalid Jamil's India."
+      "note": "Two glamour friendlies at Salt Lake Stadium for Khalid Jamil's India.",
+      "id": "ind-friendlies",
+      "src": [
+        {
+          "t": "AIFF – India to host Brazil",
+          "u": "https://www.the-aiff.com/article/india-to-host-five-time-world-champions-brazil-in-historic-kolkata-friendly"
+        },
+        {
+          "t": "Newsdrum – India v Brazil details",
+          "u": "https://www.newsdrum.in/sports/india-vs-brazil-friendly-on-october-3-venue-tickets-timing-expected-players-12215394"
+        },
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ],
+      "comp": "International friendly"
     },
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
       "status": "Starts 10 Oct",
       "india": true,
-      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title."
+      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title.",
+      "id": "isl",
+      "src": [
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        }
+      ],
+      "comp": "Indian Super League"
     },
     {
       "sport": "Kabaddi",
       "name": "Pro Kabaddi League 13",
       "status": "Expected December",
       "india": true,
-      "note": "Player auction expected in mid-October; season likely to start in December."
+      "note": "Player auction expected in mid-October; season likely to start in December.",
+      "id": "pkl",
+      "src": [
+        {
+          "t": "Khel Now – PKL 13 likely in December",
+          "u": "https://khelnow.com/kabaddi/pkl-13-likely-start-december-202608"
+        },
+        {
+          "t": "Khel Now – PKL 13 auction timing",
+          "u": "https://khelnow.com/kabaddi/pkl-13-auction-likely-held-mid-october-202608"
+        }
+      ]
     },
     {
       "sport": "Football",
       "name": "Premier League",
       "status": "Back 10 Oct",
-      "note": "International break first. Liverpool v Man City headlines the weekend."
+      "note": "International break first. Liverpool v Man City headlines the weekend.",
+      "id": "epl",
+      "src": [
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        }
+      ],
+      "comp": "Premier League"
     },
     {
       "sport": "Tennis",
       "name": "WTA Beijing & ATP Tokyo",
       "status": "Live this week",
       "live": true,
-      "note": "Asian swing of the tour under way in China and Japan."
+      "note": "Asian swing of the tour under way in China and Japan.",
+      "id": "tennis-asia",
+      "src": [
+        {
+          "t": "WTA – tournament calendar",
+          "u": "https://www.wtatennis.com/tournaments"
+        },
+        {
+          "t": "ATP – tournament calendar",
+          "u": "https://www.atptour.com/en/tournaments"
+        }
+      ]
     },
     {
       "sport": "Football",
       "name": "AFC club competitions",
       "status": "From 13 Oct",
       "india": true,
-      "note": "East Bengal v Al-Shorta (AFC Champions League 2, 13 Oct); FC Goa in the AFC Challenge League."
+      "note": "East Bengal v Al-Shorta (AFC Champions League 2, 13 Oct); FC Goa in the AFC Challenge League.",
+      "id": "afc-clubs",
+      "src": [
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
     }
   ],
   "feed": [
@@ -1038,49 +2413,56 @@
       "tag": "SILVER",
       "c": "var(--silver)",
       "m": "Archery",
-      "text": "SILVER for Kumkum Mohod and Dhiraj Bommadevara — China win the recurve mixed team final 5–3, tying the last set 37–37 to seal gold."
+      "text": "SILVER for Kumkum Mohod and Dhiraj Bommadevara — China win the recurve mixed team final 5–3, tying the last set 37–37 to seal gold.",
+      "match": "ag-archery-mixed-final"
     },
     {
       "t": "09:30",
       "tag": "LIVE",
       "c": "var(--accent)",
       "m": "Archery",
-      "text": "India win the third set 37–36 but trail China 2–4 in the recurve mixed team final."
+      "text": "India win the third set 37–36 but trail China 2–4 in the recurve mixed team final.",
+      "match": "ag-archery-mixed-final"
     },
     {
       "t": "08:45",
       "tag": "FINAL",
       "c": "var(--accent)",
       "m": "Archery",
-      "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver. Gold medal match at 9:15 am."
+      "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver. Gold medal match at 9:15 am.",
+      "match": "ag-archery-mixed-final"
     },
     {
       "t": "07:31",
       "tag": "OUT",
       "c": "var(--live-text)",
       "m": "Wrestling",
-      "text": "Rajat Ruhal loses 3–8 to Kazakhstan’s Yedige Kassimbek in the men’s freestyle 125kg."
+      "text": "Rajat Ruhal loses 3–8 to Kazakhstan’s Yedige Kassimbek in the men’s freestyle 125kg.",
+      "match": "ag-3"
     },
     {
       "t": "07:31",
       "tag": "OUT",
       "c": "var(--live-text)",
       "m": "Wrestling",
-      "text": "Dipanshi Phogat loses 0–11 to Japan’s Yui Susaki in the women’s 50kg."
+      "text": "Dipanshi Phogat loses 0–11 to Japan’s Yui Susaki in the women’s 50kg.",
+      "match": "ag-2"
     },
     {
       "t": "07:13",
       "tag": "GOLD",
       "c": "var(--gold)",
       "m": "Archery",
-      "text": "GOLD! Ankita Bhakat, Kirti Sharma and Kumkum Mohod beat South Korea 5–3 in the recurve women’s team final — India’s 11th gold of the Games."
+      "text": "GOLD! Ankita Bhakat, Kirti Sharma and Kumkum Mohod beat South Korea 5–3 in the recurve women’s team final — India’s 11th gold of the Games.",
+      "match": "ag-0"
     },
     {
       "t": "07:07",
       "tag": "LIVE",
       "c": "var(--accent)",
       "m": "Archery",
-      "text": "India lead South Korea 4–2 after the third set."
+      "text": "India lead South Korea 4–2 after the third set.",
+      "match": "ag-0"
     },
     {
       "t": "07:01",
@@ -1101,7 +2483,8 @@
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Cricket",
-      "text": "Shubman Gill hits 222 — the fastest double hundred in ODI history — as India chase 406 to beat West Indies and take the series 2–0."
+      "text": "Shubman Gill hits 222 — the fastest double hundred in ODI history — as India chase 406 to beat West Indies and take the series 2–0.",
+      "match": "ind-wi-odi2"
     }
   ],
   "schedule": [
@@ -1110,63 +2493,72 @@
       "mo": "OCT",
       "title": "Boxing 75kg final",
       "meta": "Lovlina Borgohain vs Bao Ziyi",
-      "time": "10:00"
+      "time": "10:00",
+      "match": "ag-7"
     },
     {
       "d": "02",
       "mo": "OCT",
       "title": "Recurve men’s team semi",
       "meta": "India vs Iran",
-      "time": "10:55"
+      "time": "10:55",
+      "match": "ag-8"
     },
     {
       "d": "02",
       "mo": "OCT",
       "title": "Boxing 65kg final",
       "meta": "Parveen Hooda vs Chen Nien-chin",
-      "time": "14:15"
+      "time": "14:15",
+      "match": "ag-9"
     },
     {
       "d": "02",
       "mo": "OCT",
       "title": "Boxing 80kg final",
       "meta": "Ankush Panghal vs Kim Minseong",
-      "time": "14:45"
+      "time": "14:45",
+      "match": "ag-10"
     },
     {
       "d": "02",
       "mo": "OCT",
       "title": "Women's hockey final",
       "meta": "India vs China · Gold",
-      "time": "15:30"
+      "time": "15:30",
+      "match": "ag-hockey-w-final"
     },
     {
       "d": "03",
       "mo": "OCT",
       "title": "Men's cricket final",
       "meta": "India vs Pakistan · Nisshin",
-      "time": "10:30"
+      "time": "10:30",
+      "match": "ag-cricket-final"
     },
     {
       "d": "03",
       "mo": "OCT",
       "title": "India v West Indies, 3rd ODI",
       "meta": "Cricket · New Chandigarh",
-      "time": "14:00"
+      "time": "14:00",
+      "match": "ind-wi-odi3"
     },
     {
       "d": "03",
       "mo": "OCT",
       "title": "Men's hockey final",
       "meta": "India vs Malaysia · Gifu",
-      "time": "TBC"
+      "time": "TBC",
+      "match": "ag-hockey-m-final"
     },
     {
       "d": "03",
       "mo": "OCT",
       "title": "India v Brazil",
       "meta": "Football friendly · Kolkata",
-      "time": "TBC"
+      "time": "TBC",
+      "match": "ind-bra"
     },
     {
       "d": "04",
@@ -1180,28 +2572,32 @@
       "mo": "OCT",
       "title": "India v West Indies, 1st T20I",
       "meta": "Cricket · Lucknow",
-      "time": "19:00"
+      "time": "19:00",
+      "match": "ind-wi-t20-1"
     },
     {
       "d": "06",
       "mo": "OCT",
       "title": "India v Uruguay",
       "meta": "Football friendly · Kolkata",
-      "time": "TBC"
+      "time": "TBC",
+      "match": "ind-uru"
     },
     {
       "d": "08",
       "mo": "OCT",
       "title": "India women v Russia",
       "meta": "Football friendly",
-      "time": "TBC"
+      "time": "TBC",
+      "match": "ind-rus-w1"
     },
     {
       "d": "10",
       "mo": "OCT",
       "title": "ISL 2026-27 kicks off",
       "meta": "Bengaluru v Delhi, Goa v Chennaiyin",
-      "time": "TBC"
+      "time": "TBC",
+      "match": "isl-bfc-del"
     }
   ],
   "players": [
@@ -1209,49 +2605,57 @@
       "i": "KM",
       "name": "Kumkum Mohod",
       "role": "Archery · Recurve",
-      "p": "Two medals today: women's team gold, then mixed team silver with Dhiraj Bommadevara."
+      "p": "Two medals today: women's team gold, then mixed team silver with Dhiraj Bommadevara.",
+      "q": "Mohod"
     },
     {
       "i": "LB",
       "name": "Lovlina Borgohain",
       "role": "Boxing · 75kg",
-      "p": "Asian Games gold medal bout vs China's Bao Ziyi today."
+      "p": "Asian Games gold medal bout vs China's Bao Ziyi today.",
+      "q": "Borgohain"
     },
     {
       "i": "SG",
       "name": "Shubman Gill",
       "role": "Cricket · ODI captain",
-      "p": "222 in Guwahati — the fastest ODI double hundred ever."
+      "p": "222 in Guwahati — the fastest ODI double hundred ever.",
+      "q": "Gill"
     },
     {
       "i": "RS",
       "name": "Rohit Sharma",
       "role": "Cricket · Opener",
-      "p": "Century in the 2nd ODI; now past 12,000 ODI runs."
+      "p": "Century in the 2nd ODI; now past 12,000 ODI runs.",
+      "q": "Sharma"
     },
     {
       "i": "SI",
       "name": "Shreyas Iyer",
       "role": "Cricket · T20I captain",
-      "p": "Leads India in the five-match T20I series from 6 Oct."
+      "p": "Leads India in the five-match T20I series from 6 Oct.",
+      "q": "Iyer"
     },
     {
       "i": "HS",
       "name": "Harmanpreet Singh",
       "role": "Hockey · Captain",
-      "p": "Two penalty-corner goals in the semi; Asian Games final vs Malaysia."
+      "p": "Two penalty-corner goals in the semi; Asian Games final vs Malaysia.",
+      "q": "Singh"
     },
     {
       "i": "ST",
       "name": "Salima Tete",
       "role": "Women's hockey",
-      "p": "Scored in the semi win over Korea; final vs China at 3:30 pm today."
+      "p": "Scored in the semi win over Korea; final vs China at 3:30 pm today.",
+      "q": "Tete"
     },
     {
       "i": "GS",
       "name": "Gurpreet Singh Sandhu",
       "role": "Football · Goalkeeper",
-      "p": "Likely to face Brazil's attack in Kolkata on 3 Oct."
+      "p": "Likely to face Brazil's attack in Kolkata on 3 Oct.",
+      "q": "Sandhu"
     }
   ],
   "videos": [
