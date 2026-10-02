@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T09:05:00+05:30",
+  "lastUpdated": "2026-10-02T09:15:00+05:30",
   "day": 13,
   "dayLabel": "Day 13 · in progress",
   "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 9:05 am IST",
@@ -284,8 +284,8 @@
         "Opponent TBC",
         "–"
       ],
-      "when": "2026-10-02T08:50:00+05:30",
-      "note": "Kumkum Mohod & Dhiraj Bommadevara go for India’s second archery gold of the day.",
+      "when": "2026-10-02T09:15:00+05:30",
+      "note": "Kumkum Mohod & Dhiraj Bommadevara go for India’s second archery gold of the day. Gold medal match at 9:15 am.",
       "venue": ""
     },
     {
@@ -323,7 +323,7 @@
         "–"
       ],
       "when": "2026-10-02T10:55:00+05:30",
-      "note": "A win sets up a gold medal match later today.",
+      "note": "Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge. A win puts India in the gold medal match at about 11:50 am.",
       "venue": ""
     },
     {
@@ -542,7 +542,7 @@
       "tag": "FINAL",
       "c": "var(--accent)",
       "m": "Archery",
-      "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver."
+      "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver. Gold medal match at 9:15 am."
     },
     {
       "t": "07:31",
@@ -635,7 +635,7 @@
       "mo": "OCT",
       "title": "Recurve mixed team final",
       "meta": "Kumkum / Dhiraj · Gold",
-      "time": "~08:50"
+      "time": "09:15"
     },
     {
       "d": "02",
