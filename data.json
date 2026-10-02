@@ -1,8 +1,33 @@
 {
-  "lastUpdated": "2026-10-02T09:45:00+05:30",
+  "lastUpdated": "2026-10-02T09:40:00+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
-  "featured": "ag-archery-mixed-final",
+  "featured": "ag-7",
   "matches": [
+    {
+      "st": "result",
+      "gold": true,
+      "sport": "Archery",
+      "round": "Recurve mixed team final · Gold",
+      "a": [
+        "IND",
+        "India",
+        "3"
+      ],
+      "b": [
+        "CHN",
+        "China",
+        "5"
+      ],
+      "note": "Kumkum Mohod & Dhiraj Bommadevara take silver. China led 4–2 after three sets; the fourth was tied 37–37 to seal it.",
+      "venue": "Okazaki Central Comprehensive Park",
+      "id": "ag-archery-mixed-final",
+      "comp": "Asian Games",
+      "india": true,
+      "big": true,
+      "win": "b",
+      "day": "2 Oct · Day 13",
+      "recent": true
+    },
     {
       "st": "result",
       "day": "2 Oct · Day 13",
@@ -140,29 +165,6 @@
       "comp": "Asian Games",
       "india": false,
       "recent": true
-    },
-    {
-      "st": "upcoming",
-      "gold": true,
-      "sport": "Archery",
-      "round": "Recurve mixed team final · Gold",
-      "a": [
-        "IND",
-        "India",
-        "–"
-      ],
-      "b": [
-        "CHN",
-        "China",
-        "–"
-      ],
-      "when": "2026-10-02T09:15:00+05:30",
-      "note": "Kumkum Mohod & Dhiraj Bommadevara vs China’s Zhu Jingyi & Li Mengqi, who beat South Korea 6–0 in the semi-final.",
-      "venue": "Okazaki Central Comprehensive Park",
-      "id": "ag-archery-mixed-final",
-      "comp": "Asian Games",
-      "india": true,
-      "big": true
     },
     {
       "st": "upcoming",
@@ -790,11 +792,11 @@
         "l": "Sports"
       },
       {
-        "v": "11 · 23 · 33",
+        "v": "11 · 24 · 33",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 9:05 am IST",
+    "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 9:40 am IST",
     "medalTable": [
       {
         "code": "CHN",
@@ -849,7 +851,7 @@
         "code": "IND",
         "name": "India",
         "g": 11,
-        "s": 23,
+        "s": 24,
         "b": 33
       },
       {
@@ -920,6 +922,12 @@
     ],
     "indiaToday": [
       {
+        "medal": "silver",
+        "sport": "Archery",
+        "event": "Recurve mixed team",
+        "who": "Kumkum Mohod & Dhiraj Bommadevara — lost final 3–5 to China (beat Japan 5–3 in the semi)."
+      },
+      {
         "medal": "gold",
         "sport": "Archery",
         "event": "Recurve women's team",
@@ -972,7 +980,7 @@
       "status": "Live · ends 4 Oct",
       "live": true,
       "india": true,
-      "note": "India 11 gold, 23 silver, 33 bronze. Finals in boxing, hockey, cricket and archery this weekend."
+      "note": "India 11 gold, 24 silver, 33 bronze. Finals in boxing, hockey, cricket and archery this weekend."
     },
     {
       "sport": "Cricket",
@@ -1026,11 +1034,18 @@
   ],
   "feed": [
     {
-      "t": "09:15",
+      "t": "09:36",
+      "tag": "SILVER",
+      "c": "var(--silver)",
+      "m": "Archery",
+      "text": "SILVER for Kumkum Mohod and Dhiraj Bommadevara — China win the recurve mixed team final 5–3, tying the last set 37–37 to seal gold."
+    },
+    {
+      "t": "09:30",
       "tag": "LIVE",
       "c": "var(--accent)",
       "m": "Archery",
-      "text": "Recurve mixed team gold medal match under way: Kumkum Mohod & Dhiraj Bommadevara vs China. China crushed South Korea 6–0 in the other semi-final."
+      "text": "India win the third set 37–36 but trail China 2–4 in the recurve mixed team final."
     },
     {
       "t": "08:45",
@@ -1090,13 +1105,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "02",
-      "mo": "OCT",
-      "title": "Recurve mixed team final",
-      "meta": "India vs China · Gold",
-      "time": "09:15"
-    },
     {
       "d": "02",
       "mo": "OCT",
@@ -1201,7 +1209,7 @@
       "i": "KM",
       "name": "Kumkum Mohod",
       "role": "Archery · Recurve",
-      "p": "Gold in the women's team this morning; in the mixed team final vs China."
+      "p": "Two medals today: women's team gold, then mixed team silver with Dhiraj Bommadevara."
     },
     {
       "i": "LB",
