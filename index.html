@@ -300,6 +300,19 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  .stage{padding:24px 0 40px}
  .chip2{bottom:-14px}
 }
+
+/* stat tiles look tappable */
+.facts{gap:12px}
+.fact[data-open]{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:12px 34px 12px 14px;margin:0;min-width:120px;box-shadow:0 6px 16px -12px rgba(15,20,25,.35);transition:transform .2s,border-color .2s,box-shadow .2s}
+.fact[data-open]::after{content:"";position:absolute;right:12px;top:14px;width:16px;height:16px;border-radius:50%;background:var(--surface-2) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232563EB' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M9 6l6 6-6 6'/%3E%3C/svg%3E") center/10px no-repeat}
+.fact[data-open]:hover{transform:translateY(-3px);border-color:var(--accent);background:var(--surface)}
+.fact[data-open]:active{transform:translateY(0) scale(.98)}
+@media (max-width:640px){
+ .facts{gap:8px;border-top:0;padding-top:4px}
+ .fact[data-open]{min-width:0;padding:10px 8px 10px 10px;border-radius:14px}
+ .fact[data-open]::after{right:6px;top:8px;width:14px;height:14px;background-size:9px}
+ .fact b{font-size:21px}
+}
 </style>
 </head>
 <body class="cts-light">
