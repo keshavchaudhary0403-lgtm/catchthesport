@@ -368,35 +368,6 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 @keyframes mBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
 @keyframes mChip{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
 @media (prefers-reduced-motion:reduce){.feat,.tilt::after,#featA,#featB,#featPill,.chip2{animation:none !important}}
-/* medal table: even number columns, compact rows, tighter section spacing */
-.mt{table-layout:fixed}
-.mt .th-s{display:none;align-items:center;justify-content:center}
-.mdot{display:inline-block;width:12px;height:12px;border-radius:50%;box-shadow:inset 0 -2px 0 rgba(0,0,0,.18)}
-.mt .c-rank{width:72px}.mt .c-num{width:104px}.mt .c-share{width:240px}
-.mt th,.mt td{vertical-align:middle;padding:12px 16px}
-.mt th:nth-child(n+3),.mt td:nth-child(n+3){text-align:center}
-.mt th:nth-child(7),.mt td:nth-child(7){text-align:left}
-.mt td:nth-child(1){text-align:center;width:auto}
-.mt th:nth-child(1){text-align:center}
-.mt .nat{gap:12px;line-height:1.2;min-width:0}
-.mt .nat span:last-child,.mt .nat{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.mt td:nth-child(6){font-size:16px}
-#medals,#india-medals{padding-top:56px}
-#medals .note + p,#medals > p.note{margin-top:10px}
-@media (max-width:640px){
- .mt .c-rank{width:34px}.mt .c-num{width:46px}.mt .c-share{width:0}
- .mt th,.mt td{padding:10px 4px}
- .mt th{font-size:10px;letter-spacing:.02em}
- .mt td{font-size:14px}
- .mt td:nth-child(2){font-size:14px;padding-left:6px}
- .mt td:nth-child(6){font-size:14px}
- .mt .nat{gap:8px}
- .mt .nat .flag,.mt .nat .club{width:24px !important;height:24px !important}
- #medals{padding-top:40px}#india-medals{padding-top:24px}
- .mt .th-l{display:none}.mt .th-s{display:inline-flex}
- #medals .sec-head > div:last-child{align-items:flex-start !important}
- #medals .sec-head{margin-bottom:16px}
-}
 /* headline: 3 lines on desktop, 2 lines on mobile ("Every sport. Every" / "Indian moment. Live.") */
 .br-m{display:none}
 @media (max-width:640px){
@@ -544,8 +515,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 </div>
 <div class="card" style="overflow-x:auto">
 <table class="mt" aria-label="Medal table">
-<colgroup><col class="c-rank"><col class="c-nat"><col class="c-num"><col class="c-num"><col class="c-num"><col class="c-num"><col class="c-share hide-sm"></colgroup>
-<thead><tr><th scope="col" aria-label="Rank"><span class="th-l">Rank</span><span class="th-s">#</span></th><th scope="col">Nation</th><th scope="col" aria-label="Gold"><span class="th-l">Gold</span><span class="th-s" aria-hidden="true"><i class="mdot" style="background:var(--gold)"></i></span></th><th scope="col" aria-label="Silver"><span class="th-l">Silver</span><span class="th-s" aria-hidden="true"><i class="mdot" style="background:var(--silver)"></i></span></th><th scope="col" aria-label="Bronze"><span class="th-l">Bronze</span><span class="th-s" aria-hidden="true"><i class="mdot" style="background:var(--bronze)"></i></span></th><th scope="col" aria-label="Total"><span class="th-l">Total</span><span class="th-s">Tot</span></th><th scope="col" class="hide-sm" style="text-align:left">Share</th></tr></thead>
+<thead><tr><th scope="col">Rank</th><th scope="col">Nation</th><th scope="col">Gold</th><th scope="col">Silver</th><th scope="col">Bronze</th><th scope="col">Total</th><th scope="col" class="hide-sm" style="text-align:left">Share</th></tr></thead>
 <tbody id="medalBody"></tbody>
 </table>
 </div>
