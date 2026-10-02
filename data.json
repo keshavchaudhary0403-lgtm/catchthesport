@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T14:34:06+05:30",
+  "lastUpdated": "2026-10-02T15:43:43+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -482,22 +482,22 @@
       "resultAt": "2026-10-02T14:34:06+05:30"
     },
     {
-      "st": "upcoming",
+      "st": "result",
       "gold": true,
       "sport": "Boxing",
       "round": "Men's 80kg final · Gold",
       "a": [
         "IND",
         "Ankush Panghal",
-        "–"
+        "Won"
       ],
       "b": [
         "KOR",
         "Kim Minseong",
-        "–"
+        ""
       ],
       "when": "2026-10-02T14:45:00+05:30",
-      "note": "Ankush Panghal takes on South Korea’s Kim Minseong for gold.",
+      "note": "Ankush beat South Korea's Kim Minseong on points (judges' split reported as 4–0 / 4–1); led 5–0 after round 2. India's third boxing gold of the day — first Indian man to win Asian Games boxing gold since Amit Panghal in 2018.",
       "venue": "",
       "id": "ag-10",
       "comp": "Asian Games",
@@ -505,18 +505,22 @@
       "big": true,
       "src": [
         {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          "t": "Indian Express – Day 14 live blog",
+          "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
         },
         {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "resultAt": "2026-10-02T15:43:43+05:30"
     },
     {
       "id": "ag-wrestling-65-final",
-      "st": "upcoming",
+      "st": "result",
       "gold": true,
       "big": true,
       "india": true,
@@ -526,29 +530,29 @@
       "a": [
         "IND",
         "Sujeet Kalkal",
-        "–"
+        "10"
       ],
       "b": [
         "TJK",
         "Abdulmazid Kudiev",
-        "–"
+        "9"
       ],
       "when": "2026-10-02T14:46:00+05:30",
-      "note": "Sujeet beat Japan's Olympic champion Kotaro Kiyooka 3–3 on criteria in the semi-final. India assured of at least silver. Time as listed by Khel Now.",
+      "note": "Sujeet trailed 2–9 at half-time and 6–9 with 1:15 left, then scored three takedowns to win 10–9. India's first wrestling gold of these Games, in the weight class won by Yogeshwar Dutt (2014) and Bajrang Punia (2018).",
       "src": [
         {
-          "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
-          "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
+          "t": "Indian Express – Sujeet Kalkal wins first wrestling gold",
+          "u": "https://indianexpress.com/article/sports/sujeet-kalkal-first-wrestling-gold-india-2026-asian-games-10903802/"
         },
         {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        },
-        {
-          "t": "Outlook India – Day 14 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          "t": "Indian Express – Day 14 live blog",
+          "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "resultAt": "2026-10-02T15:43:43+05:30"
     },
     {
       "id": "ag-wrestling-w50-bronze",
@@ -599,8 +603,8 @@
         "China",
         "–"
       ],
-      "when": "2026-10-02T15:30:00+05:30",
-      "note": "India beat South Korea 2–0 in the semi (Ishika 44′, Salima Tete 48′). China are defending champions.",
+      "when": "2026-10-02T16:15:00+05:30",
+      "note": "Start delayed 45 minutes to 4:15 pm IST after traffic from an unrelated accident held up the Indian team bus. India beat South Korea 2–0 in the semi (Ishika 44′, Salima Tete 48′). China are defending champions.",
       "venue": "Aichi-Nagoya",
       "id": "ag-hockey-w-final",
       "comp": "Asian Games",
@@ -608,6 +612,10 @@
       "big": true,
       "watch": "Sony Sports / SonyLIV",
       "src": [
+        {
+          "t": "NDTV Sports – India vs China final live (delayed 45 min)",
+          "u": "https://sports.ndtv.com/asian-games-2026/india-vs-china-live-score-asian-games-2026-womens-hockey-final-ind-vs-chn-live-match-updates-aichi-nagoya-12129480"
+        },
         {
           "t": "Khel Now – India beat Korea, final vs China",
           "u": "https://khelnow.com/hockey/india-south-korea-women-report-asian-games-202609"
@@ -1065,8 +1073,8 @@
         "Uruguay",
         ""
       ],
-      "when": "2026-10-06",
-      "note": "Second Kolkata friendly in four days.",
+      "when": "2026-10-06T19:30:00+05:30",
+      "note": "Second Kolkata friendly in four days. 7:30 pm IST per the official ticketing listing and AIFF social posts.",
       "venue": "Salt Lake Stadium, Kolkata",
       "src": [
         {
@@ -1329,46 +1337,53 @@
         "l": "Sports"
       },
       {
-        "v": "13 · 25 · 35",
+        "v": "15 · 25 · 35",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India live (73 medals) · other nations: end of Day 12",
+    "medalAsOf": "India live (75 medals) · other nations: Day 13 in progress (Wikipedia, 15:45 IST)",
     "medalTable": [
       {
         "code": "CHN",
         "name": "China",
-        "g": 154,
-        "s": 71,
-        "b": 63
+        "g": 161,
+        "s": 79,
+        "b": 71
       },
       {
         "code": "JPN",
         "name": "Japan (host)",
-        "g": 59,
-        "s": 79,
-        "b": 79
+        "g": 69,
+        "s": 82,
+        "b": 85
       },
       {
         "code": "KOR",
         "name": "South Korea",
-        "g": 30,
-        "s": 30,
-        "b": 53
+        "g": 33,
+        "s": 38,
+        "b": 59
       },
       {
         "code": "UZB",
         "name": "Uzbekistan",
-        "g": 16,
-        "s": 21,
-        "b": 19
+        "g": 19,
+        "s": 22,
+        "b": 22
       },
       {
         "code": "IND",
         "name": "India",
-        "g": 13,
+        "g": 15,
         "s": 25,
         "b": 35
+      },
+      {
+        "code": "THA",
+        "name": "Thailand",
+        "g": 15,
+        "s": 11,
+        "b": 17
       },
       {
         "code": "IRI",
@@ -1378,11 +1393,11 @@
         "b": 13
       },
       {
-        "code": "THA",
-        "name": "Thailand",
-        "g": 12,
-        "s": 11,
-        "b": 15
+        "code": "KAZ",
+        "name": "Kazakhstan",
+        "g": 11,
+        "s": 20,
+        "b": 41
       },
       {
         "code": "BRN",
@@ -1390,16 +1405,35 @@
         "g": 11,
         "s": 5,
         "b": 5
-      },
-      {
-        "code": "KAZ",
-        "name": "Kazakhstan",
-        "g": 9,
-        "s": 19,
-        "b": 36
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Wrestling",
+        "event": "Men's freestyle 65kg",
+        "who": "Sujeet Kalkal — came from 2–9 down to beat Tajikistan's Abdulmazid Kudiev 10–9 in the final.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "Indian Express – Sujeet Kalkal wins first wrestling gold",
+            "u": "https://indianexpress.com/article/sports/sujeet-kalkal-first-wrestling-gold-india-2026-asian-games-10903802/"
+          }
+        ]
+      },
+      {
+        "medal": "gold",
+        "sport": "Boxing",
+        "event": "Men's 80kg",
+        "who": "Ankush Panghal — beat South Korea's Kim Minseong in the final.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "Indian Express – Day 14 live blog",
+            "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Boxing",
@@ -2508,6 +2542,14 @@
     ],
     "medalSrc": [
       {
+        "t": "Indian Express – Day 14 live blog",
+        "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
+      },
+      {
+        "t": "Wikipedia – 2026 Asian Games medal table",
+        "u": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table"
+      },
+      {
         "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       },
@@ -2518,18 +2560,10 @@
       {
         "t": "Khel Now – medal tally after Day 12",
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
-      },
-      {
-        "t": "Wikipedia – 2026 Asian Games medal table",
-        "u": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table"
-      },
-      {
-        "t": "Sunday Guardian – medal tally live, Day 13",
-        "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
     ],
-    "medalChecked": "2026-10-02T14:34:06+05:30",
-    "othersAsOf": "end of Day 12 (latest published table)"
+    "medalChecked": "2026-10-02T15:43:43+05:30",
+    "othersAsOf": "Day 13 in progress (Wikipedia table, 15:45 IST)"
   },
   "competitions": [
     {
@@ -2681,6 +2715,48 @@
   ],
   "feed": [
     {
+      "t": "15:35",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Hockey",
+      "text": "Women's hockey final vs China delayed 45 minutes — the Indian team bus was held up by traffic from an unrelated accident. New start: 4:15 pm IST.",
+      "match": "ag-hockey-w-final",
+      "src": [
+        {
+          "t": "NDTV Sports – India vs China final live (delayed 45 min)",
+          "u": "https://sports.ndtv.com/asian-games-2026/india-vs-china-live-score-asian-games-2026-womens-hockey-final-ind-vs-chn-live-match-updates-aichi-nagoya-12129480"
+        }
+      ]
+    },
+    {
+      "t": "15:11",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Wrestling",
+      "text": "GOLD! Sujeet Kalkal comes back from 2–9 down to beat Tajikistan's Abdulmazid Kudiev 10–9 in the men's 65kg freestyle final — India's first wrestling gold of the Games. India now on 75 medals (15 gold).",
+      "match": "ag-wrestling-65-final",
+      "src": [
+        {
+          "t": "Indian Express – Sujeet Kalkal wins first wrestling gold",
+          "u": "https://indianexpress.com/article/sports/sujeet-kalkal-first-wrestling-gold-india-2026-asian-games-10903802/"
+        }
+      ]
+    },
+    {
+      "t": "15:11",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Boxing",
+      "text": "GOLD! Ankush Panghal beats South Korea's Kim Minseong in the men's 80kg final — India's third boxing gold of the day after Lovlina and Parveen.",
+      "match": "ag-10",
+      "src": [
+        {
+          "t": "Indian Express – Day 14 live blog",
+          "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
+        }
+      ]
+    },
+    {
       "t": "14:32",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -2801,55 +2877,15 @@
       "m": "Wrestling",
       "text": "Rajat Ruhal loses 3–8 to Kazakhstan’s Yedige Kassimbek in the men’s freestyle 125kg.",
       "match": "ag-3"
-    },
-    {
-      "t": "07:31",
-      "tag": "OUT",
-      "c": "var(--live-text)",
-      "m": "Wrestling",
-      "text": "Dipanshi Phogat loses 0–11 to Japan’s Yui Susaki in the women’s 50kg.",
-      "match": "ag-2"
-    },
-    {
-      "t": "07:13",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Archery",
-      "text": "GOLD! Ankita Bhakat, Kirti Sharma and Kumkum Mohod beat South Korea 5–3 in the recurve women’s team final — India’s 11th gold of the Games.",
-      "match": "ag-0"
-    },
-    {
-      "t": "07:07",
-      "tag": "LIVE",
-      "c": "var(--accent)",
-      "m": "Archery",
-      "text": "India lead South Korea 4–2 after the third set.",
-      "match": "ag-0"
     }
   ],
   "schedule": [
     {
       "d": "02",
       "mo": "OCT",
-      "title": "Wrestling 65kg final",
-      "meta": "Sujeet Kalkal vs Abdulmazid Kudiev",
-      "time": "14:46",
-      "match": "ag-wrestling-65-final"
-    },
-    {
-      "d": "02",
-      "mo": "OCT",
-      "title": "Boxing 80kg final",
-      "meta": "Ankush Panghal vs Kim Minseong",
-      "time": "14:45",
-      "match": "ag-10"
-    },
-    {
-      "d": "02",
-      "mo": "OCT",
       "title": "Women's hockey final",
-      "meta": "India vs China · Gold",
-      "time": "15:30",
+      "meta": "India vs China · Gold · delayed 45 min",
+      "time": "16:15",
       "match": "ag-hockey-w-final"
     },
     {
@@ -2904,7 +2940,7 @@
       "mo": "OCT",
       "title": "India v Uruguay",
       "meta": "Football friendly · Kolkata",
-      "time": "TBC",
+      "time": "19:30",
       "match": "ind-uru"
     },
     {
