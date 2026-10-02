@@ -227,6 +227,7 @@ footer nav a{color:var(--text-2)}
 /* clickable + detail panel */
 [data-open]{cursor:pointer}
 [data-open]:focus-visible,.linkish:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+#tilt:focus,#tilt:focus-visible{outline:none}#tilt:focus-visible .feat{border-color:var(--accent)}
 .fact[data-open]{border-radius:12px;padding:4px 8px;margin:-4px -8px;transition:background .2s}
 .fact[data-open]:hover{background:var(--surface-2)}
 .feed-row[data-open]{border-radius:14px;transition:background .2s}
@@ -562,8 +563,9 @@ document.addEventListener('pointerdown', () => (lastInputKey = false), true);
 document.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ' || e.key === 'Tab') lastInputKey = true; }, true);
 function closeDlg() { if (dlg.close) dlg.close(); else { dlg.removeAttribute('open'); afterClose(); } }
 function afterClose() {
-  if (openedByKey && lastFocus && lastFocus.isConnected) lastFocus.focus();
-  else setTimeout(() => { if (document.activeElement && document.activeElement !== document.body) document.activeElement.blur(); }, 0);
+  /* keep the focus ring on whatever was clicked (shows what you opened) — except the 3D globe card, where it looks odd */
+  if (lastFocus && lastFocus.isConnected && lastFocus.id !== 'tilt') lastFocus.focus();
+  else setTimeout(() => { const a = document.activeElement; if (a && a.id === 'tilt') a.blur(); }, 0);
 }
 dlg.addEventListener('close', afterClose);
 $('dlgClose').onclick = closeDlg;
