@@ -355,7 +355,13 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .ticker + .ticker{border-top:1px solid var(--line)}
 .wonpill{background:var(--surface-2);color:var(--text);border:1px solid var(--line-strong);gap:6px;text-transform:none;letter-spacing:0;font-size:12px}
 .wonpill .flag,.wonpill .club{border-radius:4px;box-shadow:none}
-@media (max-width:640px){.ticker-tag{width:118px;font-size:11px}.track{padding-left:130px}.tk{font-size:13px;padding:7px 12px}}
+/* ticker labels: rounded badges matching the item boxes, with a fade so items slide under cleanly */
+.ticker::before{content:'';position:absolute;left:0;top:0;bottom:0;width:200px;z-index:1;pointer-events:none;background:linear-gradient(90deg,var(--surface-2) 0,var(--surface-2) 176px,transparent 200px)}
+.ticker-tag{left:16px;top:50% !important;bottom:auto !important;transform:translateY(-50%);height:46px;width:150px;border-radius:12px;font-size:12px;white-space:nowrap;box-shadow:0 6px 14px -8px rgba(15,20,25,.45),inset 0 1px 0 rgba(255,255,255,.18)}
+.ticker-tag .dot{animation:tagPulse 1.4s ease-in-out infinite}
+@keyframes tagPulse{50%{opacity:.35}}
+.track{padding-left:186px !important}
+@media (max-width:640px){.ticker::before{width:140px;background:linear-gradient(90deg,var(--surface-2) 0,var(--surface-2) 122px,transparent 140px)}.ticker-tag{left:10px;width:112px;height:40px;font-size:10px;gap:5px;letter-spacing:.03em;padding:0 8px !important;border-radius:10px}.track{padding-left:126px !important}.tk{font-size:13px;padding:7px 12px}}
 </style>
 </head>
 <body class="cts-light">
@@ -435,7 +441,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div class="track" id="ticker"></div>
 </div>
 <div class="ticker ticker-res" aria-label="Latest results">
-<div class="ticker-tag" style="background:var(--win)"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>RESULTS</div>
+<div class="ticker-tag" style="background:#15803D"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>RESULTS</div>
 <div class="track" id="resTicker"></div>
 </div>
 
