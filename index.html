@@ -189,8 +189,8 @@ footer nav a{color:var(--text-2)}
 @keyframes scan{0%{transform:translateY(-100%)}100%{transform:translateY(400%)}}
 .dot.pulse{animation:pulse 1.6s infinite}
 .rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
-.reveal{opacity:0;transform:translateY(28px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
-.reveal.in{opacity:1;transform:none}
+.js-anim .reveal:not(.in){opacity:0;transform:translateY(28px)}
+.js-anim .reveal{transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
 @media (prefers-reduced-motion:reduce){*{animation:none !important;transition:none !important}.reveal{opacity:1;transform:none}}
 
 @media (max-width:1100px){.grid3,.mgrid{grid-template-columns:repeat(2,minmax(0,1fr))}.vids,.pgrid{grid-template-columns:repeat(2,minmax(0,1fr))}.nav{gap:18px}}
@@ -724,7 +724,12 @@ async function pullData() {
     if (!res.ok) return;
     const fresh = await res.json();
     if (fresh && fresh.lastUpdated && fresh.lastUpdated !== lastStamp) {
-      DATA = Object.assign({}, DATA, fresh); lastStamp = fresh.lastUpdated; renderAll(); flashNew();
+      const ok = Array.isArray(fresh.medalTable) && fresh.medalTable.some((r) => r.code === 'IND') && Array.isArray(fresh.matches) && Array.isArray(fresh.feed) && Array.isArray(fresh.schedule);
+      if (!ok) return;
+      const prev = DATA;
+      DATA = Object.assign({}, DATA, fresh);
+      try { renderAll(); lastStamp = fresh.lastUpdated; flashNew(); }
+      catch (err) { DATA = prev; renderAll(); }
     }
   } catch (e) { /* no data file (e.g. opened from disk) — keep built-in data */ }
 }
@@ -764,7 +769,9 @@ stage.addEventListener('mouseleave', () => (tilt.style.transform = 'rotateX(0deg
 
 /* scroll reveal */
 const io = 'IntersectionObserver' in window ? new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }), { threshold: 0.08 }) : null;
+if (io) document.documentElement.classList.add('js-anim');
 document.querySelectorAll('.reveal').forEach((el) => (io ? io.observe(el) : el.classList.add('in')));
+setTimeout(() => document.querySelectorAll('.reveal').forEach((el) => el.classList.add('in')), 2500);
 </script>
 </body>
 </html>
