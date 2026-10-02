@@ -671,6 +671,9 @@ const IST = { timeZone: 'Asia/Kolkata' };
 const istDay = (d) => new Date(d).toLocaleDateString('en-CA', IST);
 const hhmm = (w) => new Date(w).toLocaleTimeString('en-IN', Object.assign({ hour: 'numeric', minute: '2-digit' }, IST));
 function hashColor(s) { let h = 0; for (const c of String(s)) h = (h * 31 + c.charCodeAt(0)) % 360; return `hsl(${h} 55% 40%)`; }
+/* score text; words like 'Won'/'Lost' are hidden because the winner is already shown */
+function scPair(m, sep) { const x = sc(m.a), y = sc(m.b); return x || y ? x + sep + y : ''; }
+function sc(t) { const v = String((t && t[2]) || '').trim(); return /^(won|win|lost|loss|w|l)$/i.test(v) ? '' : v; }
 function badge(t, size) {
   const code = t[0], name = t[1], color = t[3];
   if (FLAGMAP[code]) return `<span class="flag" role="img" aria-label="${esc(name)}" style="width:${size}px;height:${size}px;background-image:url(flags/${FLAGMAP[code]}.svg)"></span>`;
@@ -741,8 +744,8 @@ function srcHtml(list, fallback) {
 function compOf(m) { return (DATA.competitions || []).find((c) => c.comp && c.comp === m.comp) || (DATA.competitions || []).find((c) => c.name === m.comp); }
 function matchRow(m) {
   const s = state(m);
-  const sc = s === 'upcoming' ? whenText(m.when) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST' : `${m.a[2] || ''} – ${m.b[2] || ''}${s === 'live' ? ' · LIVE' : ''}`;
-  return `<button type="button" class="dlg-item" data-open="match:${esc(m.id)}"><span style="display:flex;gap:4px;flex-shrink:0">${badge(m.a, 28)}${badge(m.b, 28)}</span><span><b>${esc(m.a[1])} v ${esc(m.b[1])}</b><span class="s2">${esc([m.sport, m.comp, m.round].filter(Boolean).join(' · '))}<br>${esc(sc)}</span></span></button>`;
+  const scTxt = s === 'upcoming' ? whenText(m.when) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST' : (scPair(m, ' – ') || (m.win ? winnerName(m.win === 'a' ? m.a : m.b) + ' won' : 'Result')) + (s === 'live' ? ' · LIVE' : '');
+  return `<button type="button" class="dlg-item" data-open="match:${esc(m.id)}"><span style="display:flex;gap:4px;flex-shrink:0">${badge(m.a, 28)}${badge(m.b, 28)}</span><span><b>${esc(m.a[1])} v ${esc(m.b[1])}</b><span class="s2">${esc([m.sport, m.comp, m.round].filter(Boolean).join(' · '))}<br>${esc(scTxt)}</span></span></button>`;
 }
 function medalRow(x) {
   const letter = { gold: 'G', silver: 'S', bronze: 'B' };
@@ -762,7 +765,7 @@ const OPEN = {
       ['Result', s === 'result' ? (m.win ? (m.win === 'a' ? m.a[1] : m.b[1]) + ' won' : 'Draw / shared') : '—']].filter((r) => r[1]);
     const related = DATA.matches.filter((x) => x.id !== m.id && x.comp === m.comp && (x.sport === m.sport)).slice(0, 6);
     openDlg(`${m.sport}${m.india ? ' · India' : ''}`, `${m.a[1]} v ${m.b[1]}`,
-      `<div class="dlg-score"><div class="sd">${badge(m.a, 56)}${esc(m.a[1])}<span class="sc">${esc(s === 'upcoming' ? '' : m.a[2] || '')}</span></div><div style="font-family:'Archivo',sans-serif;font-weight:900;color:var(--muted)">vs</div><div class="sd">${badge(m.b, 56)}${esc(m.b[1])}<span class="sc">${esc(s === 'upcoming' ? '' : m.b[2] || '')}</span></div></div>
+      `<div class="dlg-score"><div class="sd">${badge(m.a, 56)}${esc(m.a[1])}<span class="sc">${esc(s === 'upcoming' ? '' : sc(m.a))}</span></div><div style="font-family:'Archivo',sans-serif;font-weight:900;color:var(--muted)">vs</div><div class="sd">${badge(m.b, 56)}${esc(m.b[1])}<span class="sc">${esc(s === 'upcoming' ? '' : sc(m.b))}</span></div></div>
       ${m.note ? `<p style="margin:0;font-size:16px;line-height:1.55">${esc(m.note)}</p>` : ''}
       <dl class="dl">${rows.map((r) => `<dt>${esc(r[0])}</dt><dd>${esc(r[1])}</dd>`).join('')}</dl>
       ${c ? `<button type="button" class="dlg-item" data-open="comp:${esc(c.id || c.name)}"><span class="medal-ico m-gold" style="flex-shrink:0"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg></span><span><b>${esc(c.name)}</b><span class="s2">${esc(c.status)} — see the whole competition</span></span></button>` : ''}
@@ -946,7 +949,7 @@ function cardHtml(m) {
     : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>'
     : s === 'result' ? (isRecent(m) ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">JUST FINISHED</span>' : '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>')
     : m.gold ? '<span class="pill m-gold">MEDAL MATCH</span>' : m.big ? '<span class="pill m-gold">BIG MATCH</span>' : '<span class="pill" style="background:var(--surface-2);color:var(--text-2)">UPCOMING</span>';
-  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : t[2] || '')}</div></div>`;
+  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : sc(t))}</div></div>`;
   const foot = s === 'live' ? esc(m.status || 'In progress') : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
@@ -1028,8 +1031,8 @@ function pickFeatured() {
   $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.gold && f.win ? (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? 'INDIA WIN GOLD' : 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
   $('featTitle').textContent = [f.sport, f.comp, f.round].filter(Boolean).join(' · ');
   $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
-  $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.a[2] || '');
-  $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.b[2] || '');
+  $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').textContent = s === 'upcoming' || s === 'started' ? '' : sc(f.a);
+  $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').textContent = s === 'upcoming' || s === 'started' ? '' : sc(f.b);
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
 }
 function updAgo() {
@@ -1052,14 +1055,14 @@ function renderAll() {
   $('chip2').textContent = DATA.dayLabel || 'Updated through the day';
   const tick = sortM(DATA.matches.filter((m) => state(m) !== 'result')).map((m) => {
     const s = state(m);
-    return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : `${m.a[2] || ''} – ${m.b[2] || ''}`, x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
+    return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : (scPair(m, ' – ') || 'FT'), x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
   });
   $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 16 ? k.a[1].split(' ').pop() : k.a[1])}</b><span class="vs">${esc(k.t)}</span>${badge(k.b, 20)}<b style="font-weight:600">${esc(k.b[1].length > 16 ? k.b[1].split(' ').pop() : k.b[1])}</b><span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
   /* results line: every finished match, newest first — winner first, India or not */
   const short = (t) => (t[1].length > 16 ? (FLAGMAP[t[0]] ? t[1].split(' ').pop() : t[0]) : t[1]);
   const res = DATA.matches.filter((m) => state(m) === 'result').sort((x, y) => (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x))).map((m) => {
     const w = m.win === 'b' ? m.b : m.a, l = m.win === 'b' ? m.a : m.b, verb = m.win ? 'beat' : 'drew with';
-    const score = m.win ? `${w[2] || ''}${w[2] || l[2] ? '–' : ''}${l[2] || ''}` : `${m.a[2] || ''}–${m.b[2] || ''}`;
+    const score = m.win ? `${sc(w)}${sc(w) || sc(l) ? '–' : ''}${sc(l)}` : scPair(m, '–');
     const indLost = m.win && l[0] === 'IND';
     return `<div class="tk" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small>${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b><span class="mono" style="font-weight:700;color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score.replace(/^–$/, ''))}</span><span class="mono" style="color:var(--muted);font-size:12px">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
   });
