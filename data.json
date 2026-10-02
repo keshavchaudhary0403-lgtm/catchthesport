@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-02T10:09:05+05:30",
+  "lastUpdated": "2026-10-02T10:36:31+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
-  "featured": "ag-7",
+  "featured": "ag-hockey-w-final",
   "matches": [
     {
       "st": "result",
@@ -277,22 +277,21 @@
       ]
     },
     {
-      "st": "upcoming",
+      "st": "result",
       "gold": true,
       "sport": "Boxing",
       "round": "Women's 75kg final · Gold",
       "a": [
         "IND",
         "Lovlina Borgohain",
-        "–"
+        "5"
       ],
       "b": [
         "CHN",
         "Bao Ziyi",
-        "–"
+        "0"
       ],
-      "when": "2026-10-02T10:00:00+05:30",
-      "note": "Olympic bronze medallist Lovlina goes for gold against China’s Bao Ziyi.",
+      "note": "Lovlina beat Bao Ziyi 5–0 on her 29th birthday — only the second Indian woman boxer to win Asian Games gold, after Mary Kom.",
       "venue": "",
       "id": "ag-7",
       "comp": "Asian Games",
@@ -300,14 +299,17 @@
       "big": true,
       "src": [
         {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          "t": "Business Standard – Day 13 live updates",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
         },
         {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+          "t": "LatestLY – Lovlina wins 75kg gold",
+          "u": "https://www.latestly.com/sports/lovlina-borgohain-wins-gold-medal-at-asian-games-2026-in-boxing-womens-75kg-7629538.html"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "2 Oct · Day 13",
+      "recent": true
     },
     {
       "st": "upcoming",
@@ -494,7 +496,7 @@
         "Malaysia",
         "–"
       ],
-      "when": "2026-10-03",
+      "when": "2026-10-03T15:30:00+05:30",
       "note": "Malaysia beat South Korea 2–1 (Azrai Aizad 40′, 43′). Winner qualifies for LA 2028.",
       "venue": "Gifu Prefectural Green Stadium",
       "id": "ag-hockey-m-final",
@@ -509,6 +511,10 @@
         {
           "t": "Deccan Chronicle – India 4-3 Pakistan",
           "u": "https://www.deccanchronicle.com/amp/sports/asian-games-2026-india-beat-pakistan-4-3-to-enter-mens-hockey-final-1992199"
+        },
+        {
+          "t": "ETV Bharat – Super Saturday finals",
+          "u": "https://www.etvbharat.com/en/bharat/big-super-saturday-india-pakistan-cricket-gold-clash-india-malaysia-hockey-final-in-asian-games-2026-enn26100107562"
         }
       ]
     },
@@ -958,6 +964,39 @@
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        },
+        {
+          "t": "ANI – India women to face Russia in Kolkata",
+          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
+        }
+      ],
+      "venue": "Kishore Bharati Krirangan, Kolkata",
+      "note": "India women's first international in Kolkata, and first match since winning the SAFF Women's Championship."
+    },
+    {
+      "id": "ind-rus-w2",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "International friendly",
+      "round": "Women",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "RUS",
+        "Russia",
+        ""
+      ],
+      "when": "2026-10-11",
+      "venue": "Kishore Bharati Krirangan, Kolkata",
+      "note": "Second of two friendlies against Russia.",
+      "src": [
+        {
+          "t": "ANI – India women to face Russia in Kolkata",
+          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
         }
       ]
     },
@@ -1157,7 +1196,7 @@
         "l": "Sports"
       },
       {
-        "v": "11 · 24 · 33",
+        "v": "12 · 24 · 34",
         "l": "India G · S · B"
       }
     ],
@@ -1192,6 +1231,13 @@
         "b": 19
       },
       {
+        "code": "IND",
+        "name": "India",
+        "g": 12,
+        "s": 24,
+        "b": 34
+      },
+      {
         "code": "IRI",
         "name": "Iran",
         "g": 12,
@@ -1213,13 +1259,6 @@
         "b": 5
       },
       {
-        "code": "IND",
-        "name": "India",
-        "g": 11,
-        "s": 24,
-        "b": 33
-      },
-      {
         "code": "KAZ",
         "name": "Kazakhstan",
         "g": 9,
@@ -1228,6 +1267,23 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Boxing",
+        "event": "Women's 75kg",
+        "who": "Lovlina Borgohain — beat China’s Bao Ziyi 5–0 in the final.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "Business Standard – Day 13 live updates",
+            "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
+          },
+          {
+            "t": "LatestLY – Lovlina wins 75kg gold",
+            "u": "https://www.latestly.com/sports/lovlina-borgohain-wins-gold-medal-at-asian-games-2026-in-boxing-womens-75kg-7629538.html"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Archery",
@@ -1254,6 +1310,19 @@
           {
             "t": "Outlook India – India medal list",
             "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Sailing",
+        "event": "Women's dinghy",
+        "who": "Nethra Kumanan — took bronze on a head-to-head tie-break with Hong Kong’s Stephanie Norton.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "Business Standard – Day 13 live updates",
+            "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
           }
         ]
       },
@@ -2259,6 +2328,10 @@
     ],
     "medalSrc": [
       {
+        "t": "Business Standard – Day 13 live (India 70 medals)",
+        "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
+      },
+      {
         "t": "Khel Now – medal tally after Day 12",
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       },
@@ -2271,7 +2344,7 @@
         "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
     ],
-    "medalChecked": "2026-10-02T10:09:05+05:30",
+    "medalChecked": "2026-10-02T10:36:31+05:30",
     "othersAsOf": "end of Day 12 (latest published table)"
   },
   "competitions": [
@@ -2424,6 +2497,37 @@
   ],
   "feed": [
     {
+      "t": "10:22",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Boxing",
+      "text": "GOLD! Lovlina Borgohain beats China’s Bao Ziyi 5–0 in the women’s 75kg final on her 29th birthday — India’s 12th gold of the Games.",
+      "match": "ag-7",
+      "src": [
+        {
+          "t": "Business Standard – Day 13 live updates",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
+        },
+        {
+          "t": "LatestLY – Lovlina wins 75kg gold",
+          "u": "https://www.latestly.com/sports/lovlina-borgohain-wins-gold-medal-at-asian-games-2026-in-boxing-womens-75kg-7629538.html"
+        }
+      ]
+    },
+    {
+      "t": "10:19",
+      "tag": "BRONZE",
+      "c": "var(--bronze)",
+      "m": "Sailing",
+      "text": "BRONZE for Nethra Kumanan in the women’s dinghy — level on points with Hong Kong’s Stephanie Norton, she takes third on the head-to-head tie-break.",
+      "src": [
+        {
+          "t": "Business Standard – Day 13 live updates",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
+        }
+      ]
+    },
+    {
       "t": "09:36",
       "tag": "SILVER",
       "c": "var(--silver)",
@@ -2506,14 +2610,6 @@
     {
       "d": "02",
       "mo": "OCT",
-      "title": "Boxing 75kg final",
-      "meta": "Lovlina Borgohain vs Bao Ziyi",
-      "time": "10:00",
-      "match": "ag-7"
-    },
-    {
-      "d": "02",
-      "mo": "OCT",
       "title": "Recurve men’s team semi",
       "meta": "India vs Iran",
       "time": "10:55",
@@ -2564,7 +2660,7 @@
       "mo": "OCT",
       "title": "Men's hockey final",
       "meta": "India vs Malaysia · Gifu",
-      "time": "TBC",
+      "time": "15:30",
       "match": "ag-hockey-m-final"
     },
     {
@@ -2602,7 +2698,7 @@
       "d": "08",
       "mo": "OCT",
       "title": "India women v Russia",
-      "meta": "Football friendly",
+      "meta": "Football friendly · Kolkata",
       "time": "TBC",
       "match": "ind-rus-w1"
     },
@@ -2613,6 +2709,14 @@
       "meta": "Bengaluru v Delhi, Goa v Chennaiyin",
       "time": "TBC",
       "match": "isl-bfc-del"
+    },
+    {
+      "d": "11",
+      "mo": "OCT",
+      "title": "India women v Russia",
+      "meta": "Football friendly · Kolkata",
+      "time": "TBC",
+      "match": "ind-rus-w2"
     }
   ],
   "players": [
