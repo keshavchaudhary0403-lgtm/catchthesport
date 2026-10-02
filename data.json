@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T10:36:31+05:30",
+  "lastUpdated": "2026-10-02T12:21:20+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -320,27 +320,30 @@
       "resultAt": "2026-10-02T10:36:00+05:30"
     },
     {
-      "st": "upcoming",
+      "st": "result",
       "gold": false,
       "sport": "Archery",
       "round": "Recurve men's team semi-final",
       "a": [
         "IND",
         "India",
-        "–"
+        "6"
       ],
       "b": [
         "IRI",
         "Iran",
-        "–"
+        "0"
       ],
-      "when": "2026-10-02T10:55:00+05:30",
-      "note": "Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge. A win puts India in the gold medal match at about 11:50 am.",
+      "note": "Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge won 58–53, 56–53, 56–55 to reach the gold medal match against South Korea.",
       "venue": "",
       "id": "ag-8",
       "comp": "Asian Games",
       "india": true,
       "src": [
+        {
+          "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
+          "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
+        },
         {
           "t": "India.com – Day 13 live",
           "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
@@ -356,6 +359,52 @@
         {
           "t": "Khel Now – India's 2 Oct schedule",
           "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ],
+      "win": "a",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "resultAt": "2026-10-02T11:47:00+05:30",
+      "when": "2026-10-02T10:55:00+05:30"
+    },
+    {
+      "id": "ag-archery-m-final",
+      "st": "result",
+      "gold": true,
+      "big": true,
+      "india": true,
+      "sport": "Archery",
+      "comp": "Asian Games",
+      "round": "Recurve men's team final · Gold",
+      "a": [
+        "IND",
+        "India",
+        "1"
+      ],
+      "b": [
+        "KOR",
+        "South Korea",
+        "5"
+      ],
+      "win": "b",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "when": "2026-10-02T11:50:00+05:30",
+      "resultAt": "2026-10-02T12:10:00+05:30",
+      "note": "Silver for Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge. Kim Woo-jin, Lee Woo-seok & Kim Je-deok won 5–1 (sets 56–56, 57–50, 56–54) for Korea's second straight title.",
+      "venue": "Okazaki Central Comprehensive Park",
+      "src": [
+        {
+          "t": "Sports Kyunghyang – Korea win men's recurve team gold",
+          "u": "https://sports.khan.co.kr/article/202610021536003/"
+        },
+        {
+          "t": "Hankooki – Korea beat India for men's team gold",
+          "u": "https://www.hankooki.com/news/articleView.html?idxno=344998"
+        },
+        {
+          "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
+          "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
         }
       ]
     },
@@ -418,6 +467,68 @@
         {
           "t": "Outlook India – Day 13 live updates",
           "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
+    },
+    {
+      "id": "ag-wrestling-65-final",
+      "st": "upcoming",
+      "gold": true,
+      "big": true,
+      "india": true,
+      "sport": "Wrestling",
+      "comp": "Asian Games",
+      "round": "Men's freestyle 65kg final · Gold",
+      "a": [
+        "IND",
+        "Sujeet Kalkal",
+        "–"
+      ],
+      "b": [
+        "TJK",
+        "Abdulmazid Kudiev",
+        "–"
+      ],
+      "when": "2026-10-02T14:30:00+05:30",
+      "note": "Sujeet beat Japan's Olympic champion Kotaro Kiyooka 3–3 on criteria in the semi-final. India assured of at least silver. Time as listed by Khel Now.",
+      "src": [
+        {
+          "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
+          "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
+        },
+        {
+          "t": "Khel Now – India's 2 Oct schedule",
+          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        }
+      ]
+    },
+    {
+      "id": "ag-wrestling-w50-bronze",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Wrestling",
+      "comp": "Asian Games",
+      "round": "Women's freestyle 50kg bronze match",
+      "a": [
+        "IND",
+        "Dipanshi Phogat",
+        "–"
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        "–"
+      ],
+      "when": "2026-10-02T15:51:00+05:30",
+      "note": "Dipanshi plays for bronze after her pre-quarter-final loss to Japan's Yui Susaki. Time as listed by Khel Now.",
+      "src": [
+        {
+          "t": "Ommcom News – Sujeet in final; Dipanshi for bronze",
+          "u": "https://ommcomnews.com/sports-news/asian-games-sujeet-enters-65kg-freestyle-wrestling-final-dipanshi-to-play-for-womens-50kg-bronze/"
         },
         {
           "t": "Khel Now – India's 2 Oct schedule",
@@ -773,40 +884,6 @@
         {
           "t": "ESPNcricinfo – 2nd ODI",
           "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-2nd-odi-1529228/live-cricket-score"
-        },
-        {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        }
-      ]
-    },
-    {
-      "id": "ind-wi-odi1",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "1st ODI",
-      "a": [
-        "IND",
-        "India",
-        "Won"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "",
-        "#7B1E3A"
-      ],
-      "win": "a",
-      "day": "27 Sep",
-      "when": "2026-09-27T14:00:00+05:30",
-      "note": "India won by 8 wickets with 50 balls to spare. Centuries for Gill and Virat Kohli; Kuldeep Yadav led the bowling.",
-      "venue": "Thiruvananthapuram",
-      "src": [
-        {
-          "t": "ESPNcricinfo – 1st ODI",
-          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-odi-1529227/live-cricket-score"
         },
         {
           "t": "Wikipedia – West Indies in India 2026-27",
@@ -1204,11 +1281,11 @@
         "l": "Sports"
       },
       {
-        "v": "12 · 24 · 34",
+        "v": "12 · 25 · 34",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India live · other nations: end of Day 12",
+    "medalAsOf": "India live (71 medals) · other nations: end of Day 12",
     "medalTable": [
       {
         "code": "CHN",
@@ -1242,7 +1319,7 @@
         "code": "IND",
         "name": "India",
         "g": 12,
-        "s": 24,
+        "s": 25,
         "b": 34
       },
       {
@@ -1275,6 +1352,23 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "silver",
+        "sport": "Archery",
+        "event": "Recurve men's team",
+        "who": "Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge — beat Iran 6–0 in the semi, lost the final 1–5 to South Korea.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "Sports Kyunghyang – Korea win men's recurve team gold",
+            "u": "https://sports.khan.co.kr/article/202610021536003/"
+          },
+          {
+            "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
+            "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Boxing",
@@ -2336,6 +2430,10 @@
     ],
     "medalSrc": [
       {
+        "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
+        "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
+      },
+      {
         "t": "Business Standard – Day 13 live (India 70 medals)",
         "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
       },
@@ -2352,7 +2450,7 @@
         "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
     ],
-    "medalChecked": "2026-10-02T10:36:31+05:30",
+    "medalChecked": "2026-10-02T12:21:20+05:30",
     "othersAsOf": "end of Day 12 (latest published table)"
   },
   "competitions": [
@@ -2362,7 +2460,7 @@
       "status": "Live · ends 4 Oct",
       "live": true,
       "india": true,
-      "note": "India 11 gold, 24 silver, 33 bronze. Finals in boxing, hockey, cricket and archery this weekend.",
+      "note": "India 12 gold, 25 silver, 34 bronze (71). Finals in boxing, hockey, cricket and wrestling still to come.",
       "id": "asian-games",
       "src": [
         {
@@ -2505,6 +2603,30 @@
   ],
   "feed": [
     {
+      "t": "12:10",
+      "tag": "SILVER",
+      "c": "var(--silver)",
+      "m": "Archery",
+      "text": "SILVER for Dhiraj Bommadevara, Neeraj Chauhan and Yashdeep Bhoge — South Korea win the recurve men's team final 5–1 (56–56, 57–50, 56–54).",
+      "match": "ag-archery-m-final"
+    },
+    {
+      "t": "11:47",
+      "tag": "FINAL",
+      "c": "var(--accent)",
+      "m": "Wrestling",
+      "text": "Sujeet Kalkal beats Japan's Olympic champion Kotaro Kiyooka on criteria (3–3) to reach the 65kg freestyle final against Tajikistan's Abdulmazid Kudiev — silver assured.",
+      "match": "ag-wrestling-65-final"
+    },
+    {
+      "t": "11:47",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Archery",
+      "text": "India beat Iran 6–0 in the recurve men's team semi-final and reach the gold medal match against South Korea.",
+      "match": "ag-8"
+    },
+    {
       "t": "10:22",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -2618,18 +2740,18 @@
     {
       "d": "02",
       "mo": "OCT",
-      "title": "Recurve men’s team semi",
-      "meta": "India vs Iran",
-      "time": "10:55",
-      "match": "ag-8"
-    },
-    {
-      "d": "02",
-      "mo": "OCT",
       "title": "Boxing 65kg final",
       "meta": "Parveen Hooda vs Chen Nien-chin",
       "time": "14:15",
       "match": "ag-9"
+    },
+    {
+      "d": "02",
+      "mo": "OCT",
+      "title": "Wrestling 65kg final",
+      "meta": "Sujeet Kalkal vs Abdulmazid Kudiev",
+      "time": "14:30",
+      "match": "ag-wrestling-65-final"
     },
     {
       "d": "02",
