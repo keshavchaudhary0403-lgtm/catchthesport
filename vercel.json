@@ -2,9 +2,12 @@
   "cleanUrls": true,
   "headers": [
     {
-      "source": "/asian-games-data.json",
+      "source": "/data.json",
       "headers": [
-        { "key": "Cache-Control", "value": "no-store, max-age=0" }
+        {
+          "key": "Cache-Control",
+          "value": "no-store, max-age=0"
+        }
       ]
     }
   ]
