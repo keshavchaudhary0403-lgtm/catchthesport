@@ -368,6 +368,20 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 @keyframes mBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
 @keyframes mChip{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
 @media (prefers-reduced-motion:reduce){.feat,.tilt::after,#featA,#featB,#featPill,.chip2{animation:none !important}}
+/* medal table: balanced column widths */
+.mt .rk-s{display:none}
+.mt{table-layout:fixed}
+.mt .c-rank{width:7%}.mt .c-nat{width:25%}.mt .c-num{width:11%}.mt .c-share{width:24%}
+.mt th:nth-child(n+3):not(:last-child),.mt td:nth-child(n+3):not(:last-child){text-align:center}
+.mt th:nth-child(1),.mt td:nth-child(1){text-align:center}
+.mt .nat{min-width:0}
+@media (max-width:640px){
+ .mt .c-rank{width:10%}.mt .c-nat{width:34%}.mt .c-num{width:14%}.mt .c-share{width:0}
+ .mt th{font-size:10px;letter-spacing:0;padding-left:2px;padding-right:2px}
+ .mt td{padding-left:2px;padding-right:2px}
+ .mt .nat{gap:8px}
+ .mt .rk-l{display:none}.mt .rk-s{display:inline}
+}
 /* headline: 3 lines on desktop, 2 lines on mobile ("Every sport. Every" / "Indian moment. Live.") */
 .br-m{display:none}
 @media (max-width:640px){
@@ -515,7 +529,8 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 </div>
 <div class="card" style="overflow-x:auto">
 <table class="mt" aria-label="Medal table">
-<thead><tr><th scope="col">Rank</th><th scope="col">Nation</th><th scope="col">Gold</th><th scope="col">Silver</th><th scope="col">Bronze</th><th scope="col">Total</th><th scope="col" class="hide-sm" style="text-align:left">Share</th></tr></thead>
+<colgroup><col class="c-rank"><col class="c-nat"><col class="c-num"><col class="c-num"><col class="c-num"><col class="c-num"><col class="c-share hide-sm"></colgroup>
+<thead><tr><th scope="col" aria-label="Rank"><span class="rk-l">Rank</span><span class="rk-s" aria-hidden="true">#</span></th><th scope="col">Nation</th><th scope="col">Gold</th><th scope="col">Silver</th><th scope="col">Bronze</th><th scope="col">Total</th><th scope="col" class="hide-sm" style="text-align:left">Share</th></tr></thead>
 <tbody id="medalBody"></tbody>
 </table>
 </div>
