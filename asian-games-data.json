@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-02T07:45:00+05:30",
+  "lastUpdated": "2026-10-02T08:50:00+05:30",
   "day": 13,
   "dayLabel": "Day 13 · in progress",
-  "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 7:45 am IST",
+  "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 8:50 am IST",
   "medalTable": [
     {
       "code": "CHN",
@@ -229,6 +229,25 @@
       ],
       "win": "b",
       "note": "Out in the pre-quarter-final against Japan’s Olympic champion.",
+      "venue": ""
+    },
+    {
+      "st": "result",
+      "day": "2 Oct · Day 13",
+      "sport": "Wrestling",
+      "round": "Men's freestyle 125kg",
+      "a": [
+        "IND",
+        "Rajat Ruhal",
+        "3"
+      ],
+      "b": [
+        "KAZ",
+        "Yedige Kassimbek",
+        "8"
+      ],
+      "win": "b",
+      "note": "Out in the pre-quarter-final.",
       "venue": ""
     },
     {
@@ -504,6 +523,13 @@
       "tag": "OUT",
       "c": "var(--live-text)",
       "m": "Wrestling",
+      "text": "Rajat Ruhal loses 3–8 to Kazakhstan’s Yedige Kassimbek in the men’s freestyle 125kg."
+    },
+    {
+      "t": "07:31",
+      "tag": "OUT",
+      "c": "var(--live-text)",
+      "m": "Wrestling",
       "text": "Dipanshi Phogat loses 0–11 to Japan’s Yui Susaki in the women’s 50kg."
     },
     {
@@ -526,6 +552,13 @@
       "c": "var(--accent)",
       "m": "Archery",
       "text": "First set tied 54–54. 1–1 in the gold medal match."
+    },
+    {
+      "t": "06:35",
+      "tag": "OUT",
+      "c": "var(--live-text)",
+      "m": "Sepak takraw",
+      "text": "Women’s team lose 0–2 to Thailand (10–15, 4–15) and go out after the group stage."
     },
     {
       "t": "06:11",
