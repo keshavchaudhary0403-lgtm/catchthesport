@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T14:04:18+05:30",
+  "lastUpdated": "2026-10-02T14:34:06+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -445,22 +445,22 @@
       "resultAt": "2026-10-02T14:04:18+05:30"
     },
     {
-      "st": "upcoming",
+      "st": "result",
       "gold": true,
       "sport": "Boxing",
       "round": "Women's 65kg final · Gold",
       "a": [
         "IND",
         "Parveen Hooda",
-        "–"
+        "3"
       ],
       "b": [
         "TPE",
         "Chen Nien-chin",
-        "–"
+        "2"
       ],
       "when": "2026-10-02T14:15:00+05:30",
-      "note": "Parveen Hooda faces Chinese Taipei’s Chen Nien-chin for gold.",
+      "note": "Parveen won on a 3–2 split decision: took round 1 on all five cards, Chen levelled in round 2, three judges gave Parveen the decisive third round.",
       "venue": "",
       "id": "ag-9",
       "comp": "Asian Games",
@@ -468,14 +468,18 @@
       "big": true,
       "src": [
         {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          "t": "ETtoday – Chen Nien-chin loses 2–3, takes silver",
+          "u": "https://sports.ettoday.net/news/3247913"
         },
         {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+          "t": "Outlook India – Day 13 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "resultAt": "2026-10-02T14:34:06+05:30"
     },
     {
       "st": "upcoming",
@@ -1325,11 +1329,11 @@
         "l": "Sports"
       },
       {
-        "v": "12 · 25 · 35",
+        "v": "13 · 25 · 35",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India live (72 medals) · other nations: end of Day 12",
+    "medalAsOf": "India live (73 medals) · other nations: end of Day 12",
     "medalTable": [
       {
         "code": "CHN",
@@ -1362,7 +1366,7 @@
       {
         "code": "IND",
         "name": "India",
-        "g": 12,
+        "g": 13,
         "s": 25,
         "b": 35
       },
@@ -1396,6 +1400,19 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Boxing",
+        "event": "Women's 65kg",
+        "who": "Parveen Hooda — beat Chinese Taipei’s Chen Nien-chin 3–2 (split decision) in the final.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "ETtoday – Chen Nien-chin loses 2–3, takes silver",
+            "u": "https://sports.ettoday.net/news/3247913"
+          }
+        ]
+      },
       {
         "medal": "bronze",
         "sport": "Sepak takraw",
@@ -2511,7 +2528,7 @@
         "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
     ],
-    "medalChecked": "2026-10-02T14:04:18+05:30",
+    "medalChecked": "2026-10-02T14:34:06+05:30",
     "othersAsOf": "end of Day 12 (latest published table)"
   },
   "competitions": [
@@ -2664,6 +2681,20 @@
   ],
   "feed": [
     {
+      "t": "14:32",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Boxing",
+      "text": "GOLD! Parveen Hooda beats Chinese Taipei’s Chen Nien-chin 3–2 on a split decision in the women’s 65kg final — India’s 73rd medal and second boxing gold of the day.",
+      "match": "ag-9",
+      "src": [
+        {
+          "t": "ETtoday – Chen Nien-chin loses 2–3, takes silver",
+          "u": "https://sports.ettoday.net/news/3247913"
+        }
+      ]
+    },
+    {
       "t": "12:56",
       "tag": "BRONZE",
       "c": "var(--bronze)",
@@ -2794,24 +2825,9 @@
       "m": "Archery",
       "text": "India lead South Korea 4–2 after the third set.",
       "match": "ag-0"
-    },
-    {
-      "t": "07:01",
-      "tag": "LIVE",
-      "c": "var(--accent)",
-      "m": "Archery",
-      "text": "First set tied 54–54. 1–1 in the gold medal match."
     }
   ],
   "schedule": [
-    {
-      "d": "02",
-      "mo": "OCT",
-      "title": "Boxing 65kg final",
-      "meta": "Parveen Hooda vs Chen Nien-chin",
-      "time": "14:15",
-      "match": "ag-9"
-    },
     {
       "d": "02",
       "mo": "OCT",
