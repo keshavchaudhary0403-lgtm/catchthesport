@@ -329,6 +329,24 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  #featA .flag,#featB .flag,#featA .club,#featB .club{width:56px !important;height:56px !important}
  .facts{order:5;margin-top:0}
 }
+
+.ticker-res{border-top:0}
+.ticker-res .track{animation-direction:normal}
+/* phones/tablets: flatten 3D + no backdrop blur (prevents disappearing content on Android Chrome) */
+@media (max-width:900px), (hover:none){
+ header.top{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--bg)}
+ .feat{backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--surface);transform-style:flat}
+ .tilt{transform-style:flat;transform:none !important;transition:none}
+ .feat > div{transform:none !important}
+ .scan{display:none}
+ .chip1,.chip2{animation:none}
+ .grid-floor{mask-image:none;-webkit-mask-image:none;opacity:.35;height:520px}
+ .stage{perspective:none}
+ .globe-wrap{transform:translateZ(0);will-change:transform}
+ .js-anim .reveal:not(.in){opacity:1;transform:none}
+ .js-anim .reveal{transition:none}
+ dialog.dlg::backdrop{backdrop-filter:none}
+}
 </style>
 </head>
 <body class="cts-light">
@@ -403,9 +421,13 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 </section>
 </div>
 
-<div class="ticker" aria-label="Latest scores">
-<div class="ticker-tag"><span class="dot" style="background:#fff"></span>SCORES</div>
+<div class="ticker" aria-label="Live and upcoming">
+<div class="ticker-tag"><span class="dot" style="background:#fff"></span>LIVE &amp; NEXT</div>
 <div class="track" id="ticker"></div>
+</div>
+<div class="ticker ticker-res" aria-label="Latest results">
+<div class="ticker-tag" style="background:var(--win)"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>RESULTS</div>
+<div class="track" id="resTicker"></div>
 </div>
 
 <!-- MATCH CENTRE -->
@@ -902,10 +924,12 @@ function pickFeatured() {
   const ms = DATA.matches;
   let f = DATA.featured ? ms.find((m) => m.id === DATA.featured && state(m) !== 'result') : null;
   const by = (fn) => ms.filter(fn).sort((x, y) => whenMs(x) - whenMs(y))[0];
+  const on = (m) => state(m) === 'live' || state(m) === 'started';
   const justDone = ms.filter((m) => m.india && (m.big || m.gold) && m.st === 'result' && m.resultAt && minsAgo(resMs(m)) < HERO_MIN).sort((x, y) => resMs(y) - resMs(x))[0];
-  const liveBig = by((m) => m.india && state(m) === 'live' && (m.big || m.gold));
-  f = f && !justDone ? f : null;
-  f = f || liveBig || justDone || by((m) => m.india && state(m) === 'started' && (m.big || m.gold))
+  /* priority: India live (big first) > any big live > India result in last 90 min > next India big match … */
+  const liveNow = by((m) => m.india && state(m) === 'live' && (m.big || m.gold)) || by((m) => m.india && on(m) && (m.big || m.gold)) || by((m) => m.india && on(m)) || by((m) => on(m) && (m.big || m.gold));
+  if (f && !on(f) && (liveNow || justDone)) f = null;
+  f = f || liveNow || justDone
         || by((m) => m.india && state(m) === 'upcoming' && (m.big || m.gold))
         || by((m) => state(m) === 'live')
         || by((m) => state(m) === 'upcoming' && m.india)
@@ -940,12 +964,21 @@ function renderAll() {
   $('facts').innerHTML = facts.map((f) => `<div class="fact" ${clickable(f.k || 'list:all', f.l)}><b>${esc(f.v)}</b><span>${esc(f.l)}</span></div>`).join('');
   $('chip1').textContent = live ? live + ' LIVE NOW' : indUp + ' INDIA MATCHES AHEAD';
   $('chip2').textContent = DATA.dayLabel || 'Updated through the day';
-  const tick = sortM(DATA.matches).map((m) => {
+  const tick = sortM(DATA.matches.filter((m) => state(m) !== 'result')).map((m) => {
     const s = state(m);
     return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : `${m.a[2] || ''} – ${m.b[2] || ''}`, x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
   });
   $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 14 ? k.a[0] : k.a[1])} ${esc(k.t)} ${esc(k.b[1].length > 14 ? k.b[0] : k.b[1])}</b>${badge(k.b, 20)}<span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
-  requestAnimationFrame(() => { const tr = $('ticker'); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; });
+  /* results line: every finished match, newest first — winner first, India or not */
+  const short = (t) => (t[1].length > 16 ? (FLAGMAP[t[0]] ? t[1].split(' ').pop() : t[0]) : t[1]);
+  const res = DATA.matches.filter((m) => state(m) === 'result').sort((x, y) => (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x))).map((m) => {
+    const w = m.win === 'b' ? m.b : m.a, l = m.win === 'b' ? m.a : m.b, verb = m.win ? 'beat' : 'drew with';
+    const score = m.win ? `${w[2] || ''}${w[2] || l[2] ? '–' : ''}${l[2] || ''}` : `${m.a[2] || ''}–${m.b[2] || ''}`;
+    const indLost = m.win && l[0] === 'IND';
+    return `<div class="tk" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small>${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b><span style="color:var(--muted)">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b><span class="mono" style="font-weight:700;color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score.replace(/^–$/, ''))}</span><span class="mono" style="color:var(--muted);font-size:12px">${esc([m.comp, m.round].filter(Boolean).join(' · '))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
+  });
+  $('resTicker').innerHTML = res.concat(res).join('');
+  requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
   $('compGrid').innerHTML = (DATA.competitions || []).map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
   $('feed').innerHTML = DATA.feed.map((f, i) => `<div class="feed-row" ${clickable('feed:' + i, f.tag + ' ' + f.m)}><div class="t">${esc(f.t)}</div><div class="rail"><i style="background:${f.c}"></i><em></em></div><div class="b"><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag" style="color:${f.c}">${esc(f.tag)}</span><span class="note">${esc(f.m)}</span></div><p>${esc(f.text)}</p></div></div>`).join('');
   $('schedList').innerHTML = DATA.schedule.map((s, i) => `<div class="srow" ${clickable('sched:' + i, s.title)}><div class="d"><b>${esc(s.d)}</b><span>${esc(s.mo)}</span></div><div style="flex-grow:1;min-width:0"><div style="font-weight:700;font-size:15px">${esc(s.title)}</div><div style="font-size:13px;opacity:.82;margin-top:2px">${esc(s.meta)}</div></div><div class="mono" style="font-weight:700;font-size:13px">${esc(s.time)}</div></div>`).join('');

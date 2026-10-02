@@ -19,6 +19,8 @@ Coverage priority (highest first):
 3. **Indian clubs abroad** — AFC Champions League 2 / Challenge League ties of ISL clubs.
 4. **Global events Indian fans follow** — ICC tournaments, big Test/ODI/T20I series, Premier League (top-6 games), Champions League knockouts, La Liga Clásico, F1, tennis Grand Slams (and Indian players anywhere), BWF Super 750/1000, Olympics / Asian Games / Commonwealth Games, FIFA World Cup.
 
+**Report results neutrally.** The site is built for Indian fans but must not hide who won. Record every finished match with both scores and the correct `win` side, including India losses and matches between other countries (finals, medal matches, big league games). Feed items should state India's defeats as plainly as its wins ("India lose 3–5 to China in the final"). The page shows all results in a "RESULTS" running line, winner first.
+
 Mark anything involving an Indian team or athlete with `"india": true`. Mark headline fixtures with `"big": true`; medal/final matches with `"gold": true`.
 
 ## Rolling window
