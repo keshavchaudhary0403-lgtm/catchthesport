@@ -226,7 +226,8 @@ footer nav a{color:var(--text-2)}
 
 /* clickable + detail panel */
 [data-open]{cursor:pointer}
-[data-open]:focus-visible,.linkish:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+[data-open]:focus-visible,.linkish:focus-visible{outline:1px solid var(--accent);outline-offset:-1px}
+.card[data-open]:focus-visible,.fact[data-open]:focus-visible,.ag-stat[data-open]:focus-visible{outline:none;border-color:var(--accent)}
 #tilt:focus,#tilt:focus-visible{outline:none}#tilt:focus-visible .feat{border-color:var(--accent)}
 .fact[data-open]{border-radius:12px;padding:4px 8px;margin:-4px -8px;transition:background .2s}
 .fact[data-open]:hover{background:var(--surface-2)}
