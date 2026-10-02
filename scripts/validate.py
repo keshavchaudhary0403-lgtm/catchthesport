@@ -26,6 +26,10 @@ ISO = re.compile(r"^\d{4}-\d{2}-\d{2}(T\d{2}:\d{2}(:\d{2})?\+05:30)?$")
 need(d, "lastUpdated", str, "root")
 try:
     datetime.fromisoformat(d.get("lastUpdated", ""))
+    from datetime import timezone, timedelta
+    lu = datetime.fromisoformat(d.get("lastUpdated", ""))
+    if lu > datetime.now(timezone.utc) + timedelta(minutes=2):
+        errors.append("root: lastUpdated is in the future — use the real current IST time: TZ=Asia/Kolkata date +%Y-%m-%dT%H:%M:%S+05:30")
 except ValueError:
     errors.append("root: lastUpdated must look like 2026-10-02T15:45:00+05:30")
 for k in ("matches", "feed", "schedule"):

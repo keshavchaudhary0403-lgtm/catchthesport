@@ -30,7 +30,7 @@ Mark anything involving an Indian team or athlete with `"india": true`. Mark hea
 
 ```jsonc
 {
-  "lastUpdated": "2026-10-02T15:45:00+05:30",   // MUST change on every edit (IST, ISO format)
+  "lastUpdated": "2026-10-02T15:45:00+05:30",   // MUST change on every edit: the REAL current IST time from `TZ=Asia/Kolkata date +%Y-%m-%dT%H:%M:%S+05:30` (never estimate or round up)
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",  // short line shown on the hero card
   "featured": "ag-cricket-final",                // optional: id of the match for the 3D hero card
   "heroFacts": [],                               // optional: [{ "v": "67", "l": "India's Asian Games medals" }] — leave [] for automatic counts
@@ -108,5 +108,5 @@ After the closing ceremony: set `statusText` to "Concluded — final standings",
 - If the built-in browser on Keshav's computer is available, **search Google** there (read the AI Overview and Top stories, then confirm in an article). Cloud runs cannot fetch Google — don't retry it.
 - Good sources: ESPNcricinfo, Cricbuzz, BCCI, Olympics.com, Khel Now, The Bridge, Sportstar, Indian Express, Hindustan Times, Times of India, NDTV Sports, ANI, PTI, Outlook, Business Standard, AIFF, Hockey India, ISL, PKL, BWF, ATP/WTA, Premier League, UEFA, F1, Wikipedia, plus foreign outlets (Yonhap, Chosun, Xinhua, NHK, Kyodo, Dawn, Malay Mail …).
 - **Never invent** scores, names, times or venues. Use `TBC` / leave blank when unknown. When sources disagree, use the most recent timestamped report.
-- Times are always **IST**.
+- Times are always **IST**. Get the current time from the shell (`TZ=Asia/Kolkata date`) — never guess it. Feed `t` values are the time the event happened, not the time you are writing.
 - Keep notes short, neutral and factual. No betting odds.
