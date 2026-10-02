@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T18:20:18+05:30",
+  "lastUpdated": "2026-10-02T19:36:11+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-cricket-final",
   "matches": [
@@ -596,15 +596,15 @@
       "a": [
         "IND",
         "India",
-        "Won"
+        "1"
       ],
       "b": [
         "CHN",
         "China",
-        ""
+        "0"
       ],
       "when": "2026-10-02T16:30:00+05:30",
-      "note": "India win gold — their first Asian Games women's hockey title since 1982 — beating defending champions China (India led 1–0 through Lalremsiami in the third quarter; final score TBC). Winner gets a direct LA 2028 quota.",
+      "note": "India beat defending champions China 1–0 — Lalremsiami's first-quarter goal — for their first Asian Games women's hockey title since 1982 and a direct LA 2028 quota.",
       "venue": "Aichi-Nagoya",
       "id": "ag-hockey-w-final",
       "comp": "Asian Games",
@@ -1393,34 +1393,34 @@
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India live (76 medals) · other nations: Day 13 in progress (Wikipedia, 15:45 IST)",
+    "medalAsOf": "India 76 medals (16 G · 25 S · 35 B, 5th) · other nations: Wikipedia table, 19:36 IST",
     "medalTable": [
       {
         "code": "CHN",
         "name": "China",
-        "g": 161,
-        "s": 79,
-        "b": 71
+        "g": 162,
+        "s": 81,
+        "b": 73
       },
       {
         "code": "JPN",
         "name": "Japan (host)",
-        "g": 69,
-        "s": 82,
+        "g": 72,
+        "s": 83,
         "b": 85
       },
       {
         "code": "KOR",
         "name": "South Korea",
         "g": 33,
-        "s": 38,
-        "b": 59
+        "s": 39,
+        "b": 62
       },
       {
         "code": "UZB",
         "name": "Uzbekistan",
-        "g": 19,
-        "s": 22,
+        "g": 20,
+        "s": 23,
         "b": 22
       },
       {
@@ -1431,6 +1431,13 @@
         "b": 35
       },
       {
+        "code": "IRI",
+        "name": "Iran",
+        "g": 15,
+        "s": 17,
+        "b": 13
+      },
+      {
         "code": "THA",
         "name": "Thailand",
         "g": 15,
@@ -1438,25 +1445,18 @@
         "b": 17
       },
       {
-        "code": "IRI",
-        "name": "Iran",
-        "g": 12,
-        "s": 17,
-        "b": 13
-      },
-      {
         "code": "KAZ",
         "name": "Kazakhstan",
-        "g": 11,
-        "s": 20,
-        "b": 41
+        "g": 12,
+        "s": 21,
+        "b": 44
       },
       {
         "code": "BRN",
         "name": "Bahrain",
         "g": 11,
         "s": 5,
-        "b": 5
+        "b": 6
       }
     ],
     "indiaMedals": [
@@ -2631,8 +2631,8 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-02T18:20:18+05:30",
-    "othersAsOf": "Day 13 in progress (Wikipedia table, 15:45 IST)"
+    "medalChecked": "2026-10-02T19:36:11+05:30",
+    "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
     {
@@ -2785,24 +2785,6 @@
   "feed": [
     {
       "t": "18:20",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Hockey",
-      "text": "GOLD! India's women beat defending champions China in the Asian Games hockey final — their first title since 1982 and a direct LA 2028 quota. India's 76th medal (16th gold).",
-      "match": "ag-hockey-w-final",
-      "src": [
-        {
-          "t": "Outlook India – India end 44-year wait with historic gold",
-          "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
-        },
-        {
-          "t": "LatestLY – India wins gold in women's hockey",
-          "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
-        }
-      ]
-    },
-    {
-      "t": "18:20",
       "tag": "LOSS",
       "c": "var(--live-text)",
       "m": "Wrestling",
@@ -2812,6 +2794,24 @@
         {
           "t": "The Tribune – Dipanshi loses 4–11 in 50kg bronze bout",
           "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-dipanshi-loses-4-11-to-kazakhstans-bayanova-in-womens-50kg-bronze-medal-bout"
+        }
+      ]
+    },
+    {
+      "t": "17:57",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Hockey",
+      "text": "GOLD! India's women beat defending champions China 1–0 in the Asian Games hockey final (Lalremsiami goal) — their first title since 1982 and a direct LA 2028 quota. India's 76th medal (16th gold).",
+      "match": "ag-hockey-w-final",
+      "src": [
+        {
+          "t": "Outlook India – India end 44-year wait with historic gold",
+          "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
+        },
+        {
+          "t": "LatestLY – India wins gold in women's hockey",
+          "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
         }
       ]
     },
