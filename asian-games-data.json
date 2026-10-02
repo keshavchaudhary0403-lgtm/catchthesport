@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-02T08:50:00+05:30",
+  "lastUpdated": "2026-10-02T09:05:00+05:30",
   "day": 13,
   "dayLabel": "Day 13 · in progress",
-  "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 8:50 am IST",
+  "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 9:05 am IST",
   "medalTable": [
     {
       "code": "CHN",
@@ -251,22 +251,41 @@
       "venue": ""
     },
     {
-      "st": "upcoming",
-      "gold": false,
+      "st": "result",
+      "day": "2 Oct · Day 13",
       "sport": "Archery",
       "round": "Recurve mixed team semi-final",
       "a": [
         "IND",
         "India",
-        "–"
+        "Won"
       ],
       "b": [
         "JPN",
         "Japan",
         "–"
       ],
-      "when": "2026-10-02T08:20:00+05:30",
-      "note": "Kumkum Mohod & Dhiraj Bommadevara. Final follows at about 8:50 am.",
+      "win": "a",
+      "note": "Kumkum Mohod & Dhiraj Bommadevara beat Japan to reach the final — India are assured of at least silver.",
+      "venue": ""
+    },
+    {
+      "st": "upcoming",
+      "gold": true,
+      "sport": "Archery",
+      "round": "Recurve mixed team final · Gold",
+      "a": [
+        "IND",
+        "India",
+        "–"
+      ],
+      "b": [
+        "TBC",
+        "Opponent TBC",
+        "–"
+      ],
+      "when": "2026-10-02T08:50:00+05:30",
+      "note": "Kumkum Mohod & Dhiraj Bommadevara go for India’s second archery gold of the day.",
       "venue": ""
     },
     {
@@ -519,6 +538,13 @@
   ],
   "feed": [
     {
+      "t": "08:45",
+      "tag": "FINAL",
+      "c": "var(--accent)",
+      "m": "Archery",
+      "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver."
+    },
+    {
       "t": "07:31",
       "tag": "OUT",
       "c": "var(--live-text)",
@@ -607,9 +633,9 @@
     {
       "d": "02",
       "mo": "OCT",
-      "title": "Recurve mixed team semi",
-      "meta": "vs Japan · Kumkum / Dhiraj",
-      "time": "08:20"
+      "title": "Recurve mixed team final",
+      "meta": "Kumkum / Dhiraj · Gold",
+      "time": "~08:50"
     },
     {
       "d": "02",
