@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-02T17:21:51+05:30",
+  "lastUpdated": "2026-10-02T18:20:18+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
-  "featured": "ag-hockey-w-final",
+  "featured": "ag-cricket-final",
   "matches": [
     {
       "st": "result",
@@ -556,7 +556,7 @@
     },
     {
       "id": "ag-wrestling-w50-bronze",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Wrestling",
       "comp": "Asian Games",
@@ -564,51 +564,47 @@
       "a": [
         "IND",
         "Dipanshi Phogat",
-        "–"
+        "4"
       ],
       "b": [
         "KAZ",
         "Zeinep Bayanova",
-        "–"
+        "11"
       ],
       "when": "2026-10-02T15:58:00+05:30",
-      "note": "Dipanshi plays for bronze after beating Cambodia's Samnang Dit 10–0 in the repechage (her pre-quarter-final loss was to Japan's Yui Susaki). Bout running slightly behind the 3:58 pm listing.",
+      "note": "Dipanshi Phogat lost the bronze-medal bout 4–11 to Kazakhstan's Zeinep Bayanova (she had beaten Cambodia's Samnang Dit 10–0 in the repechage). No medal.",
       "src": [
         {
-          "t": "NDTV Sports – Day 13 live updates",
-          "u": "https://sports.ndtv.com/asian-games-2026/asian-games-2026-live-updates-day-13-india-medal-tally-boxing-archery-hockey-wrestling-aichi-nagoya-japan-live-news-12127340"
+          "t": "The Tribune – Dipanshi loses 4–11 in 50kg bronze bout",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-dipanshi-loses-4-11-to-kazakhstans-bayanova-in-womens-50kg-bronze-medal-bout"
         },
         {
-          "t": "Ommcom News – Sujeet in final; Dipanshi for bronze",
-          "u": "https://ommcomnews.com/sports-news/asian-games-sujeet-enters-65kg-freestyle-wrestling-final-dipanshi-to-play-for-womens-50kg-bronze/"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        },
-        {
-          "t": "Outlook India – Day 14 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          "t": "Asianet Newsable – Sujeet wins gold; Dipanshi misses bronze",
+          "u": "https://newsable.asianetnews.com/sports/asian-games-sujeet-kalkal-wins-gold-dipanshi-misses-out-on-bronze-articleshow-qddc4hy"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "resultAt": "2026-10-02T18:20:18+05:30"
     },
     {
-      "st": "live",
+      "st": "result",
       "gold": true,
       "sport": "Hockey",
       "round": "Women's final · Gold",
       "a": [
         "IND",
         "India",
-        "1"
+        "Won"
       ],
       "b": [
         "CHN",
         "China",
-        "0"
+        ""
       ],
       "when": "2026-10-02T16:30:00+05:30",
-      "note": "Lalremsiami put India 1–0 up in the first half; India led 1–0 in the third quarter in the latest report. Final started 4:30 pm IST after a delay (team bus held up by traffic). Winner gets a direct LA 2028 quota; China are defending champions.",
+      "note": "India win gold — their first Asian Games women's hockey title since 1982 — beating defending champions China (India led 1–0 through Lalremsiami in the third quarter; final score TBC). Winner gets a direct LA 2028 quota.",
       "venue": "Aichi-Nagoya",
       "id": "ag-hockey-w-final",
       "comp": "Asian Games",
@@ -617,23 +613,22 @@
       "watch": "Sony Sports / SonyLIV",
       "src": [
         {
-          "t": "Business Standard – Day 13 live (IND 1–0 CHN, 3rd qtr)",
+          "t": "Outlook India – India end 44-year wait with historic gold",
+          "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
+        },
+        {
+          "t": "LatestLY – India wins gold in women's hockey",
+          "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
+        },
+        {
+          "t": "Business Standard – Day 13 live (tally 76)",
           "u": "https://www.business-standard.com/amp/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-        },
-        {
-          "t": "Sportstar – India vs China women's final live",
-          "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
-        },
-        {
-          "t": "NDTV Sports – India vs China final live (delayed 45 min)",
-          "u": "https://sports.ndtv.com/asian-games-2026/india-vs-china-live-score-asian-games-2026-womens-hockey-final-ind-vs-chn-live-match-updates-aichi-nagoya-12129480"
-        },
-        {
-          "t": "Khel Now – India beat Korea, final vs China",
-          "u": "https://khelnow.com/hockey/india-south-korea-women-report-asian-games-202609"
         }
       ],
-      "status": "Q3 · 1–0"
+      "win": "a",
+      "day": "2 Oct · Day 13",
+      "recent": true,
+      "resultAt": "2026-10-02T18:20:18+05:30"
     },
     {
       "st": "upcoming",
@@ -1394,11 +1389,11 @@
         "l": "Sports"
       },
       {
-        "v": "15 · 25 · 35",
+        "v": "16 · 25 · 35",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India live (75 medals) · other nations: Day 13 in progress (Wikipedia, 15:45 IST)",
+    "medalAsOf": "India live (76 medals) · other nations: Day 13 in progress (Wikipedia, 15:45 IST)",
     "medalTable": [
       {
         "code": "CHN",
@@ -1431,7 +1426,7 @@
       {
         "code": "IND",
         "name": "India",
-        "g": 15,
+        "g": 16,
         "s": 25,
         "b": 35
       },
@@ -1465,6 +1460,23 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Hockey",
+        "event": "Women's team",
+        "who": "India women beat defending champions China in the final — first Asian Games hockey gold since 1982 (final score TBC).",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "Outlook India – India end 44-year wait with historic gold",
+            "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
+          },
+          {
+            "t": "LatestLY – India wins gold in women's hockey",
+            "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Wrestling",
@@ -2619,7 +2631,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-02T16:37:18+05:30",
+    "medalChecked": "2026-10-02T18:20:18+05:30",
     "othersAsOf": "Day 13 in progress (Wikipedia table, 15:45 IST)"
   },
   "competitions": [
@@ -2629,7 +2641,7 @@
       "status": "Live · ends 4 Oct",
       "live": true,
       "india": true,
-      "note": "India 12 gold, 25 silver, 34 bronze (71). Finals in boxing, hockey, cricket and wrestling still to come.",
+      "note": "India 16 gold, 25 silver, 35 bronze (76). Men's cricket and hockey finals on 3 Oct; Games close 4 Oct.",
       "id": "asian-games",
       "src": [
         {
@@ -2771,6 +2783,38 @@
     }
   ],
   "feed": [
+    {
+      "t": "18:20",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Hockey",
+      "text": "GOLD! India's women beat defending champions China in the Asian Games hockey final — their first title since 1982 and a direct LA 2028 quota. India's 76th medal (16th gold).",
+      "match": "ag-hockey-w-final",
+      "src": [
+        {
+          "t": "Outlook India – India end 44-year wait with historic gold",
+          "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
+        },
+        {
+          "t": "LatestLY – India wins gold in women's hockey",
+          "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
+        }
+      ]
+    },
+    {
+      "t": "18:20",
+      "tag": "LOSS",
+      "c": "var(--live-text)",
+      "m": "Wrestling",
+      "text": "Dipanshi Phogat loses the women's 50kg bronze bout 4–11 to Kazakhstan's Zeinep Bayanova and misses out on a medal.",
+      "match": "ag-wrestling-w50-bronze",
+      "src": [
+        {
+          "t": "The Tribune – Dipanshi loses 4–11 in 50kg bronze bout",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-dipanshi-loses-4-11-to-kazakhstans-bayanova-in-womens-50kg-bronze-medal-bout"
+        }
+      ]
+    },
     {
       "t": "17:21",
       "tag": "LIVE",
@@ -2928,33 +2972,9 @@
       "m": "Archery",
       "text": "SILVER for Kumkum Mohod and Dhiraj Bommadevara — China win the recurve mixed team final 5–3, tying the last set 37–37 to seal gold.",
       "match": "ag-archery-mixed-final"
-    },
-    {
-      "t": "09:30",
-      "tag": "LIVE",
-      "c": "var(--accent)",
-      "m": "Archery",
-      "text": "India win the third set 37–36 but trail China 2–4 in the recurve mixed team final.",
-      "match": "ag-archery-mixed-final"
-    },
-    {
-      "t": "08:45",
-      "tag": "FINAL",
-      "c": "var(--accent)",
-      "m": "Archery",
-      "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver. Gold medal match at 9:15 am.",
-      "match": "ag-archery-mixed-final"
     }
   ],
   "schedule": [
-    {
-      "d": "02",
-      "mo": "OCT",
-      "title": "Women's hockey final",
-      "meta": "India vs China · Gold · LIVE",
-      "time": "16:30",
-      "match": "ag-hockey-w-final"
-    },
     {
       "d": "03",
       "mo": "OCT",
@@ -3047,7 +3067,7 @@
       "i": "LB",
       "name": "Lovlina Borgohain",
       "role": "Boxing · 75kg",
-      "p": "Asian Games gold medal bout vs China's Bao Ziyi today.",
+      "p": "Won Asian Games women's 75kg gold today, beating China's Bao Ziyi 5–0 on her 29th birthday.",
       "q": "Borgohain"
     },
     {
@@ -3082,7 +3102,7 @@
       "i": "ST",
       "name": "Salima Tete",
       "role": "Women's hockey",
-      "p": "Scored in the semi win over Korea; final vs China at 3:30 pm today.",
+      "p": "Part of the India women's side that won Asian Games hockey gold today, beating China.",
       "q": "Tete"
     },
     {
