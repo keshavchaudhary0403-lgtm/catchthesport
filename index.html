@@ -488,21 +488,6 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div class="track" id="resTicker"></div>
 </div>
 
-<!-- MATCH CENTRE -->
-<section class="wrap sec reveal" id="matches">
-<div class="sec-head">
-<div class="l"><div class="eyebrow">01 — Match centre</div><h2 class="h2">Live, today &amp; next up</h2></div>
-<button type="button" class="note pillbtn" style="display:flex;align-items:center;gap:8px;background:none;padding:6px 0" data-open="about"><span class="dot pulse"></span>Updated <span id="lastUpd"></span> <span class="more">· sources</span></button>
-</div>
-<div class="tabs" role="tablist" aria-label="Filter by sport" id="sportTabs"></div>
-<div class="toolbar">
-<div class="seg" role="group" aria-label="Filter by status" id="whenSeg"></div>
-<label class="toggle"><input type="checkbox" id="indiaOnly"> Only India matches</label>
-</div>
-<div class="grid3" id="matchGrid"></div>
-<div class="empty" id="matchEmpty" hidden>No matches for this filter right now — try another sport or "All".</div>
-</section>
-
 <!-- FEATURED EVENT (e.g. Asian Games) -->
 <div id="eventWrap" hidden>
 <section class="wrap sec reveal" id="event">
@@ -555,6 +540,22 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div class="mgrid" id="medalists"></div>
 </section>
 </div>
+
+<!-- MATCH CENTRE -->
+<section class="wrap sec reveal" id="matches">
+<div class="sec-head">
+<div class="l"><div class="eyebrow">01 — Match centre</div><h2 class="h2">Live, today &amp; next up</h2></div>
+<button type="button" class="note pillbtn" style="display:flex;align-items:center;gap:8px;background:none;padding:6px 0" data-open="about"><span class="dot pulse"></span>Updated <span id="lastUpd"></span> <span class="more">· sources</span></button>
+</div>
+<div class="tabs" role="tablist" aria-label="Filter by sport" id="sportTabs"></div>
+<div class="toolbar">
+<div class="seg" role="group" aria-label="Filter by status" id="whenSeg"></div>
+<label class="toggle"><input type="checkbox" id="indiaOnly"> Only India matches</label>
+</div>
+<div class="grid3" id="matchGrid"></div>
+<button type="button" class="btn btn-ghost" id="matchMore" hidden style="width:100%;margin-top:16px">Show all matches</button>
+<div class="empty" id="matchEmpty" hidden>No matches for this filter right now — try another sport or "All".</div>
+</section>
 
 <!-- WHAT'S ON -->
 <section class="wrap sec reveal" id="whats-on">
@@ -896,9 +897,9 @@ function sportsPresent() {
 function renderMatches() {
   const sp = sportsPresent();
   $('sportTabs').innerHTML = [['All', DATA.matches.length]].concat(sp).map(([s]) => `<button class="chip" type="button" role="tab" aria-selected="${s === fSport}" data-s="${esc(s)}">${esc(s)}</button>`).join('');
-  $('sportTabs').querySelectorAll('button').forEach((b) => (b.onclick = () => { fSport = b.dataset.s; renderMatches(); }));
+  $('sportTabs').querySelectorAll('button').forEach((b) => (b.onclick = () => { fSport = b.dataset.s; showAllM = false; renderMatches(); }));
   $('whenSeg').innerHTML = WHENS.map(([k, l]) => `<button type="button" aria-pressed="${k === fWhen}" data-w="${k}">${l}</button>`).join('');
-  $('whenSeg').querySelectorAll('button').forEach((b) => (b.onclick = () => { fWhen = b.dataset.w; renderMatches(); }));
+  $('whenSeg').querySelectorAll('button').forEach((b) => (b.onclick = () => { fWhen = b.dataset.w; showAllM = false; renderMatches(); }));
   const today = istDay(Date.now());
   let list = DATA.matches.filter((m) => (fSport === 'All' || m.sport === fSport) && (!indiaOnly || m.india));
   list = list.filter((m) => {
@@ -910,8 +911,13 @@ function renderMatches() {
   });
   list = sortM(list);
   $('matchEmpty').hidden = list.length > 0;
-  $('matchGrid').innerHTML = list.map(cardHtml).join('');
+  const cap = matchMedia('(max-width:640px)').matches && !showAllM ? 6 : Infinity;
+  $('matchGrid').innerHTML = list.slice(0, cap).map(cardHtml).join('');
+  const more = $('matchMore'), extra = list.length - cap;
+  more.hidden = !(extra > 0);
+  if (extra > 0) more.textContent = 'Show all ' + list.length + ' matches';
 }
+let showAllM = false;
 function winnerName(t) { return t[0] === 'IND' && /india/i.test(t[1]) ? 'India' : t[1]; }
 function wonPill(m) {
   if (state(m) !== 'result') return '';
@@ -1062,6 +1068,7 @@ for (let i = 0; i < 9; i++) rings += `<div style="border:1px solid ${i % 3 === 0
 $('globe').innerHTML = rings;
 
 try { renderAll(); } catch (e) { console.error(e); }
+$('matchMore').onclick = () => { showAllM = true; renderMatches(); };
 /* mobile: shrink the 2-line headline if a font renders wider than expected */
 function fitH1() {
   const h = document.querySelector('.hero .h1'); if (!h) return;
