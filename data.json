@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T12:26:31+05:30",
+  "lastUpdated": "2026-10-02T12:42:03+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -405,6 +405,34 @@
         {
           "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
           "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
+        }
+      ]
+    },
+    {
+      "id": "ag-sepak-m-quad-semi",
+      "st": "upcoming",
+      "sport": "Sepak takraw",
+      "comp": "Asian Games",
+      "round": "Men's quadrant semi-final",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "JPN",
+        "Japan",
+        ""
+      ],
+      "when": "2026-10-02T12:00:00+05:30",
+      "india": true,
+      "big": true,
+      "note": "India topped Group A with three wins and are assured of at least a bronze. Winner plays for gold on 3 Oct.",
+      "venue": "Aichi-Nagoya",
+      "src": [
+        {
+          "t": "ESPN India – Day 13 live updates",
+          "u": "https://www.espn.in/espn/story/_/id/50077692/india-asian-games-live-updates-scores-news-results-commentary-schedule-timings-october-2-2026-aichi-nagoya"
         }
       ]
     },
@@ -2750,6 +2778,14 @@
     }
   ],
   "schedule": [
+    {
+      "d": "02",
+      "mo": "OCT",
+      "title": "Sepak takraw men's quadrant semi v Japan",
+      "meta": "Sepak takraw · Asian Games",
+      "time": "12:00",
+      "match": "ag-sepak-m-quad-semi"
+    },
     {
       "d": "02",
       "mo": "OCT",
