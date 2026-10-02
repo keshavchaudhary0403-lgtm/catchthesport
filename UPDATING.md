@@ -93,6 +93,8 @@ Use `event` only while a multi-sport event India competes in is on (Asian Games,
   "desc": "…", "statusText": "Live · closes 4 Oct, Nagoya",
   "stats": [ { "v": "45", "l": "Nations" }, { "v": "11 · 23 · 33", "l": "India G · S · B" } ],
   "medalAsOf": "…", "medalNote": "optional note under the table",
+  "medalChecked": "2026-10-02T10:12:00+05:30",   // set EVERY run after you verify the medal table (real IST time from the shell), even if nothing changed
+  "othersAsOf": "end of Day 12 (latest published table)",   // how current the non-India rows are; update when you refresh them
   "medalTable": [ { "code": "CHN", "name": "China", "g": 154, "s": 71, "b": 63 } ],   // top 9 + India
   "medalSrc": [ { "t": "Khel Now – medal tally", "u": "https://…" } ],
   "indiaMedals": [   // EVERY India medal — the count per colour must match India's row in medalTable

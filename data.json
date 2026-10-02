@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T10:05:30+05:30",
+  "lastUpdated": "2026-10-02T10:09:05+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-7",
   "matches": [
@@ -1161,7 +1161,7 @@
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 9:40 am IST",
+    "medalAsOf": "India live · other nations: end of Day 12",
     "medalTable": [
       {
         "code": "CHN",
@@ -2265,8 +2265,14 @@
       {
         "t": "Wikipedia – 2026 Asian Games medal table",
         "u": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table"
+      },
+      {
+        "t": "Sunday Guardian – medal tally live, Day 13",
+        "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
-    ]
+    ],
+    "medalChecked": "2026-10-02T10:09:05+05:30",
+    "othersAsOf": "end of Day 12 (latest published table)"
   },
   "competitions": [
     {

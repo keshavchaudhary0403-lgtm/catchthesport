@@ -91,6 +91,13 @@ if ev is not None:
             for k in ("g", "s", "b"):
                 if not isinstance(r.get(k), int):
                     errors.append(f"event.medalTable[{i}]: '{k}' must be a whole number")
+    if ev.get("medalChecked"):
+        try:
+            from datetime import timezone, timedelta
+            if datetime.fromisoformat(ev["medalChecked"]) > datetime.now(timezone.utc) + timedelta(minutes=2):
+                errors.append("event.medalChecked is in the future — use the real IST time")
+        except ValueError:
+            errors.append("event.medalChecked must look like 2026-10-02T15:45:00+05:30")
     meds = ev.get("indiaMedals")
     ind = next((r for r in ev.get("medalTable", []) if r.get("code") == "IND"), None)
     if isinstance(meds, list) and ind:

@@ -779,9 +779,17 @@ function renderEvent() {
   $('evStatus').textContent = ev.statusText || '';
   $('evStats').innerHTML = (ev.stats || []).map((s, i) => `<div class="ag-stat" ${clickable('stat:' + i, s.l)}><b>${esc(s.v)}</b><span>${esc(s.l)}</span></div>`).join('');
   $('mtEyebrow').textContent = (ev.short || ev.name) + ' — medal table';
-  $('medalAsOf').textContent = ev.medalAsOf || '';
+  medalLabel();
   if (ev.medalNote) $('mtNote').textContent = ev.medalNote;
   renderMedals(); renderMedalists();
+}
+function medalLabel() {
+  const ev = DATA.event; if (!ev) return;
+  if (!ev.medalChecked) { $('medalAsOf').textContent = ev.medalAsOf || ''; return; }
+  const t = Math.min(new Date(ev.medalChecked).getTime(), Date.now()), m = Math.max(0, Math.floor((Date.now() - t) / 60000));
+  const ago = m < 1 ? 'just now' : m < 60 ? m + ' min ago' : Math.floor(m / 60) + ' hr ' + (m % 60) + ' min ago';
+  const at = new Date(t).toLocaleTimeString('en-IN', Object.assign({ hour: 'numeric', minute: '2-digit' }, IST));
+  $('medalAsOf').textContent = 'India checked ' + ago + ' (' + at + ' IST)' + (ev.othersAsOf ? ' · other nations: ' + ev.othersAsOf : '');
 }
 function renderMedals() {
   const ev = DATA.event; if (!ev || !ev.medalTable) return;
@@ -890,7 +898,7 @@ async function pullData() {
 if (location.protocol.indexOf('http') === 0) { pullData(); setInterval(pullData, 20000); }
 
 function tick() {
-  updAgo();
+  updAgo(); try { medalLabel(); } catch (e) {}
   if (feat && state(feat) === 'upcoming' && feat.when && feat.when.length > 10) {
     const ms = Math.max(0, new Date(feat.when).getTime() - Date.now());
     const b = $('countdown').querySelectorAll('b');
