@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T19:36:11+05:30",
+  "lastUpdated": "2026-10-02T20:09:33+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-cricket-final",
   "matches": [
@@ -645,8 +645,8 @@
         "Pakistan",
         "–"
       ],
-      "when": "2026-10-03T10:30:00+05:30",
-      "note": "India beat Sri Lanka by 124 runs; Pakistan chased 111 in 11.3 overs against Bangladesh.",
+      "when": "2026-10-03T10:00:00+05:30",
+      "note": "India beat Sri Lanka by 124 runs; Pakistan chased 111 in 11.3 overs against Bangladesh. Rain rule: if washed out, India and Pakistan share gold.",
       "venue": "Korogi Sports Park, Nisshin",
       "id": "ag-cricket-final",
       "comp": "Asian Games",
@@ -661,6 +661,10 @@
         {
           "t": "India.com – Day 12 live updates",
           "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
+        },
+        {
+          "t": "CricTracker – IND v PAK final: 10:00 IST",
+          "u": "https://www.crictracker.com/cricket-news/india-vs-pakistan-asian-games-2026-final-set-for-october-3-in-nisshin/"
         }
       ]
     },
@@ -903,7 +907,7 @@
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 after Shubman Gill's record 222 in Guwahati.",
+      "note": "India lead the series 2–0 after Shubman Gill's record 222 in Guwahati. Prasidh Krishna out injured; Anshul Kamboj called up. Toss 1:30 pm.",
       "venue": "New Chandigarh",
       "src": [
         {
@@ -913,8 +917,13 @@
         {
           "t": "NewsX – IND v WI schedule",
           "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        },
+        {
+          "t": "NewsX – 3rd ODI preview",
+          "u": "https://www.newsx.com/sports/india-vs-west-indies-3rd-odi-preview-venue-squads-live-streaming-and-all-you-need-to-know-278558/"
         }
-      ]
+      ],
+      "watch": "Star Sports / JioHotstar"
     },
     {
       "id": "ind-wi-odi2",
@@ -2631,7 +2640,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-02T19:36:11+05:30",
+    "medalChecked": "2026-10-02T20:09:33+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2980,7 +2989,7 @@
       "mo": "OCT",
       "title": "Men's cricket final",
       "meta": "India vs Pakistan · Nisshin",
-      "time": "10:30",
+      "time": "10:00",
       "match": "ag-cricket-final"
     },
     {
