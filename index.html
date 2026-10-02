@@ -660,7 +660,7 @@ function renderAll() {
   $('indS').textContent = ind.s; $('indB').textContent = ind.b;
   $('dayNum').textContent = DATA.day;
   $('medalAsOf').textContent = DATA.medalAsOf;
-  $('lastUpd').textContent = new Date(DATA.lastUpdated).toLocaleString('en-IN', Object.assign({ day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit' }, IST)) + ' IST';
+  updAgo();
   renderMedals(); renderMedalists(); renderMatches();
   $('feed').innerHTML = DATA.feed.map((f) => `
     <div class="feed-row"><div class="t">${esc(f.t)}</div><div class="rail"><i style="background:${f.c}"></i><em></em></div>
@@ -715,7 +715,7 @@ function pickFeatured() {
 renderAll();
 
 /* auto-refresh: if asian-games-data.json sits next to this page on your web host,
-   the page re-reads it every 60 seconds and updates without a reload. */
+   the page re-reads it every 20 seconds and updates without a reload. */
 const DATA_URL = 'asian-games-data.json';
 let lastStamp = DATA.lastUpdated;
 async function pullData() {
@@ -724,13 +724,22 @@ async function pullData() {
     if (!res.ok) return;
     const fresh = await res.json();
     if (fresh && fresh.lastUpdated && fresh.lastUpdated !== lastStamp) {
-      DATA = Object.assign({}, DATA, fresh); lastStamp = fresh.lastUpdated; renderAll();
+      DATA = Object.assign({}, DATA, fresh); lastStamp = fresh.lastUpdated; renderAll(); flashNew();
     }
   } catch (e) { /* no data file (e.g. opened from disk) — keep built-in data */ }
 }
-if (location.protocol.indexOf('http') === 0) { pullData(); setInterval(pullData, 60000); }
+if (location.protocol.indexOf('http') === 0) { pullData(); setInterval(pullData, 20000); }
 
+function updAgo() {
+  const t = new Date(DATA.lastUpdated).getTime(), m = Math.max(0, Math.floor((Date.now() - t) / 60000));
+  const abs = new Date(t).toLocaleString('en-IN', Object.assign({ hour: 'numeric', minute: '2-digit' }, IST));
+  $('lastUpd').textContent = (m < 1 ? 'just now' : m < 60 ? m + ' min ago' : Math.floor(m / 60) + ' hr ' + (m % 60) + ' min ago') + ' (' + abs + ' IST)';
+}
+function flashNew() {
+  document.querySelectorAll('#feed .feed-row:first-child, #medalBody tr.hi').forEach((el) => { el.animate([{ background: 'var(--row-hi)' }, { background: 'transparent' }], { duration: 2400 }); });
+}
 function tick() {
+  updAgo();
   pickFeatured();
   if (feat) {
     let ms = new Date(feat.when).getTime() - Date.now();
