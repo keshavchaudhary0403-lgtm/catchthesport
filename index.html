@@ -313,6 +313,21 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  .fact[data-open]::after{right:6px;top:8px;width:14px;height:14px;background-size:9px}
  .fact b{font-size:21px}
 }
+
+/* mobile: globe card right after the buttons, stat tiles below it */
+@media (max-width:640px){
+ .hero{display:flex;flex-direction:column;gap:0;align-items:stretch}
+ .hero > .rise{display:contents !important}
+ .hero > .rise > *{margin-bottom:18px}
+ .hero .h1{order:1}.hero .lede{order:2}.hero > .rise > div:nth-of-type(1){order:3}
+ .stage{order:4;min-height:430px;padding:30px 0 42px;margin-bottom:6px}
+ .globe-wrap{width:94vw;height:94vw;max-width:400px;max-height:400px}
+ .tilt{width:86%;max-width:340px}
+ .feat{padding:16px}
+ .feat .cd b{font-size:18px}
+ #featA .flag,#featB .flag,#featA .club,#featB .club{width:56px !important;height:56px !important}
+ .facts{order:5;margin-top:0}
+}
 </style>
 </head>
 <body class="cts-light">
@@ -354,7 +369,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <p class="lede" id="heroLede">Live scores, results and fixtures for Indian fans.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
 <a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; today</a>
-<a class="btn btn-ghost" href="#schedule" style="min-height:52px;padding:0 26px;font-size:16px">India's <span class="hide-m">upcoming </span>matches</a>
+<a class="btn btn-ghost" href="#schedule" style="min-height:52px;padding:0 26px;font-size:16px"><span>India's <span class="hide-m">upcoming </span>matches</span></a>
 </div>
 <div class="facts" id="facts"></div>
 </div>
