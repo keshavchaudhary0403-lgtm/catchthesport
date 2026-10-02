@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T12:42:03+05:30",
+  "lastUpdated": "2026-10-02T14:04:18+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -410,31 +410,39 @@
     },
     {
       "id": "ag-sepak-m-quad-semi",
-      "st": "upcoming",
+      "st": "result",
       "sport": "Sepak takraw",
       "comp": "Asian Games",
       "round": "Men's quadrant semi-final",
       "a": [
         "IND",
         "India",
-        ""
+        "0"
       ],
       "b": [
         "JPN",
         "Japan",
-        ""
+        "2"
       ],
       "when": "2026-10-02T12:00:00+05:30",
       "india": true,
       "big": true,
-      "note": "India topped Group A with three wins and are assured of at least a bronze. Winner plays for gold on 3 Oct.",
+      "note": "Japan win 2–0 (India lost the sets 12–15, 13–15). India take the bronze medal: Malemnganba Singh Sorokhaibam, Ram Kumar Sharma, Bobby Kumar, Akash Yumnam.",
       "venue": "Aichi-Nagoya",
       "src": [
         {
-          "t": "ESPN India – Day 13 live updates",
-          "u": "https://www.espn.in/espn/story/_/id/50077692/india-asian-games-live-updates-scores-news-results-commentary-schedule-timings-october-2-2026-aichi-nagoya"
+          "t": "The Tribune – Sepaktakraw men's quadrant secures bronze",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-some-joy-in-sepaktakraw-as-mens-quadrant-secures-bronze"
+        },
+        {
+          "t": "Outlook India – Day 14 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "2 Oct",
+      "recent": true,
+      "resultAt": "2026-10-02T14:04:18+05:30"
     },
     {
       "st": "upcoming",
@@ -1317,11 +1325,11 @@
         "l": "Sports"
       },
       {
-        "v": "12 · 25 · 34",
+        "v": "12 · 25 · 35",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India live (71 medals) · other nations: end of Day 12",
+    "medalAsOf": "India live (72 medals) · other nations: end of Day 12",
     "medalTable": [
       {
         "code": "CHN",
@@ -1356,7 +1364,7 @@
         "name": "India",
         "g": 12,
         "s": 25,
-        "b": 34
+        "b": 35
       },
       {
         "code": "IRI",
@@ -1388,6 +1396,23 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "bronze",
+        "sport": "Sepak takraw",
+        "event": "Men's quadrant",
+        "who": "Malemnganba Singh Sorokhaibam, Ram Kumar Sharma, Bobby Kumar & Akash Yumnam — lost the semi-final 0–2 (12–15, 13–15) to Japan.",
+        "day": "2 Oct",
+        "src": [
+          {
+            "t": "The Tribune – Sepaktakraw men's quadrant secures bronze",
+            "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-some-joy-in-sepaktakraw-as-mens-quadrant-secures-bronze"
+          },
+          {
+            "t": "Outlook India – Day 14 live updates",
+            "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+          }
+        ]
+      },
       {
         "medal": "silver",
         "sport": "Archery",
@@ -2486,7 +2511,7 @@
         "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
     ],
-    "medalChecked": "2026-10-02T12:26:31+05:30",
+    "medalChecked": "2026-10-02T14:04:18+05:30",
     "othersAsOf": "end of Day 12 (latest published table)"
   },
   "competitions": [
@@ -2639,6 +2664,14 @@
   ],
   "feed": [
     {
+      "t": "12:56",
+      "tag": "BRONZE",
+      "c": "var(--bronze)",
+      "m": "Sepak takraw",
+      "text": "BRONZE for India's men's quadrant team — Japan win the semi-final 2–0 (15–12, 15–13), India's 72nd medal of the Games.",
+      "match": "ag-sepak-m-quad-semi"
+    },
+    {
       "t": "12:10",
       "tag": "SILVER",
       "c": "var(--silver)",
@@ -2768,24 +2801,9 @@
       "c": "var(--accent)",
       "m": "Archery",
       "text": "First set tied 54–54. 1–1 in the gold medal match."
-    },
-    {
-      "t": "06:35",
-      "tag": "OUT",
-      "c": "var(--live-text)",
-      "m": "Sepak takraw",
-      "text": "Women’s team lose 0–2 to Thailand (10–15, 4–15) and go out after the group stage."
     }
   ],
   "schedule": [
-    {
-      "d": "02",
-      "mo": "OCT",
-      "title": "Sepak takraw men's quadrant semi v Japan",
-      "meta": "Sepak takraw · Asian Games",
-      "time": "12:00",
-      "match": "ag-sepak-m-quad-semi"
-    },
     {
       "d": "02",
       "mo": "OCT",
