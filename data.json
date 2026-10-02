@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T12:21:20+05:30",
+  "lastUpdated": "2026-10-02T12:26:31+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -493,7 +493,7 @@
         "Abdulmazid Kudiev",
         "–"
       ],
-      "when": "2026-10-02T14:30:00+05:30",
+      "when": "2026-10-02T14:46:00+05:30",
       "note": "Sujeet beat Japan's Olympic champion Kotaro Kiyooka 3–3 on criteria in the semi-final. India assured of at least silver. Time as listed by Khel Now.",
       "src": [
         {
@@ -503,6 +503,10 @@
         {
           "t": "Khel Now – India's 2 Oct schedule",
           "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        },
+        {
+          "t": "Outlook India – Day 14 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
         }
       ]
     },
@@ -519,11 +523,11 @@
         "–"
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "KAZ",
+        "Zeinep Bayanova",
         "–"
       ],
-      "when": "2026-10-02T15:51:00+05:30",
+      "when": "2026-10-02T15:58:00+05:30",
       "note": "Dipanshi plays for bronze after her pre-quarter-final loss to Japan's Yui Susaki. Time as listed by Khel Now.",
       "src": [
         {
@@ -533,6 +537,10 @@
         {
           "t": "Khel Now – India's 2 Oct schedule",
           "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
+        },
+        {
+          "t": "Outlook India – Day 14 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
         }
       ]
     },
@@ -2450,7 +2458,7 @@
         "u": "https://sundayguardianlive.com/sports/asian-games-2026-medal-tally-live-day-13-india-total-medal-count-gold-silver-bronze-and-updated-country-wise-standings-296612/"
       }
     ],
-    "medalChecked": "2026-10-02T12:21:20+05:30",
+    "medalChecked": "2026-10-02T12:26:31+05:30",
     "othersAsOf": "end of Day 12 (latest published table)"
   },
   "competitions": [
@@ -2627,6 +2635,19 @@
       "match": "ag-8"
     },
     {
+      "t": "11:57",
+      "tag": "OUT",
+      "c": "var(--live-text)",
+      "m": "Cycling",
+      "text": "David Beckham Elkatohchoongo finishes fifth in his keirin semi-final heat and misses the final.",
+      "src": [
+        {
+          "t": "Outlook India – Day 14 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
+        }
+      ]
+    },
+    {
       "t": "10:22",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -2726,14 +2747,6 @@
       "c": "var(--live-text)",
       "m": "Sepak takraw",
       "text": "Women’s team lose 0–2 to Thailand (10–15, 4–15) and go out after the group stage."
-    },
-    {
-      "t": "30 Sep",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "Shubman Gill hits 222 — the fastest double hundred in ODI history — as India chase 406 to beat West Indies and take the series 2–0.",
-      "match": "ind-wi-odi2"
     }
   ],
   "schedule": [
@@ -2750,7 +2763,7 @@
       "mo": "OCT",
       "title": "Wrestling 65kg final",
       "meta": "Sujeet Kalkal vs Abdulmazid Kudiev",
-      "time": "14:30",
+      "time": "14:46",
       "match": "ag-wrestling-65-final"
     },
     {
