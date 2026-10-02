@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T16:37:18+05:30",
+  "lastUpdated": "2026-10-02T17:21:51+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -600,7 +600,7 @@
       "a": [
         "IND",
         "India",
-        "0"
+        "1"
       ],
       "b": [
         "CHN",
@@ -608,7 +608,7 @@
         "0"
       ],
       "when": "2026-10-02T16:30:00+05:30",
-      "note": "Under way at 4:30 pm IST after a 75-minute delay (team buses held up by traffic from an accident). Lalremsiami plays her 200th match for India. India beat South Korea 2–0 in the semi; China are defending champions.",
+      "note": "Lalremsiami put India 1–0 up in the first half; India led 1–0 in the third quarter in the latest report. Final started 4:30 pm IST after a delay (team bus held up by traffic). Winner gets a direct LA 2028 quota; China are defending champions.",
       "venue": "Aichi-Nagoya",
       "id": "ag-hockey-w-final",
       "comp": "Asian Games",
@@ -616,6 +616,10 @@
       "big": true,
       "watch": "Sony Sports / SonyLIV",
       "src": [
+        {
+          "t": "Business Standard – Day 13 live (IND 1–0 CHN, 3rd qtr)",
+          "u": "https://www.business-standard.com/amp/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
+        },
         {
           "t": "Sportstar – India vs China women's final live",
           "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
@@ -629,7 +633,7 @@
           "u": "https://khelnow.com/hockey/india-south-korea-women-report-asian-games-202609"
         }
       ],
-      "status": "Q1 · 4′"
+      "status": "Q3 · 1–0"
     },
     {
       "st": "upcoming",
@@ -2768,13 +2772,17 @@
   ],
   "feed": [
     {
-      "t": "16:30",
+      "t": "17:21",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Hockey",
-      "text": "Women's hockey final vs China finally under way at 4:30 pm IST — 0–0 early in the first quarter. Lalremsiami is playing her 200th match for India.",
+      "text": "Women's hockey final: India lead China 1–0 in the third quarter after Lalremsiami's goal. Gold means a direct LA 2028 quota.",
       "match": "ag-hockey-w-final",
       "src": [
+        {
+          "t": "Business Standard – Day 13 live (IND 1–0 CHN, 3rd qtr)",
+          "u": "https://www.business-standard.com/amp/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
+        },
         {
           "t": "Sportstar – India vs China women's final live",
           "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
