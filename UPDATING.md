@@ -61,6 +61,7 @@ Mark anything involving an Indian team or athlete with `"india": true`. Mark hea
   "win": "a",                        // results only: "a" or "b" (omit for draws)
   "day": "3 Oct",                    // results only: short date label
   "recent": true,                    // results only: also show under "Live & today"
+  "resultAt": "2026-10-02T10:36:00+05:30", // results only: real IST time you set it to result. Drives "JUST FINISHED" — the site shows it at the top of the ticker/match centre for 6 h and on the hero card for 90 min
   "india": true, "big": true, "gold": false,
   "note": "One factual line: scorers, top performers, context.",
   "venue": "New Chandigarh",
@@ -72,7 +73,7 @@ Codes: use 3-letter country codes for national teams (`IND`, `PAK`, `AUS`, `ENG`
 
 Scores are free text: cricket `"406/2"` or `"245/8 (50)"`; football `"2"`; tennis `"6-4 7-5"`; individual events the athlete's result, or `"Won"` if only the outcome is known.
 
-Status changes: when a match starts set `"st": "live"` with a `status`; when it ends set `"st": "result"`, fill both scores, `win`, `day`, `recent: true`. If a match has started but you can't find its score, leave it `upcoming` — the site labels it "UNDER WAY" automatically.
+Status changes: when a match starts set `"st": "live"` with a `status`; when it ends set `"st": "result"`, fill both scores, `win`, `day`, `recent: true` and `resultAt` (current IST time from the shell). Keep `when` on results too. If a match has started but you can't find its score, leave it `upcoming` — the site labels it "UNDER WAY" automatically.
 
 ### Feed
 

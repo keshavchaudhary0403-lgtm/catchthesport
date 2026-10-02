@@ -593,6 +593,11 @@ function state(m) {
   if (m.when && m.when.length > 10 && new Date(m.when).getTime() <= Date.now()) return 'started';
   return 'upcoming';
 }
+const RECENT_H = 6, HERO_MIN = 90;
+const resMs = (m) => (m.resultAt ? new Date(m.resultAt).getTime() : 0);
+const minsAgo = (ms) => Math.max(0, Math.floor((Date.now() - ms) / 60000));
+const isRecent = (m) => m.st === 'result' && m.resultAt && Date.now() - resMs(m) < RECENT_H * 3600e3;
+const agoTxt = (ms) => { const n = minsAgo(ms); return n < 1 ? 'just now' : n < 60 ? n + ' min ago' : Math.floor(n / 60) + ' hr ago'; };
 const whenMs = (m) => (m.when ? new Date(m.when.length <= 10 ? m.when + 'T12:00:00+05:30' : m.when).getTime() : 0);
 const byId = (id) => DATA.matches.find((m) => m.id === id);
 const medalsAll = () => { const ev = DATA.event; if (!ev) return []; if (ev.indiaMedals) return ev.indiaMedals; return (ev.indiaGolds || []).map((x) => Object.assign({ medal: 'gold' }, x)); };
@@ -648,7 +653,8 @@ function medalRow(x) {
   return `<button type="button" class="dlg-item" data-open="medal:${i}"><span class="medal-ico m-${x.medal}" style="flex-shrink:0">${letter[x.medal]}</span><span><b>${esc(x.event)}</b><span class="s2">${esc(x.sport)}${x.day ? ' · ' + esc(x.day) : ''} — ${esc(x.who)}</span></span></button>`;
 }
 const listOr = (arr, fn, empty) => (arr.length ? `<div class="dlg-list">${arr.map(fn).join('')}</div>` : `<p class="note">${empty}</p>`);
-const sortM = (a) => a.slice().sort((x, y) => { const r = { live: 0, started: 1, upcoming: 2, result: 3 }; return r[state(x)] - r[state(y)] || (state(x) === 'result' ? whenMs(y) - whenMs(x) : whenMs(x) - whenMs(y)); });
+const rk = (m) => { const s = state(m); return s === 'live' ? 0 : s === 'started' ? 1 : isRecent(m) ? 2 : s === 'upcoming' ? 3 : 4; };
+const sortM = (a) => a.slice().sort((x, y) => rk(x) - rk(y) || (rk(x) === 2 ? resMs(y) - resMs(x) : rk(x) === 4 ? (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x)) : whenMs(x) - whenMs(y)) || (y.india ? 1 : 0) - (x.india ? 1 : 0));
 
 const OPEN = {
   match(id) {
@@ -747,11 +753,12 @@ const OPEN = {
       live: ['Live & under way', DATA.matches.filter((m) => state(m) === 'live' || state(m) === 'started')],
       today: ['Today’s matches', DATA.matches.filter((m) => m.when && istDay(whenMs(m)) === today)],
       india: ['India’s upcoming matches', DATA.matches.filter((m) => m.india && state(m) === 'upcoming')],
+      recent: ['Just finished (last ' + RECENT_H + ' hours)', DATA.matches.filter(isRecent)],
       results: ['Latest results', DATA.matches.filter((m) => state(m) === 'result')],
       all: ['Every match on the site', DATA.matches]
     }[kind];
     if (!L) return;
-    openDlg('Match centre', `${L[0]} (${L[1].length})`, `<div class="dlg-tabs">${[['live', 'Live'], ['today', 'Today'], ['india', 'India upcoming'], ['results', 'Results'], ['all', 'All']].map((k) => `<button type="button" class="chip" aria-selected="${k[0] === kind}" data-open="list:${k[0]}">${k[1]}</button>`).join('')}</div>${listOr(sortM(L[1]), matchRow, 'Nothing here right now.')}`);
+    openDlg('Match centre', `${L[0]} (${L[1].length})`, `<div class="dlg-tabs">${[['live', 'Live'], ['recent', 'Just finished'], ['today', 'Today'], ['india', 'India upcoming'], ['results', 'Results'], ['all', 'All']].map((k) => `<button type="button" class="chip" aria-selected="${k[0] === kind}" data-open="list:${k[0]}">${k[1]}</button>`).join('')}</div>${listOr(sortM(L[1]), matchRow, 'Nothing here right now.')}`);
   },
   sports() {
     const sp = sportsPresent();
@@ -815,7 +822,7 @@ function renderMatches() {
   let list = DATA.matches.filter((m) => (fSport === 'All' || m.sport === fSport) && (!indiaOnly || m.india));
   list = list.filter((m) => {
     const s = state(m), d = m.when ? istDay(whenMs(m)) : null;
-    if (fWhen === 'now') return s === 'live' || s === 'started' || d === today || (s === 'result' && m.recent);
+    if (fWhen === 'now') return s === 'live' || s === 'started' || d === today || isRecent(m) || (s === 'result' && m.recent);
     if (fWhen === 'upcoming') return s === 'upcoming';
     if (fWhen === 'results') return s === 'result';
     return true;
@@ -828,10 +835,10 @@ function cardHtml(m) {
   const s = state(m);
   const pill = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE</span>'
     : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>'
-    : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>'
+    : s === 'result' ? (isRecent(m) ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">JUST FINISHED</span>' : '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>')
     : m.gold ? '<span class="pill m-gold">MEDAL MATCH</span>' : m.big ? '<span class="pill m-gold">BIG MATCH</span>' : '<span class="pill" style="background:var(--surface-2);color:var(--text-2)">UPCOMING</span>';
   const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : t[2] || '')}</div></div>`;
-  const foot = s === 'live' ? esc(m.status || 'In progress') : s === 'result' ? esc(m.day || '') : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
+  const foot = s === 'live' ? esc(m.status || 'In progress') : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">${pill}<span style="font-size:12px;color:var(--muted);font-weight:500">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span>${m.india ? '<span class="ind-tag">INDIA</span>' : ''}</div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
@@ -895,7 +902,10 @@ function pickFeatured() {
   const ms = DATA.matches;
   let f = DATA.featured ? ms.find((m) => m.id === DATA.featured && state(m) !== 'result') : null;
   const by = (fn) => ms.filter(fn).sort((x, y) => whenMs(x) - whenMs(y))[0];
-  f = f || by((m) => m.india && (state(m) === 'live' || state(m) === 'started') && (m.big || m.gold))
+  const justDone = ms.filter((m) => m.india && (m.big || m.gold) && m.st === 'result' && m.resultAt && minsAgo(resMs(m)) < HERO_MIN).sort((x, y) => resMs(y) - resMs(x))[0];
+  const liveBig = by((m) => m.india && state(m) === 'live' && (m.big || m.gold));
+  f = f && !justDone ? f : null;
+  f = f || liveBig || justDone || by((m) => m.india && state(m) === 'started' && (m.big || m.gold))
         || by((m) => m.india && state(m) === 'upcoming' && (m.big || m.gold))
         || by((m) => state(m) === 'live')
         || by((m) => state(m) === 'upcoming' && m.india)
@@ -904,9 +914,9 @@ function pickFeatured() {
   feat = f;
   if (!f) return;
   const s = state(f);
-  $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
+  $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.gold && f.win ? (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? 'INDIA WIN GOLD' : 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
   $('featTitle').textContent = [f.sport, f.comp, f.round].filter(Boolean).join(' · ');
-  $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.day || '') : 'Starts ' + whenText(f.when);
+  $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.a[2] || '');
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.b[2] || '');
   $('featNote').textContent = 'Tap for full details';
@@ -926,13 +936,13 @@ function renderAll() {
   const indUp = DATA.matches.filter((m) => m.india && state(m) === 'upcoming').length;
   $('hdrLive').textContent = live ? live + ' LIVE NOW' : todayN + ' MATCHES TODAY';
   $('chip1').setAttribute('data-open', live ? 'list:live' : 'list:india');
-  const facts = DATA.heroFacts && DATA.heroFacts.length ? DATA.heroFacts : [{ v: live, l: 'Live now', k: 'list:live' }, { v: todayN, l: 'Matches today', k: 'list:today' }, { v: indUp, l: 'India upcoming', k: 'list:india' }, { v: sportsPresent().length, l: 'Sports covered', k: 'sports' }];
+  const facts = DATA.heroFacts && DATA.heroFacts.length ? DATA.heroFacts : [{ v: live, l: 'Live now', k: 'list:live' }, { v: todayN, l: 'Matches today', k: 'list:today' }, { v: indUp, l: 'India upcoming', k: 'list:india' }, { v: DATA.matches.filter(isRecent).length, l: 'Just finished', k: 'list:recent' }];
   $('facts').innerHTML = facts.map((f) => `<div class="fact" ${clickable(f.k || 'list:all', f.l)}><b>${esc(f.v)}</b><span>${esc(f.l)}</span></div>`).join('');
   $('chip1').textContent = live ? live + ' LIVE NOW' : indUp + ' INDIA MATCHES AHEAD';
   $('chip2').textContent = DATA.dayLabel || 'Updated through the day';
-  const tick = DATA.matches.slice().sort((x, y) => (y.india ? 1 : 0) - (x.india ? 1 : 0)).map((m) => {
+  const tick = sortM(DATA.matches).map((m) => {
     const s = state(m);
-    return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : `${m.a[2] || ''} – ${m.b[2] || ''}`, x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? 'FT · ' + (m.comp || '') : whenText(m.when) };
+    return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : `${m.a[2] || ''} – ${m.b[2] || ''}`, x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
   });
   $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 14 ? k.a[0] : k.a[1])} ${esc(k.t)} ${esc(k.b[1].length > 14 ? k.b[0] : k.b[1])}</b>${badge(k.b, 20)}<span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
   requestAnimationFrame(() => { const tr = $('ticker'); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; });
