@@ -82,9 +82,11 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 /* ticker */
 .ticker{position:relative;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--surface-2);overflow:hidden}
 .ticker-tag{position:absolute;left:0;top:0;bottom:0;z-index:2;display:flex;align-items:center;gap:8px;padding:0 22px;background:#E5372B;color:#fff;font-family:'Archivo',sans-serif;font-weight:900;font-size:13px;letter-spacing:.04em}
-.track{display:flex;width:max-content;padding:18px 0 18px 200px;animation:marquee 60s linear infinite}
+.track{display:flex;width:max-content;padding:12px 0 12px 172px;animation:marquee 60s linear infinite}
 .track:hover{animation-play-state:paused}
-.tk{display:flex;align-items:center;gap:12px;padding:0 28px;border-right:1px solid var(--line);white-space:nowrap;font-size:14px}
+.tk{display:flex;align-items:center;gap:10px;padding:8px 16px;margin-right:14px;border:1px solid var(--line-strong);border-radius:12px;background:var(--surface);white-space:nowrap;font-size:14px;box-shadow:0 4px 12px -10px rgba(15,20,25,.4)}
+.tk small{padding-right:10px;border-right:1px solid var(--line)}
+.tk .vs{color:var(--muted);font-weight:500}
 .tk small{font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--muted)}
 
 /* medal table */
@@ -347,6 +349,13 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  .js-anim .reveal{transition:none}
  dialog.dlg::backdrop{backdrop-filter:none}
 }
+
+.ticker-tag{width:152px;justify-content:center;padding:0 12px !important;letter-spacing:.06em}
+.ticker{min-height:60px}
+.ticker + .ticker{border-top:1px solid var(--line)}
+.wonpill{background:var(--surface-2);color:var(--text);border:1px solid var(--line-strong);gap:6px;text-transform:none;letter-spacing:0;font-size:12px}
+.wonpill .flag,.wonpill .club{border-radius:4px;box-shadow:none}
+@media (max-width:640px){.ticker-tag{width:118px;font-size:11px}.track{padding-left:130px}.tk{font-size:13px;padding:7px 12px}}
 </style>
 </head>
 <body class="cts-light">
@@ -853,6 +862,13 @@ function renderMatches() {
   $('matchEmpty').hidden = list.length > 0;
   $('matchGrid').innerHTML = list.map(cardHtml).join('');
 }
+function winnerName(t) { return t[0] === 'IND' && /india/i.test(t[1]) ? 'India' : t[1]; }
+function wonPill(m) {
+  if (state(m) !== 'result') return '';
+  if (!m.win) return '<span class="pill wonpill">DRAW</span>';
+  const w = m.win === 'a' ? m.a : m.b;
+  return `<span class="pill wonpill">${badge(w, 16)}${esc(winnerName(w))} won</span>`;
+}
 function cardHtml(m) {
   const s = state(m);
   const pill = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE</span>'
@@ -862,7 +878,7 @@ function cardHtml(m) {
   const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : t[2] || '')}</div></div>`;
   const foot = s === 'live' ? esc(m.status || 'In progress') : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
-    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">${pill}<span style="font-size:12px;color:var(--muted);font-weight:500">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span>${m.india ? '<span class="ind-tag">INDIA</span>' : ''}</div>
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">${pill}${wonPill(m)}<span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
     <div class="foot"><span class="mono" style="color:${s === 'live' ? 'var(--live-text)' : 'var(--accent)'}">${foot}</span><span class="more">Details →</span></div>
   </article>`;
@@ -968,14 +984,14 @@ function renderAll() {
     const s = state(m);
     return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : `${m.a[2] || ''} – ${m.b[2] || ''}`, x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
   });
-  $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 14 ? k.a[0] : k.a[1])} ${esc(k.t)} ${esc(k.b[1].length > 14 ? k.b[0] : k.b[1])}</b>${badge(k.b, 20)}<span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
+  $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 16 ? k.a[1].split(' ').pop() : k.a[1])}</b><span class="vs">${esc(k.t)}</span>${badge(k.b, 20)}<b style="font-weight:600">${esc(k.b[1].length > 16 ? k.b[1].split(' ').pop() : k.b[1])}</b><span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
   /* results line: every finished match, newest first — winner first, India or not */
   const short = (t) => (t[1].length > 16 ? (FLAGMAP[t[0]] ? t[1].split(' ').pop() : t[0]) : t[1]);
   const res = DATA.matches.filter((m) => state(m) === 'result').sort((x, y) => (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x))).map((m) => {
     const w = m.win === 'b' ? m.b : m.a, l = m.win === 'b' ? m.a : m.b, verb = m.win ? 'beat' : 'drew with';
     const score = m.win ? `${w[2] || ''}${w[2] || l[2] ? '–' : ''}${l[2] || ''}` : `${m.a[2] || ''}–${m.b[2] || ''}`;
     const indLost = m.win && l[0] === 'IND';
-    return `<div class="tk" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small>${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b><span style="color:var(--muted)">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b><span class="mono" style="font-weight:700;color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score.replace(/^–$/, ''))}</span><span class="mono" style="color:var(--muted);font-size:12px">${esc([m.comp, m.round].filter(Boolean).join(' · '))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
+    return `<div class="tk" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small>${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b><span class="mono" style="font-weight:700;color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score.replace(/^–$/, ''))}</span><span class="mono" style="color:var(--muted);font-size:12px">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
   });
   $('resTicker').innerHTML = res.concat(res).join('');
   requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
