@@ -331,6 +331,12 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  #featA .flag,#featB .flag,#featA .club,#featB .club{width:56px !important;height:56px !important}
  .facts{order:5;margin-top:0}
 }
+/* headline: 3 lines on desktop, 2 lines on mobile ("Every sport. Every" / "Indian moment. Live.") */
+.br-m{display:none}
+@media (max-width:640px){
+ .br-d{display:none}.br-m{display:inline}
+ .hero .h1{font-size:min(9.6vw,44px) !important;line-height:1 !important;white-space:nowrap}
+}
 
 .ticker-res{border-top:0}
 .ticker-res .track{animation-direction:normal}
@@ -399,7 +405,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div class="rise" style="display:flex;flex-direction:column;gap:26px;position:relative;z-index:2">
 <span class="pill" style="align-self:flex-start;padding:8px 14px 8px 8px;border:1px solid var(--line);background:var(--surface);color:var(--text-2);font-size:13px;font-weight:500;letter-spacing:0">
 <span class="pill" style="background:var(--accent);color:var(--on-accent)">LIVE</span><span id="heroTag">Every sport, live</span></span>
-<h1 class="h1">Every sport.<br>Every <span style="color:var(--accent)">Indian</span><br>moment. Live.</h1>
+<h1 class="h1">Every sport.<br class="br-d"> Every<br class="br-m"> <span style="color:var(--accent)">Indian</span><br class="br-d"> moment. Live.</h1>
 <p class="lede" id="heroLede">Live scores, results and fixtures for Indian fans.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
 <a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; today</a>
@@ -1018,6 +1024,15 @@ for (let i = 0; i < 9; i++) rings += `<div style="border:1px solid ${i % 3 === 0
 $('globe').innerHTML = rings;
 
 try { renderAll(); } catch (e) { console.error(e); }
+/* mobile: shrink the 2-line headline if a font renders wider than expected */
+function fitH1() {
+  const h = document.querySelector('.hero .h1'); if (!h) return;
+  h.style.fontSize = '';
+  if (!matchMedia('(max-width:640px)').matches) return;
+  let fs = parseFloat(getComputedStyle(h).fontSize), n = 0;
+  while (h.scrollWidth > h.clientWidth + 1 && fs > 24 && n++ < 30) { fs -= 1; h.style.setProperty('font-size', fs + 'px', 'important'); }
+}
+fitH1(); addEventListener('resize', fitH1); if (document.fonts) document.fonts.ready.then(fitH1);
 
 /* live refresh from data.json every 20 s */
 let lastStamp = DATA.lastUpdated;
