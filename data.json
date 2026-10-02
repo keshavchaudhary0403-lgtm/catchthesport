@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T15:43:43+05:30",
+  "lastUpdated": "2026-10-02T16:37:18+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-hockey-w-final",
   "matches": [
@@ -572,8 +572,12 @@
         "–"
       ],
       "when": "2026-10-02T15:58:00+05:30",
-      "note": "Dipanshi plays for bronze after her pre-quarter-final loss to Japan's Yui Susaki. Time as listed by Khel Now.",
+      "note": "Dipanshi plays for bronze after beating Cambodia's Samnang Dit 10–0 in the repechage (her pre-quarter-final loss was to Japan's Yui Susaki). Bout running slightly behind the 3:58 pm listing.",
       "src": [
+        {
+          "t": "NDTV Sports – Day 13 live updates",
+          "u": "https://sports.ndtv.com/asian-games-2026/asian-games-2026-live-updates-day-13-india-medal-tally-boxing-archery-hockey-wrestling-aichi-nagoya-japan-live-news-12127340"
+        },
         {
           "t": "Ommcom News – Sujeet in final; Dipanshi for bronze",
           "u": "https://ommcomnews.com/sports-news/asian-games-sujeet-enters-65kg-freestyle-wrestling-final-dipanshi-to-play-for-womens-50kg-bronze/"
@@ -589,22 +593,22 @@
       ]
     },
     {
-      "st": "upcoming",
+      "st": "live",
       "gold": true,
       "sport": "Hockey",
       "round": "Women's final · Gold",
       "a": [
         "IND",
         "India",
-        "–"
+        "0"
       ],
       "b": [
         "CHN",
         "China",
-        "–"
+        "0"
       ],
-      "when": "2026-10-02T16:15:00+05:30",
-      "note": "Start delayed 45 minutes to 4:15 pm IST after traffic from an unrelated accident held up the Indian team bus. India beat South Korea 2–0 in the semi (Ishika 44′, Salima Tete 48′). China are defending champions.",
+      "when": "2026-10-02T16:30:00+05:30",
+      "note": "Under way at 4:30 pm IST after a 75-minute delay (team buses held up by traffic from an accident). Lalremsiami plays her 200th match for India. India beat South Korea 2–0 in the semi; China are defending champions.",
       "venue": "Aichi-Nagoya",
       "id": "ag-hockey-w-final",
       "comp": "Asian Games",
@@ -613,6 +617,10 @@
       "watch": "Sony Sports / SonyLIV",
       "src": [
         {
+          "t": "Sportstar – India vs China women's final live",
+          "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
+        },
+        {
           "t": "NDTV Sports – India vs China final live (delayed 45 min)",
           "u": "https://sports.ndtv.com/asian-games-2026/india-vs-china-live-score-asian-games-2026-womens-hockey-final-ind-vs-chn-live-match-updates-aichi-nagoya-12129480"
         },
@@ -620,7 +628,8 @@
           "t": "Khel Now – India beat Korea, final vs China",
           "u": "https://khelnow.com/hockey/india-south-korea-women-report-asian-games-202609"
         }
-      ]
+      ],
+      "status": "Q1 · 4′"
     },
     {
       "st": "upcoming",
@@ -1156,13 +1165,17 @@
       ],
       "b": [
         "DEL",
-        "Delhi",
+        "Sporting Club Delhi",
         "",
         "#B91C1C"
       ],
-      "when": "2026-10-10",
+      "when": "2026-10-10T17:00:00+05:30",
       "note": "ISL 2026-27 kicks off — 13 teams, playoffs are back. East Bengal are defending champions.",
       "src": [
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
         {
           "t": "Wikipedia – 2026-27 Indian Super League",
           "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
@@ -1171,7 +1184,8 @@
           "t": "ESPN – ISL to begin 10 October",
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
         }
-      ]
+      ],
+      "venue": "Sree Kanteerava Stadium, Bengaluru"
     },
     {
       "id": "isl-goa-che",
@@ -1192,8 +1206,12 @@
         "",
         "#1D4ED8"
       ],
-      "when": "2026-10-10",
+      "when": "2026-10-10T19:30:00+05:30",
       "src": [
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
         {
           "t": "Wikipedia – 2026-27 Indian Super League",
           "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
@@ -1202,7 +1220,8 @@
           "t": "ESPN – ISL to begin 10 October",
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
         }
-      ]
+      ],
+      "venue": "Fatorda Stadium, Goa"
     },
     {
       "id": "isl-chu-mcfc",
@@ -1223,9 +1242,13 @@
         "",
         "#0EA5E9"
       ],
-      "when": "2026-10-11",
+      "when": "2026-10-11T19:30:00+05:30",
       "note": "Churchill Brothers make their ISL debut after taking over Jamshedpur's licence.",
       "src": [
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
         {
           "t": "Wikipedia – 2026-27 Indian Super League",
           "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
@@ -1233,6 +1256,36 @@
         {
           "t": "ESPN – ISL to begin 10 October",
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        }
+      ],
+      "venue": "Fatorda Stadium, Goa"
+    },
+    {
+      "id": "isl-neu-mbsg",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "st": "upcoming",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "",
+        "#7A1F3D"
+      ],
+      "when": "2026-10-12T19:30:00+05:30",
+      "india": true,
+      "venue": "Sarusajai Stadium, Guwahati",
+      "note": "Mohun Bagan's season opener, away in Guwahati.",
+      "src": [
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
         }
       ]
     },
@@ -2562,7 +2615,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-02T15:43:43+05:30",
+    "medalChecked": "2026-10-02T16:37:18+05:30",
     "othersAsOf": "Day 13 in progress (Wikipedia table, 15:45 IST)"
   },
   "competitions": [
@@ -2714,6 +2767,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "16:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Hockey",
+      "text": "Women's hockey final vs China finally under way at 4:30 pm IST — 0–0 early in the first quarter. Lalremsiami is playing her 200th match for India.",
+      "match": "ag-hockey-w-final",
+      "src": [
+        {
+          "t": "Sportstar – India vs China women's final live",
+          "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
+        }
+      ]
+    },
     {
       "t": "15:35",
       "tag": "NEWS",
@@ -2869,14 +2936,6 @@
       "m": "Archery",
       "text": "Kumkum Mohod and Dhiraj Bommadevara beat Japan in the recurve mixed team semi-final — India assured of at least a silver. Gold medal match at 9:15 am.",
       "match": "ag-archery-mixed-final"
-    },
-    {
-      "t": "07:31",
-      "tag": "OUT",
-      "c": "var(--live-text)",
-      "m": "Wrestling",
-      "text": "Rajat Ruhal loses 3–8 to Kazakhstan’s Yedige Kassimbek in the men’s freestyle 125kg.",
-      "match": "ag-3"
     }
   ],
   "schedule": [
@@ -2884,8 +2943,8 @@
       "d": "02",
       "mo": "OCT",
       "title": "Women's hockey final",
-      "meta": "India vs China · Gold · delayed 45 min",
-      "time": "16:15",
+      "meta": "India vs China · Gold · LIVE",
+      "time": "16:30",
       "match": "ag-hockey-w-final"
     },
     {
@@ -2955,8 +3014,8 @@
       "d": "10",
       "mo": "OCT",
       "title": "ISL 2026-27 kicks off",
-      "meta": "Bengaluru v Delhi, Goa v Chennaiyin",
-      "time": "TBC",
+      "meta": "Bengaluru v SC Delhi, Goa v Chennaiyin",
+      "time": "17:00",
       "match": "isl-bfc-del"
     },
     {
