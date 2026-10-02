@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T09:39:55+05:30",
+  "lastUpdated": "2026-10-02T10:05:30+05:30",
   "dayLabel": "Fri 2 Oct · Asian Games Day 13",
   "featured": "ag-7",
   "matches": [
@@ -881,10 +881,18 @@
         "Brazil",
         ""
       ],
-      "when": "2026-10-03",
-      "note": "Brazil's first senior international on Indian soil. Kick-off time to be confirmed by AIFF.",
-      "venue": "Salt Lake Stadium, Kolkata",
+      "when": "2026-10-03T19:30:00+05:30",
+      "note": "Brazil's first senior international on Indian soil. 7:30 pm kick-off per the official ticketing page; gates open 3 pm.",
+      "venue": "Salt Lake Stadium (VYBK), Kolkata",
       "src": [
+        {
+          "t": "District – India vs Brazil tickets",
+          "u": "https://www.district.in/events/fifa-international-friendly-india-vs-brazil-buy-tickets"
+        },
+        {
+          "t": "Football Dream – India vs Brazil: time, tickets, TV",
+          "u": "https://www.footballdream.in/blog/india-vs-brazil-2026-kolkata-friendly-time-tickets-tv"
+        },
         {
           "t": "AIFF – India to host Brazil",
           "u": "https://www.the-aiff.com/article/india-to-host-five-time-world-champions-brazil-in-historic-kolkata-friendly"
@@ -897,7 +905,8 @@
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
-      ]
+      ],
+      "watch": "Sony Sports Network / SonyLIV"
     },
     {
       "id": "ind-uru",
@@ -2557,7 +2566,7 @@
       "mo": "OCT",
       "title": "India v Brazil",
       "meta": "Football friendly · Kolkata",
-      "time": "TBC",
+      "time": "19:30",
       "match": "ind-bra"
     },
     {
