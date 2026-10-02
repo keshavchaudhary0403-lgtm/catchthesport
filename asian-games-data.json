@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T09:17:00+05:30",
+  "lastUpdated": "2026-10-02T09:18:00+05:30",
   "day": 13,
   "dayLabel": "Day 13 · in progress",
   "medalAsOf": "Other nations: end of Day 12 · India: 2 Oct, 9:05 am IST",
@@ -270,6 +270,25 @@
       "venue": ""
     },
     {
+      "st": "result",
+      "day": "2 Oct · Day 13",
+      "sport": "Archery",
+      "round": "Recurve mixed team semi-final",
+      "a": [
+        "CHN",
+        "China",
+        "6"
+      ],
+      "b": [
+        "KOR",
+        "South Korea",
+        "0"
+      ],
+      "win": "a",
+      "note": "Zhu Jingyi & Li Mengqi beat Kim Je-deok & Kang Chae-young. China meet India in the final.",
+      "venue": "Okazaki Central Comprehensive Park"
+    },
+    {
       "st": "upcoming",
       "gold": true,
       "sport": "Archery",
@@ -280,13 +299,13 @@
         "–"
       ],
       "b": [
-        "TBC",
-        "KOR / CHN",
+        "CHN",
+        "China",
         "–"
       ],
       "when": "2026-10-02T09:15:00+05:30",
-      "note": "Opponent: winner of South Korea (Kang Chae-young & Kim Je-deok) vs China. Kumkum Mohod & Dhiraj Bommadevara go for India’s second archery gold of the day.",
-      "venue": ""
+      "note": "Kumkum Mohod & Dhiraj Bommadevara vs China’s Zhu Jingyi & Li Mengqi, who beat South Korea 6–0 in the semi-final.",
+      "venue": "Okazaki Central Comprehensive Park"
     },
     {
       "st": "upcoming",
@@ -538,6 +557,13 @@
   ],
   "feed": [
     {
+      "t": "09:15",
+      "tag": "LIVE",
+      "c": "var(--accent)",
+      "m": "Archery",
+      "text": "Recurve mixed team gold medal match under way: Kumkum Mohod & Dhiraj Bommadevara vs China. China crushed South Korea 6–0 in the other semi-final."
+    },
+    {
       "t": "08:45",
       "tag": "FINAL",
       "c": "var(--accent)",
@@ -634,7 +660,7 @@
       "d": "02",
       "mo": "OCT",
       "title": "Recurve mixed team final",
-      "meta": "Kumkum / Dhiraj · Gold",
+      "meta": "India vs China · Gold",
       "time": "09:15"
     },
     {
