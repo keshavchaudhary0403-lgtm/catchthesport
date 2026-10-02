@@ -1028,7 +1028,20 @@ async function pullData() {
     try { renderAll(); lastStamp = fresh.lastUpdated; flashNew(); } catch (err) { DATA = prev; renderAll(); }
   } catch (e) {}
 }
-if (location.protocol.indexOf('http') === 0) { pullData(); setInterval(pullData, 20000); }
+/* reload the open page when a new site design (index.html) is deployed */
+let pageSig = null, reloadDue = false;
+async function checkCode() {
+  try {
+    const res = await fetch(location.pathname + '?v=' + Date.now(), { cache: 'no-store' });
+    if (!res.ok) return;
+    const t = await res.text();
+    if (t.indexOf('</html>') < 0) return;
+    let h = 0; for (let i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) | 0;
+    if (pageSig === null) pageSig = h; else if (h !== pageSig) reloadDue = true;
+    if (reloadDue && !document.querySelector('dialog[open]')) location.reload();
+  } catch (e) {}
+}
+if (location.protocol.indexOf('http') === 0) { pullData(); setInterval(pullData, 20000); checkCode(); setInterval(checkCode, 60000); }
 
 function tick() {
   updAgo(); try { medalLabel(); } catch (e) {}
