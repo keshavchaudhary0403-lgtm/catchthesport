@@ -354,6 +354,20 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  .hero > .rise > div:nth-of-type(1),.facts{position:relative;z-index:2}
  .globe-wrap{-webkit-mask-image:linear-gradient(180deg,transparent 2%,#000 16%,#000 84%,transparent 98%);mask-image:linear-gradient(180deg,transparent 2%,#000 16%,#000 84%,transparent 98%)}
 }
+/* phones/tablets: floating feel with 2D-only motion (no 3D layers, so no Android glitches) */
+@media (max-width:900px),(hover:none){
+ .feat{animation:mFloat 6s ease-in-out infinite;box-shadow:0 30px 60px -24px rgba(15,20,25,.38),0 12px 24px -16px rgba(37,99,235,.25)}
+ .tilt::after{content:'';position:absolute;left:12%;right:12%;bottom:-34px;height:22px;border-radius:50%;background:radial-gradient(closest-side,rgba(15,20,25,.22),transparent);animation:mShadow 6s ease-in-out infinite;pointer-events:none;z-index:-1}
+ #featA,#featB{animation:mBob 4.2s ease-in-out infinite}
+ #featB{animation-delay:-2.1s}
+ #featPill{display:inline-flex;animation:mBob 5s ease-in-out infinite;animation-delay:-1s}
+ .chip2{animation:mChip 5s ease-in-out infinite !important}
+}
+@keyframes mFloat{0%,100%{transform:translateY(0) rotate(-.6deg)}50%{transform:translateY(-12px) rotate(.6deg)}}
+@keyframes mShadow{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(.82);opacity:.55}}
+@keyframes mBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes mChip{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
+@media (prefers-reduced-motion:reduce){.feat,.tilt::after,#featA,#featB,#featPill,.chip2{animation:none !important}}
 /* headline: 3 lines on desktop, 2 lines on mobile ("Every sport. Every" / "Indian moment. Live.") */
 .br-m{display:none}
 @media (max-width:640px){
