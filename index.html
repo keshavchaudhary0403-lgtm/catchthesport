@@ -258,6 +258,15 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .src a::after{content:"↗";font-size:12px}
 .dlg-tabs{display:flex;gap:8px;flex-wrap:wrap}
 @media (max-width:640px){.dl{grid-template-columns:1fr}.dl dt{padding-top:6px}.dlg-head,.dlg-body{padding-left:18px;padding-right:18px}}
+
+/* lighter text */
+.clamp2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.mcard .who,.feed-row .b p,#evDesc{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.feed-row .b p{font-size:15px}
+.feed-row .b{padding-bottom:18px}
+.pcard{align-items:center}
+.comp{gap:12px}
+.mcard2{gap:16px}
 </style>
 </head>
 <body class="cts-light">
@@ -294,9 +303,9 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <section class="wrap hero">
 <div class="rise" style="display:flex;flex-direction:column;gap:26px;position:relative;z-index:2">
 <span class="pill" style="align-self:flex-start;padding:8px 14px 8px 8px;border:1px solid var(--line);background:var(--surface);color:var(--text-2);font-size:13px;font-weight:500;letter-spacing:0">
-<span class="pill" style="background:var(--accent);color:var(--on-accent)">LIVE</span><span id="heroTag">Cricket · Football · Hockey · Kabaddi · Badminton · Tennis</span></span>
+<span class="pill" style="background:var(--accent);color:var(--on-accent)">LIVE</span><span id="heroTag">Every sport, live</span></span>
 <h1 class="h1">Every sport.<br>Every <span style="color:var(--accent)">Indian</span><br>moment. Live.</h1>
-<p class="lede" id="heroLede">Live scores, results and upcoming matches across every sport Indian fans follow — updated through the day by Catch The Sport.</p>
+<p class="lede" id="heroLede">Live scores, results and fixtures for Indian fans.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
 <a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; today</a>
 <a class="btn btn-ghost" href="#schedule" style="min-height:52px;padding:0 26px;font-size:16px">India's upcoming matches</a>
@@ -466,7 +475,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div style="position:absolute;right:-120px;bottom:-200px;width:560px;height:560px;border-radius:50%;border:1px solid rgba(37,99,235,.18);box-shadow:0 0 0 60px rgba(37,99,235,.03),0 0 0 140px rgba(37,99,235,.02)"></div>
 <div style="display:flex;flex-direction:column;gap:16px;max-width:640px;position:relative">
 <h2 style="font-weight:900;font-size:clamp(32px,4.2vw,60px);letter-spacing:-.04em;line-height:1">Never miss<br><span style="color:var(--accent)">an Indian moment.</span></h2>
-<p style="margin:0;font-size:18px;line-height:1.55;color:var(--text-2)">Subscribe and turn on notifications — we go live for the matches that matter to Indian fans.</p>
+<p style="margin:0;font-size:18px;line-height:1.55;color:var(--text-2)">Subscribe and hit the bell.</p>
 </div>
 <div style="display:flex;flex-direction:column;gap:12px;position:relative;min-width:260px">
 <a class="btn btn-yt" href="https://www.youtube.com/" style="min-height:58px;font-size:16px"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="M10 9l5 3-5 3z"/></svg>Subscribe on YouTube</a>
@@ -754,7 +763,6 @@ function cardHtml(m) {
   return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">${pill}<span style="font-size:12px;color:var(--muted);font-weight:500">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span>${m.india ? '<span class="ind-tag">INDIA</span>' : ''}</div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
-    ${m.note ? `<div class="detail">${esc(m.note)}</div>` : ''}
     <div class="foot"><span class="mono" style="color:${s === 'live' ? 'var(--live-text)' : 'var(--accent)'}">${foot}</span><span class="more">Details →</span></div>
   </article>`;
 }
@@ -819,7 +827,7 @@ function pickFeatured() {
   $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.day || '') : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.a[2] || '');
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.b[2] || '');
-  $('featNote').textContent = (f.note || '') + '  ·  Click for details';
+  $('featNote').textContent = 'Tap for full details';
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
 }
 function updAgo() {
@@ -845,10 +853,10 @@ function renderAll() {
     return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : `${m.a[2] || ''} – ${m.b[2] || ''}`, x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? 'FT · ' + (m.comp || '') : whenText(m.when) };
   });
   $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 14 ? k.a[0] : k.a[1])} ${esc(k.t)} ${esc(k.b[1].length > 14 ? k.b[0] : k.b[1])}</b>${badge(k.b, 20)}<span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
-  $('compGrid').innerHTML = (DATA.competitions || []).map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><p>${esc(c.note || '')}</p><span class="more">Fixtures & details →</span></article>`).join('');
+  $('compGrid').innerHTML = (DATA.competitions || []).map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
   $('feed').innerHTML = DATA.feed.map((f, i) => `<div class="feed-row" ${clickable('feed:' + i, f.tag + ' ' + f.m)}><div class="t">${esc(f.t)}</div><div class="rail"><i style="background:${f.c}"></i><em></em></div><div class="b"><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag" style="color:${f.c}">${esc(f.tag)}</span><span class="note">${esc(f.m)}</span></div><p>${esc(f.text)}</p></div></div>`).join('');
   $('schedList').innerHTML = DATA.schedule.map((s, i) => `<div class="srow" ${clickable('sched:' + i, s.title)}><div class="d"><b>${esc(s.d)}</b><span>${esc(s.mo)}</span></div><div style="flex-grow:1;min-width:0"><div style="font-weight:700;font-size:15px">${esc(s.title)}</div><div style="font-size:13px;opacity:.82;margin-top:2px">${esc(s.meta)}</div></div><div class="mono" style="font-weight:700;font-size:13px">${esc(s.time)}</div></div>`).join('');
-  $('playerCards').innerHTML = (DATA.players || []).map((p, i) => `<article class="card pcard" ${clickable('player:' + i, p.name)}><div class="avatar">${esc(p.i)}</div><div><b>${esc(p.name)}</b><span>${esc(p.role)}</span><p>${esc(p.p)}</p></div></article>`).join('');
+  $('playerCards').innerHTML = (DATA.players || []).map((p, i) => `<article class="card pcard" ${clickable('player:' + i, p.name)}><div class="avatar">${esc(p.i)}</div><div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></article>`).join('');
   const sp = sportsPresent();
   $('sportList').innerHTML = sp.map(([s, n]) => `<button type="button" data-open="sport:${esc(s)}">${esc(s)}<span class="ct">${n}</span></button>`).join('');
   $('videoList').innerHTML = (DATA.videos || []).map((v) => `<a class="vid" href="${esc(v.url || 'https://www.youtube.com/')}" target="_blank" rel="noopener"><div class="thumb" style="background:${v.bg}"><div class="big">${esc(v.big)}</div><div class="play"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="7 4 20 12 7 20 7 4"/></svg></div><div class="mono" style="position:absolute;right:14px;bottom:14px;padding:4px 8px;border-radius:6px;background:rgba(0,0,0,.65);color:#fff;font-size:12px">${esc(v.len)}</div></div><div><div style="font-weight:600;font-size:16px;line-height:1.35">${esc(v.title)}</div><div class="note" style="margin-top:4px">${esc(v.meta)}</div></div></a>`).join('');
