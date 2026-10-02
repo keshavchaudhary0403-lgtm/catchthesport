@@ -460,10 +460,10 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div class="sec-head">
 <div class="l"><div class="eyebrow">Team India</div><h2 class="h2">India's medal winners</h2></div>
 <div style="display:flex;gap:8px;flex-wrap:wrap" role="tablist" aria-label="Filter India medals">
-<button class="chip" type="button" role="tab" data-mf="gold" aria-selected="true">Gold</button>
+<button class="chip" type="button" role="tab" data-mf="recent" aria-selected="true">Latest</button>
+<button class="chip" type="button" role="tab" data-mf="gold" aria-selected="false">Gold</button>
 <button class="chip" type="button" role="tab" data-mf="silver" aria-selected="false">Silver</button>
 <button class="chip" type="button" role="tab" data-mf="bronze" aria-selected="false">Bronze</button>
-<button class="chip" type="button" role="tab" data-mf="recent" aria-selected="false">Latest</button>
 </div>
 </div>
 <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:22px">
@@ -797,7 +797,7 @@ document.addEventListener('keydown', (e) => {
 const clickable = (key, label) => `data-open="${esc(key)}" role="button" tabindex="0" aria-label="${esc(label)}"`;
 
 /* ---------- filters ---------- */
-let fSport = 'All', fWhen = 'now', indiaOnly = false, sortBy = 'gold', mf = 'gold', feat = null;
+let fSport = 'All', fWhen = 'now', indiaOnly = false, sortBy = 'gold', mf = 'recent', feat = null;
 const WHENS = [['now', 'Live & today'], ['upcoming', 'Upcoming'], ['results', 'Results'], ['all', 'All']];
 $('indiaOnly').onchange = (e) => { indiaOnly = e.target.checked; renderMatches(); };
 function sportsPresent() {
@@ -880,7 +880,9 @@ function renderMedals() {
 }
 function renderMedalists() {
   const all = medalsAll();
-  const list = mf === 'recent' ? all.filter((x) => x.day) : all.filter((x) => x.medal === mf);
+  const dayN = (x) => { const d = Date.parse((x.day || '') + ' ' + new Date().getFullYear()); return isNaN(d) ? 0 : d; };
+  const list = mf === 'recent' ? all.filter((x) => x.day).sort((x, y) => dayN(y) - dayN(x)) : all.filter((x) => x.medal === mf);
+  if (mf === 'recent' && !list.length) { mf = 'gold'; return renderMedalists(); }
   const letter = { gold: 'G', silver: 'S', bronze: 'B' };
   $('medalists').innerHTML = list.length ? list.map((m) => `<article class="card mcard" ${clickable('medal:' + all.indexOf(m), m.medal + ' medal: ' + m.event)}><div style="display:flex;justify-content:space-between;align-items:center;gap:8px"><span class="sport">${esc(m.sport)}${m.day ? ` <span class="pill live-pill" style="margin-left:6px">${esc(m.day)}</span>` : ''}</span><span class="medal-ico m-${m.medal}" aria-label="${m.medal} medal">${letter[m.medal]}</span></div><div class="ev">${esc(m.event)}</div><div class="who">${esc(m.who)}</div><span class="more">Details →</span></article>`).join('') : '<p class="note">No medals in this list yet.</p>';
   document.querySelectorAll('[data-mf]').forEach((b) => b.setAttribute('aria-selected', b.dataset.mf === mf));
