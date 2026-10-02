@@ -554,9 +554,18 @@ const dlg = $('dlg');
 let lastFocus = null;
 function openDlg(eyebrow, title, html) {
   $('dlgEyebrow').textContent = eyebrow; $('dlgTitle').textContent = title; $('dlgBody').innerHTML = html; $('dlgBody').scrollTop = 0;
-  if (!dlg.open) { lastFocus = document.activeElement; if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', ''); }
+  if (!dlg.open) { lastFocus = document.activeElement; openedByKey = lastInputKey; if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', ''); }
 }
-function closeDlg() { if (dlg.close) dlg.close(); else dlg.removeAttribute('open'); if (lastFocus) lastFocus.focus(); }
+/* keyboard users get focus back on the item they opened; mouse/touch users get no leftover focus ring */
+let openedByKey = false, lastInputKey = false;
+document.addEventListener('pointerdown', () => (lastInputKey = false), true);
+document.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ' || e.key === 'Tab') lastInputKey = true; }, true);
+function closeDlg() { if (dlg.close) dlg.close(); else { dlg.removeAttribute('open'); afterClose(); } }
+function afterClose() {
+  if (openedByKey && lastFocus && lastFocus.isConnected) lastFocus.focus();
+  else setTimeout(() => { if (document.activeElement && document.activeElement !== document.body) document.activeElement.blur(); }, 0);
+}
+dlg.addEventListener('close', afterClose);
 $('dlgClose').onclick = closeDlg;
 dlg.addEventListener('click', (e) => { if (e.target === dlg) closeDlg(); });
 function srcHtml(list, fallback) {
