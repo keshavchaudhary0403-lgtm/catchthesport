@@ -268,7 +268,28 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .pcard{align-items:center}
 .comp{gap:12px}
 .mcard2{gap:16px}
-</style>
+
+/* mobile hero: show the live match card on the first screen */
+@media (max-width:640px){
+ .hero{padding-top:20px;padding-bottom:8px;gap:8px}
+ .hero > .rise{gap:14px !important}
+ .h1{font-size:40px;line-height:.98}
+ .lede{font-size:15px}
+ .hero .btn{min-height:44px !important;padding:0 16px !important;font-size:14px !important}
+ .hero .rise > div:nth-of-type(1){gap:8px !important;flex-wrap:nowrap !important}
+ .facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;padding-top:2px}
+ .fact b{font-size:22px}
+ .fact > span{font-size:11px;line-height:1.25;display:block}
+ .fact[data-open]{padding:4px;margin:0}
+ .stage{height:auto;min-height:0;padding:28px 0 36px;perspective:900px}
+ .globe-wrap{width:300px;height:300px}
+ .feat{padding:18px;border-radius:22px}
+ .cd b{font-size:20px}.cd div{padding:8px 2px;border-radius:12px}
+ .chip1{left:4px;top:-18px;font-size:12px;padding:8px 12px}
+ .chip2{right:4px;bottom:-18px;font-size:12px;padding:8px 12px}
+ .grid-floor{height:700px}
+}
+@media (max-width:640px){.hide-m{display:none}}</style>
 </head>
 <body class="cts-light">
 
@@ -309,7 +330,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <p class="lede" id="heroLede">Live scores, results and fixtures for Indian fans.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
 <a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; today</a>
-<a class="btn btn-ghost" href="#schedule" style="min-height:52px;padding:0 26px;font-size:16px">India's upcoming matches</a>
+<a class="btn btn-ghost" href="#schedule" style="min-height:52px;padding:0 26px;font-size:16px">India's <span class="hide-m">upcoming </span>matches</a>
 </div>
 <div class="facts" id="facts"></div>
 </div>
@@ -863,7 +884,7 @@ function renderAll() {
   const indUp = DATA.matches.filter((m) => m.india && state(m) === 'upcoming').length;
   $('hdrLive').textContent = live ? live + ' LIVE NOW' : todayN + ' MATCHES TODAY';
   $('chip1').setAttribute('data-open', live ? 'list:live' : 'list:india');
-  const facts = DATA.heroFacts && DATA.heroFacts.length ? DATA.heroFacts : [{ v: live, l: 'Live now', k: 'list:live' }, { v: todayN, l: 'Matches today', k: 'list:today' }, { v: indUp, l: 'India matches coming up', k: 'list:india' }, { v: sportsPresent().length, l: 'Sports covered', k: 'sports' }];
+  const facts = DATA.heroFacts && DATA.heroFacts.length ? DATA.heroFacts : [{ v: live, l: 'Live now', k: 'list:live' }, { v: todayN, l: 'Matches today', k: 'list:today' }, { v: indUp, l: 'India upcoming', k: 'list:india' }, { v: sportsPresent().length, l: 'Sports covered', k: 'sports' }];
   $('facts').innerHTML = facts.map((f) => `<div class="fact" ${clickable(f.k || 'list:all', f.l)}><b>${esc(f.v)}</b><span>${esc(f.l)}</span></div>`).join('');
   $('chip1').textContent = live ? live + ' LIVE NOW' : indUp + ' INDIA MATCHES AHEAD';
   $('chip2').textContent = DATA.dayLabel || 'Updated through the day';
