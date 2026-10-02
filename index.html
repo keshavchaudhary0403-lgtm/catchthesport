@@ -77,7 +77,7 @@ header.top .wrap{display:flex;align-items:center;justify-content:space-between;g
 .cd b{display:block;font-family:'JetBrains Mono',monospace;font-size:26px;font-weight:700}
 .cd span{font-size:11px;color:var(--muted);letter-spacing:.08em}
 .chip1{position:absolute;left:-44px;top:-26px;padding:12px 16px;border-radius:16px;background:var(--accent);color:var(--on-accent);font-family:'Archivo',sans-serif;font-weight:900;font-size:14px;box-shadow:0 20px 40px -12px rgba(37,99,235,.5);animation:float 5s ease-in-out infinite}
-.chip2{position:absolute;right:-36px;bottom:40px;display:flex;align-items:center;gap:10px;padding:12px 16px;border-radius:16px;background:var(--surface);border:1px solid var(--line-strong);font-size:13px;box-shadow:var(--shadow-sm);animation:float2 6s ease-in-out infinite}
+.chip2{position:absolute;right:-36px;bottom:-22px;display:flex;align-items:center;gap:10px;padding:12px 16px;border-radius:16px;background:var(--surface);border:1px solid var(--line-strong);font-size:13px;box-shadow:var(--shadow-sm);animation:float2 6s ease-in-out infinite}
 
 /* ticker */
 .ticker{position:relative;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--surface-2);overflow:hidden}
@@ -427,7 +427,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div style="font-size:12px;color:var(--muted);margin-bottom:10px" id="featCdLabel">Starts in</div>
 <div class="cd" id="countdown"><div><b>--</b><span>DAYS</span></div><div><b>--</b><span>HRS</span></div><div><b>--</b><span>MIN</span></div><div><b>--</b><span>SEC</span></div></div>
 </div>
-<div style="margin-top:18px;padding:14px 16px;border-radius:16px;background:var(--surface-2);border:1px solid var(--line);font-size:14px;line-height:1.5;color:var(--text-2);transform:translateZ(24px)" id="featNote"></div>
+<div style="margin-top:18px;padding:14px 16px;border-radius:16px;background:var(--surface-2);border:1px solid var(--line);font-size:14px;line-height:1.5;color:var(--text-2);transform:translateZ(24px)" id="featNote" hidden></div>
 </div>
 <div class="chip1" id="chip1" data-open="list:live" role="button" tabindex="0"></div>
 <div class="chip2"><span class="dot pulse"></span><span id="chip2"></span></div>
@@ -884,7 +884,7 @@ function cardHtml(m) {
   const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : t[2] || '')}</div></div>`;
   const foot = s === 'live' ? esc(m.status || 'In progress') : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
-    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">${pill}${wonPill(m)}<span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
     <div class="foot"><span class="mono" style="color:${s === 'live' ? 'var(--live-text)' : 'var(--accent)'}">${foot}</span><span class="more">Details →</span></div>
   </article>`;
@@ -965,7 +965,6 @@ function pickFeatured() {
   $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.a[2] || '');
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').textContent = s === 'upcoming' || s === 'started' ? '' : (f.b[2] || '');
-  $('featNote').textContent = 'Tap for full details';
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
 }
 function updAgo() {
