@@ -331,6 +331,23 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  #featA .flag,#featB .flag,#featA .club,#featB .club{width:56px !important;height:56px !important}
  .facts{order:5;margin-top:0}
 }
+/* Chinese Taipei competes under its Olympic flag (no national flag) — clean white team tile */
+.club.tpe{background:#fff !important;color:#1E3A8A;border:1px solid var(--line-strong);box-shadow:inset 0 -4px 0 #D62828}
+/* "Live." in live red with a soft pulse */
+.h1-live{color:#E5372B;animation:h1Live 2.4s ease-in-out infinite}
+@keyframes h1Live{50%{opacity:.72}}
+@media (prefers-reduced-motion:reduce){.h1-live{animation:none}}
+/* desktop: hero sized so both running lines show on the first screen */
+@media (min-width:961px){
+ .hero{padding-top:36px;padding-bottom:20px}
+ .stage{height:clamp(440px,calc(100vh - 300px),600px)}
+}
+/* mobile: tighter globe stage so the stat tiles show fully on the first screen */
+@media (max-width:640px){
+ .stage{min-height:0 !important;padding:18px 0 30px !important;margin-bottom:0 !important}
+ .globe-wrap{width:84vw !important;height:84vw !important}
+ .facts{margin-bottom:8px !important}
+}
 /* headline: 3 lines on desktop, 2 lines on mobile ("Every sport. Every" / "Indian moment. Live.") */
 .br-m{display:none}
 @media (max-width:640px){
@@ -405,7 +422,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div class="rise" style="display:flex;flex-direction:column;gap:26px;position:relative;z-index:2">
 <span class="pill" style="align-self:flex-start;padding:8px 14px 8px 8px;border:1px solid var(--line);background:var(--surface);color:var(--text-2);font-size:13px;font-weight:500;letter-spacing:0">
 <span class="pill" style="background:var(--accent);color:var(--on-accent)">LIVE</span><span id="heroTag">Every sport, live</span></span>
-<h1 class="h1">Every sport.<br class="br-d"> Every<br class="br-m"> <span style="color:var(--accent)">Indian</span><br class="br-d"> moment. Live.</h1>
+<h1 class="h1">Every <span style="color:var(--accent)">sport.</span><br class="br-d"> Every<br class="br-m"> <span style="color:var(--accent)">Indian</span><br class="br-d"> moment. <span class="h1-live">Live.</span></h1>
 <p class="lede" id="heroLede">Live scores, results and fixtures for Indian fans.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
 <a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; today</a>
@@ -622,6 +639,7 @@ function badge(t, size) {
   const code = t[0], name = t[1], color = t[3];
   if (FLAGMAP[code]) return `<span class="flag" role="img" aria-label="${esc(name)}" style="width:${size}px;height:${size}px;background-image:url(flags/${FLAGMAP[code]}.svg)"></span>`;
   if (code === 'TBC') return `<span class="flag flag-tbc" role="img" aria-label="To be confirmed" style="width:${size}px;height:${size}px;font-size:${Math.round(size * .4)}px">?</span>`;
+  if (code === 'TPE') return `<span class="club tpe" role="img" aria-label="${esc(name)}" style="width:${size}px;height:${size}px;font-size:${Math.round(size * .28)}px">TPE</span>`;
   const txt = String(code).slice(0, 4);
   return `<span class="club" role="img" aria-label="${esc(name)}" style="width:${size}px;height:${size}px;background:${color || hashColor(code + name)};font-size:${Math.round(size * (txt.length > 3 ? .24 : .3))}px">${esc(txt)}</span>`;
 }
