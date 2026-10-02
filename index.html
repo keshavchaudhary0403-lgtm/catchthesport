@@ -1099,7 +1099,15 @@ async function checkCode() {
     if (reloadDue && !document.querySelector('dialog[open]')) location.reload();
   } catch (e) {}
 }
-if (location.protocol.indexOf('http') === 0) { pullData(); setInterval(pullData, 20000); checkCode(); setInterval(checkCode, 60000); }
+if (location.protocol.indexOf('http') === 0) {
+  pullData(); setInterval(pullData, 20000); checkCode(); setInterval(checkCode, 30000);
+  /* phones pause timers while the tab is in the background or the screen is off — catch up the moment the page is back */
+  let lastWake = 0;
+  const wake = () => { if (document.visibilityState !== 'visible' || Date.now() - lastWake < 3000) return; lastWake = Date.now(); pullData(); checkCode(); try { renderMatches(); pickFeatured(); } catch (e) {} };
+  document.addEventListener('visibilitychange', wake);
+  addEventListener('focus', wake); addEventListener('online', wake);
+  addEventListener('pageshow', (e) => { if (e.persisted) { lastWake = 0; wake(); } });
+}
 
 function tick() {
   updAgo(); try { medalLabel(); } catch (e) {}
