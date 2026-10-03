@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T07:04:58+05:30",
+  "lastUpdated": "2026-10-03T08:10:30+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-cricket-final",
   "matches": [
@@ -632,7 +632,7 @@
     },
     {
       "id": "ag-archery-w-ind-final",
-      "st": "upcoming",
+      "st": "result",
       "gold": true,
       "india": true,
       "sport": "Archery",
@@ -641,21 +641,33 @@
       "a": [
         "IND",
         "Kumkum Mohod",
-        ""
+        "6"
       ],
       "b": [
-        "TBC",
-        "TBC",
-        ""
+        "KOR",
+        "Yejin Oh",
+        "5"
       ],
       "when": "2026-10-03T07:20:00+05:30",
-      "note": "Kumkum Mohod beat China's Zhu in the semi-final (decided by a 10-ring shot) to reach the final — at least silver assured. Opponent TBC.",
+      "note": "GOLD for 17-year-old Kumkum Mohod: from 3–5 down she shot a perfect 30 in the fifth set (5–5) and won the shoot-off 10–8 against South Korea's Yejin Oh. First Indian woman to win an Asian Games individual recurve medal; both finalists earn LA28 quota places.",
       "src": [
         {
-          "t": "Business Standard – Asiad 2026 Day 14 live",
-          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+          "t": "India TV – Kumkum Mohod wins gold in women's individual recurve",
+          "u": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952"
+        },
+        {
+          "t": "Social News XYZ (IANS) – Kumkum clinches historic gold in shoot-off",
+          "u": "https://www.socialnews.xyz/2026/10/02/asian-games-kumkum-mohod-clinches-historic-gold-in-nervy-shoot-off-secures-la28-olympics-quota/"
+        },
+        {
+          "t": "Outlook India – Day 15 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-3-day-15-commentary-highlights-indians-in-action-aichi-nagoya"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T08:10:30+05:30"
     },
     {
       "st": "upcoming",
@@ -1425,11 +1437,11 @@
         "l": "Sports"
       },
       {
-        "v": "16 · 25 · 35",
+        "v": "17 · 25 · 35",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 76 medals (16 G · 25 S · 35 B, 5th) · other nations: Wikipedia table, 19:36 IST",
+    "medalAsOf": "India 77 medals (17 G · 25 S · 35 B, 5th) after Kumkum Mohod's archery gold, 08:10 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
     "medalTable": [
       {
         "code": "CHN",
@@ -1462,7 +1474,7 @@
       {
         "code": "IND",
         "name": "India",
-        "g": 16,
+        "g": 17,
         "s": 25,
         "b": 35
       },
@@ -1496,6 +1508,27 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Archery",
+        "event": "Recurve women's individual",
+        "who": "Kumkum Mohod — beat South Korea's Yejin Oh 6–5 after a 10–8 shoot-off in the final; India's first individual recurve medal by a woman.",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "India TV – Kumkum Mohod wins gold in women's individual recurve",
+            "u": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952"
+          },
+          {
+            "t": "Social News XYZ (IANS) – Kumkum clinches historic gold in shoot-off",
+            "u": "https://www.socialnews.xyz/2026/10/02/asian-games-kumkum-mohod-clinches-historic-gold-in-nervy-shoot-off-secures-la28-olympics-quota/"
+          },
+          {
+            "t": "Outlook India – Day 15 live updates",
+            "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-3-day-15-commentary-highlights-indians-in-action-aichi-nagoya"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Hockey",
@@ -1776,8 +1809,7 @@
             "t": "India.com – Day 12 live updates",
             "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
           }
-        ],
-        "day": "1 Oct"
+        ]
       },
       {
         "medal": "silver",
@@ -1789,8 +1821,7 @@
             "t": "ANI – sailing men's skiff silver",
             "u": "https://www.aninews.in/news/sports/others/asian-games-2026-manu-francis-prince-noble-win-silver-in-sailing-as-india8217s-overall-medal-tally-reaches-6220261001103400/"
           }
-        ],
-        "day": "1 Oct"
+        ]
       },
       {
         "medal": "silver",
@@ -2138,8 +2169,7 @@
             "t": "Outlook India – India medal list",
             "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
           }
-        ],
-        "day": "1 Oct"
+        ]
       },
       {
         "medal": "bronze",
@@ -2155,8 +2185,7 @@
             "t": "Outlook India – India medal list",
             "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
           }
-        ],
-        "day": "1 Oct"
+        ]
       },
       {
         "medal": "bronze",
@@ -2172,8 +2201,7 @@
             "t": "Outlook India – India medal list",
             "u": "https://www.outlookindia.com/sports/asian-games-2026-india-medal-tally-full-list"
           }
-        ],
-        "day": "1 Oct"
+        ]
       },
       {
         "medal": "bronze",
@@ -2185,8 +2213,7 @@
             "t": "UNI – sailing women's skiff bronze",
             "u": "https://www.uniindia.com/sports/asian-games-sailing-womens-bronze/199578"
           }
-        ],
-        "day": "1 Oct"
+        ]
       },
       {
         "medal": "bronze",
@@ -2647,6 +2674,10 @@
     ],
     "medalSrc": [
       {
+        "t": "India TV – Kumkum Mohod wins individual recurve gold",
+        "u": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952"
+      },
+      {
         "t": "Indian Express – Day 14 live blog",
         "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
       },
@@ -2667,7 +2698,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T07:04:58+05:30",
+    "medalChecked": "2026-10-03T08:10:30+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2819,6 +2850,28 @@
     }
   ],
   "feed": [
+    {
+      "t": "06:42",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Archery",
+      "text": "GOLD! 17-year-old Kumkum Mohod wins the women's recurve individual title, beating South Korea's Yejin Oh 6–5 on a 10–8 shoot-off after trailing 3–5 — India's 17th gold, and her second medal-colour double with team gold.",
+      "match": "ag-archery-w-ind-final",
+      "src": [
+        {
+          "t": "India TV – Kumkum Mohod wins gold in women's individual recurve",
+          "u": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952"
+        },
+        {
+          "t": "Social News XYZ (IANS) – Kumkum clinches historic gold in shoot-off",
+          "u": "https://www.socialnews.xyz/2026/10/02/asian-games-kumkum-mohod-clinches-historic-gold-in-nervy-shoot-off-secures-la28-olympics-quota/"
+        },
+        {
+          "t": "Outlook India – Day 15 live updates",
+          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-3-day-15-commentary-highlights-indians-in-action-aichi-nagoya"
+        }
+      ]
+    },
     {
       "t": "07:04",
       "tag": "FINAL",
@@ -3001,30 +3054,9 @@
           "u": "https://www.latestly.com/sports/lovlina-borgohain-wins-gold-medal-at-asian-games-2026-in-boxing-womens-75kg-7629538.html"
         }
       ]
-    },
-    {
-      "t": "10:19",
-      "tag": "BRONZE",
-      "c": "var(--bronze)",
-      "m": "Sailing",
-      "text": "BRONZE for Nethra Kumanan in the women’s dinghy — level on points with Hong Kong’s Stephanie Norton, she takes third on the head-to-head tie-break.",
-      "src": [
-        {
-          "t": "Business Standard – Day 13 live updates",
-          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "Women's recurve individual final",
-      "meta": "Archery · Kumkum Mohod · gold match",
-      "time": "07:20",
-      "match": "ag-archery-w-ind-final"
-    },
     {
       "d": "03",
       "mo": "OCT",
