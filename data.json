@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T08:10:30+05:30",
+  "lastUpdated": "2026-10-03T10:09:49+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-cricket-final",
   "matches": [
@@ -685,7 +685,7 @@
         "–"
       ],
       "when": "2026-10-03T10:00:00+05:30",
-      "note": "India beat Sri Lanka by 124 runs; Pakistan chased 111 in 11.3 overs against Bangladesh. Rain rule: if washed out, India and Pakistan share gold.",
+      "note": "India won the toss and chose to bat first; Pakistan made one change (Saad Masood for Mohammad Wasim Jr). Captains Shreyas Iyer and Sahibzada Farhan did not shake hands. First men's cricket meeting between the two at the Asian Games. Rain rule: if washed out, India and Pakistan share gold.",
       "venue": "Korogi Sports Park, Nisshin",
       "id": "ag-cricket-final",
       "comp": "Asian Games",
@@ -693,6 +693,10 @@
       "big": true,
       "watch": "Sony Sports / SonyLIV",
       "src": [
+        {
+          "t": "The News – India choose to bat first against Pakistan in Asian Games cricket final",
+          "u": "https://thenews.pk/story/1440824-india-choose-to-bat-first-against-pakistan-in-asian-games-cricket-final"
+        },
         {
           "t": "Yahoo Sports – IND v PAK cricket final",
           "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
@@ -2851,6 +2855,20 @@
   ],
   "feed": [
     {
+      "t": "10:00",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Men's cricket gold-medal match: India win the toss and bat first against Pakistan at Korogi, Nisshin. Pakistan bring in Saad Masood for Wasim Jr; no handshake between captains.",
+      "match": "ag-cricket-final",
+      "src": [
+        {
+          "t": "The News – India choose to bat first against Pakistan in Asian Games cricket final",
+          "u": "https://thenews.pk/story/1440824-india-choose-to-bat-first-against-pakistan-in-asian-games-cricket-final"
+        }
+      ]
+    },
+    {
       "t": "06:42",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -3034,24 +3052,6 @@
         {
           "t": "Outlook India – Day 14 live updates",
           "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ]
-    },
-    {
-      "t": "10:22",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Boxing",
-      "text": "GOLD! Lovlina Borgohain beats China’s Bao Ziyi 5–0 in the women’s 75kg final on her 29th birthday — India’s 12th gold of the Games.",
-      "match": "ag-7",
-      "src": [
-        {
-          "t": "Business Standard – Day 13 live updates",
-          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-        },
-        {
-          "t": "LatestLY – Lovlina wins 75kg gold",
-          "u": "https://www.latestly.com/sports/lovlina-borgohain-wins-gold-medal-at-asian-games-2026-in-boxing-womens-75kg-7629538.html"
         }
       ]
     }
