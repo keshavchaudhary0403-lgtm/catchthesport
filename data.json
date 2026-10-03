@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T22:05:11+05:30",
-  "dayLabel": "Sat 3 Oct · Asian Games Day 15",
-  "featured": "ind-wi-odi3",
+  "lastUpdated": "2026-10-04T00:04:33+05:30",
+  "dayLabel": "Sun 4 Oct · Asian Games closing day",
+  "featured": "ind-wi-t20-1",
   "matches": [
     {
       "st": "result",
@@ -894,7 +894,7 @@
     },
     {
       "id": "ind-wi-odi3",
-      "st": "live",
+      "st": "result",
       "big": true,
       "india": true,
       "sport": "Cricket",
@@ -908,16 +908,24 @@
       "b": [
         "WI",
         "West Indies",
-        "249/3",
+        "352/5",
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352; Shai Hope made his 21st ODI century (104* reported) as the visitors reached 249/3 after a 110-run stand with Amir Jangoo (67) ended in a run out. Result awaited.",
+      "note": "West Indies won by 5 wickets with a record ODI chase of 352. Shai Hope made 162* (143) — his 21st ODI hundred — and Amir Jangoo 67; Jayden Seales took 3/62. KL Rahul's 129* (87) and Rohit Sharma's 92 went in vain. India win the series 2–1.",
       "venue": "New Chandigarh",
       "src": [
         {
-          "t": "Outlook India – 3rd ODI live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-live-score-3rd-odi-2026-ind-vs-wi-updates-highlights-new-chandigarh"
+          "t": "ThePrint – Hope's 162 trumps Rahul's 129 as WI win 3rd ODI",
+          "u": "https://theprint.in/sport/hopes-masterly-162-trumps-rahuls-classy-129-as-wi-score-5-wicket-win-over-india-in-3rd-odi/3061315/"
+        },
+        {
+          "t": "Free Press Journal – Hope's 162* powers WI to consolation win",
+          "u": "https://www.freepressjournal.in/sports/ind-vs-wi-3rd-odi-shai-hopes-162-powers-west-indies-to-consolation-win-in-mullanpur-india-seal-series-2-1"
+        },
+        {
+          "t": "Sunday Guardian – 3rd ODI highlights",
+          "u": "https://sundayguardianlive.com/sports/ind-vs-wi-3rd-odi-highlights-shai-hope-heroic-century-powers-west-indies-to-5-wicket-win-india-clinch-series-2-1-check-full-scoreboard-298136/"
         },
         {
           "t": "ANI – Rahul's ton, Rohit's 92 guide India to 351/7",
@@ -926,26 +934,13 @@
         {
           "t": "India.com – 3rd ODI live",
           "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-3rd-odi-match-3-oct-ind-vs-wi-squad-players-list-shubman-gill-shai-hope-rohit-sharma-virat-kohli-pca-international-stadium-new-chandigarh-8532377/"
-        },
-        {
-          "t": "The Tribune – India elect to bat first in 3rd ODI",
-          "u": "https://www.tribuneindia.com/news/sports/3rd-odi-india-elect-to-bat-first-against-west-indies-in-new-chandigarh"
-        },
-        {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        },
-        {
-          "t": "NewsX – IND v WI schedule",
-          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
-        },
-        {
-          "t": "NewsX – 3rd ODI preview",
-          "u": "https://www.newsx.com/sports/india-vs-west-indies-3rd-odi-preview-venue-squads-live-streaming-and-all-you-need-to-know-278558/"
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "WI 249/3 · chasing 352 (latest report)"
+      "win": "b",
+      "day": "3 Oct",
+      "recent": true,
+      "resultAt": "2026-10-04T00:04:33+05:30"
     },
     {
       "id": "ind-wi-odi2",
@@ -1559,7 +1554,7 @@
     "short": "Asian Games",
     "eyebrow": "Featured event · 20th Asian Games",
     "desc": "Hosted across Aichi Prefecture and Nagoya, Japan. India are chasing their best-ever finish, with finals in archery, boxing, hockey and cricket on the closing weekend.",
-    "statusText": "Final day done · closes 4 Oct, Nagoya",
+    "statusText": "Final day · closing ceremony 4 Oct, Nagoya",
     "stats": [
       {
         "v": "45",
@@ -2971,7 +2966,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-03T22:05:11+05:30",
+    "medalChecked": "2026-10-04T00:04:33+05:30",
     "othersAsOf": "top four updated end of Day 15; other rows earlier"
   },
   "competitions": [
@@ -3001,7 +2996,7 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "India lead the ODIs 2–0. Third ODI on 3 Oct, then five T20Is from 6 Oct.",
+      "note": "India won the ODI series 2–1 (West Indies won the 3rd ODI by 5 wickets chasing 352). Five T20Is from 6 Oct.",
       "id": "ind-wi",
       "src": [
         {
@@ -3124,12 +3119,22 @@
   ],
   "feed": [
     {
-      "t": "22:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "3 Oct",
+      "tag": "LOSS",
+      "c": "var(--accent)",
       "m": "Cricket",
-      "text": "Shai Hope hits a century as West Indies reach 249/3 chasing 352 in the 3rd ODI (latest report) — India lead the series 2–0.",
-      "match": "ind-wi-odi3"
+      "text": "West Indies win the 3rd ODI by 5 wickets, chasing 352/5 — Shai Hope 162*. India still take the series 2–1; T20Is start 6 Oct.",
+      "match": "ind-wi-odi3",
+      "src": [
+        {
+          "t": "ThePrint – Hope's 162 trumps Rahul's 129 as WI win 3rd ODI",
+          "u": "https://theprint.in/sport/hopes-masterly-162-trumps-rahuls-classy-129-as-wi-score-5-wicket-win-over-india-in-3rd-odi/3061315/"
+        },
+        {
+          "t": "Free Press Journal – Hope's 162* powers WI to consolation win",
+          "u": "https://www.freepressjournal.in/sports/ind-vs-wi-3rd-odi-shai-hopes-162-powers-west-indies-to-consolation-win-in-mullanpur-india-seal-series-2-1"
+        }
+      ]
     },
     {
       "t": "22:05",
@@ -3143,20 +3148,6 @@
       "t": "21:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "West Indies 196/2 chasing 352 in the 3rd ODI — Shai Hope closing in on a hundred after Amir Jangoo was run out for 67.",
-      "match": "ind-wi-odi3",
-      "src": [
-        {
-          "t": "Outlook India – 3rd ODI live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-live-score-3rd-odi-2026-ind-vs-wi-updates-highlights-new-chandigarh"
-        }
-      ]
-    },
-    {
-      "t": "21:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
       "m": "Football",
       "text": "India 0–3 Brazil at Salt Lake Stadium — Estêvão, Pedro and Samuel Lino scored by the 58th minute (latest report).",
       "match": "ind-bra",
@@ -3164,20 +3155,6 @@
         {
           "t": "VAVEL Brasil – Brasil x Índia ao vivo",
           "u": "https://vavel.com/br/futebol-internacional/2026/10/03/1273693-india-x-brasil-ao-vivo-amistoso-internacional.html"
-        }
-      ]
-    },
-    {
-      "t": "19:10",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India post 351/7 in the 3rd ODI — KL Rahul 129, Rohit Sharma 92, Ruturaj Gaikwad 57. West Indies need 352 to avoid a 3–0 series loss.",
-      "match": "ind-wi-odi3",
-      "src": [
-        {
-          "t": "ANI – Rahul's ton, Rohit's 92 guide India to 351/7",
-          "u": "https://www.aninews.in/news/sports/cricket/3rd-odi-kl-rahul8217s-ton-hitman8217s-fighting-92-guide-india-to-3517-against-west-indies-16020261003183830/"
         }
       ]
     },
@@ -3260,20 +3237,6 @@
       ]
     },
     {
-      "t": "14:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "3rd ODI: India win the toss and bat first against West Indies in New Chandigarh; Anshul Kamboj debuts. India lead 2–0.",
-      "match": "ind-wi-odi3",
-      "src": [
-        {
-          "t": "The Tribune – India elect to bat first in 3rd ODI",
-          "u": "https://www.tribuneindia.com/news/sports/3rd-odi-india-elect-to-bat-first-against-west-indies-in-new-chandigarh"
-        }
-      ]
-    },
-    {
       "t": "13:10",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -3333,14 +3296,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "India v West Indies, 3rd ODI",
-      "meta": "Cricket · New Chandigarh",
-      "time": "14:00",
-      "match": "ind-wi-odi3"
-    },
     {
       "d": "04",
       "mo": "OCT",
