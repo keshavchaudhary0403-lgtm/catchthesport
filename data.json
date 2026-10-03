@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T00:04:33+05:30",
+  "lastUpdated": "2026-10-04T02:09:23+05:30",
   "dayLabel": "Sun 4 Oct · Asian Games closing day",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1554,7 +1554,7 @@
     "short": "Asian Games",
     "eyebrow": "Featured event · 20th Asian Games",
     "desc": "Hosted across Aichi Prefecture and Nagoya, Japan. India are chasing their best-ever finish, with finals in archery, boxing, hockey and cricket on the closing weekend.",
-    "statusText": "Final day · closing ceremony 4 Oct, Nagoya",
+    "statusText": "Competition over · closing ceremony 4 Oct 14:30 IST, Nagoya",
     "stats": [
       {
         "v": "45",
@@ -2966,7 +2966,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-04T00:04:33+05:30",
+    "medalChecked": "2026-10-04T02:09:23+05:30",
     "othersAsOf": "top four updated end of Day 15; other rows earlier"
   },
   "competitions": [
@@ -3300,8 +3300,8 @@
       "d": "04",
       "mo": "OCT",
       "title": "Closing ceremony",
-      "meta": "Paloma Mizuho Stadium, Nagoya",
-      "time": "TBC"
+      "meta": "Mizuho Park Athletic Stadium, Nagoya",
+      "time": "14:30"
     },
     {
       "d": "06",
