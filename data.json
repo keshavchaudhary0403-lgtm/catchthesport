@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T10:09:49+05:30",
+  "lastUpdated": "2026-10-03T12:11:12+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-cricket-final",
   "matches": [
@@ -240,48 +240,6 @@
         }
       ],
       "resultAt": "2026-10-02T08:45:00+05:30"
-    },
-    {
-      "st": "result",
-      "day": "2 Oct · Day 13",
-      "sport": "Archery",
-      "round": "Recurve mixed team semi-final",
-      "a": [
-        "CHN",
-        "China",
-        "6"
-      ],
-      "b": [
-        "KOR",
-        "South Korea",
-        "0"
-      ],
-      "win": "a",
-      "note": "Zhu Jingyi & Li Mengqi beat Kim Je-deok & Kang Chae-young. China meet India in the final.",
-      "venue": "Okazaki Central Comprehensive Park",
-      "id": "ag-5",
-      "comp": "Asian Games",
-      "india": false,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 13 live",
-          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
-        },
-        {
-          "t": "India Sports Hub – archery timings",
-          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T09:17:00+05:30"
     },
     {
       "st": "result",
@@ -670,14 +628,14 @@
       "resultAt": "2026-10-03T08:10:30+05:30"
     },
     {
-      "st": "upcoming",
+      "st": "live",
       "gold": true,
       "sport": "Cricket",
       "round": "Men's final · Gold",
       "a": [
         "IND",
         "India",
-        "–"
+        "211/6 (20)"
       ],
       "b": [
         "PAK",
@@ -685,7 +643,7 @@
         "–"
       ],
       "when": "2026-10-03T10:00:00+05:30",
-      "note": "India won the toss and chose to bat first; Pakistan made one change (Saad Masood for Mohammad Wasim Jr). Captains Shreyas Iyer and Sahibzada Farhan did not shake hands. First men's cricket meeting between the two at the Asian Games. Rain rule: if washed out, India and Pakistan share gold.",
+      "note": "India won the toss and batted: Abhishek Sharma 61 (28) and Tilak Varma 51* (22) took India to 211/6; Pakistan chase 212 for gold. If washed out, India and Pakistan share gold.",
       "venue": "Korogi Sports Park, Nisshin",
       "id": "ag-cricket-final",
       "comp": "Asian Games",
@@ -694,22 +652,23 @@
       "watch": "Sony Sports / SonyLIV",
       "src": [
         {
+          "t": "The Tribune – India 211/6 v Pakistan",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-abhishek-tilak-half-centuries-propel-india-to-211-6-against-pakistan-mens-cricket-final"
+        },
+        {
+          "t": "Business Standard – Day 14 live updates",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        },
+        {
           "t": "The News – India choose to bat first against Pakistan in Asian Games cricket final",
           "u": "https://thenews.pk/story/1440824-india-choose-to-bat-first-against-pakistan-in-asian-games-cricket-final"
         },
         {
           "t": "Yahoo Sports – IND v PAK cricket final",
           "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
-        },
-        {
-          "t": "India.com – Day 12 live updates",
-          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
-        },
-        {
-          "t": "CricTracker – IND v PAK final: 10:00 IST",
-          "u": "https://www.crictracker.com/cricket-news/india-vs-pakistan-asian-games-2026-final-set-for-october-3-in-nisshin/"
         }
-      ]
+      ],
+      "status": "Pakistan chasing 212"
     },
     {
       "st": "upcoming",
@@ -1417,6 +1376,64 @@
         {
           "t": "Premier League – fixtures",
           "u": "https://www.premierleague.com/fixtures"
+        }
+      ]
+    },
+    {
+      "id": "ag-wrestling-m57-final",
+      "sport": "Wrestling",
+      "comp": "Asian Games",
+      "round": "Men's freestyle 57kg final · Gold",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Aman Sehrawat",
+        ""
+      ],
+      "b": [
+        "PRK",
+        "Chong Song Han",
+        ""
+      ],
+      "when": "2026-10-03T14:44:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "note": "Aman Sehrawat beat Tajikistan's Aiaal Belolyubskii 14–8 in the semi-final after trailing 2–6.",
+      "venue": "Inae Sports Center, Nagoya",
+      "src": [
+        {
+          "t": "Social News XYZ – Antim, Aman reach finals",
+          "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
+        }
+      ]
+    },
+    {
+      "id": "ag-wrestling-w53-final",
+      "sport": "Wrestling",
+      "comp": "Asian Games",
+      "round": "Women's freestyle 53kg final · Gold",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Antim Panghal",
+        ""
+      ],
+      "b": [
+        "JPN",
+        "Moe Kiyooka",
+        ""
+      ],
+      "when": "2026-10-03T16:02:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "note": "Antim Panghal beat China's Jin Zhang 6–1 in the semi-final after trailing early.",
+      "venue": "Inae Sports Center, Nagoya",
+      "src": [
+        {
+          "t": "Social News XYZ – Antim, Aman reach finals",
+          "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
         }
       ]
     }
@@ -2702,7 +2719,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T08:10:30+05:30",
+    "medalChecked": "2026-10-03T12:11:12+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2854,6 +2871,33 @@
     }
   ],
   "feed": [
+    {
+      "t": "3 Oct",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Men's final: India post 211/6 against Pakistan — Abhishek Sharma 61 (28) and Tilak Varma 51* (22). Pakistan need 212 for gold.",
+      "match": "ag-cricket-final",
+      "src": [
+        {
+          "t": "The Tribune – India 211/6 v Pakistan",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-abhishek-tilak-half-centuries-propel-india-to-211-6-against-pakistan-mens-cricket-final"
+        }
+      ]
+    },
+    {
+      "t": "3 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Wrestling",
+      "text": "Antim Panghal (53kg, 6–1 v China) and Aman Sehrawat (57kg, 14–8 v Tajikistan) reach Asian Games finals; Sagar Jaglan and Deepak Punia go into bronze bouts.",
+      "src": [
+        {
+          "t": "Social News XYZ – Antim, Aman reach finals",
+          "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
+        }
+      ]
+    },
     {
       "t": "10:00",
       "tag": "LIVE",
@@ -3033,27 +3077,6 @@
       "m": "Wrestling",
       "text": "Sujeet Kalkal beats Japan's Olympic champion Kotaro Kiyooka on criteria (3–3) to reach the 65kg freestyle final against Tajikistan's Abdulmazid Kudiev — silver assured.",
       "match": "ag-wrestling-65-final"
-    },
-    {
-      "t": "11:47",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Archery",
-      "text": "India beat Iran 6–0 in the recurve men's team semi-final and reach the gold medal match against South Korea.",
-      "match": "ag-8"
-    },
-    {
-      "t": "11:57",
-      "tag": "OUT",
-      "c": "var(--live-text)",
-      "m": "Cycling",
-      "text": "David Beckham Elkatohchoongo finishes fifth in his keirin semi-final heat and misses the final.",
-      "src": [
-        {
-          "t": "Outlook India – Day 14 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -3076,10 +3099,26 @@
     {
       "d": "03",
       "mo": "OCT",
+      "title": "Aman Sehrawat, 57kg wrestling final",
+      "meta": "Wrestling · Nagoya",
+      "time": "14:44",
+      "match": "ag-wrestling-m57-final"
+    },
+    {
+      "d": "03",
+      "mo": "OCT",
       "title": "Men's hockey final",
       "meta": "India vs Malaysia · Gifu",
       "time": "15:30",
       "match": "ag-hockey-m-final"
+    },
+    {
+      "d": "03",
+      "mo": "OCT",
+      "title": "Antim Panghal, 53kg wrestling final",
+      "meta": "Wrestling · Nagoya",
+      "time": "16:02",
+      "match": "ag-wrestling-w53-final"
     },
     {
       "d": "03",
@@ -3119,22 +3158,6 @@
       "meta": "Football friendly · Kolkata",
       "time": "TBC",
       "match": "ind-rus-w1"
-    },
-    {
-      "d": "10",
-      "mo": "OCT",
-      "title": "ISL 2026-27 kicks off",
-      "meta": "Bengaluru v SC Delhi, Goa v Chennaiyin",
-      "time": "17:00",
-      "match": "isl-bfc-del"
-    },
-    {
-      "d": "11",
-      "mo": "OCT",
-      "title": "India women v Russia",
-      "meta": "Football friendly · Kolkata",
-      "time": "TBC",
-      "match": "ind-rus-w2"
     }
   ],
   "players": [
