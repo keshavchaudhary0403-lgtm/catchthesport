@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T20:05:09+05:30",
+  "lastUpdated": "2026-10-03T21:05:12+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 15",
   "featured": "ind-bra",
   "matches": [
@@ -908,11 +908,11 @@
       "b": [
         "WI",
         "West Indies",
-        "106/1 (15)",
+        "196/2",
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352; Shai Hope and Amir Jangoo steadied after John Campbell fell early (106/1 after 15 overs).",
+      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352; Shai Hope was nearing a century when Amir Jangoo ran out for 67 ended a 110-run stand (196/2).",
       "venue": "New Chandigarh",
       "src": [
         {
@@ -945,7 +945,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "WI 106/1 (15 ov) · chasing 352"
+      "status": "WI 196/2 · chasing 352 (latest report)"
     },
     {
       "id": "ind-wi-odi2",
@@ -1065,15 +1065,19 @@
       "b": [
         "BRA",
         "Brazil",
-        "0"
+        "3"
       ],
       "when": "2026-10-03T19:30:00+05:30",
-      "note": "Brazil's first senior international on Indian soil. Brazil dominate possession early; India hold firm and Manvir Singh fired wide. Starting XI: Sandhu; Abhishek Singh, Anwar Ali, Varghese, Mishra, Thapa, Apuia, Kuruniyan, Samad, Ryan Williams, Manvir Singh.",
+      "note": "Brazil's first senior international on Indian soil. Estêvão (28'), Pedro (42') and Samuel Lino (58') put Brazil 3–0 up. Starting XI: Sandhu; Abhishek Singh, Anwar Ali, Varghese, Mishra, Thapa, Apuia, Kuruniyan, Samad, Ryan Williams, Manvir Singh.",
       "venue": "Salt Lake Stadium (VYBK), Kolkata",
       "src": [
         {
-          "t": "VAVEL – India vs Brazil live",
-          "u": "https://www.vavel.com/en-us/soccer/2026/10/03/1273694-india-vs-brazil-live-score-international-friendly.html"
+          "t": "VAVEL Brasil – Brasil x Índia ao vivo",
+          "u": "https://vavel.com/br/futebol-internacional/2026/10/03/1273693-india-x-brasil-ao-vivo-amistoso-internacional.html"
+        },
+        {
+          "t": "Lance! – Estêvão abre o placar",
+          "u": "https://www.lance.com.br/selecao-brasileira/veja-gol-em-brasil-x-india-estevao-abre-o-placar-de-canhota.html"
         },
         {
           "t": "District – India vs Brazil tickets",
@@ -1097,7 +1101,7 @@
         }
       ],
       "watch": "Sony Sports Network / SonyLIV",
-      "status": "0–0 · 21' (latest report)"
+      "status": "0–3 · 58' (latest report)"
     },
     {
       "id": "ind-uru",
@@ -2968,7 +2972,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-03T20:05:09+05:30",
+    "medalChecked": "2026-10-03T21:05:12+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -3121,11 +3125,11 @@
   ],
   "feed": [
     {
-      "t": "20:05",
+      "t": "21:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
-      "text": "West Indies 106/1 after 15 overs chasing 352 in the 3rd ODI — Hope and Jangoo building after Siraj removed Campbell.",
+      "text": "West Indies 196/2 chasing 352 in the 3rd ODI — Shai Hope closing in on a hundred after Amir Jangoo was run out for 67.",
       "match": "ind-wi-odi3",
       "src": [
         {
@@ -3135,16 +3139,16 @@
       ]
     },
     {
-      "t": "20:05",
+      "t": "21:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Football",
-      "text": "India 0–0 Brazil after 21 minutes at Salt Lake Stadium — Brazil on top but India's defence holding.",
+      "text": "India 0–3 Brazil at Salt Lake Stadium — Estêvão, Pedro and Samuel Lino scored by the 58th minute (latest report).",
       "match": "ind-bra",
       "src": [
         {
-          "t": "VAVEL – India vs Brazil live",
-          "u": "https://www.vavel.com/en-us/soccer/2026/10/03/1273694-india-vs-brazil-live-score-international-friendly.html"
+          "t": "VAVEL Brasil – Brasil x Índia ao vivo",
+          "u": "https://vavel.com/br/futebol-internacional/2026/10/03/1273693-india-x-brasil-ao-vivo-amistoso-internacional.html"
         }
       ]
     },
