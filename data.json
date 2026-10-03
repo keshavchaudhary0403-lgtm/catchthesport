@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T21:05:12+05:30",
+  "lastUpdated": "2026-10-03T22:05:11+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 15",
-  "featured": "ind-bra",
+  "featured": "ind-wi-odi3",
   "matches": [
     {
       "st": "result",
@@ -908,11 +908,11 @@
       "b": [
         "WI",
         "West Indies",
-        "196/2",
+        "249/3",
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352; Shai Hope was nearing a century when Amir Jangoo ran out for 67 ended a 110-run stand (196/2).",
+      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352; Shai Hope made his 21st ODI century (104* reported) as the visitors reached 249/3 after a 110-run stand with Amir Jangoo (67) ended in a run out. Result awaited.",
       "venue": "New Chandigarh",
       "src": [
         {
@@ -945,7 +945,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "WI 196/2 · chasing 352 (latest report)"
+      "status": "WI 249/3 · chasing 352 (latest report)"
     },
     {
       "id": "ind-wi-odi2",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": "ind-bra",
-      "st": "live",
+      "st": "result",
       "big": true,
       "india": true,
       "sport": "Football",
@@ -1065,12 +1065,20 @@
       "b": [
         "BRA",
         "Brazil",
-        "3"
+        "4"
       ],
       "when": "2026-10-03T19:30:00+05:30",
-      "note": "Brazil's first senior international on Indian soil. Estêvão (28'), Pedro (42') and Samuel Lino (58') put Brazil 3–0 up. Starting XI: Sandhu; Abhishek Singh, Anwar Ali, Varghese, Mishra, Thapa, Apuia, Kuruniyan, Samad, Ryan Williams, Manvir Singh.",
+      "note": "Brazil's first senior international on Indian soil. Estêvão (28'), Pedro (42') and Samuel Lino (58', 90+5') scored; Vinícius Júnior started and was replaced at half-time. Sandhu, Abhishek Singh, Anwar Ali, Varghese, Mishra, Thapa, Apuia, Kuruniyan, Samad, Ryan Williams and Manvir Singh started for India.",
       "venue": "Salt Lake Stadium (VYBK), Kolkata",
       "src": [
+        {
+          "t": "Goal – Brazil thrash India in historic match",
+          "u": "https://www.goal.com/en/news/vinicius-s-replacement-leads-brazil-to-a-thrashing-of-india-in-a-historic-match/blt06fa647cfd499d48"
+        },
+        {
+          "t": "beIN SPORTS – All goals: India v Brazil",
+          "u": "https://www.beinsports.com/en-us/soccer/friendlies/articles/all-goals-india-vs-brazil-international-friendly-2026-10-03"
+        },
         {
           "t": "VAVEL Brasil – Brasil x Índia ao vivo",
           "u": "https://vavel.com/br/futebol-internacional/2026/10/03/1273693-india-x-brasil-ao-vivo-amistoso-internacional.html"
@@ -1082,26 +1090,13 @@
         {
           "t": "District – India vs Brazil tickets",
           "u": "https://www.district.in/events/fifa-international-friendly-india-vs-brazil-buy-tickets"
-        },
-        {
-          "t": "Football Dream – India vs Brazil: time, tickets, TV",
-          "u": "https://www.footballdream.in/blog/india-vs-brazil-2026-kolkata-friendly-time-tickets-tv"
-        },
-        {
-          "t": "AIFF – India to host Brazil",
-          "u": "https://www.the-aiff.com/article/india-to-host-five-time-world-champions-brazil-in-historic-kolkata-friendly"
-        },
-        {
-          "t": "Newsdrum – India v Brazil details",
-          "u": "https://www.newsdrum.in/sports/india-vs-brazil-friendly-on-october-3-venue-tickets-timing-expected-players-12215394"
-        },
-        {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ],
       "watch": "Sony Sports Network / SonyLIV",
-      "status": "0–3 · 58' (latest report)"
+      "win": "b",
+      "day": "3 Oct",
+      "recent": true,
+      "resultAt": "2026-10-03T22:05:11+05:30"
     },
     {
       "id": "ind-uru",
@@ -1583,28 +1578,28 @@
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 85 medals (21 G · 27 S · 37 B, 4th) after men's hockey gold and Antim Panghal's 53kg silver · other nations: Wikipedia table, 19:36 IST on 2 Oct",
+    "medalAsOf": "India 85 medals (21 G · 27 S · 37 B, 4th) after Day 15 · top four nations: India.com final-day table, 3 Oct; other rows from earlier tables",
     "medalTable": [
       {
         "code": "CHN",
         "name": "China",
-        "g": 162,
-        "s": 81,
-        "b": 73
+        "g": 169,
+        "s": 89,
+        "b": 83
       },
       {
         "code": "JPN",
         "name": "Japan (host)",
-        "g": 72,
-        "s": 83,
-        "b": 85
+        "g": 83,
+        "s": 95,
+        "b": 91
       },
       {
         "code": "KOR",
         "name": "South Korea",
-        "g": 33,
-        "s": 39,
-        "b": 62
+        "g": 39,
+        "s": 43,
+        "b": 68
       },
       {
         "code": "IND",
@@ -1616,9 +1611,9 @@
       {
         "code": "UZB",
         "name": "Uzbekistan",
-        "g": 20,
-        "s": 23,
-        "b": 22
+        "g": 21,
+        "s": 25,
+        "b": 24
       },
       {
         "code": "IRI",
@@ -2936,6 +2931,10 @@
     ],
     "medalSrc": [
       {
+        "t": "India.com – India finish fourth with 85 medals",
+        "u": "https://www.india.com/sports/others/asian-games-2026-medal-tally-india-finish-fourth-with-85-medals-fall-short-of-hangzhou-2022-tally-as-cricket-and-hockey-win-gold-8532530/"
+      },
+      {
         "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
         "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
       },
@@ -2972,8 +2971,8 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-03T21:05:12+05:30",
-    "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
+    "medalChecked": "2026-10-03T22:05:11+05:30",
+    "othersAsOf": "top four updated end of Day 15; other rows earlier"
   },
   "competitions": [
     {
@@ -3124,6 +3123,22 @@
     }
   ],
   "feed": [
+    {
+      "t": "22:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Shai Hope hits a century as West Indies reach 249/3 chasing 352 in the 3rd ODI (latest report) — India lead the series 2–0.",
+      "match": "ind-wi-odi3"
+    },
+    {
+      "t": "22:05",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "India lose 0–4 to Brazil in Kolkata — Estêvão, Pedro and Samuel Lino (2) score in Brazil's first match on Indian soil.",
+      "match": "ind-bra"
+    },
     {
       "t": "21:05",
       "tag": "LIVE",
@@ -3315,42 +3330,6 @@
           "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
         }
       ]
-    },
-    {
-      "t": "10:00",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Men's cricket gold-medal match: India win the toss and bat first against Pakistan at Korogi, Nisshin. Pakistan bring in Saad Masood for Wasim Jr; no handshake between captains.",
-      "match": "ag-cricket-final",
-      "src": [
-        {
-          "t": "The News – India choose to bat first against Pakistan in Asian Games cricket final",
-          "u": "https://thenews.pk/story/1440824-india-choose-to-bat-first-against-pakistan-in-asian-games-cricket-final"
-        }
-      ]
-    },
-    {
-      "t": "06:42",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Archery",
-      "text": "GOLD! 17-year-old Kumkum Mohod wins the women's recurve individual title, beating South Korea's Yejin Oh 6–5 on a 10–8 shoot-off after trailing 3–5 — India's 17th gold, and her second medal-colour double with team gold.",
-      "match": "ag-archery-w-ind-final",
-      "src": [
-        {
-          "t": "India TV – Kumkum Mohod wins gold in women's individual recurve",
-          "u": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952"
-        },
-        {
-          "t": "Social News XYZ (IANS) – Kumkum clinches historic gold in shoot-off",
-          "u": "https://www.socialnews.xyz/2026/10/02/asian-games-kumkum-mohod-clinches-historic-gold-in-nervy-shoot-off-secures-la28-olympics-quota/"
-        },
-        {
-          "t": "Outlook India – Day 15 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-3-day-15-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -3361,14 +3340,6 @@
       "meta": "Cricket · New Chandigarh",
       "time": "14:00",
       "match": "ind-wi-odi3"
-    },
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "India v Brazil",
-      "meta": "Football friendly · Kolkata",
-      "time": "19:30",
-      "match": "ind-bra"
     },
     {
       "d": "04",
@@ -3408,6 +3379,14 @@
       "meta": "Cricket · Ranchi",
       "time": "19:00",
       "match": "ind-wi-t20-2"
+    },
+    {
+      "d": "10",
+      "mo": "OCT",
+      "title": "ISL opener: Bengaluru FC v Sporting Club Delhi",
+      "meta": "Football · Indian Super League",
+      "time": "17:00",
+      "match": "isl-bfc-del"
     }
   ],
   "players": [
