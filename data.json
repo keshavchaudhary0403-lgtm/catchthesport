@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T19:10:11+05:30",
+  "lastUpdated": "2026-10-03T20:05:09+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 15",
-  "featured": "ind-wi-odi3",
+  "featured": "ind-bra",
   "matches": [
     {
       "st": "result",
@@ -908,13 +908,17 @@
       "b": [
         "WI",
         "West Indies",
-        "",
+        "106/1 (15)",
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352.",
+      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352; Shai Hope and Amir Jangoo steadied after John Campbell fell early (106/1 after 15 overs).",
       "venue": "New Chandigarh",
       "src": [
+        {
+          "t": "Outlook India – 3rd ODI live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-live-score-3rd-odi-2026-ind-vs-wi-updates-highlights-new-chandigarh"
+        },
         {
           "t": "ANI – Rahul's ton, Rohit's 92 guide India to 351/7",
           "u": "https://www.aninews.in/news/sports/cricket/3rd-odi-kl-rahul8217s-ton-hitman8217s-fighting-92-guide-india-to-3517-against-west-indies-16020261003183830/"
@@ -941,7 +945,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "India 351/7 (50 ov) · West Indies chasing 352"
+      "status": "WI 106/1 (15 ov) · chasing 352"
     },
     {
       "id": "ind-wi-odi2",
@@ -1047,7 +1051,7 @@
     },
     {
       "id": "ind-bra",
-      "st": "upcoming",
+      "st": "live",
       "big": true,
       "india": true,
       "sport": "Football",
@@ -1056,17 +1060,21 @@
       "a": [
         "IND",
         "India",
-        ""
+        "0"
       ],
       "b": [
         "BRA",
         "Brazil",
-        ""
+        "0"
       ],
       "when": "2026-10-03T19:30:00+05:30",
-      "note": "Brazil's first senior international on Indian soil. 7:30 pm kick-off per the official ticketing page; gates open 3 pm.",
+      "note": "Brazil's first senior international on Indian soil. Brazil dominate possession early; India hold firm and Manvir Singh fired wide. Starting XI: Sandhu; Abhishek Singh, Anwar Ali, Varghese, Mishra, Thapa, Apuia, Kuruniyan, Samad, Ryan Williams, Manvir Singh.",
       "venue": "Salt Lake Stadium (VYBK), Kolkata",
       "src": [
+        {
+          "t": "VAVEL – India vs Brazil live",
+          "u": "https://www.vavel.com/en-us/soccer/2026/10/03/1273694-india-vs-brazil-live-score-international-friendly.html"
+        },
         {
           "t": "District – India vs Brazil tickets",
           "u": "https://www.district.in/events/fifa-international-friendly-india-vs-brazil-buy-tickets"
@@ -1088,7 +1096,8 @@
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ],
-      "watch": "Sony Sports Network / SonyLIV"
+      "watch": "Sony Sports Network / SonyLIV",
+      "status": "0–0 · 21' (latest report)"
     },
     {
       "id": "ind-uru",
@@ -1551,7 +1560,7 @@
     "short": "Asian Games",
     "eyebrow": "Featured event · 20th Asian Games",
     "desc": "Hosted across Aichi Prefecture and Nagoya, Japan. India are chasing their best-ever finish, with finals in archery, boxing, hockey and cricket on the closing weekend.",
-    "statusText": "Live · closes 4 Oct, Nagoya",
+    "statusText": "Final day done · closes 4 Oct, Nagoya",
     "stats": [
       {
         "v": "45",
@@ -2959,7 +2968,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-03T19:10:11+05:30",
+    "medalChecked": "2026-10-03T20:05:09+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -3111,6 +3120,34 @@
     }
   ],
   "feed": [
+    {
+      "t": "20:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "West Indies 106/1 after 15 overs chasing 352 in the 3rd ODI — Hope and Jangoo building after Siraj removed Campbell.",
+      "match": "ind-wi-odi3",
+      "src": [
+        {
+          "t": "Outlook India – 3rd ODI live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-live-score-3rd-odi-2026-ind-vs-wi-updates-highlights-new-chandigarh"
+        }
+      ]
+    },
+    {
+      "t": "20:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "India 0–0 Brazil after 21 minutes at Salt Lake Stadium — Brazil on top but India's defence holding.",
+      "match": "ind-bra",
+      "src": [
+        {
+          "t": "VAVEL – India vs Brazil live",
+          "u": "https://www.vavel.com/en-us/soccer/2026/10/03/1273694-india-vs-brazil-live-score-international-friendly.html"
+        }
+      ]
+    },
     {
       "t": "19:10",
       "tag": "LIVE",
@@ -3308,34 +3345,6 @@
         {
           "t": "Outlook India – Day 15 live updates",
           "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-3-day-15-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ]
-    },
-    {
-      "t": "07:04",
-      "tag": "FINAL",
-      "c": "var(--accent)",
-      "m": "Archery",
-      "text": "Kumkum Mohod reaches the women's recurve individual final, beating China's Zhu in the semi-final — a medal is assured; gold match at 7:20 am IST.",
-      "match": "ag-archery-w-ind-final",
-      "src": [
-        {
-          "t": "Business Standard – Asiad 2026 Day 14 live",
-          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
-        }
-      ]
-    },
-    {
-      "t": "18:20",
-      "tag": "LOSS",
-      "c": "var(--live-text)",
-      "m": "Wrestling",
-      "text": "Dipanshi Phogat loses the women's 50kg bronze bout 4–11 to Kazakhstan's Zeinep Bayanova and misses out on a medal.",
-      "match": "ag-wrestling-w50-bronze",
-      "src": [
-        {
-          "t": "The Tribune – Dipanshi loses 4–11 in 50kg bronze bout",
-          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-dipanshi-loses-4-11-to-kazakhstans-bayanova-in-womens-50kg-bronze-medal-bout"
         }
       ]
     }
