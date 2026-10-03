@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T15:10:27+05:30",
+  "lastUpdated": "2026-10-03T16:05:04+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-hockey-m-final",
   "matches": [
@@ -670,28 +670,32 @@
       "resultAt": "2026-10-03T14:05:04+05:30"
     },
     {
-      "st": "upcoming",
+      "st": "live",
       "gold": true,
       "sport": "Hockey",
       "round": "Men's final · Gold",
       "a": [
         "IND",
         "India",
-        "–"
+        "1"
       ],
       "b": [
         "MAS",
         "Malaysia",
-        "–"
+        "1"
       ],
       "when": "2026-10-03T15:30:00+05:30",
-      "note": "Malaysia beat South Korea 2–1 (Azrai Aizad 40′, 43′). Winner qualifies for LA 2028.",
+      "note": "Harmanpreet Singh put India ahead; Shello Silverius levelled for Malaysia. Winner qualifies for LA 2028. Malaysia beat South Korea 2–1 in the semi-final.",
       "venue": "Gifu Prefectural Green Stadium",
       "id": "ag-hockey-m-final",
       "comp": "Asian Games",
       "india": true,
       "big": true,
       "src": [
+        {
+          "t": "Outlook India – India v Malaysia hockey final live",
+          "u": "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
+        },
         {
           "t": "Malay Mail – Malaysia into final",
           "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
@@ -704,7 +708,8 @@
           "t": "ETV Bharat – Super Saturday finals",
           "u": "https://www.etvbharat.com/en/bharat/big-super-saturday-india-pakistan-cricket-gold-clash-india-malaysia-hockey-final-in-asian-games-2026-enn26100107562"
         }
-      ]
+      ],
+      "status": "1–1 · 2nd qtr (last report)"
     },
     {
       "st": "result",
@@ -929,7 +934,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "India won toss, bat first"
+      "status": "India batting first"
     },
     {
       "id": "ind-wi-odi2",
@@ -1388,11 +1393,11 @@
       "sport": "Wrestling",
       "comp": "Asian Games",
       "round": "Men's freestyle 57kg final · Gold",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Aman Sehrawat",
-        ""
+        "Won"
       ],
       "b": [
         "PRK",
@@ -1403,14 +1408,26 @@
       "india": true,
       "big": true,
       "gold": true,
-      "note": "Aman Sehrawat beat Tajikistan's Aiaal Belolyubskii 14–8 in the semi-final after trailing 2–6.",
+      "note": "Aman Sehrawat beats North Korea's reigning world champion Han Chong Song after trailing 6–7 (reported 10–7 / 11–7) — India's second wrestling gold of these Games and the first Asian Games 57kg gold for an Indian.",
       "venue": "Inae Sports Center, Nagoya",
       "src": [
         {
-          "t": "Social News XYZ – Antim, Aman reach finals",
-          "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
+          "t": "The Tribune – Aman Sehrawat clinches 57kg gold",
+          "u": "https://www.tribuneindia.com/news/sports/aman-sehrawat-clinches-asian-games-mens-freestyle-57kg-wrestling-gold"
+        },
+        {
+          "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
+          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
+        },
+        {
+          "t": "Business Standard – Day 14 live updates",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T16:05:04+05:30"
     },
     {
       "id": "ag-wrestling-w53-final",
@@ -1518,11 +1535,11 @@
         "l": "Sports"
       },
       {
-        "v": "19 · 26 · 36",
+        "v": "20 · 26 · 36",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 81 medals (19 G · 26 S · 36 B, 5th) after men's cricket gold and Neeraj Chauhan's archery bronze, 14:05 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
+    "medalAsOf": "India 82 medals (20 G · 26 S · 36 B, 5th) after Aman Sehrawat's 57kg wrestling gold, 16:05 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
     "medalTable": [
       {
         "code": "CHN",
@@ -1555,7 +1572,7 @@
       {
         "code": "IND",
         "name": "India",
-        "g": 19,
+        "g": 20,
         "s": 26,
         "b": 36
       },
@@ -1589,6 +1606,23 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Wrestling",
+        "event": "Men's freestyle 57kg",
+        "who": "Aman Sehrawat — beat North Korea's Han Chong Song in the final",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "The Tribune – Aman Sehrawat clinches 57kg gold",
+            "u": "https://www.tribuneindia.com/news/sports/aman-sehrawat-clinches-asian-games-mens-freestyle-57kg-wrestling-gold"
+          },
+          {
+            "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
+            "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Cricket",
@@ -2815,6 +2849,10 @@
     ],
     "medalSrc": [
       {
+        "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
+        "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
+      },
+      {
         "t": "Business Today – Pranavi Urs first Indian woman golfer to win Asian Games gold",
         "u": "https://www.businesstoday.in/sports/story/asian-games-2026-pranavi-sharath-urs-becomes-first-indian-woman-golfer-to-win-gold-559298-2026-10-03"
       },
@@ -2843,7 +2881,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T15:10:27+05:30",
+    "medalChecked": "2026-10-03T16:05:04+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2995,6 +3033,38 @@
     }
   ],
   "feed": [
+    {
+      "t": "15:37",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Wrestling",
+      "text": "GOLD! Aman Sehrawat beats North Korea's world champion Han Chong Song in the 57kg freestyle final after trailing 6–7 — India's 20th gold of these Games (82 medals).",
+      "match": "ag-wrestling-m57-final",
+      "src": [
+        {
+          "t": "The Tribune – Aman Sehrawat clinches 57kg gold",
+          "u": "https://www.tribuneindia.com/news/sports/aman-sehrawat-clinches-asian-games-mens-freestyle-57kg-wrestling-gold"
+        },
+        {
+          "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
+          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
+        }
+      ]
+    },
+    {
+      "t": "15:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Hockey",
+      "text": "Men's hockey gold-medal match: India 1–1 Malaysia in the second quarter after goals from Harmanpreet Singh and Shello Silverius.",
+      "match": "ag-hockey-m-final",
+      "src": [
+        {
+          "t": "Outlook India – India v Malaysia hockey final live",
+          "u": "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
+        }
+      ]
+    },
     {
       "t": "14:05",
       "tag": "GOLD",
@@ -3194,34 +3264,6 @@
           "u": "https://sports.ndtv.com/asian-games-2026/india-vs-china-live-score-asian-games-2026-womens-hockey-final-ind-vs-chn-live-match-updates-aichi-nagoya-12129480"
         }
       ]
-    },
-    {
-      "t": "15:11",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Wrestling",
-      "text": "GOLD! Sujeet Kalkal comes back from 2–9 down to beat Tajikistan's Abdulmazid Kudiev 10–9 in the men's 65kg freestyle final — India's first wrestling gold of the Games. India now on 75 medals (15 gold).",
-      "match": "ag-wrestling-65-final",
-      "src": [
-        {
-          "t": "Indian Express – Sujeet Kalkal wins first wrestling gold",
-          "u": "https://indianexpress.com/article/sports/sujeet-kalkal-first-wrestling-gold-india-2026-asian-games-10903802/"
-        }
-      ]
-    },
-    {
-      "t": "15:11",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Boxing",
-      "text": "GOLD! Ankush Panghal beats South Korea's Kim Minseong in the men's 80kg final — India's third boxing gold of the day after Lovlina and Parveen.",
-      "match": "ag-10",
-      "src": [
-        {
-          "t": "Indian Express – Day 14 live blog",
-          "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -3232,14 +3274,6 @@
       "meta": "Cricket · New Chandigarh",
       "time": "14:00",
       "match": "ind-wi-odi3"
-    },
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "Aman Sehrawat, 57kg wrestling final",
-      "meta": "Wrestling · Nagoya",
-      "time": "14:44",
-      "match": "ag-wrestling-m57-final"
     },
     {
       "d": "03",
