@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T13:10:22+05:30",
+  "lastUpdated": "2026-10-03T14:05:04+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
-  "featured": "ag-cricket-final",
+  "featured": "ag-hockey-m-final",
   "matches": [
     {
       "st": "result",
@@ -628,7 +628,7 @@
       "resultAt": "2026-10-03T08:10:30+05:30"
     },
     {
-      "st": "live",
+      "st": "result",
       "gold": true,
       "sport": "Cricket",
       "round": "Men's final · Gold",
@@ -640,10 +640,10 @@
       "b": [
         "PAK",
         "Pakistan",
-        "130/4 (15)"
+        "192/6 (20)"
       ],
       "when": "2026-10-03T10:00:00+05:30",
-      "note": "India won the toss and batted: Abhishek Sharma 61 (28) and Tilak Varma 51* (22) took India to 211/6; Pakistan chase 212 for gold — 130/4 after 15 overs. If washed out, India and Pakistan share gold.",
+      "note": "India retain men's gold, beating Pakistan by 19 runs. Abhishek Sharma 61 (28), Tilak Varma 51* (22) and Shivam Dube 27 (15) made 211/6; Hasan Nawaz hit 96 (51) for Pakistan, who finished 192/6. India's women also won cricket gold.",
       "venue": "Korogi Sports Park, Nisshin",
       "id": "ag-cricket-final",
       "comp": "Asian Games",
@@ -652,27 +652,22 @@
       "watch": "Sony Sports / SonyLIV",
       "src": [
         {
-          "t": "Business Standard – Day 14 live updates (Pakistan 130/4, 15 ov)",
-          "u": "https://business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
-        },
-        {
-          "t": "The Tribune – India 211/6 v Pakistan",
-          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-abhishek-tilak-half-centuries-propel-india-to-211-6-against-pakistan-mens-cricket-final"
+          "t": "Business Standard – India edge past Pakistan to defend gold",
+          "u": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-edge-past-pakistan-to-defend-gold-medal-in-men-s-cricket-126100300365_1.html"
         },
         {
           "t": "Business Standard – Day 14 live updates",
           "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
         },
         {
-          "t": "The News – India choose to bat first against Pakistan in Asian Games cricket final",
-          "u": "https://thenews.pk/story/1440824-india-choose-to-bat-first-against-pakistan-in-asian-games-cricket-final"
-        },
-        {
-          "t": "Yahoo Sports – IND v PAK cricket final",
-          "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
+          "t": "The Tribune – India 211/6 v Pakistan",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-abhishek-tilak-half-centuries-propel-india-to-211-6-against-pakistan-mens-cricket-final"
         }
       ],
-      "status": "Pakistan 130/4 (15 ov), need 82 off 30"
+      "win": "a",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T14:05:04+05:30"
     },
     {
       "st": "upcoming",
@@ -895,7 +890,7 @@
     },
     {
       "id": "ind-wi-odi3",
-      "st": "upcoming",
+      "st": "live",
       "big": true,
       "india": true,
       "sport": "Cricket",
@@ -913,9 +908,13 @@
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 after Shubman Gill's record 222 in Guwahati. Prasidh Krishna out injured; Anshul Kamboj called up. Toss 1:30 pm.",
+      "note": "India lead the series 2–0. India won the toss and chose to bat; Anshul Kamboj makes his ODI debut, Nitish Kumar Reddy and Mohammed Siraj come in.",
       "venue": "New Chandigarh",
       "src": [
+        {
+          "t": "The Tribune – India elect to bat first in 3rd ODI",
+          "u": "https://www.tribuneindia.com/news/sports/3rd-odi-india-elect-to-bat-first-against-west-indies-in-new-chandigarh"
+        },
         {
           "t": "Wikipedia – West Indies in India 2026-27",
           "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
@@ -929,7 +928,8 @@
           "u": "https://www.newsx.com/sports/india-vs-west-indies-3rd-odi-preview-venue-squads-live-streaming-and-all-you-need-to-know-278558/"
         }
       ],
-      "watch": "Star Sports / JioHotstar"
+      "watch": "Star Sports / JioHotstar",
+      "status": "India won toss, bat first"
     },
     {
       "id": "ind-wi-odi2",
@@ -1462,11 +1462,11 @@
         "l": "Sports"
       },
       {
-        "v": "18 · 26 · 35",
+        "v": "19 · 26 · 36",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 79 medals (18 G · 26 S · 35 B, 5th) after Pranavi Urs' golf gold and team silver, 13:10 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
+    "medalAsOf": "India 81 medals (19 G · 26 S · 36 B, 5th) after men's cricket gold and Neeraj Chauhan's archery bronze, 14:05 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
     "medalTable": [
       {
         "code": "CHN",
@@ -1499,9 +1499,9 @@
       {
         "code": "IND",
         "name": "India",
-        "g": 18,
+        "g": 19,
         "s": 26,
-        "b": 35
+        "b": 36
       },
       {
         "code": "IRI",
@@ -1533,6 +1533,32 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Cricket",
+        "event": "Men's team",
+        "who": "India beat Pakistan by 19 runs in the final — Abhishek Sharma 61 (28), Tilak Varma 51* (22); Hasan Nawaz made 96 for Pakistan.",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "Business Standard – India edge past Pakistan to defend gold",
+            "u": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-edge-past-pakistan-to-defend-gold-medal-in-men-s-cricket-126100300365_1.html"
+          }
+        ]
+      },
+      {
+        "medal": "bronze",
+        "sport": "Archery",
+        "event": "Men's individual (recurve)",
+        "who": "Neeraj Chauhan",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "Business Standard – Day 14 live updates",
+            "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Golf",
@@ -2761,7 +2787,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T13:10:22+05:30",
+    "medalChecked": "2026-10-03T14:05:04+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2771,7 +2797,7 @@
       "status": "Live · ends 4 Oct",
       "live": true,
       "india": true,
-      "note": "India 18 gold, 26 silver, 35 bronze (79). Men's cricket and hockey finals on 3 Oct; Games close 4 Oct.",
+      "note": "India 19 gold, 26 silver, 36 bronze (81). Men's hockey final and wrestling finals on 3 Oct; Games close 4 Oct.",
       "id": "asian-games",
       "src": [
         {
@@ -2913,6 +2939,34 @@
     }
   ],
   "feed": [
+    {
+      "t": "14:05",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Cricket",
+      "text": "GOLD! India beat Pakistan by 19 runs to retain the Asian Games men's cricket title — Hasan Nawaz's 96 for Pakistan falls short of 212.",
+      "match": "ag-cricket-final",
+      "src": [
+        {
+          "t": "Business Standard – India edge past Pakistan to defend gold",
+          "u": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-edge-past-pakistan-to-defend-gold-medal-in-men-s-cricket-126100300365_1.html"
+        }
+      ]
+    },
+    {
+      "t": "14:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "3rd ODI: India win the toss and bat first against West Indies in New Chandigarh; Anshul Kamboj debuts. India lead 2–0.",
+      "match": "ind-wi-odi3",
+      "src": [
+        {
+          "t": "The Tribune – India elect to bat first in 3rd ODI",
+          "u": "https://www.tribuneindia.com/news/sports/3rd-odi-india-elect-to-bat-first-against-west-indies-in-new-chandigarh"
+        }
+      ]
+    },
     {
       "t": "13:10",
       "tag": "LIVE",
@@ -3112,39 +3166,9 @@
           "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
         }
       ]
-    },
-    {
-      "t": "14:32",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Boxing",
-      "text": "GOLD! Parveen Hooda beats Chinese Taipei’s Chen Nien-chin 3–2 on a split decision in the women’s 65kg final — India’s 73rd medal and second boxing gold of the day.",
-      "match": "ag-9",
-      "src": [
-        {
-          "t": "ETtoday – Chen Nien-chin loses 2–3, takes silver",
-          "u": "https://sports.ettoday.net/news/3247913"
-        }
-      ]
-    },
-    {
-      "t": "12:56",
-      "tag": "BRONZE",
-      "c": "var(--bronze)",
-      "m": "Sepak takraw",
-      "text": "BRONZE for India's men's quadrant team — Japan win the semi-final 2–0 (15–12, 15–13), India's 72nd medal of the Games.",
-      "match": "ag-sepak-m-quad-semi"
     }
   ],
   "schedule": [
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "Men's cricket final",
-      "meta": "India vs Pakistan · Nisshin",
-      "time": "10:00",
-      "match": "ag-cricket-final"
-    },
     {
       "d": "03",
       "mo": "OCT",
