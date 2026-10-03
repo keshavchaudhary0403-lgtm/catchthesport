@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T14:05:04+05:30",
+  "lastUpdated": "2026-10-03T15:10:27+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-hockey-m-final",
   "matches": [
@@ -1440,6 +1440,62 @@
           "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
         }
       ]
+    },
+    {
+      "id": "ag-wrestling-m74-bronze",
+      "sport": "Wrestling",
+      "comp": "Asian Games",
+      "round": "Men's freestyle 74kg bronze match",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Sagar Jaglan",
+        ""
+      ],
+      "b": [
+        "KAZ",
+        "Nurkozha Kaipanov",
+        ""
+      ],
+      "when": "2026-10-03T15:00:00+05:30",
+      "india": true,
+      "note": "Jaglan reached the bronze bout by beating Uzbekistan's Razambek Jamalov 7–3 in the repechage.",
+      "venue": "Inae Sports Center, Nagoya",
+      "watch": "Sony Sports Network / SonyLIV",
+      "src": [
+        {
+          "t": "Sunday Guardian – Aman, Sagar, Deepak medal bouts: opponents, start time",
+          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-live-streaming-aman-sehrawat-sagar-jaglan-deepak-punia-medal-bouts-opponents-start-time-where-to-watch-297881/"
+        }
+      ]
+    },
+    {
+      "id": "ag-wrestling-m97-bronze",
+      "sport": "Wrestling",
+      "comp": "Asian Games",
+      "round": "Men's freestyle 97kg bronze match",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Deepak Punia",
+        ""
+      ],
+      "b": [
+        "MGL",
+        "Ganbaatar Gankhuyag",
+        ""
+      ],
+      "when": "2026-10-03T15:18:00+05:30",
+      "india": true,
+      "note": "Punia lost his semi-final 9–8 to Uzbekistan's Sherzod Poyonov and now fights for bronze.",
+      "venue": "Inae Sports Center, Nagoya",
+      "watch": "Sony Sports Network / SonyLIV",
+      "src": [
+        {
+          "t": "Sunday Guardian – Aman, Sagar, Deepak medal bouts: opponents, start time",
+          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-live-streaming-aman-sehrawat-sagar-jaglan-deepak-punia-medal-bouts-opponents-start-time-where-to-watch-297881/"
+        }
+      ]
     }
   ],
   "event": {
@@ -2787,7 +2843,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T14:05:04+05:30",
+    "medalChecked": "2026-10-03T15:10:27+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
