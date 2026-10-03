@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T03:08:53+05:30",
+  "lastUpdated": "2026-10-03T07:04:58+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-cricket-final",
   "matches": [
@@ -629,6 +629,33 @@
       "day": "2 Oct · Day 13",
       "recent": true,
       "resultAt": "2026-10-02T18:20:18+05:30"
+    },
+    {
+      "id": "ag-archery-w-ind-final",
+      "st": "upcoming",
+      "gold": true,
+      "india": true,
+      "sport": "Archery",
+      "comp": "Asian Games",
+      "round": "Recurve women's individual final · Gold",
+      "a": [
+        "IND",
+        "Kumkum Mohod",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-10-03T07:20:00+05:30",
+      "note": "Kumkum Mohod beat China's Zhu in the semi-final (decided by a 10-ring shot) to reach the final — at least silver assured. Opponent TBC.",
+      "src": [
+        {
+          "t": "Business Standard – Asiad 2026 Day 14 live",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        }
+      ]
     },
     {
       "st": "upcoming",
@@ -2640,7 +2667,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T03:08:53+05:30",
+    "medalChecked": "2026-10-03T07:04:58+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2792,6 +2819,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "07:04",
+      "tag": "FINAL",
+      "c": "var(--accent)",
+      "m": "Archery",
+      "text": "Kumkum Mohod reaches the women's recurve individual final, beating China's Zhu in the semi-final — a medal is assured; gold match at 7:20 am IST.",
+      "match": "ag-archery-w-ind-final",
+      "src": [
+        {
+          "t": "Business Standard – Asiad 2026 Day 14 live",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        }
+      ]
+    },
     {
       "t": "18:20",
       "tag": "LOSS",
@@ -2973,17 +3014,17 @@
           "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
         }
       ]
-    },
-    {
-      "t": "09:36",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Archery",
-      "text": "SILVER for Kumkum Mohod and Dhiraj Bommadevara — China win the recurve mixed team final 5–3, tying the last set 37–37 to seal gold.",
-      "match": "ag-archery-mixed-final"
     }
   ],
   "schedule": [
+    {
+      "d": "03",
+      "mo": "OCT",
+      "title": "Women's recurve individual final",
+      "meta": "Archery · Kumkum Mohod · gold match",
+      "time": "07:20",
+      "match": "ag-archery-w-ind-final"
+    },
     {
       "d": "03",
       "mo": "OCT",
