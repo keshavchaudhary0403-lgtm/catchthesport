@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T16:05:04+05:30",
-  "dayLabel": "Sat 3 Oct · Asian Games Day 14",
+  "lastUpdated": "2026-10-03T17:05:08+05:30",
+  "dayLabel": "Sat 3 Oct · Asian Games Day 15",
   "featured": "ag-hockey-m-final",
   "matches": [
     {
@@ -677,7 +677,7 @@
       "a": [
         "IND",
         "India",
-        "1"
+        "3"
       ],
       "b": [
         "MAS",
@@ -685,13 +685,17 @@
         "1"
       ],
       "when": "2026-10-03T15:30:00+05:30",
-      "note": "Harmanpreet Singh put India ahead; Shello Silverius levelled for Malaysia. Winner qualifies for LA 2028. Malaysia beat South Korea 2–1 in the semi-final.",
+      "note": "India lead 3–1 in the fourth quarter: Harmanpreet Singh opened from a penalty corner, Shello Silverius levelled for Malaysia, then Jugraj Singh and Hardik (penalty stroke) put India ahead. Final result not yet confirmed. Winner qualifies for LA 2028.",
       "venue": "Gifu Prefectural Green Stadium",
       "id": "ag-hockey-m-final",
       "comp": "Asian Games",
       "india": true,
       "big": true,
       "src": [
+        {
+          "t": "Business Standard – Day 14 live (IND 3-1 MAL, 4th qtr)",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        },
         {
           "t": "Outlook India – India v Malaysia hockey final live",
           "u": "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
@@ -709,7 +713,7 @@
           "u": "https://www.etvbharat.com/en/bharat/big-super-saturday-india-pakistan-cricket-gold-clash-india-malaysia-hockey-final-in-asian-games-2026-enn26100107562"
         }
       ],
-      "status": "1–1 · 2nd qtr (last report)"
+      "status": "3–1 · 4th qtr (last report)"
     },
     {
       "st": "result",
@@ -904,7 +908,7 @@
       "a": [
         "IND",
         "India",
-        ""
+        "180/4 (31)"
       ],
       "b": [
         "WI",
@@ -913,9 +917,13 @@
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0. India won the toss and chose to bat; Anshul Kamboj makes his ODI debut, Nitish Kumar Reddy and Mohammed Siraj come in.",
+      "note": "India lead the series 2–0 and won the toss to bat; Anshul Kamboj makes his ODI debut. Shubman Gill fell for 1 and Virat Kohli for a golden duck, before Rohit Sharma and Ruturaj Gaikwad both passed fifty.",
       "venue": "New Chandigarh",
       "src": [
+        {
+          "t": "India.com – 3rd ODI live",
+          "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-3rd-odi-match-3-oct-ind-vs-wi-squad-players-list-shubman-gill-shai-hope-rohit-sharma-virat-kohli-pca-international-stadium-new-chandigarh-8532377/"
+        },
         {
           "t": "The Tribune – India elect to bat first in 3rd ODI",
           "u": "https://www.tribuneindia.com/news/sports/3rd-odi-india-elect-to-bat-first-against-west-indies-in-new-chandigarh"
@@ -934,7 +942,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "India batting first"
+      "status": "India 180/4 after 31 ov (last report)"
     },
     {
       "id": "ind-wi-odi2",
@@ -1463,56 +1471,72 @@
       "sport": "Wrestling",
       "comp": "Asian Games",
       "round": "Men's freestyle 74kg bronze match",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Sagar Jaglan",
-        ""
+        "0"
       ],
       "b": [
         "KAZ",
         "Nurkozha Kaipanov",
-        ""
+        "Pin"
       ],
       "when": "2026-10-03T15:00:00+05:30",
       "india": true,
-      "note": "Jaglan reached the bronze bout by beating Uzbekistan's Razambek Jamalov 7–3 in the repechage.",
+      "note": "Sagar Jaglan lost the bronze-medal bout, pinned by Kazakhstan's Nurkozha Kaipanov within 30 seconds. No medal.",
       "venue": "Inae Sports Center, Nagoya",
       "watch": "Sony Sports Network / SonyLIV",
       "src": [
         {
-          "t": "Sunday Guardian – Aman, Sagar, Deepak medal bouts: opponents, start time",
-          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-live-streaming-aman-sehrawat-sagar-jaglan-deepak-punia-medal-bouts-opponents-start-time-where-to-watch-297881/"
+          "t": "The Tribune – Deepak Punia secures 97kg bronze (Sagar loses bronze bout)",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-deepak-punia-secures-bronze-in-mens-97-kg-freestyle-wrestling"
+        },
+        {
+          "t": "Business Standard – Day 14 live updates",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T17:05:08+05:30"
     },
     {
       "id": "ag-wrestling-m97-bronze",
       "sport": "Wrestling",
       "comp": "Asian Games",
       "round": "Men's freestyle 97kg bronze match",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Deepak Punia",
-        ""
+        "2"
       ],
       "b": [
         "MGL",
         "Ganbaatar Gankhuyag",
-        ""
+        "1"
       ],
       "when": "2026-10-03T15:18:00+05:30",
       "india": true,
-      "note": "Punia lost his semi-final 9–8 to Uzbekistan's Sherzod Poyonov and now fights for bronze.",
+      "note": "Deepak Punia beat Mongolia's Ganbaatar Gankhuyag 2–1 for bronze — India's first men's freestyle 97kg medal in 60 years, since Bhim Singh's bronze in 1966.",
       "venue": "Inae Sports Center, Nagoya",
       "watch": "Sony Sports Network / SonyLIV",
       "src": [
         {
-          "t": "Sunday Guardian – Aman, Sagar, Deepak medal bouts: opponents, start time",
-          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-live-streaming-aman-sehrawat-sagar-jaglan-deepak-punia-medal-bouts-opponents-start-time-where-to-watch-297881/"
+          "t": "The Tribune – Deepak Punia secures 97kg bronze",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-deepak-punia-secures-bronze-in-mens-97-kg-freestyle-wrestling"
+        },
+        {
+          "t": "Deccan Chronicle – Deepak Punia wins bronze",
+          "u": "https://www.deccanchronicle.com/sports/asian-games-2026-deepak-punia-wins-bronze-in-mens-97kg-freestyle-wrestling-1992800"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T17:05:08+05:30"
     }
   ],
   "event": {
@@ -1535,11 +1559,11 @@
         "l": "Sports"
       },
       {
-        "v": "20 · 26 · 36",
+        "v": "20 · 26 · 37",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 82 medals (20 G · 26 S · 36 B, 5th) after Aman Sehrawat's 57kg wrestling gold, 16:05 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
+    "medalAsOf": "India 83 medals (20 G · 26 S · 37 B, 5th) after Deepak Punia's 97kg wrestling bronze · other nations: Wikipedia table, 19:36 IST on 2 Oct",
     "medalTable": [
       {
         "code": "CHN",
@@ -1574,7 +1598,7 @@
         "name": "India",
         "g": 20,
         "s": 26,
-        "b": 36
+        "b": 37
       },
       {
         "code": "IRI",
@@ -1606,6 +1630,23 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "bronze",
+        "sport": "Wrestling",
+        "event": "Men's freestyle 97kg",
+        "who": "Deepak Punia — beat Mongolia's Ganbaatar Gankhuyag 2–1 in the bronze-medal bout; India's first medal in this weight class in 60 years.",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "The Tribune – Deepak Punia secures 97kg bronze",
+            "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-deepak-punia-secures-bronze-in-mens-97-kg-freestyle-wrestling"
+          },
+          {
+            "t": "Deccan Chronicle – Deepak Punia wins bronze",
+            "u": "https://www.deccanchronicle.com/sports/asian-games-2026-deepak-punia-wins-bronze-in-mens-97kg-freestyle-wrestling-1992800"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Wrestling",
@@ -2849,6 +2890,10 @@
     ],
     "medalSrc": [
       {
+        "t": "The Tribune – Deepak Punia secures 97kg bronze (tally 83)",
+        "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-deepak-punia-secures-bronze-in-mens-97-kg-freestyle-wrestling"
+      },
+      {
         "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
         "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
       },
@@ -2881,7 +2926,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T16:05:04+05:30",
+    "medalChecked": "2026-10-03T17:05:08+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -3034,6 +3079,24 @@
   ],
   "feed": [
     {
+      "t": "3 Oct",
+      "tag": "BRONZE",
+      "c": "var(--bronze)",
+      "m": "Wrestling",
+      "text": "BRONZE! Deepak Punia beats Mongolia's Ganbaatar 2–1 in the 97kg freestyle bronze bout — India's 83rd medal. Sagar Jaglan, however, lost his 74kg bronze bout to Kazakhstan's Kaipanov (pinned inside 30 seconds).",
+      "match": "ag-wrestling-m97-bronze",
+      "src": [
+        {
+          "t": "The Tribune – Deepak Punia secures 97kg bronze",
+          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-deepak-punia-secures-bronze-in-mens-97-kg-freestyle-wrestling"
+        },
+        {
+          "t": "Deccan Chronicle – Deepak Punia wins bronze",
+          "u": "https://www.deccanchronicle.com/sports/asian-games-2026-deepak-punia-wins-bronze-in-mens-97kg-freestyle-wrestling-1992800"
+        }
+      ]
+    },
+    {
       "t": "15:37",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -3056,9 +3119,13 @@
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Hockey",
-      "text": "Men's hockey gold-medal match: India 1–1 Malaysia in the second quarter after goals from Harmanpreet Singh and Shello Silverius.",
+      "text": "Men's hockey gold-medal match: India lead Malaysia 3–1 in the fourth quarter (Harmanpreet, Jugraj Singh and Hardik for India; Shello Silverius for Malaysia). Final result awaited.",
       "match": "ag-hockey-m-final",
       "src": [
+        {
+          "t": "Business Standard – Day 14 live (IND 3-1 MAL, 4th qtr)",
+          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        },
         {
           "t": "Outlook India – India v Malaysia hockey final live",
           "u": "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
@@ -3250,20 +3317,6 @@
           "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
         }
       ]
-    },
-    {
-      "t": "15:35",
-      "tag": "NEWS",
-      "c": "var(--live-text)",
-      "m": "Hockey",
-      "text": "Women's hockey final vs China delayed 45 minutes — the Indian team bus was held up by traffic from an unrelated accident. New start: 4:15 pm IST.",
-      "match": "ag-hockey-w-final",
-      "src": [
-        {
-          "t": "NDTV Sports – India vs China final live (delayed 45 min)",
-          "u": "https://sports.ndtv.com/asian-games-2026/india-vs-china-live-score-asian-games-2026-womens-hockey-final-ind-vs-chn-live-match-updates-aichi-nagoya-12129480"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -3329,6 +3382,14 @@
       "meta": "Football friendly · Kolkata",
       "time": "TBC",
       "match": "ind-rus-w1"
+    },
+    {
+      "d": "09",
+      "mo": "OCT",
+      "title": "India v West Indies, 2nd T20I",
+      "meta": "Cricket · Ranchi",
+      "time": "19:00",
+      "match": "ind-wi-t20-2"
     }
   ],
   "players": [
