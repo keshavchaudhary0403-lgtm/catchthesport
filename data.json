@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T17:37:57+05:30",
+  "lastUpdated": "2026-10-03T19:10:11+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 15",
   "featured": "ind-wi-odi3",
   "matches": [
@@ -903,7 +903,7 @@
       "a": [
         "IND",
         "India",
-        "274/6 (43.4)"
+        "351/7 (50)"
       ],
       "b": [
         "WI",
@@ -912,9 +912,13 @@
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj makes his ODI debut. Gill (1) and Kohli (0) fell early; Rohit Sharma made 92 (85) and Ruturaj Gaikwad 57 before KL Rahul and Naman Dhir pushed on.",
+      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj made his ODI debut. KL Rahul hit 129 (80), Rohit Sharma 92 (85, passing 10,000 runs as an opener), Ruturaj Gaikwad 57 and Naman Dhir 30; Jayden Seales took 3/62. West Indies need 352.",
       "venue": "New Chandigarh",
       "src": [
+        {
+          "t": "ANI – Rahul's ton, Rohit's 92 guide India to 351/7",
+          "u": "https://www.aninews.in/news/sports/cricket/3rd-odi-kl-rahul8217s-ton-hitman8217s-fighting-92-guide-india-to-3517-against-west-indies-16020261003183830/"
+        },
         {
           "t": "India.com – 3rd ODI live",
           "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-3rd-odi-match-3-oct-ind-vs-wi-squad-players-list-shubman-gill-shai-hope-rohit-sharma-virat-kohli-pca-international-stadium-new-chandigarh-8532377/"
@@ -937,7 +941,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "India 274/6 after 43.4 ov"
+      "status": "India 351/7 (50 ov) · West Indies chasing 352"
     },
     {
       "id": "ind-wi-odi2",
@@ -2955,7 +2959,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-03T17:37:57+05:30",
+    "medalChecked": "2026-10-03T19:10:11+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -3107,6 +3111,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "19:10",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India post 351/7 in the 3rd ODI — KL Rahul 129, Rohit Sharma 92, Ruturaj Gaikwad 57. West Indies need 352 to avoid a 3–0 series loss.",
+      "match": "ind-wi-odi3",
+      "src": [
+        {
+          "t": "ANI – Rahul's ton, Rohit's 92 guide India to 351/7",
+          "u": "https://www.aninews.in/news/sports/cricket/3rd-odi-kl-rahul8217s-ton-hitman8217s-fighting-92-guide-india-to-3517-against-west-indies-16020261003183830/"
+        }
+      ]
+    },
     {
       "t": "17:18",
       "tag": "GOLD",
@@ -3318,24 +3336,6 @@
         {
           "t": "The Tribune – Dipanshi loses 4–11 in 50kg bronze bout",
           "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-dipanshi-loses-4-11-to-kazakhstans-bayanova-in-womens-50kg-bronze-medal-bout"
-        }
-      ]
-    },
-    {
-      "t": "17:57",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Hockey",
-      "text": "GOLD! India's women beat defending champions China 1–0 in the Asian Games hockey final (Lalremsiami goal) — their first title since 1982 and a direct LA 2028 quota. India's 76th medal (16th gold).",
-      "match": "ag-hockey-w-final",
-      "src": [
-        {
-          "t": "Outlook India – India end 44-year wait with historic gold",
-          "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
-        },
-        {
-          "t": "LatestLY – India wins gold in women's hockey",
-          "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
         }
       ]
     }
