@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T12:11:12+05:30",
+  "lastUpdated": "2026-10-03T13:10:22+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 14",
   "featured": "ag-cricket-final",
   "matches": [
@@ -640,10 +640,10 @@
       "b": [
         "PAK",
         "Pakistan",
-        "–"
+        "130/4 (15)"
       ],
       "when": "2026-10-03T10:00:00+05:30",
-      "note": "India won the toss and batted: Abhishek Sharma 61 (28) and Tilak Varma 51* (22) took India to 211/6; Pakistan chase 212 for gold. If washed out, India and Pakistan share gold.",
+      "note": "India won the toss and batted: Abhishek Sharma 61 (28) and Tilak Varma 51* (22) took India to 211/6; Pakistan chase 212 for gold — 130/4 after 15 overs. If washed out, India and Pakistan share gold.",
       "venue": "Korogi Sports Park, Nisshin",
       "id": "ag-cricket-final",
       "comp": "Asian Games",
@@ -651,6 +651,10 @@
       "big": true,
       "watch": "Sony Sports / SonyLIV",
       "src": [
+        {
+          "t": "Business Standard – Day 14 live updates (Pakistan 130/4, 15 ov)",
+          "u": "https://business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        },
         {
           "t": "The Tribune – India 211/6 v Pakistan",
           "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-abhishek-tilak-half-centuries-propel-india-to-211-6-against-pakistan-mens-cricket-final"
@@ -668,7 +672,7 @@
           "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
         }
       ],
-      "status": "Pakistan chasing 212"
+      "status": "Pakistan 130/4 (15 ov), need 82 off 30"
     },
     {
       "st": "upcoming",
@@ -1458,11 +1462,11 @@
         "l": "Sports"
       },
       {
-        "v": "17 · 25 · 35",
+        "v": "18 · 26 · 35",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 77 medals (17 G · 25 S · 35 B, 5th) after Kumkum Mohod's archery gold, 08:10 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
+    "medalAsOf": "India 79 medals (18 G · 26 S · 35 B, 5th) after Pranavi Urs' golf gold and team silver, 13:10 IST · other nations: Wikipedia table, 19:36 IST on 2 Oct",
     "medalTable": [
       {
         "code": "CHN",
@@ -1495,8 +1499,8 @@
       {
         "code": "IND",
         "name": "India",
-        "g": 17,
-        "s": 25,
+        "g": 18,
+        "s": 26,
         "b": 35
       },
       {
@@ -1529,6 +1533,40 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Golf",
+        "event": "Women's individual",
+        "who": "Pranavi Urs — 15-under 265, one stroke clear after a closing even-par 70; first Asian Games golf gold by an Indian woman (last India golf gold: Shiv Kapur, 2002).",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "Business Today – Pranavi Urs first Indian woman golfer to win Asian Games gold",
+            "u": "https://www.businesstoday.in/sports/story/asian-games-2026-pranavi-sharath-urs-becomes-first-indian-woman-golfer-to-win-gold-559298-2026-10-03"
+          },
+          {
+            "t": "Pratidin Time – Pranavi Urs golf gold by a stroke, team silver",
+            "u": "https://www.pratidintime.com/sports/pranavi-urs-womens-golf-gold-asian-games-12618843"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Golf",
+        "event": "Women's team",
+        "who": "Pranavi Urs, Aditi Ashok & Diksha Dagar — 14-under 546, behind China (22-under 538).",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "Business Today – Pranavi Urs first Indian woman golfer to win Asian Games gold",
+            "u": "https://www.businesstoday.in/sports/story/asian-games-2026-pranavi-sharath-urs-becomes-first-indian-woman-golfer-to-win-gold-559298-2026-10-03"
+          },
+          {
+            "t": "Pratidin Time – Pranavi Urs golf gold by a stroke, team silver",
+            "u": "https://www.pratidintime.com/sports/pranavi-urs-womens-golf-gold-asian-games-12618843"
+          }
+        ]
+      },
       {
         "medal": "gold",
         "sport": "Archery",
@@ -2695,6 +2733,10 @@
     ],
     "medalSrc": [
       {
+        "t": "Business Today – Pranavi Urs first Indian woman golfer to win Asian Games gold",
+        "u": "https://www.businesstoday.in/sports/story/asian-games-2026-pranavi-sharath-urs-becomes-first-indian-woman-golfer-to-win-gold-559298-2026-10-03"
+      },
+      {
         "t": "India TV – Kumkum Mohod wins individual recurve gold",
         "u": "https://www.indiatvnews.com/sports/other/asian-games-2026-indian-archer-kumkum-mohod-wins-gold-in-womens-individual-recurve-archery-2026-10-03-1055952"
       },
@@ -2719,7 +2761,7 @@
         "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T12:11:12+05:30",
+    "medalChecked": "2026-10-03T13:10:22+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -2729,7 +2771,7 @@
       "status": "Live · ends 4 Oct",
       "live": true,
       "india": true,
-      "note": "India 16 gold, 25 silver, 35 bronze (76). Men's cricket and hockey finals on 3 Oct; Games close 4 Oct.",
+      "note": "India 18 gold, 26 silver, 35 bronze (79). Men's cricket and hockey finals on 3 Oct; Games close 4 Oct.",
       "id": "asian-games",
       "src": [
         {
@@ -2871,6 +2913,37 @@
     }
   ],
   "feed": [
+    {
+      "t": "13:10",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Gold-medal match: Pakistan 130/4 after 15 overs, needing 82 off 30 balls to chase India's 211/6.",
+      "match": "ag-cricket-final",
+      "src": [
+        {
+          "t": "Business Standard – Day 14 live updates",
+          "u": "https://business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
+        }
+      ]
+    },
+    {
+      "t": "11:15",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Golf",
+      "text": "GOLD! Pranavi Urs wins the women's golf individual title at 15-under 265, one stroke ahead; India also take team silver (14-under) behind China — India's 18th gold.",
+      "src": [
+        {
+          "t": "Business Today – Pranavi Urs first Indian woman golfer to win Asian Games gold",
+          "u": "https://www.businesstoday.in/sports/story/asian-games-2026-pranavi-sharath-urs-becomes-first-indian-woman-golfer-to-win-gold-559298-2026-10-03"
+        },
+        {
+          "t": "Pratidin Time – Pranavi Urs golf gold by a stroke, team silver",
+          "u": "https://www.pratidintime.com/sports/pranavi-urs-womens-golf-gold-asian-games-12618843"
+        }
+      ]
+    },
     {
       "t": "3 Oct",
       "tag": "LIVE",
@@ -3061,22 +3134,6 @@
       "m": "Sepak takraw",
       "text": "BRONZE for India's men's quadrant team — Japan win the semi-final 2–0 (15–12, 15–13), India's 72nd medal of the Games.",
       "match": "ag-sepak-m-quad-semi"
-    },
-    {
-      "t": "12:10",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Archery",
-      "text": "SILVER for Dhiraj Bommadevara, Neeraj Chauhan and Yashdeep Bhoge — South Korea win the recurve men's team final 5–1 (56–56, 57–50, 56–54).",
-      "match": "ag-archery-m-final"
-    },
-    {
-      "t": "11:47",
-      "tag": "FINAL",
-      "c": "var(--accent)",
-      "m": "Wrestling",
-      "text": "Sujeet Kalkal beats Japan's Olympic champion Kotaro Kiyooka on criteria (3–3) to reach the 65kg freestyle final against Tajikistan's Abdulmazid Kudiev — silver assured.",
-      "match": "ag-wrestling-65-final"
     }
   ],
   "schedule": [
