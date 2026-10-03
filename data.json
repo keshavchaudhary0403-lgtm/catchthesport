@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-03T17:05:08+05:30",
+  "lastUpdated": "2026-10-03T17:37:57+05:30",
   "dayLabel": "Sat 3 Oct · Asian Games Day 15",
-  "featured": "ag-hockey-m-final",
+  "featured": "ind-wi-odi3",
   "matches": [
     {
       "st": "result",
@@ -670,14 +670,14 @@
       "resultAt": "2026-10-03T14:05:04+05:30"
     },
     {
-      "st": "live",
+      "st": "result",
       "gold": true,
       "sport": "Hockey",
       "round": "Men's final · Gold",
       "a": [
         "IND",
         "India",
-        "3"
+        "5"
       ],
       "b": [
         "MAS",
@@ -685,7 +685,7 @@
         "1"
       ],
       "when": "2026-10-03T15:30:00+05:30",
-      "note": "India lead 3–1 in the fourth quarter: Harmanpreet Singh opened from a penalty corner, Shello Silverius levelled for Malaysia, then Jugraj Singh and Hardik (penalty stroke) put India ahead. Final result not yet confirmed. Winner qualifies for LA 2028.",
+      "note": "India beat Malaysia 5–1 to retain the title — the first time India have defended Asian Games hockey gold, and their fifth overall. Harmanpreet Singh scored twice (PCs), with Jugraj Singh, Hardik Singh (penalty stroke) and Shilanand Lakra; Malaysia equalised early in the first quarter. India qualify for LA 2028.",
       "venue": "Gifu Prefectural Green Stadium",
       "id": "ag-hockey-m-final",
       "comp": "Asian Games",
@@ -693,27 +693,22 @@
       "big": true,
       "src": [
         {
+          "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
+          "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
+        },
+        {
           "t": "Business Standard – Day 14 live (IND 3-1 MAL, 4th qtr)",
           "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
         },
         {
           "t": "Outlook India – India v Malaysia hockey final live",
           "u": "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
-        },
-        {
-          "t": "Malay Mail – Malaysia into final",
-          "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
-        },
-        {
-          "t": "Deccan Chronicle – India 4-3 Pakistan",
-          "u": "https://www.deccanchronicle.com/amp/sports/asian-games-2026-india-beat-pakistan-4-3-to-enter-mens-hockey-final-1992199"
-        },
-        {
-          "t": "ETV Bharat – Super Saturday finals",
-          "u": "https://www.etvbharat.com/en/bharat/big-super-saturday-india-pakistan-cricket-gold-clash-india-malaysia-hockey-final-in-asian-games-2026-enn26100107562"
         }
       ],
-      "status": "3–1 · 4th qtr (last report)"
+      "win": "a",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T17:37:57+05:30"
     },
     {
       "st": "result",
@@ -908,7 +903,7 @@
       "a": [
         "IND",
         "India",
-        "180/4 (31)"
+        "274/6 (43.4)"
       ],
       "b": [
         "WI",
@@ -917,7 +912,7 @@
         "#7B1E3A"
       ],
       "when": "2026-10-03T14:00:00+05:30",
-      "note": "India lead the series 2–0 and won the toss to bat; Anshul Kamboj makes his ODI debut. Shubman Gill fell for 1 and Virat Kohli for a golden duck, before Rohit Sharma and Ruturaj Gaikwad both passed fifty.",
+      "note": "India lead the series 2–0 and chose to bat; Anshul Kamboj makes his ODI debut. Gill (1) and Kohli (0) fell early; Rohit Sharma made 92 (85) and Ruturaj Gaikwad 57 before KL Rahul and Naman Dhir pushed on.",
       "venue": "New Chandigarh",
       "src": [
         {
@@ -942,7 +937,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "India 180/4 after 31 ov (last report)"
+      "status": "India 274/6 after 43.4 ov"
     },
     {
       "id": "ind-wi-odi2",
@@ -1442,29 +1437,37 @@
       "sport": "Wrestling",
       "comp": "Asian Games",
       "round": "Women's freestyle 53kg final · Gold",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Antim Panghal",
-        ""
+        "1"
       ],
       "b": [
         "JPN",
         "Moe Kiyooka",
-        ""
+        "9"
       ],
       "when": "2026-10-03T16:02:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
-      "note": "Antim Panghal beat China's Jin Zhang 6–1 in the semi-final after trailing early.",
+      "note": "Antim Panghal lost the final 1–9 on points to Japan's Moe Kiyooka and takes silver — her second Asian Games medal after bronze in 2022.",
       "venue": "Inae Sports Center, Nagoya",
       "src": [
+        {
+          "t": "ANI – Antim Panghal secures 53kg silver (India 84 medals)",
+          "u": "https://www.aninews.in/news/sports/others/asian-games-2026-antim-panghal-secures-silver-medal-in-womens-53-kg-wrestling20261003172145/"
+        },
         {
           "t": "Social News XYZ – Antim, Aman reach finals",
           "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "3 Oct · Day 15",
+      "recent": true,
+      "resultAt": "2026-10-03T17:37:57+05:30"
     },
     {
       "id": "ag-wrestling-m74-bronze",
@@ -1559,11 +1562,11 @@
         "l": "Sports"
       },
       {
-        "v": "20 · 26 · 37",
+        "v": "21 · 27 · 37",
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 83 medals (20 G · 26 S · 37 B, 5th) after Deepak Punia's 97kg wrestling bronze · other nations: Wikipedia table, 19:36 IST on 2 Oct",
+    "medalAsOf": "India 85 medals (21 G · 27 S · 37 B, 4th) after men's hockey gold and Antim Panghal's 53kg silver · other nations: Wikipedia table, 19:36 IST on 2 Oct",
     "medalTable": [
       {
         "code": "CHN",
@@ -1587,18 +1590,18 @@
         "b": 62
       },
       {
+        "code": "IND",
+        "name": "India",
+        "g": 21,
+        "s": 27,
+        "b": 37
+      },
+      {
         "code": "UZB",
         "name": "Uzbekistan",
         "g": 20,
         "s": 23,
         "b": 22
-      },
-      {
-        "code": "IND",
-        "name": "India",
-        "g": 20,
-        "s": 26,
-        "b": 37
       },
       {
         "code": "IRI",
@@ -1630,6 +1633,32 @@
       }
     ],
     "indiaMedals": [
+      {
+        "medal": "gold",
+        "sport": "Hockey",
+        "event": "Men's team",
+        "who": "India — beat Malaysia 5–1 in the final (Harmanpreet 2, Jugraj, Hardik, Lakra); first successful defence of the title, LA 2028 berth secured.",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
+            "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
+          }
+        ]
+      },
+      {
+        "medal": "silver",
+        "sport": "Wrestling",
+        "event": "Women's freestyle 53kg",
+        "who": "Antim Panghal — lost the final 1–9 to Japan's Moe Kiyooka.",
+        "day": "3 Oct",
+        "src": [
+          {
+            "t": "ANI – Antim Panghal secures 53kg silver (India 84 medals)",
+            "u": "https://www.aninews.in/news/sports/others/asian-games-2026-antim-panghal-secures-silver-medal-in-womens-53-kg-wrestling20261003172145/"
+          }
+        ]
+      },
       {
         "medal": "bronze",
         "sport": "Wrestling",
@@ -2890,6 +2919,14 @@
     ],
     "medalSrc": [
       {
+        "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
+        "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
+      },
+      {
+        "t": "ANI – Antim Panghal secures 53kg silver (India 84 medals)",
+        "u": "https://www.aninews.in/news/sports/others/asian-games-2026-antim-panghal-secures-silver-medal-in-womens-53-kg-wrestling20261003172145/"
+      },
+      {
         "t": "The Tribune – Deepak Punia secures 97kg bronze (tally 83)",
         "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-deepak-punia-secures-bronze-in-mens-97-kg-freestyle-wrestling"
       },
@@ -2916,17 +2953,9 @@
       {
         "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
-      },
-      {
-        "t": "Business Standard – Day 13 live (India 70 medals)",
-        "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-      },
-      {
-        "t": "Khel Now – medal tally after Day 12",
-        "u": "https://khelnow.com/asian-games/medal-tally-october-1-asian-games-202610"
       }
     ],
-    "medalChecked": "2026-10-03T17:05:08+05:30",
+    "medalChecked": "2026-10-03T17:37:57+05:30",
     "othersAsOf": "Day 13 evening (Wikipedia table, 19:36 IST)"
   },
   "competitions": [
@@ -3079,6 +3108,34 @@
   ],
   "feed": [
     {
+      "t": "17:18",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Hockey",
+      "text": "GOLD! India thrash Malaysia 5–1 in the men's hockey final — Harmanpreet Singh scores twice — to defend the Asian Games title for the first time and qualify for LA 2028. India's 21st gold; they move up to 4th in the medal table.",
+      "match": "ag-hockey-m-final",
+      "src": [
+        {
+          "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
+          "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
+        }
+      ]
+    },
+    {
+      "t": "17:08",
+      "tag": "SILVER",
+      "c": "var(--silver)",
+      "m": "Wrestling",
+      "text": "SILVER for Antim Panghal, beaten 1–9 by Japan's Moe Kiyooka in the women's 53kg final — India's 84th medal.",
+      "match": "ag-wrestling-w53-final",
+      "src": [
+        {
+          "t": "ANI – Antim Panghal secures 53kg silver (India 84 medals)",
+          "u": "https://www.aninews.in/news/sports/others/asian-games-2026-antim-panghal-secures-silver-medal-in-womens-53-kg-wrestling20261003172145/"
+        }
+      ]
+    },
+    {
       "t": "3 Oct",
       "tag": "BRONZE",
       "c": "var(--bronze)",
@@ -3111,24 +3168,6 @@
         {
           "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
           "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
-        }
-      ]
-    },
-    {
-      "t": "15:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Hockey",
-      "text": "Men's hockey gold-medal match: India lead Malaysia 3–1 in the fourth quarter (Harmanpreet, Jugraj Singh and Hardik for India; Shello Silverius for Malaysia). Final result awaited.",
-      "match": "ag-hockey-m-final",
-      "src": [
-        {
-          "t": "Business Standard – Day 14 live (IND 3-1 MAL, 4th qtr)",
-          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
-        },
-        {
-          "t": "Outlook India – India v Malaysia hockey final live",
-          "u": "https://www.outlookindia.com/sports/hockey/india-vs-malaysia-live-score-asian-games-2026-mens-hockey-final-updates-highlights"
         }
       ]
     },
@@ -3299,24 +3338,6 @@
           "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
         }
       ]
-    },
-    {
-      "t": "17:21",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Hockey",
-      "text": "Women's hockey final: India lead China 1–0 in the third quarter after Lalremsiami's goal. Gold means a direct LA 2028 quota.",
-      "match": "ag-hockey-w-final",
-      "src": [
-        {
-          "t": "Business Standard – Day 13 live (IND 1–0 CHN, 3rd qtr)",
-          "u": "https://www.business-standard.com/amp/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-        },
-        {
-          "t": "Sportstar – India vs China women's final live",
-          "u": "https://sportstar.thehindu.com/asian-games/india-vs-china-live-score-asian-games-2026-womens-hockey-final-highlights-gold-medal-match/article71536377.ece"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -3327,22 +3348,6 @@
       "meta": "Cricket · New Chandigarh",
       "time": "14:00",
       "match": "ind-wi-odi3"
-    },
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "Men's hockey final",
-      "meta": "India vs Malaysia · Gifu",
-      "time": "15:30",
-      "match": "ag-hockey-m-final"
-    },
-    {
-      "d": "03",
-      "mo": "OCT",
-      "title": "Antim Panghal, 53kg wrestling final",
-      "meta": "Wrestling · Nagoya",
-      "time": "16:02",
-      "match": "ag-wrestling-w53-final"
     },
     {
       "d": "03",
