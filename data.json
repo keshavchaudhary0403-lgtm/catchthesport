@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T02:09:23+05:30",
+  "lastUpdated": "2026-10-04T09:09:40+05:30",
   "dayLabel": "Sun 4 Oct · Asian Games closing day",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1000,7 +1000,7 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "First of five T20Is. Shreyas Iyer captains India.",
+      "note": "First of five T20Is. Shreyas Iyer captains India; Naman Dhir replaces Washington Sundar in the squad.",
       "venue": "Lucknow",
       "src": [
         {
@@ -1010,6 +1010,10 @@
         {
           "t": "NewsX – IND v WI schedule",
           "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        },
+        {
+          "t": "CricketTimes – Sundar replaced by Naman Dhir",
+          "u": "https://crickettimes.com/2026/10/bcci-announce-washington-sundars-replacement-for-west-indies-t20is-heres-the-updated-squad/"
         }
       ]
     },
@@ -1554,7 +1558,7 @@
     "short": "Asian Games",
     "eyebrow": "Featured event · 20th Asian Games",
     "desc": "Hosted across Aichi Prefecture and Nagoya, Japan. India are chasing their best-ever finish, with finals in archery, boxing, hockey and cricket on the closing weekend.",
-    "statusText": "Competition over · closing ceremony 4 Oct 14:30 IST, Nagoya",
+    "statusText": "Competition over · closing ceremony today 14:30 IST, Nagoya",
     "stats": [
       {
         "v": "45",
@@ -2966,17 +2970,17 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-04T02:09:23+05:30",
+    "medalChecked": "2026-10-04T09:09:40+05:30",
     "othersAsOf": "top four updated end of Day 15; other rows earlier"
   },
   "competitions": [
     {
       "sport": "Multi-sport",
       "name": "Asian Games 2026",
-      "status": "Live · ends 4 Oct",
+      "status": "Closing today",
       "live": true,
       "india": true,
-      "note": "India 19 gold, 26 silver, 36 bronze (81). Men's hockey final and wrestling finals on 3 Oct; Games close 4 Oct.",
+      "note": "India finish 4th with 85 medals (21 G · 27 S · 37 B). No medal events on the final day; closing ceremony 4 Oct 14:30 IST.",
       "id": "asian-games",
       "src": [
         {
@@ -2996,7 +3000,7 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "India won the ODI series 2–1 (West Indies won the 3rd ODI by 5 wickets chasing 352). Five T20Is from 6 Oct.",
+      "note": "India won the ODI series 2–1 (West Indies won the 3rd ODI by 5 wickets chasing 352). Five T20Is, 6–17 Oct; Washington Sundar replaced by Naman Dhir in the T20I squad.",
       "id": "ind-wi",
       "src": [
         {
@@ -3118,6 +3122,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "09:09",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Asian Games",
+      "text": "No medal events on the final day. India's closing-ceremony flag-bearer is trap shooter Neeru Dhanda (2:30 pm IST, Nagoya); India end 4th with 85 medals (21 G · 27 S · 37 B).",
+      "src": [
+        {
+          "t": "Yahoo Sports – Asian Games Day 16",
+          "u": "https://sports.yahoo.com/articles/asian-games-2026-day-16-144533482.html"
+        }
+      ]
+    },
     {
       "t": "3 Oct",
       "tag": "LOSS",
