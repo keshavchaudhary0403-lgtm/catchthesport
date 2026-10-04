@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T17:04:04+05:30",
+  "lastUpdated": "2026-10-04T19:04:30+05:30",
   "dayLabel": "Sun 4 Oct · Asian Games concluded",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -711,188 +711,6 @@
       "resultAt": "2026-10-03T17:37:57+05:30"
     },
     {
-      "st": "result",
-      "day": "1 Oct · Day 12",
-      "sport": "Hockey",
-      "round": "Men's semi-final",
-      "a": [
-        "IND",
-        "India",
-        "4"
-      ],
-      "b": [
-        "PAK",
-        "Pakistan",
-        "3"
-      ],
-      "win": "a",
-      "note": "Harmanpreet Singh 2 PCs (5′, 13′), Sukhjeet Singh 23′, Abhishek winner in the final minute.",
-      "venue": "Kakamigahara",
-      "id": "ag-14",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "Malay Mail – Malaysia into final",
-          "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
-        },
-        {
-          "t": "Deccan Chronicle – India 4-3 Pakistan",
-          "u": "https://www.deccanchronicle.com/amp/sports/asian-games-2026-india-beat-pakistan-4-3-to-enter-mens-hockey-final-1992199"
-        }
-      ]
-    },
-    {
-      "st": "result",
-      "day": "1 Oct · Day 12",
-      "sport": "Hockey",
-      "round": "Men's semi-final",
-      "a": [
-        "MAS",
-        "Malaysia",
-        "2"
-      ],
-      "b": [
-        "KOR",
-        "South Korea",
-        "1"
-      ],
-      "win": "a",
-      "note": "Azrai Aizad scored twice; Lee Gangsan replied for Korea. Malaysia meet India in the final.",
-      "venue": "",
-      "id": "ag-15",
-      "comp": "Asian Games",
-      "india": false,
-      "recent": true,
-      "src": [
-        {
-          "t": "Malay Mail – Malaysia into final",
-          "u": "https://www.malaymail.com/news/sports/2026/10/01/azrai-aizad-double-fires-malaysia-into-asian-games-hockey-final/237308"
-        }
-      ]
-    },
-    {
-      "st": "result",
-      "day": "1 Oct · Day 12",
-      "sport": "Cricket",
-      "round": "Men's semi-final",
-      "a": [
-        "IND",
-        "India",
-        "169/7"
-      ],
-      "b": [
-        "SRI",
-        "Sri Lanka",
-        "45"
-      ],
-      "win": "a",
-      "note": "India won by 124 runs. Ishan Kishan 80* off 46 balls.",
-      "venue": "",
-      "id": "ag-16",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "Yahoo Sports – IND v PAK cricket final",
-          "u": "https://sports.yahoo.com/articles/india-vs-pakistan-asian-games-072652456.html"
-        },
-        {
-          "t": "India.com – Day 12 live updates",
-          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
-        }
-      ]
-    },
-    {
-      "st": "result",
-      "day": "1 Oct · Day 12",
-      "sport": "Wrestling",
-      "round": "Greco-Roman 97kg final",
-      "a": [
-        "IND",
-        "Nitesh Siwach",
-        "0"
-      ],
-      "b": [
-        "JPN",
-        "Yuri Nakazato",
-        "4"
-      ],
-      "win": "b",
-      "note": "Silver for India.",
-      "venue": "",
-      "id": "ag-17",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 12 live updates",
-          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
-        }
-      ]
-    },
-    {
-      "st": "result",
-      "day": "1 Oct · Day 12",
-      "sport": "Squash",
-      "round": "Men's team semi-final",
-      "a": [
-        "MAS",
-        "Malaysia",
-        "2"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "1"
-      ],
-      "win": "a",
-      "note": "India take bronze.",
-      "venue": "",
-      "id": "ag-18",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 12 live updates",
-          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
-        }
-      ]
-    },
-    {
-      "st": "result",
-      "day": "1 Oct · Day 12",
-      "sport": "Squash",
-      "round": "Women's team semi-final",
-      "a": [
-        "HKG",
-        "Hong Kong, China",
-        "2"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "1"
-      ],
-      "win": "a",
-      "note": "India take bronze.",
-      "venue": "",
-      "id": "ag-19",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 12 live updates",
-          "u": "https://www.india.com/sports/others/asian-games-2026-live-updates-1-october-india-schedule-medal-winners-cricket-shooting-boxing-wrestling-results-scores-of-tennis-squash-india-vs-pakistan-hockey-matches-8531768/"
-        }
-      ]
-    },
-    {
       "id": "ind-wi-odi3",
       "st": "result",
       "big": true,
@@ -941,45 +759,6 @@
       "day": "3 Oct",
       "recent": true,
       "resultAt": "2026-10-04T00:04:33+05:30"
-    },
-    {
-      "id": "ind-wi-odi2",
-      "st": "result",
-      "recent": true,
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "2nd ODI",
-      "a": [
-        "IND",
-        "India",
-        "406/2"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "405",
-        "#7B1E3A"
-      ],
-      "win": "a",
-      "day": "30 Sep",
-      "when": "2026-09-30T14:00:00+05:30",
-      "note": "India won by 8 wickets in 43 overs — their highest ODI chase. Gill 222 (fastest ODI double hundred, 117 balls), Rohit Sharma 101.",
-      "venue": "Guwahati",
-      "src": [
-        {
-          "t": "India.com – 2nd ODI report",
-          "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-2nd-odi-match-30-sept-ind-vs-wi-squad-players-list-shubman-gill-shai-hope-rohit-sharma-virat-kohli-barsapara-cricket-stadium-guwahati-8531517/"
-        },
-        {
-          "t": "ESPNcricinfo – 2nd ODI",
-          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-2nd-odi-1529228/live-cricket-score"
-        },
-        {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        }
-      ]
     },
     {
       "id": "ind-wi-t20-1",
@@ -3102,7 +2881,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-04T17:04:04+05:30",
+    "medalChecked": "2026-10-04T19:04:30+05:30",
     "othersAsOf": "final standings (Outlook India, 4 Oct)"
   },
   "competitions": [
@@ -3324,20 +3103,6 @@
       "match": "ind-bra"
     },
     {
-      "t": "21:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "India 0–3 Brazil at Salt Lake Stadium — Estêvão, Pedro and Samuel Lino scored by the 58th minute (latest report).",
-      "match": "ind-bra",
-      "src": [
-        {
-          "t": "VAVEL Brasil – Brasil x Índia ao vivo",
-          "u": "https://vavel.com/br/futebol-internacional/2026/10/03/1273693-india-x-brasil-ao-vivo-amistoso-internacional.html"
-        }
-      ]
-    },
-    {
       "t": "17:18",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -3416,20 +3181,6 @@
       ]
     },
     {
-      "t": "13:10",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Gold-medal match: Pakistan 130/4 after 15 overs, needing 82 off 30 balls to chase India's 211/6.",
-      "match": "ag-cricket-final",
-      "src": [
-        {
-          "t": "Business Standard – Day 14 live updates",
-          "u": "https://business-standard.com/sports/asian-games/asian-games-2026-live-updates-india-vs-pakistan-cricket-final-live-score-india-vs-malaysia-hockey-gold-wrestling-archery-medal-winners-tally-126100300067_1.html"
-        }
-      ]
-    },
-    {
       "t": "11:15",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -3443,20 +3194,6 @@
         {
           "t": "Pratidin Time – Pranavi Urs golf gold by a stroke, team silver",
           "u": "https://www.pratidintime.com/sports/pranavi-urs-womens-golf-gold-asian-games-12618843"
-        }
-      ]
-    },
-    {
-      "t": "3 Oct",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Men's final: India post 211/6 against Pakistan — Abhishek Sharma 61 (28) and Tilak Varma 51* (22). Pakistan need 212 for gold.",
-      "match": "ag-cricket-final",
-      "src": [
-        {
-          "t": "The Tribune – India 211/6 v Pakistan",
-          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-abhishek-tilak-half-centuries-propel-india-to-211-6-against-pakistan-mens-cricket-final"
         }
       ]
     },
