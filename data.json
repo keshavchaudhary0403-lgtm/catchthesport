@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T11:05:45+05:30",
+  "lastUpdated": "2026-10-04T15:04:18+05:30",
   "dayLabel": "Sun 4 Oct · Asian Games closing day",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1679,7 +1679,7 @@
     "short": "Asian Games",
     "eyebrow": "Featured event · 20th Asian Games",
     "desc": "Hosted across Aichi Prefecture and Nagoya, Japan. India are chasing their best-ever finish, with finals in archery, boxing, hockey and cricket on the closing weekend.",
-    "statusText": "Competition over · closing ceremony today 14:30 IST, Nagoya",
+    "statusText": "Final standings · closing ceremony 14:30 IST today, Nagoya",
     "stats": [
       {
         "v": "45",
@@ -1698,7 +1698,7 @@
         "l": "India G · S · B"
       }
     ],
-    "medalAsOf": "India 85 medals (21 G · 27 S · 37 B, 4th) after Day 15 · top four nations: India.com final-day table, 3 Oct; other rows from earlier tables",
+    "medalAsOf": "India 85 medals (21 G · 27 S · 37 B) — 4th, ahead of Uzbekistan on silver count · final table per Outlook India, 4 Oct 12:07 IST",
     "medalTable": [
       {
         "code": "CHN",
@@ -1738,23 +1738,30 @@
       {
         "code": "IRI",
         "name": "Iran",
-        "g": 15,
-        "s": 17,
-        "b": 13
+        "g": 19,
+        "s": 18,
+        "b": 15
       },
       {
         "code": "THA",
         "name": "Thailand",
-        "g": 15,
-        "s": 11,
-        "b": 17
+        "g": 18,
+        "s": 13,
+        "b": 21
       },
       {
         "code": "KAZ",
         "name": "Kazakhstan",
         "g": 12,
-        "s": 21,
-        "b": 44
+        "s": 24,
+        "b": 48
+      },
+      {
+        "code": "HKG",
+        "name": "Hong Kong, China",
+        "g": 11,
+        "s": 19,
+        "b": 24
       },
       {
         "code": "BRN",
@@ -3051,6 +3058,10 @@
     ],
     "medalSrc": [
       {
+        "t": "Outlook India – India final medal tally: 4th with 85 medals",
+        "u": "https://www.outlookindia.com/sports/others/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count-aichi-nagoya"
+      },
+      {
         "t": "India.com – India finish fourth with 85 medals",
         "u": "https://www.india.com/sports/others/asian-games-2026-medal-tally-india-finish-fourth-with-85-medals-fall-short-of-hangzhou-2022-tally-as-cricket-and-hockey-win-gold-8532530/"
       },
@@ -3091,8 +3102,8 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-04T09:09:40+05:30",
-    "othersAsOf": "top four updated end of Day 15; other rows earlier"
+    "medalChecked": "2026-10-04T15:04:18+05:30",
+    "othersAsOf": "final standings (Outlook India, 4 Oct)"
   },
   "competitions": [
     {
@@ -3101,7 +3112,7 @@
       "status": "Closing today",
       "live": true,
       "india": true,
-      "note": "India finish 4th with 85 medals (21 G · 27 S · 37 B). No medal events on the final day; closing ceremony 4 Oct 14:30 IST.",
+      "note": "India finish 4th with 85 medals (21 G · 27 S · 37 B), ahead of Uzbekistan on silvers. No medal events on the final day; closing ceremony 4 Oct 14:30 IST.",
       "id": "asian-games",
       "src": [
         {
@@ -3243,6 +3254,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "15:04",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Asian Games",
+      "text": "Final medal table: India finish 4th with 85 medals (21 G · 27 S · 37 B), level on golds with Uzbekistan but ahead on silvers. China top with 169 golds, then Japan (83) and South Korea (39).",
+      "src": [
+        {
+          "t": "Outlook India – India final medal tally",
+          "u": "https://www.outlookindia.com/sports/others/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count-aichi-nagoya"
+        }
+      ]
+    },
     {
       "t": "09:09",
       "tag": "NEWS",
