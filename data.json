@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T04:04:21+05:30",
+  "lastUpdated": "2026-10-05T05:10:09+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1111,7 +1111,7 @@
         "medal": "gold",
         "sport": "Hockey",
         "event": "Women's team",
-        "who": "India women beat defending champions China in the final — first Asian Games hockey gold since 1982 (final score TBC).",
+        "who": "India women beat defending champions China 1–0 in the final (Lalremsiami scored) — first Asian Games hockey gold since 1982; LA 2028 berth secured.",
         "src": [
           {
             "t": "Outlook India – India end 44-year wait with historic gold",
@@ -1120,6 +1120,10 @@
           {
             "t": "LatestLY – India wins gold in women's hockey",
             "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
+          },
+          {
+            "t": "Olympics.com – Lalremsiami goal helps India beat China",
+            "u": "https://www.olympics.com/en/news/asian-games-2026-hockey-women-final-india-vs-china-match-report"
           }
         ]
       },
@@ -2286,7 +2290,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-04T19:04:30+05:30",
+    "medalChecked": "2026-10-05T05:10:09+05:30",
     "othersAsOf": "final standings (Outlook India, 4 Oct)"
   },
   "competitions": [
@@ -2433,6 +2437,19 @@
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
+    },
+    {
+      "sport": "Formula 1",
+      "name": "Singapore Grand Prix",
+      "status": "9–11 Oct · sprint weekend",
+      "id": "f1",
+      "note": "Race on Sunday 11 Oct, 20:00 local (17:30 IST); sprint qualifying Fri, sprint Sat.",
+      "src": [
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
         }
       ]
     }
