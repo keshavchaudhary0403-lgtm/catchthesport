@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-04T15:04:18+05:30",
-  "dayLabel": "Sun 4 Oct · Asian Games closing day",
+  "lastUpdated": "2026-10-04T17:04:04+05:30",
+  "dayLabel": "Sun 4 Oct · Asian Games concluded",
   "featured": "ind-wi-t20-1",
   "matches": [
     {
@@ -1679,7 +1679,7 @@
     "short": "Asian Games",
     "eyebrow": "Featured event · 20th Asian Games",
     "desc": "Hosted across Aichi Prefecture and Nagoya, Japan. India are chasing their best-ever finish, with finals in archery, boxing, hockey and cricket on the closing weekend.",
-    "statusText": "Final standings · closing ceremony 14:30 IST today, Nagoya",
+    "statusText": "Concluded — final standings · closed 4 Oct, Nagoya",
     "stats": [
       {
         "v": "45",
@@ -3102,17 +3102,17 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-04T15:04:18+05:30",
+    "medalChecked": "2026-10-04T17:04:04+05:30",
     "othersAsOf": "final standings (Outlook India, 4 Oct)"
   },
   "competitions": [
     {
       "sport": "Multi-sport",
       "name": "Asian Games 2026",
-      "status": "Closing today",
-      "live": true,
+      "status": "Concluded 4 Oct",
+      "live": false,
       "india": true,
-      "note": "India finish 4th with 85 medals (21 G · 27 S · 37 B), ahead of Uzbekistan on silvers. No medal events on the final day; closing ceremony 4 Oct 14:30 IST.",
+      "note": "India finish 4th with 85 medals (21 G · 27 S · 37 B), ahead of Uzbekistan on silvers. No medal events on the final day; closing ceremony held 4 Oct; flag passed to Doha 2030.",
       "id": "asian-games",
       "src": [
         {
@@ -3264,6 +3264,23 @@
         {
           "t": "Outlook India – India final medal tally",
           "u": "https://www.outlookindia.com/sports/others/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count-aichi-nagoya"
+        }
+      ]
+    },
+    {
+      "t": "14:30",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Asian Games",
+      "text": "Aichi-Nagoya Asian Games close at Mizuho Park Stadium; Neeru Dhanda carries India's flag and the Asian Games flag passes to Doha for 2030. India finish 4th with 85 medals.",
+      "src": [
+        {
+          "t": "The Daily Jagran – Neeru Dhanda carries flag at closing ceremony",
+          "u": "https://www.thedailyjagran.com/sports/watch-neeru-dhanda-carries-indian-flag-at-closing-ceremony-as-asian-games-2026-come-to-a-close-10331511"
+        },
+        {
+          "t": "The Hans India – Aichi-Nagoya bows out",
+          "u": "https://www.thehansindia.com/sports/from-chaos-to-cheers-aichi-nagoya-bows-out-leaving-india-with-memories-medals-and-a-lesson-1128744"
         }
       ]
     },
@@ -3458,13 +3475,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "04",
-      "mo": "OCT",
-      "title": "Closing ceremony",
-      "meta": "Mizuho Park Athletic Stadium, Nagoya",
-      "time": "14:30"
-    },
     {
       "d": "06",
       "mo": "OCT",
