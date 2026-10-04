@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T09:09:40+05:30",
+  "lastUpdated": "2026-10-04T11:05:45+05:30",
   "dayLabel": "Sun 4 Oct · Asian Games closing day",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1551,6 +1551,127 @@
       "day": "3 Oct · Day 15",
       "recent": true,
       "resultAt": "2026-10-03T17:05:08+05:30"
+    },
+    {
+      "id": "ind-wi-t20-3",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "3rd T20I",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-11T19:00:00+05:30",
+      "venue": "Holkar Stadium, Indore",
+      "src": [
+        {
+          "t": "Spike Today – IND v WI T20I schedule",
+          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
+        },
+        {
+          "t": "CricInnings – IND v WI 2026 schedule",
+          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        }
+      ]
+    },
+    {
+      "id": "ind-wi-t20-4",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "4th T20I",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-14T19:00:00+05:30",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "src": [
+        {
+          "t": "Spike Today – IND v WI T20I schedule",
+          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
+        },
+        {
+          "t": "CricInnings – IND v WI 2026 schedule",
+          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        }
+      ]
+    },
+    {
+      "id": "ind-wi-t20-5",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "5th T20I",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-17T19:00:00+05:30",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "src": [
+        {
+          "t": "Spike Today – IND v WI T20I schedule",
+          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
+        },
+        {
+          "t": "CricInnings – IND v WI 2026 schedule",
+          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        }
+      ]
+    },
+    {
+      "id": "isl-kashi-kbfc",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "a": [
+        "IKFC",
+        "Inter Kashi",
+        "",
+        "#F59E0B"
+      ],
+      "b": [
+        "KBFC",
+        "Kerala Blasters",
+        "",
+        "#FACC15"
+      ],
+      "when": "2026-10-11T17:00:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        }
+      ],
+      "venue": "Venue TBC"
     }
   ],
   "event": {
@@ -3359,6 +3480,14 @@
       "meta": "Football · Indian Super League",
       "time": "17:00",
       "match": "isl-bfc-del"
+    },
+    {
+      "d": "11",
+      "mo": "OCT",
+      "title": "India v West Indies, 3rd T20I",
+      "meta": "Cricket · Indore",
+      "time": "19:00",
+      "match": "ind-wi-t20-3"
     }
   ],
   "players": [
