@@ -1,593 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T19:04:30+05:30",
-  "dayLabel": "Sun 4 Oct · Asian Games concluded",
+  "lastUpdated": "2026-10-05T04:04:21+05:30",
+  "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
-    {
-      "st": "result",
-      "gold": true,
-      "sport": "Archery",
-      "round": "Recurve mixed team final · Gold",
-      "a": [
-        "IND",
-        "India",
-        "3"
-      ],
-      "b": [
-        "CHN",
-        "China",
-        "5"
-      ],
-      "note": "Kumkum Mohod & Dhiraj Bommadevara take silver. China led 4–2 after three sets; the fourth was tied 37–37 to seal it.",
-      "venue": "Okazaki Central Comprehensive Park",
-      "id": "ag-archery-mixed-final",
-      "comp": "Asian Games",
-      "india": true,
-      "big": true,
-      "win": "b",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 13 live",
-          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
-        },
-        {
-          "t": "India Sports Hub – archery timings",
-          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T09:39:00+05:30"
-    },
-    {
-      "st": "result",
-      "day": "2 Oct · Day 13",
-      "sport": "Archery",
-      "round": "Recurve women's team final · Gold",
-      "a": [
-        "IND",
-        "India",
-        "5"
-      ],
-      "b": [
-        "KOR",
-        "South Korea",
-        "3"
-      ],
-      "win": "a",
-      "note": "Ankita Bhakat, Kirti Sharma and Kumkum Mohod. 1–1 after the first set (54–54), India led 4–2 after three and closed it out.",
-      "venue": "",
-      "id": "ag-0",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 13 live",
-          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
-        },
-        {
-          "t": "India Sports Hub – archery timings",
-          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T07:13:00+05:30"
-    },
-    {
-      "st": "result",
-      "day": "2 Oct · Day 13",
-      "sport": "Archery",
-      "round": "Recurve women's team semi-final",
-      "a": [
-        "IND",
-        "India",
-        "5"
-      ],
-      "b": [
-        "CHN",
-        "China",
-        "1"
-      ],
-      "win": "a",
-      "note": "Sets 53–51, 54–52, 51–51.",
-      "venue": "",
-      "id": "ag-1",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 13 live",
-          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
-        },
-        {
-          "t": "India Sports Hub – archery timings",
-          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T06:11:00+05:30"
-    },
-    {
-      "st": "result",
-      "day": "2 Oct · Day 13",
-      "sport": "Wrestling",
-      "round": "Women's freestyle 50kg",
-      "a": [
-        "IND",
-        "Dipanshi Phogat",
-        "0"
-      ],
-      "b": [
-        "JPN",
-        "Yui Susaki",
-        "11"
-      ],
-      "win": "b",
-      "note": "Out in the pre-quarter-final against Japan’s Olympic champion.",
-      "venue": "",
-      "id": "ag-2",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T07:31:00+05:30"
-    },
-    {
-      "st": "result",
-      "day": "2 Oct · Day 13",
-      "sport": "Wrestling",
-      "round": "Men's freestyle 125kg",
-      "a": [
-        "IND",
-        "Rajat Ruhal",
-        "3"
-      ],
-      "b": [
-        "KAZ",
-        "Yedige Kassimbek",
-        "8"
-      ],
-      "win": "b",
-      "note": "Out in the pre-quarter-final.",
-      "venue": "",
-      "id": "ag-3",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T07:31:00+05:30"
-    },
-    {
-      "st": "result",
-      "day": "2 Oct · Day 13",
-      "sport": "Archery",
-      "round": "Recurve mixed team semi-final",
-      "a": [
-        "IND",
-        "India",
-        "5"
-      ],
-      "b": [
-        "JPN",
-        "Japan",
-        "3"
-      ],
-      "win": "a",
-      "note": "Kumkum Mohod & Dhiraj Bommadevara came from 0–2 down to beat Japan 5–3. India assured of at least silver.",
-      "venue": "",
-      "id": "ag-4",
-      "comp": "Asian Games",
-      "india": true,
-      "recent": true,
-      "src": [
-        {
-          "t": "India.com – Day 13 live",
-          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
-        },
-        {
-          "t": "India Sports Hub – archery timings",
-          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "resultAt": "2026-10-02T08:45:00+05:30"
-    },
-    {
-      "st": "result",
-      "gold": true,
-      "sport": "Boxing",
-      "round": "Women's 75kg final · Gold",
-      "a": [
-        "IND",
-        "Lovlina Borgohain",
-        "5"
-      ],
-      "b": [
-        "CHN",
-        "Bao Ziyi",
-        "0"
-      ],
-      "note": "Lovlina beat Bao Ziyi 5–0 on her 29th birthday — only the second Indian woman boxer to win Asian Games gold, after Mary Kom.",
-      "venue": "",
-      "id": "ag-7",
-      "comp": "Asian Games",
-      "india": true,
-      "big": true,
-      "src": [
-        {
-          "t": "Business Standard – Day 13 live updates",
-          "u": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-        },
-        {
-          "t": "LatestLY – Lovlina wins 75kg gold",
-          "u": "https://www.latestly.com/sports/lovlina-borgohain-wins-gold-medal-at-asian-games-2026-in-boxing-womens-75kg-7629538.html"
-        }
-      ],
-      "win": "a",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T10:36:00+05:30"
-    },
-    {
-      "st": "result",
-      "gold": false,
-      "sport": "Archery",
-      "round": "Recurve men's team semi-final",
-      "a": [
-        "IND",
-        "India",
-        "6"
-      ],
-      "b": [
-        "IRI",
-        "Iran",
-        "0"
-      ],
-      "note": "Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge won 58–53, 56–53, 56–55 to reach the gold medal match against South Korea.",
-      "venue": "",
-      "id": "ag-8",
-      "comp": "Asian Games",
-      "india": true,
-      "src": [
-        {
-          "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
-          "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
-        },
-        {
-          "t": "India.com – Day 13 live",
-          "u": "https://www.india.com/sports/others/asian-games-2026-day-13-live-india-bags-gold-medal-in-recurve-archery-8532098/"
-        },
-        {
-          "t": "India Sports Hub – archery timings",
-          "u": "https://www.indiasportshub.com/articles/india-at-asian-games-2026-october-2-schedule-hockey-final-and-boxing-gold-medal-bouts"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        },
-        {
-          "t": "Khel Now – India's 2 Oct schedule",
-          "u": "https://khelnow.com/asian-games/october-2-india-schedule-asian-games-202610"
-        }
-      ],
-      "win": "a",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T11:47:00+05:30",
-      "when": "2026-10-02T10:55:00+05:30"
-    },
-    {
-      "id": "ag-archery-m-final",
-      "st": "result",
-      "gold": true,
-      "big": true,
-      "india": true,
-      "sport": "Archery",
-      "comp": "Asian Games",
-      "round": "Recurve men's team final · Gold",
-      "a": [
-        "IND",
-        "India",
-        "1"
-      ],
-      "b": [
-        "KOR",
-        "South Korea",
-        "5"
-      ],
-      "win": "b",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "when": "2026-10-02T11:50:00+05:30",
-      "resultAt": "2026-10-02T12:10:00+05:30",
-      "note": "Silver for Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge. Kim Woo-jin, Lee Woo-seok & Kim Je-deok won 5–1 (sets 56–56, 57–50, 56–54) for Korea's second straight title.",
-      "venue": "Okazaki Central Comprehensive Park",
-      "src": [
-        {
-          "t": "Sports Kyunghyang – Korea win men's recurve team gold",
-          "u": "https://sports.khan.co.kr/article/202610021536003/"
-        },
-        {
-          "t": "Hankooki – Korea beat India for men's team gold",
-          "u": "https://www.hankooki.com/news/articleView.html?idxno=344998"
-        },
-        {
-          "t": "Tribune – men's recurve team into final; Sujeet in 65kg final",
-          "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
-        }
-      ]
-    },
-    {
-      "id": "ag-sepak-m-quad-semi",
-      "st": "result",
-      "sport": "Sepak takraw",
-      "comp": "Asian Games",
-      "round": "Men's quadrant semi-final",
-      "a": [
-        "IND",
-        "India",
-        "0"
-      ],
-      "b": [
-        "JPN",
-        "Japan",
-        "2"
-      ],
-      "when": "2026-10-02T12:00:00+05:30",
-      "india": true,
-      "big": true,
-      "note": "Japan win 2–0 (India lost the sets 12–15, 13–15). India take the bronze medal: Malemnganba Singh Sorokhaibam, Ram Kumar Sharma, Bobby Kumar, Akash Yumnam.",
-      "venue": "Aichi-Nagoya",
-      "src": [
-        {
-          "t": "The Tribune – Sepaktakraw men's quadrant secures bronze",
-          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-some-joy-in-sepaktakraw-as-mens-quadrant-secures-bronze"
-        },
-        {
-          "t": "Outlook India – Day 14 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ],
-      "win": "b",
-      "day": "2 Oct",
-      "recent": true,
-      "resultAt": "2026-10-02T14:04:18+05:30"
-    },
-    {
-      "st": "result",
-      "gold": true,
-      "sport": "Boxing",
-      "round": "Women's 65kg final · Gold",
-      "a": [
-        "IND",
-        "Parveen Hooda",
-        "3"
-      ],
-      "b": [
-        "TPE",
-        "Chen Nien-chin",
-        "2"
-      ],
-      "when": "2026-10-02T14:15:00+05:30",
-      "note": "Parveen won on a 3–2 split decision: took round 1 on all five cards, Chen levelled in round 2, three judges gave Parveen the decisive third round.",
-      "venue": "",
-      "id": "ag-9",
-      "comp": "Asian Games",
-      "india": true,
-      "big": true,
-      "src": [
-        {
-          "t": "ETtoday – Chen Nien-chin loses 2–3, takes silver",
-          "u": "https://sports.ettoday.net/news/3247913"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ],
-      "win": "a",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T14:34:06+05:30"
-    },
-    {
-      "st": "result",
-      "gold": true,
-      "sport": "Boxing",
-      "round": "Men's 80kg final · Gold",
-      "a": [
-        "IND",
-        "Ankush Panghal",
-        "Won"
-      ],
-      "b": [
-        "KOR",
-        "Kim Minseong",
-        ""
-      ],
-      "when": "2026-10-02T14:45:00+05:30",
-      "note": "Ankush beat South Korea's Kim Minseong on points (judges' split reported as 4–0 / 4–1); led 5–0 after round 2. India's third boxing gold of the day — first Indian man to win Asian Games boxing gold since Amit Panghal in 2018.",
-      "venue": "",
-      "id": "ag-10",
-      "comp": "Asian Games",
-      "india": true,
-      "big": true,
-      "src": [
-        {
-          "t": "Indian Express – Day 14 live blog",
-          "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
-        },
-        {
-          "t": "Outlook India – Day 13 live updates",
-          "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
-        }
-      ],
-      "win": "a",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T15:43:43+05:30"
-    },
-    {
-      "id": "ag-wrestling-65-final",
-      "st": "result",
-      "gold": true,
-      "big": true,
-      "india": true,
-      "sport": "Wrestling",
-      "comp": "Asian Games",
-      "round": "Men's freestyle 65kg final · Gold",
-      "a": [
-        "IND",
-        "Sujeet Kalkal",
-        "10"
-      ],
-      "b": [
-        "TJK",
-        "Abdulmazid Kudiev",
-        "9"
-      ],
-      "when": "2026-10-02T14:46:00+05:30",
-      "note": "Sujeet trailed 2–9 at half-time and 6–9 with 1:15 left, then scored three takedowns to win 10–9. India's first wrestling gold of these Games, in the weight class won by Yogeshwar Dutt (2014) and Bajrang Punia (2018).",
-      "src": [
-        {
-          "t": "Indian Express – Sujeet Kalkal wins first wrestling gold",
-          "u": "https://indianexpress.com/article/sports/sujeet-kalkal-first-wrestling-gold-india-2026-asian-games-10903802/"
-        },
-        {
-          "t": "Indian Express – Day 14 live blog",
-          "u": "https://indianexpress.com/article/sports/asian-games-2026-india-day-14-live-hockey-archery-wrestling-boxing-medal-tally-10903070/"
-        }
-      ],
-      "win": "a",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T15:43:43+05:30"
-    },
-    {
-      "id": "ag-wrestling-w50-bronze",
-      "st": "result",
-      "india": true,
-      "sport": "Wrestling",
-      "comp": "Asian Games",
-      "round": "Women's freestyle 50kg bronze match",
-      "a": [
-        "IND",
-        "Dipanshi Phogat",
-        "4"
-      ],
-      "b": [
-        "KAZ",
-        "Zeinep Bayanova",
-        "11"
-      ],
-      "when": "2026-10-02T15:58:00+05:30",
-      "note": "Dipanshi Phogat lost the bronze-medal bout 4–11 to Kazakhstan's Zeinep Bayanova (she had beaten Cambodia's Samnang Dit 10–0 in the repechage). No medal.",
-      "src": [
-        {
-          "t": "The Tribune – Dipanshi loses 4–11 in 50kg bronze bout",
-          "u": "https://www.tribuneindia.com/news/sports/asian-games-2026-dipanshi-loses-4-11-to-kazakhstans-bayanova-in-womens-50kg-bronze-medal-bout"
-        },
-        {
-          "t": "Asianet Newsable – Sujeet wins gold; Dipanshi misses bronze",
-          "u": "https://newsable.asianetnews.com/sports/asian-games-sujeet-kalkal-wins-gold-dipanshi-misses-out-on-bronze-articleshow-qddc4hy"
-        }
-      ],
-      "win": "b",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T18:20:18+05:30"
-    },
-    {
-      "st": "result",
-      "gold": true,
-      "sport": "Hockey",
-      "round": "Women's final · Gold",
-      "a": [
-        "IND",
-        "India",
-        "1"
-      ],
-      "b": [
-        "CHN",
-        "China",
-        "0"
-      ],
-      "when": "2026-10-02T16:30:00+05:30",
-      "note": "India beat defending champions China 1–0 — Lalremsiami's first-quarter goal — for their first Asian Games women's hockey title since 1982 and a direct LA 2028 quota.",
-      "venue": "Aichi-Nagoya",
-      "id": "ag-hockey-w-final",
-      "comp": "Asian Games",
-      "india": true,
-      "big": true,
-      "watch": "Sony Sports / SonyLIV",
-      "src": [
-        {
-          "t": "Outlook India – India end 44-year wait with historic gold",
-          "u": "https://www.outlookindia.com/sports/hockey/india-vs-china-live-score-asian-games-2026-womens-hockey-final-gold-medal-match-updates-highlights"
-        },
-        {
-          "t": "LatestLY – India wins gold in women's hockey",
-          "u": "https://www.latestly.com/sports/india-wins-gold-medal-at-asian-games-2026-in-womens-hockey-7630193.html"
-        },
-        {
-          "t": "Business Standard – Day 13 live (tally 76)",
-          "u": "https://www.business-standard.com/amp/sports/asian-games/asian-games-2026-live-updates-day-13-india-at-asiad-gold-medal-alert-india-vs-china-hockey-boxing-finals-lovlina-borgohain-boxing-archery-medal-news-126100200085_1.html"
-        }
-      ],
-      "win": "a",
-      "day": "2 Oct · Day 13",
-      "recent": true,
-      "resultAt": "2026-10-02T18:20:18+05:30"
-    },
     {
       "id": "ag-archery-w-ind-final",
       "st": "result",
@@ -1697,7 +1112,6 @@
         "sport": "Hockey",
         "event": "Women's team",
         "who": "India women beat defending champions China in the final — first Asian Games hockey gold since 1982 (final score TBC).",
-        "day": "2 Oct",
         "src": [
           {
             "t": "Outlook India – India end 44-year wait with historic gold",
@@ -1714,7 +1128,6 @@
         "sport": "Wrestling",
         "event": "Men's freestyle 65kg",
         "who": "Sujeet Kalkal — came from 2–9 down to beat Tajikistan's Abdulmazid Kudiev 10–9 in the final.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "Indian Express – Sujeet Kalkal wins first wrestling gold",
@@ -1727,7 +1140,6 @@
         "sport": "Boxing",
         "event": "Men's 80kg",
         "who": "Ankush Panghal — beat South Korea's Kim Minseong in the final.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "Indian Express – Day 14 live blog",
@@ -1740,7 +1152,6 @@
         "sport": "Boxing",
         "event": "Women's 65kg",
         "who": "Parveen Hooda — beat Chinese Taipei’s Chen Nien-chin 3–2 (split decision) in the final.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "ETtoday – Chen Nien-chin loses 2–3, takes silver",
@@ -1753,7 +1164,6 @@
         "sport": "Sepak takraw",
         "event": "Men's quadrant",
         "who": "Malemnganba Singh Sorokhaibam, Ram Kumar Sharma, Bobby Kumar & Akash Yumnam — lost the semi-final 0–2 (12–15, 13–15) to Japan.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "The Tribune – Sepaktakraw men's quadrant secures bronze",
@@ -1770,7 +1180,6 @@
         "sport": "Archery",
         "event": "Recurve men's team",
         "who": "Dhiraj Bommadevara, Neeraj Chauhan & Yashdeep Bhoge — beat Iran 6–0 in the semi, lost the final 1–5 to South Korea.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "Sports Kyunghyang – Korea win men's recurve team gold",
@@ -1787,7 +1196,6 @@
         "sport": "Boxing",
         "event": "Women's 75kg",
         "who": "Lovlina Borgohain — beat China’s Bao Ziyi 5–0 in the final.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "Business Standard – Day 13 live updates",
@@ -1809,8 +1217,7 @@
             "t": "Outlook India – Day 13 live updates",
             "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
           }
-        ],
-        "day": "2 Oct"
+        ]
       },
       {
         "medal": "gold",
@@ -1833,7 +1240,6 @@
         "sport": "Sailing",
         "event": "Women's dinghy",
         "who": "Nethra Kumanan — took bronze on a head-to-head tie-break with Hong Kong’s Stephanie Norton.",
-        "day": "2 Oct",
         "src": [
           {
             "t": "Business Standard – Day 13 live updates",
@@ -1959,8 +1365,7 @@
             "t": "Outlook India – Day 13 live updates",
             "u": "https://www.outlookindia.com/sports/others/asian-games-2026-live-updates-october-2-commentary-highlights-indians-in-action-aichi-nagoya"
           }
-        ],
-        "day": "2 Oct"
+        ]
       },
       {
         "medal": "silver",
