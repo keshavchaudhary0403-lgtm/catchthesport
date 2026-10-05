@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T21:04:44+05:30",
+  "lastUpdated": "2026-10-05T23:04:17+05:30",
   "dayLabel": "Mon 5 Oct · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1305,9 +1305,9 @@
         "Alex de Minaur",
         ""
       ],
-      "when": "2026-10-06",
+      "when": "2026-10-06T16:30:00+05:30",
       "big": true,
-      "note": "Djokovic (32-0 in Beijing before this semi) v de Minaur, who advanced when Hurkacz retired. Start time TBC.",
+      "note": "Djokovic (32-0 in Beijing before this semi) v de Minaur, who advanced when Hurkacz retired. Scheduled for 7 pm Beijing time (4:30 pm IST).",
       "src": [
         {
           "t": "ATP Tour – Djokovic reaches Beijing final after Medvedev default",
@@ -1320,6 +1320,10 @@
         {
           "t": "Tennis Watcher – De Minaur reaches Beijing final",
           "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
+        },
+        {
+          "t": "bet365 News – China Open final start time",
+          "u": "https://news.bet365.com/en-us/article/atp-500-china-open-final-novak-djokovic-vs-alex-de-minaur-start-time-how-to-watch-odds/2026100515094381797"
         }
       ]
     }
