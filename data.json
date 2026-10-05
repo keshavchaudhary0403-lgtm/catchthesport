@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T20:04:56+05:30",
+  "lastUpdated": "2026-10-05T21:04:44+05:30",
   "dayLabel": "Mon 5 Oct · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1305,10 +1305,14 @@
         "Alex de Minaur",
         ""
       ],
-      "when": "2026-10-07",
+      "when": "2026-10-06",
       "big": true,
       "note": "Djokovic (32-0 in Beijing before this semi) v de Minaur, who advanced when Hurkacz retired. Start time TBC.",
       "src": [
+        {
+          "t": "ATP Tour – Djokovic reaches Beijing final after Medvedev default",
+          "u": "https://www.atptour.com/en/news/djokovic-medvedev-beijing-2026-monday-sf"
+        },
         {
           "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
           "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
