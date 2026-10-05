@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T15:11:04+05:30",
+  "lastUpdated": "2026-10-05T18:05:17+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1158,22 +1158,26 @@
       "sport": "Football",
       "comp": "AFC U17 Women's Asian Cup qualifiers",
       "round": "Group E · Matchday 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India U17 women",
-        ""
+        "14"
       ],
       "b": [
         "IRQ",
         "Iraq",
-        ""
+        "0"
       ],
       "when": "2026-10-05T13:30:00+05:30",
       "india": true,
       "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "Opening match of Group E (Malaysia host, 5–11 Oct). Coach Joakim Alexandersson. Result not yet confirmed.",
+      "note": "India U17 women win 14–0 (7 goals in each half); Anushka Kumari scores five. Group E opener in Malaysia; group winner qualifies for the 2027 Asian Cup.",
       "src": [
+        {
+          "t": "Sunday Guardian – India U17 beat Iraq 14-0",
+          "u": "https://sundayguardianlive.com/uncategorized/india-women-vs-iraq-women-result-india-u17-beat-iraq-14-0-in-asian-cup-2027-qualifier-check-goal-scorers-299304/"
+        },
         {
           "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
           "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
@@ -1182,7 +1186,11 @@
           "t": "Khel Now – India U17 women squad",
           "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "5 Oct",
+      "recent": true,
+      "resultAt": "2026-10-05T18:05:17+05:30"
     },
     {
       "id": "u17w-syr-ind",
@@ -2871,6 +2879,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "18:05",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "India U17 women beat Iraq 14–0 in their AFC U17 Women's Asian Cup qualifier opener in Malaysia — Anushka Kumari scores five.",
+      "match": "u17w-ind-irq",
+      "src": [
+        {
+          "t": "Sunday Guardian – India U17 beat Iraq 14-0",
+          "u": "https://sundayguardianlive.com/uncategorized/india-women-vs-iraq-women-result-india-u17-beat-iraq-14-0-in-asian-cup-2027-qualifier-check-goal-scorers-299304/"
+        }
+      ]
+    },
     {
       "t": "15:04",
       "tag": "NEWS",
