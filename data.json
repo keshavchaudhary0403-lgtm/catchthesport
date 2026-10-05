@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-05T19:12:28+05:30",
-  "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
+  "lastUpdated": "2026-10-05T20:04:56+05:30",
+  "dayLabel": "Mon 5 Oct · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
     {
@@ -1259,30 +1259,63 @@
       "sport": "Tennis",
       "comp": "China Open (ATP 500, Beijing)",
       "round": "Semi-final",
-      "st": "live",
+      "st": "result",
       "a": [
         "SRB",
         "Novak Djokovic",
-        "6-3"
+        "7-5 5-3"
       ],
       "b": [
         "RUS",
         "Daniil Medvedev",
-        ""
+        "Def."
       ],
       "when": "2026-10-05T17:30:00+05:30",
-      "status": "Djokovic took set 1, 6-3 (latest report)",
       "big": true,
-      "note": "Djokovic is unbeaten in Beijing (32-0); the winner plays Alex de Minaur in the final.",
+      "note": "Medvedev was disqualified while trailing 7-5, 5-3 after a ball he hit rebounded into a spectator's face. Djokovic stays unbeaten in Beijing and meets Alex de Minaur in the final.",
       "watch": "Sony Sports Network / SonyLIV / FanCode",
       "src": [
         {
-          "t": "Tennis.com – Djokovic v Medvedev live",
-          "u": "https://www.tennis.com/tournaments/china-open-atp/matches/n-djokovic-vs-d-medvedev-2026-10-05"
+          "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
+          "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
         },
         {
-          "t": "Sunday Guardian – where to watch in India",
-          "u": "https://sundayguardianlive.com/sports/novak-djokovic-vs-daniil-medvedev-tennis-live-streaming-where-to-watch-china-open-2026-semifinal-in-india-usa-uk-and-worldwide-299244/"
+          "t": "Tennis Watcher – De Minaur reaches Beijing final",
+          "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
+        }
+      ],
+      "win": "a",
+      "day": "5 Oct",
+      "recent": true,
+      "resultAt": "2026-10-05T20:04:56+05:30"
+    },
+    {
+      "id": "chn-open-final",
+      "sport": "Tennis",
+      "comp": "China Open (ATP 500, Beijing)",
+      "round": "Final",
+      "st": "upcoming",
+      "a": [
+        "SRB",
+        "Novak Djokovic",
+        ""
+      ],
+      "b": [
+        "AUS",
+        "Alex de Minaur",
+        ""
+      ],
+      "when": "2026-10-07",
+      "big": true,
+      "note": "Djokovic (32-0 in Beijing before this semi) v de Minaur, who advanced when Hurkacz retired. Start time TBC.",
+      "src": [
+        {
+          "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
+          "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
+        },
+        {
+          "t": "Tennis Watcher – De Minaur reaches Beijing final",
+          "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
         }
       ]
     }
@@ -2911,6 +2944,24 @@
     }
   ],
   "feed": [
+    {
+      "t": "20:04",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Tennis",
+      "text": "Medvedev is disqualified from the China Open semi-final while trailing Djokovic 7-5, 5-3 after a ball hit into a spectator's face. Djokovic reaches his seventh Beijing final, against Alex de Minaur.",
+      "match": "chn-open-djo-med",
+      "src": [
+        {
+          "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
+          "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
+        },
+        {
+          "t": "Tennis Watcher – De Minaur reaches Beijing final",
+          "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
+        }
+      ]
+    },
     {
       "t": "19:12",
       "tag": "LIVE",
