@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:23:11+05:30",
+  "lastUpdated": "2026-10-05T10:09:27+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1040,6 +1040,37 @@
         {
           "t": "Formula1.com – Singapore GP 2026",
           "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        }
+      ]
+    },
+    {
+      "id": "pak-sl-t20-1",
+      "sport": "Cricket",
+      "comp": "Pakistan v Sri Lanka",
+      "round": "1st T20I",
+      "st": "upcoming",
+      "a": [
+        "PAK",
+        "Pakistan",
+        ""
+      ],
+      "b": [
+        "SL",
+        "Sri Lanka",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-09",
+      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct); start time TBC.",
+      "venue": "Rawalpindi Cricket Stadium",
+      "src": [
+        {
+          "t": "Express Tribune – Sri Lanka set for Pakistan tour",
+          "u": "https://tribune.com.pk/story/2628548/sri-lanka-set-for-pakistan-tour"
+        },
+        {
+          "t": "Wikipedia – International cricket in 2026–27",
+          "u": "https://en.wikipedia.org/wiki/International_cricket_in_2026%E2%80%9327"
         }
       ]
     }
@@ -2638,6 +2669,33 @@
         }
       ],
       "comp": "Singapore Grand Prix"
+    },
+    {
+      "id": "pak-sl",
+      "sport": "Cricket",
+      "name": "Pakistan v Sri Lanka T20Is",
+      "status": "9–13 Oct · Rawalpindi",
+      "comp": "Pakistan v Sri Lanka",
+      "note": "Three T20Is on 9, 11 and 13 Oct, followed by an ODI tri-series with England from 18 Oct.",
+      "src": [
+        {
+          "t": "Express Tribune – Sri Lanka set for Pakistan tour",
+          "u": "https://tribune.com.pk/story/2628548/sri-lanka-set-for-pakistan-tour"
+        }
+      ]
+    },
+    {
+      "id": "arctic-open",
+      "sport": "Badminton",
+      "name": "BWF Arctic Open (Super 500)",
+      "status": "6–11 Oct · Vantaa, Finland",
+      "note": "Followed by the Denmark Open (Super 750) from 13 Oct. Indian draws TBC.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 BWF World Tour",
+          "u": "https://en.wikipedia.org/wiki/2026_BWF_World_Tour"
+        }
+      ]
     }
   ],
   "feed": [
