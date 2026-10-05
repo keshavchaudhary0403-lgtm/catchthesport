@@ -21,6 +21,13 @@ Coverage priority (highest first):
 
 **Report results neutrally.** The site is built for Indian fans but must not hide who won. Record every finished match with both scores and the correct `win` side, including India losses and matches between other countries (finals, medal matches, big league games). Feed items should state India's defeats as plainly as its wins ("India lose 3–5 to China in the final"). The page shows all results in a "RESULTS" running line, winner first.
 
+**What the page puts first.** The site orders everything as: live matches → matches under way → upcoming matches (soonest first) → tournaments on → just-finished results → older results. Your job is to make that order meaningful:
+
+- Find what is **live right now** across all sports (cricket, football, tennis, badminton, hockey, kabaddi, F1, chess, athletics, golf …) at every run, and add it with `"st": "live"` and a short `status` — this is the most important thing on the page.
+- Keep the next **7 days** of fixtures full and varied (India first, then Indian leagues, then global events), with real IST times.
+- Keep `competitions` to about **8–12** tournaments: set `"live": true` only for tournaments with matches this week, and put dates in `status` ("Live · till 17 Oct", "Starts 10 Oct"). Finished tournaments get a status containing "Concluded" (they sort to the end) and are removed after 3 days.
+- When there is no multi-sport event, there is no `event` key — the match centre is the top section.
+
 Mark anything involving an Indian team or athlete with `"india": true`. Mark headline fixtures with `"big": true`; medal/final matches with `"gold": true`.
 
 ## Rolling window
@@ -108,7 +115,7 @@ Use `event` only while a multi-sport event India competes in is on (Asian Games,
 }
 ```
 
-After the closing ceremony: set `statusText` to "Concluded — final standings", update the final table, keep the block for **3 days**, then delete the whole `event` key. Event matches use `"comp": "Asian Games"` (or the event's name).
+After the closing ceremony: set `statusText` to "Concluded — final standings" (the page then moves the block below the live content and renames the menu link to "… results"), update the final table, keep the block for **3 days**, then delete the whole `event` key. Aichi-Nagoya 2026 closed on 4 Oct → delete its `event` block, its matches and its competition entry on **7 Oct**. Event matches use `"comp": "Asian Games"` (or the event's name).
 
 ## Sources and links (everything on the site is clickable)
 

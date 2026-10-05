@@ -459,7 +459,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <h1 class="h1">Every <span style="color:var(--accent)">sport.</span><br class="br-d"> Every<br class="br-m"> <span style="color:var(--accent)">Indian</span><br class="br-d"> moment. <span class="h1-live">Live.</span></h1>
 <p class="lede" id="heroLede">Live scores, results and fixtures for Indian fans.</p>
 <div style="display:flex;flex-wrap:wrap;gap:12px">
-<a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; today</a>
+<a class="btn btn-primary" href="#matches" style="min-height:52px;padding:0 26px;font-size:16px"><span class="dot" style="background:var(--on-accent)"></span>Live &amp; next</a>
 <a class="btn btn-ghost" href="#schedule" style="min-height:52px;padding:0 26px;font-size:16px"><span>India's <span class="hide-m">upcoming </span>matches</span></a>
 </div>
 <div class="facts" id="facts"></div>
@@ -693,7 +693,7 @@ function state(m) {
   if (m.when && m.when.length > 10 && new Date(m.when).getTime() <= Date.now()) return 'started';
   return 'upcoming';
 }
-const RECENT_H = 6, HERO_MIN = 90;
+const NEXT_DAYS = 7, RECENT_H = 6, HERO_MIN = 90;
 const resMs = (m) => (m.resultAt ? new Date(m.resultAt).getTime() : 0);
 const minsAgo = (ms) => Math.max(0, Math.floor((Date.now() - ms) / 60000));
 const isRecent = (m) => m.st === 'result' && m.resultAt && Date.now() - resMs(m) < RECENT_H * 3600e3;
@@ -753,8 +753,9 @@ function medalRow(x) {
   return `<button type="button" class="dlg-item" data-open="medal:${i}"><span class="medal-ico m-${x.medal}" style="flex-shrink:0">${letter[x.medal]}</span><span><b>${esc(x.event)}</b><span class="s2">${esc(x.sport)}${x.day ? ' · ' + esc(x.day) : ''} — ${esc(x.who)}</span></span></button>`;
 }
 const listOr = (arr, fn, empty) => (arr.length ? `<div class="dlg-list">${arr.map(fn).join('')}</div>` : `<p class="note">${empty}</p>`);
-const rk = (m) => { const s = state(m); return s === 'live' ? 0 : s === 'started' ? 1 : isRecent(m) ? 2 : s === 'upcoming' ? 3 : 4; };
-const sortM = (a) => a.slice().sort((x, y) => rk(x) - rk(y) || (rk(x) === 2 ? resMs(y) - resMs(x) : rk(x) === 4 ? (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x)) : whenMs(x) - whenMs(y)) || (y.india ? 1 : 0) - (x.india ? 1 : 0));
+/* order everywhere: live > under way > upcoming (soonest first) > just finished > older results */
+const rk = (m) => { const s = state(m); return s === 'live' ? 0 : s === 'started' ? 1 : s === 'upcoming' ? 2 : isRecent(m) ? 3 : 4; };
+const sortM = (a) => a.slice().sort((x, y) => rk(x) - rk(y) || (rk(x) >= 3 ? (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x)) : whenMs(x) - whenMs(y)) || (y.india ? 1 : 0) - (x.india ? 1 : 0));
 
 const OPEN = {
   match(id) {
@@ -771,6 +772,10 @@ const OPEN = {
       ${c ? `<button type="button" class="dlg-item" data-open="comp:${esc(c.id || c.name)}"><span class="medal-ico m-gold" style="flex-shrink:0"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg></span><span><b>${esc(c.name)}</b><span class="s2">${esc(c.status)} — see the whole competition</span></span></button>` : ''}
       ${related.length ? `<div><div class="eyebrow" style="margin-bottom:10px">More from ${esc(m.comp)}</div>${listOr(sortM(related), matchRow, '')}</div>` : ''}
       ${srcHtml(m.src || (c && c.src))}`);
+  },
+  comps() {
+    const cs = compsSorted();
+    openDlg('What’s on', `Tournaments (${cs.filter((c) => c.live).length} live now)`, `<div style="display:flex;flex-direction:column;gap:10px">${cs.map((c) => `<button type="button" class="dlg-item" data-open="comp:${esc(c.id || c.name)}"><span class="pill ${c.live ? 'livepill' : ''}" style="flex-shrink:0;font-size:10px">${c.live ? 'LIVE' : esc(c.sport.toUpperCase())}</span><span><b>${esc(c.name)}</b><span class="s2">${esc(c.sport)} · ${esc(c.status)}</span></span></button>`).join('')}</div>`);
   },
   comp(id) {
     const c = (DATA.competitions || []).find((x) => (x.id || x.name) === id); if (!c) return;
@@ -853,12 +858,13 @@ const OPEN = {
       live: ['Live & under way', DATA.matches.filter((m) => state(m) === 'live' || state(m) === 'started')],
       today: ['Today’s matches', DATA.matches.filter((m) => m.when && istDay(whenMs(m)) === today)],
       india: ['India’s upcoming matches', DATA.matches.filter((m) => m.india && state(m) === 'upcoming')],
+      upcoming: ['Upcoming — next ' + NEXT_DAYS + ' days', DATA.matches.filter((m) => state(m) === 'upcoming' && whenMs(m) - Date.now() < NEXT_DAYS * 864e5)],
       recent: ['Just finished (last ' + RECENT_H + ' hours)', DATA.matches.filter(isRecent)],
       results: ['Latest results', DATA.matches.filter((m) => state(m) === 'result')],
       all: ['Every match on the site', DATA.matches]
     }[kind];
     if (!L) return;
-    openDlg('Match centre', `${L[0]} (${L[1].length})`, `<div class="dlg-tabs">${[['live', 'Live'], ['recent', 'Just finished'], ['today', 'Today'], ['india', 'India upcoming'], ['results', 'Results'], ['all', 'All']].map((k) => `<button type="button" class="chip" aria-selected="${k[0] === kind}" data-open="list:${k[0]}">${k[1]}</button>`).join('')}</div>${listOr(sortM(L[1]), matchRow, 'Nothing here right now.')}`);
+    openDlg('Match centre', `${L[0]} (${L[1].length})`, `<div class="dlg-tabs">${[['live', 'Live'], ['today', 'Today'], ['upcoming', 'Next 7 days'], ['india', 'India upcoming'], ['recent', 'Just finished'], ['results', 'Results'], ['all', 'All']].map((k) => `<button type="button" class="chip" aria-selected="${k[0] === kind}" data-open="list:${k[0]}">${k[1]}</button>`).join('')}</div>${listOr(sortM(L[1]), matchRow, 'Nothing here right now.')}`);
   },
   sports() {
     const sp = sportsPresent();
@@ -901,11 +907,13 @@ document.addEventListener('click', (e) => {
 document.addEventListener('keydown', (e) => {
   if ((e.key === 'Enter' || e.key === ' ') && e.target.matches && e.target.matches('[data-open]:not(button)')) { e.preventDefault(); openKey(e.target.getAttribute('data-open')); }
 });
+const isOver = (c) => /conclud|ended|finished|complete/i.test(c.status || '');
+const compsSorted = () => (DATA.competitions || []).map((c, i) => [c, i]).sort((x, y) => ((x[0].live ? 0 : isOver(x[0]) ? 2 : 1) - (y[0].live ? 0 : isOver(y[0]) ? 2 : 1)) || x[1] - y[1]).map((x) => x[0]);
 const clickable = (key, label) => `data-open="${esc(key)}" role="button" tabindex="0" aria-label="${esc(label)}"`;
 
 /* ---------- filters ---------- */
 let fSport = 'All', fWhen = 'now', indiaOnly = false, sortBy = 'gold', mf = 'recent', feat = null;
-const WHENS = [['now', 'Live & today'], ['upcoming', 'Upcoming'], ['results', 'Results'], ['all', 'All']];
+const WHENS = [['now', 'Live & next'], ['upcoming', 'Upcoming'], ['results', 'Results'], ['all', 'All']];
 $('indiaOnly').onchange = (e) => { indiaOnly = e.target.checked; renderMatches(); };
 function sportsPresent() {
   const set = {};
@@ -922,7 +930,7 @@ function renderMatches() {
   let list = DATA.matches.filter((m) => (fSport === 'All' || m.sport === fSport) && (!indiaOnly || m.india));
   list = list.filter((m) => {
     const s = state(m), d = m.when ? istDay(whenMs(m)) : null;
-    if (fWhen === 'now') return s === 'live' || s === 'started' || d === today || isRecent(m) || (s === 'result' && m.recent);
+    if (fWhen === 'now') return s === 'live' || s === 'started' || d === today || isRecent(m) || (s === 'upcoming' && whenMs(m) - Date.now() < NEXT_DAYS * 864e5);
     if (fWhen === 'upcoming') return s === 'upcoming';
     if (fWhen === 'results') return s === 'result';
     return true;
@@ -963,7 +971,14 @@ function renderEvent() {
   const ev = DATA.event;
   $('eventWrap').hidden = !ev; $('navEvent').hidden = !ev;
   if (!ev) return;
-  $('navEvent').textContent = ev.short || ev.name;
+  /* while an event is on it sits above the match centre; once it is over it moves below the live content */
+  const over = ev.concluded || /conclud|final standings/i.test(ev.statusText || '');
+  const anchor = over ? $('players') : $('matches'), nav = $('navEvent');
+  if (anchor && $('eventWrap').nextElementSibling !== anchor && $('eventWrap').nextSibling !== anchor) anchor.parentNode.insertBefore($('eventWrap'), anchor);
+  const vids = document.querySelector('nav a[href="#videos"]');
+  if (over && vids) vids.parentNode.insertBefore(nav, vids); else if (!over && nav.parentNode.firstElementChild !== nav) nav.parentNode.insertBefore(nav, nav.parentNode.firstElementChild);
+  if (over && !renderEvent.done) { renderEvent.done = 1; mf = 'gold'; }
+  nav.classList.toggle('ag', !over); nav.textContent = over ? (ev.short || ev.name) + ' results' : (ev.short || ev.name);
   $('evEyebrow').textContent = ev.eyebrow || 'Featured event';
   $('evTitle').textContent = ev.name;
   $('evDesc').textContent = ev.desc || '';
@@ -1018,12 +1033,14 @@ function pickFeatured() {
   const justDone = ms.filter((m) => m.india && (m.big || m.gold) && m.st === 'result' && m.resultAt && minsAgo(resMs(m)) < HERO_MIN).sort((x, y) => resMs(y) - resMs(x))[0];
   /* priority: India live (big first) > any big live > India result in last 90 min > next India big match … */
   const liveNow = by((m) => m.india && state(m) === 'live' && (m.big || m.gold)) || by((m) => m.india && on(m) && (m.big || m.gold)) || by((m) => m.india && on(m)) || by((m) => on(m) && (m.big || m.gold));
-  if (f && !on(f) && (liveNow || justDone)) f = null;
-  f = f || liveNow || justDone
-        || by((m) => m.india && state(m) === 'upcoming' && (m.big || m.gold))
+  if (f && !on(f) && liveNow) f = null;
+  f = f || liveNow
         || by((m) => state(m) === 'live')
+        || by((m) => m.india && state(m) === 'upcoming' && (m.big || m.gold))
         || by((m) => state(m) === 'upcoming' && m.india)
+        || by((m) => state(m) === 'upcoming' && m.big)
         || by((m) => state(m) === 'upcoming')
+        || justDone
         || ms.find((m) => state(m) === 'result');
   feat = f;
   if (!f) return;
@@ -1047,9 +1064,12 @@ function renderAll() {
   const today = istDay(Date.now());
   const todayN = DATA.matches.filter((m) => m.when && istDay(whenMs(m)) === today).length;
   const indUp = DATA.matches.filter((m) => m.india && state(m) === 'upcoming').length;
-  $('hdrLive').textContent = live ? live + ' LIVE NOW' : todayN + ' MATCHES TODAY';
+  const nxt = sortM(DATA.matches.filter((m) => state(m) === 'upcoming' && m.when && m.when.length > 10))[0];
+  $('hdrLive').textContent = live ? live + ' LIVE NOW' : todayN ? todayN + ' MATCHES TODAY' : nxt ? 'NEXT · ' + new Date(whenMs(nxt)).toLocaleString('en-IN', Object.assign({ weekday: 'short', hour: 'numeric', minute: '2-digit' }, IST)).toUpperCase() : 'UPDATED DAILY';
   $('chip1').setAttribute('data-open', live ? 'list:live' : 'list:india');
-  const facts = DATA.heroFacts && DATA.heroFacts.length ? DATA.heroFacts : [{ v: live, l: 'Live now', k: 'list:live' }, { v: todayN, l: 'Matches today', k: 'list:today' }, { v: indUp, l: 'India upcoming', k: 'list:india' }, { v: DATA.matches.filter(isRecent).length, l: 'Just finished', k: 'list:recent' }];
+  const upN = DATA.matches.filter((m) => state(m) === 'upcoming' && whenMs(m) - Date.now() < NEXT_DAYS * 864e5).length;
+  const compsOn = (DATA.competitions || []).filter((c) => c.live).length;
+  const facts = DATA.heroFacts && DATA.heroFacts.length ? DATA.heroFacts : [{ v: live, l: 'Live now', k: 'list:live' }, { v: todayN, l: 'Matches today', k: 'list:today' }, { v: upN, l: 'Next 7 days', k: 'list:upcoming' }, { v: compsOn, l: 'Tournaments on', k: 'comps' }];
   $('facts').innerHTML = facts.map((f) => `<div class="fact" ${clickable(f.k || 'list:all', f.l)}><b>${esc(f.v)}</b><span>${esc(f.l)}</span></div>`).join('');
   $('chip1').textContent = live ? live + ' LIVE NOW' : indUp + ' INDIA MATCHES AHEAD';
   $('chip2').textContent = DATA.dayLabel || 'Updated through the day';
@@ -1068,7 +1088,7 @@ function renderAll() {
   });
   $('resTicker').innerHTML = res.concat(res).join('');
   requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
-  $('compGrid').innerHTML = (DATA.competitions || []).map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
+  $('compGrid').innerHTML = compsSorted().map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
   $('feed').innerHTML = DATA.feed.map((f, i) => `<div class="feed-row" ${clickable('feed:' + i, f.tag + ' ' + f.m)}><div class="t">${esc(f.t)}</div><div class="rail"><i style="background:${f.c}"></i><em></em></div><div class="b"><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag" style="color:${f.c}">${esc(f.tag)}</span><span class="note">${esc(f.m)}</span></div><p>${esc(f.text)}</p></div></div>`).join('');
   $('schedList').innerHTML = DATA.schedule.map((s, i) => `<div class="srow" ${clickable('sched:' + i, s.title)}><div class="d"><b>${esc(s.d)}</b><span>${esc(s.mo)}</span></div><div style="flex-grow:1;min-width:0"><div style="font-weight:700;font-size:15px">${esc(s.title)}</div><div style="font-size:13px;opacity:.82;margin-top:2px">${esc(s.meta)}</div></div><div class="mono" style="font-weight:700;font-size:13px">${esc(s.time)}</div></div>`).join('');
   $('playerCards').innerHTML = (DATA.players || []).map((p, i) => `<article class="card pcard" ${clickable('player:' + i, p.name)}><div class="avatar">${esc(p.i)}</div><div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></article>`).join('');
