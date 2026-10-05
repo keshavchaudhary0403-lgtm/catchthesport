@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T18:05:17+05:30",
+  "lastUpdated": "2026-10-05T19:12:28+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1251,6 +1251,38 @@
         {
           "t": "Khel Now – India U17 women squad",
           "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
+        }
+      ]
+    },
+    {
+      "id": "chn-open-djo-med",
+      "sport": "Tennis",
+      "comp": "China Open (ATP 500, Beijing)",
+      "round": "Semi-final",
+      "st": "live",
+      "a": [
+        "SRB",
+        "Novak Djokovic",
+        "6-3"
+      ],
+      "b": [
+        "RUS",
+        "Daniil Medvedev",
+        ""
+      ],
+      "when": "2026-10-05T17:30:00+05:30",
+      "status": "Djokovic took set 1, 6-3 (latest report)",
+      "big": true,
+      "note": "Djokovic is unbeaten in Beijing (32-0); the winner plays Alex de Minaur in the final.",
+      "watch": "Sony Sports Network / SonyLIV / FanCode",
+      "src": [
+        {
+          "t": "Tennis.com – Djokovic v Medvedev live",
+          "u": "https://www.tennis.com/tournaments/china-open-atp/matches/n-djokovic-vs-d-medvedev-2026-10-05"
+        },
+        {
+          "t": "Sunday Guardian – where to watch in India",
+          "u": "https://sundayguardianlive.com/sports/novak-djokovic-vs-daniil-medvedev-tennis-live-streaming-where-to-watch-china-open-2026-semifinal-in-india-usa-uk-and-worldwide-299244/"
         }
       ]
     }
@@ -2879,6 +2911,24 @@
     }
   ],
   "feed": [
+    {
+      "t": "19:12",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Tennis",
+      "text": "China Open semi-final: Djokovic takes the first set 6-3 against Medvedev; the winner meets De Minaur in the final. Alcaraz plays Lehecka in the Japan Open final after beating Munar 5-7 6-3 6-1.",
+      "match": "chn-open-djo-med",
+      "src": [
+        {
+          "t": "Tennis.com – Djokovic v Medvedev live",
+          "u": "https://www.tennis.com/tournaments/china-open-atp/matches/n-djokovic-vs-d-medvedev-2026-10-05"
+        },
+        {
+          "t": "Sunday Guardian – where to watch in India",
+          "u": "https://sundayguardianlive.com/sports/novak-djokovic-vs-daniil-medvedev-tennis-live-streaming-where-to-watch-china-open-2026-semifinal-in-india-usa-uk-and-worldwide-299244/"
+        }
+      ]
+    },
     {
       "t": "18:05",
       "tag": "WIN",
