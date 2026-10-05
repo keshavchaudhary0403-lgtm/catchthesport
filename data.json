@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T08:09:39+05:30",
+  "lastUpdated": "2026-10-05T08:23:11+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -978,6 +978,70 @@
         }
       ],
       "venue": "Fatorda Stadium, Goa"
+    },
+    {
+      "id": "f1-sin-sprint",
+      "st": "upcoming",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Sprint",
+      "a": [
+        "F1",
+        "Formula 1",
+        "",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "",
+        "#334155"
+      ],
+      "when": "2026-10-10T14:30:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "note": "Sprint-weekend Saturday; sprint qualifying is Fri 9 Oct at 18:00 IST.",
+      "src": [
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        }
+      ]
+    },
+    {
+      "id": "f1-sin-race",
+      "st": "upcoming",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Race",
+      "a": [
+        "F1",
+        "Formula 1",
+        "",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "",
+        "#334155"
+      ],
+      "when": "2026-10-11T17:30:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "note": "Sunday night race in Singapore; qualifying is Sat 10 Oct at 18:30 IST.",
+      "src": [
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        }
+      ]
     }
   ],
   "event": {
@@ -2522,19 +2586,28 @@
     },
     {
       "sport": "Tennis",
-      "name": "WTA Beijing & ATP Tokyo",
-      "status": "Live this week",
+      "name": "ATP Shanghai Masters",
+      "status": "Live · qualifying 5–6 Oct, main draw 7–18 Oct",
       "live": true,
-      "note": "Asian swing of the tour under way in China and Japan.",
-      "id": "tennis-asia",
+      "id": "shanghai",
+      "note": "ATP Masters 1000. Zverev top seed; Alcaraz, Djokovic and Medvedev in the field; Sinner withdrew with a knee injury. No Indian in the field per the preview.",
       "src": [
         {
-          "t": "WTA – tournament calendar",
-          "u": "https://www.wtatennis.com/tournaments"
-        },
+          "t": "Tennisnerd – Guide to the 2026 ATP Shanghai Masters",
+          "u": "https://www.tennisnerd.net/news/guide-to-the-2026-atp-shanghai-masters-players-prize-money-schedule/69792"
+        }
+      ]
+    },
+    {
+      "sport": "Tennis",
+      "name": "WTA Wuhan Open",
+      "status": "12–18 Oct",
+      "id": "wuhan",
+      "note": "WTA 1000 with the full top 10; Rybakina (world No. 1) and Sabalenka headline.",
+      "src": [
         {
-          "t": "ATP – tournament calendar",
-          "u": "https://www.atptour.com/en/tournaments"
+          "t": "The Peninsula – Rybakina, Sabalenka headline Wuhan field",
+          "u": "https://thepeninsulaqatar.com/article/18/09/2026/rybakina-sabalenka-headline-wuhan-field"
         }
       ]
     },
@@ -2563,7 +2636,8 @@
           "t": "Formula1.com – Singapore GP 2026",
           "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
         }
-      ]
+      ],
+      "comp": "Singapore Grand Prix"
     }
   ],
   "feed": [
