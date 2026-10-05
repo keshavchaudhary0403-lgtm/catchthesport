@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T10:09:27+05:30",
+  "lastUpdated": "2026-10-05T13:04:44+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -194,8 +194,8 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "First of five T20Is. Shreyas Iyer captains India; Naman Dhir replaces Washington Sundar in the squad.",
-      "venue": "Lucknow",
+      "note": "First of five T20Is. Shreyas Iyer captains India; coach Gambhir has said Abhishek Sharma and Sanju Samson will keep opening, with Vaibhav Sooryavanshi on the bench for now. Naman Dhir replaces Washington Sundar in the squad.",
+      "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
         {
           "t": "Wikipedia – West Indies in India 2026-27",
@@ -208,8 +208,13 @@
         {
           "t": "CricketTimes – Sundar replaced by Naman Dhir",
           "u": "https://crickettimes.com/2026/10/bcci-announce-washington-sundars-replacement-for-west-indies-t20is-heres-the-updated-squad/"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
-      ]
+      ],
+      "watch": "Star Sports / JioHotstar"
     },
     {
       "id": "ind-wi-t20-2",
@@ -230,7 +235,7 @@
         "#7B1E3A"
       ],
       "when": "2026-10-09T19:00:00+05:30",
-      "venue": "Ranchi",
+      "venue": "JSCA International Stadium, Ranchi",
       "src": [
         {
           "t": "Wikipedia – West Indies in India 2026-27",
@@ -239,8 +244,13 @@
         {
           "t": "NewsX – IND v WI schedule",
           "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
-      ]
+      ],
+      "watch": "Star Sports / JioHotstar"
     },
     {
       "id": "ind-bra",
@@ -774,8 +784,13 @@
         {
           "t": "CricInnings – IND v WI 2026 schedule",
           "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
-      ]
+      ],
+      "watch": "Star Sports / JioHotstar"
     },
     {
       "id": "ind-wi-t20-4",
@@ -805,8 +820,13 @@
         {
           "t": "CricInnings – IND v WI 2026 schedule",
           "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
-      ]
+      ],
+      "watch": "Star Sports / JioHotstar"
     },
     {
       "id": "ind-wi-t20-5",
@@ -836,8 +856,13 @@
         {
           "t": "CricInnings – IND v WI 2026 schedule",
           "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
-      ]
+      ],
+      "watch": "Star Sports / JioHotstar"
     },
     {
       "id": "isl-kashi-kbfc",
@@ -1071,6 +1096,60 @@
         {
           "t": "Wikipedia – International cricket in 2026–27",
           "u": "https://en.wikipedia.org/wiki/International_cricket_in_2026%E2%80%9327"
+        }
+      ]
+    },
+    {
+      "id": "pak-sl-t20-2",
+      "sport": "Cricket",
+      "comp": "Pakistan v Sri Lanka",
+      "round": "2nd T20I",
+      "st": "upcoming",
+      "a": [
+        "PAK",
+        "Pakistan",
+        ""
+      ],
+      "b": [
+        "SL",
+        "Sri Lanka",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-11",
+      "note": "2nd of three T20Is in Rawalpindi; start time TBC.",
+      "venue": "Rawalpindi Cricket Stadium",
+      "src": [
+        {
+          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
+          "u": "https://www.thepapare.com/?p=2627584"
+        }
+      ]
+    },
+    {
+      "id": "pak-sl-t20-3",
+      "sport": "Cricket",
+      "comp": "Pakistan v Sri Lanka",
+      "round": "3rd T20I",
+      "st": "upcoming",
+      "a": [
+        "PAK",
+        "Pakistan",
+        ""
+      ],
+      "b": [
+        "SL",
+        "Sri Lanka",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-13",
+      "note": "3rd of three T20Is in Rawalpindi; start time TBC.",
+      "venue": "Rawalpindi Cricket Stadium",
+      "src": [
+        {
+          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
+          "u": "https://www.thepapare.com/?p=2627584"
         }
       ]
     }
