@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T05:10:09+05:30",
+  "lastUpdated": "2026-10-05T08:09:39+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -866,6 +866,118 @@
         }
       ],
       "venue": "Venue TBC"
+    },
+    {
+      "id": "isl-pun-odi",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 2",
+      "a": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#DC2626"
+      ],
+      "b": [
+        "ODI",
+        "Odisha FC",
+        "",
+        "#7C3AED"
+      ],
+      "when": "2026-10-14T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        }
+      ],
+      "venue": "JLN Stadium, Delhi"
+    },
+    {
+      "id": "isl-del-mbsg",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "DEL",
+        "Sporting Club Delhi",
+        "",
+        "#B91C1C"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "",
+        "#166534"
+      ],
+      "when": "2026-10-16T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        }
+      ],
+      "venue": "JLN Stadium, Delhi"
+    },
+    {
+      "id": "isl-bfc-che",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "BFC",
+        "Bengaluru FC",
+        "",
+        "#1E3A8A"
+      ],
+      "b": [
+        "CFC",
+        "Chennaiyin FC",
+        "",
+        "#1D4ED8"
+      ],
+      "when": "2026-10-17T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        }
+      ],
+      "venue": "Sree Kanteerava Stadium, Bengaluru"
+    },
+    {
+      "id": "isl-chu-eb",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "CHB",
+        "Churchill Brothers",
+        "",
+        "#9F1239"
+      ],
+      "b": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#DC2626"
+      ],
+      "when": "2026-10-18T17:00:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        }
+      ],
+      "venue": "Fatorda Stadium, Goa"
     }
   ],
   "event": {
@@ -2290,7 +2402,7 @@
         "u": "https://www.tribuneindia.com/news/archery/asian-games-india-mens-recurve-team-enters-final-wrestler-sujeet-kalkal-beats-olympic-champion-to-enter-final"
       }
     ],
-    "medalChecked": "2026-10-05T05:10:09+05:30",
+    "medalChecked": "2026-10-05T08:09:39+05:30",
     "othersAsOf": "final standings (Outlook India, 4 Oct)"
   },
   "competitions": [
@@ -2362,7 +2474,7 @@
       "name": "Indian Super League 2026-27",
       "status": "Starts 10 Oct",
       "india": true,
-      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title.",
+      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title. Phase 1 fixtures run to 18 Oct.",
       "id": "isl",
       "src": [
         {
