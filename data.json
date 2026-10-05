@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T13:04:44+05:30",
+  "lastUpdated": "2026-10-05T15:11:04+05:30",
   "dayLabel": "Mon 5 Oct · Asian Games concluded · India v West Indies T20Is from Tue",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -1150,6 +1150,99 @@
         {
           "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
           "u": "https://www.thepapare.com/?p=2627584"
+        }
+      ]
+    },
+    {
+      "id": "u17w-ind-irq",
+      "sport": "Football",
+      "comp": "AFC U17 Women's Asian Cup qualifiers",
+      "round": "Group E · Matchday 1",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India U17 women",
+        ""
+      ],
+      "b": [
+        "IRQ",
+        "Iraq",
+        ""
+      ],
+      "when": "2026-10-05T13:30:00+05:30",
+      "india": true,
+      "venue": "MP Selayang Stadium, Selayang, Malaysia",
+      "note": "Opening match of Group E (Malaysia host, 5–11 Oct). Coach Joakim Alexandersson. Result not yet confirmed.",
+      "src": [
+        {
+          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
+          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
+        },
+        {
+          "t": "Khel Now – India U17 women squad",
+          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
+        }
+      ]
+    },
+    {
+      "id": "u17w-syr-ind",
+      "sport": "Football",
+      "comp": "AFC U17 Women's Asian Cup qualifiers",
+      "round": "Group E · Matchday 2",
+      "st": "upcoming",
+      "a": [
+        "SYR",
+        "Syria",
+        ""
+      ],
+      "b": [
+        "IND",
+        "India U17 women",
+        ""
+      ],
+      "when": "2026-10-08T13:30:00+05:30",
+      "india": true,
+      "venue": "MP Selayang Stadium, Selayang, Malaysia",
+      "note": "Group E, Matchday 2.",
+      "src": [
+        {
+          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
+          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
+        },
+        {
+          "t": "Khel Now – India U17 women squad",
+          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
+        }
+      ]
+    },
+    {
+      "id": "u17w-ind-mas",
+      "sport": "Football",
+      "comp": "AFC U17 Women's Asian Cup qualifiers",
+      "round": "Group E · Matchday 3",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India U17 women",
+        ""
+      ],
+      "b": [
+        "MAS",
+        "Malaysia",
+        ""
+      ],
+      "when": "2026-10-11T18:30:00+05:30",
+      "india": true,
+      "venue": "MP Selayang Stadium, Selayang, Malaysia",
+      "note": "Group E, Matchday 3 against the hosts.",
+      "src": [
+        {
+          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
+          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
+        },
+        {
+          "t": "Khel Now – India U17 women squad",
+          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
         }
       ]
     }
