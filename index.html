@@ -382,6 +382,18 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  .mt .nat{gap:8px}
  .mt .rk-l{display:none}.mt .rk-s{display:inline}
 }
+/* where-to-watch chips */
+#featPill{flex-shrink:0;white-space:nowrap}#featWhen{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.mcard2 .foot .more{white-space:nowrap;flex-shrink:0}
+.tkw{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;color:var(--text-2);padding-left:10px;border-left:1px solid var(--line)}
+.tkw.w-tv svg{color:var(--accent)}.tkw.w-app svg{color:#7C3AED}.tkw.w-yt svg{color:#FF0000}
+.watch{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
+.watch .wlbl{font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:2px}
+.wchip{display:inline-flex;align-items:center;gap:6px;padding:5px 10px;border-radius:999px;font-size:12px;font-weight:600;border:1px solid var(--line-strong);background:var(--surface-2);color:var(--text);text-decoration:none;line-height:1.2}
+a.wchip:hover{border-color:var(--accent);color:var(--accent)}
+.wchip.w-tv svg{color:var(--accent)}.wchip.w-app svg{color:#7C3AED}.wchip.w-yt svg{color:#FF0000}.wchip.w-web svg{color:var(--muted)}
+.watch-hero{margin-top:16px;justify-content:center}
+.mcard2 .watch{padding-top:2px}
 /* headline: 3 lines on desktop, 2 lines on mobile ("Every sport. Every" / "Indian moment. Live.") */
 .br-m{display:none}
 @media (max-width:640px){
@@ -480,6 +492,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 <div style="font-family:'Archivo',sans-serif;font-weight:900;font-size:28px;color:var(--muted)">vs</div>
 <div style="display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center"><div id="featB" style="display:flex"></div><div style="font-size:14px;color:var(--text-2)" id="featBName"></div><div class="mono" style="font-weight:700;font-size:22px" id="featBS"></div></div>
 </div>
+<div id="featWatch" style="transform:translateZ(40px)"></div>
 <div style="margin-top:24px;transform:translateZ(40px)" id="featCdWrap">
 <div style="font-size:12px;color:var(--muted);margin-bottom:10px" id="featCdLabel">Starts in</div>
 <div class="cd" id="countdown"><div><b>--</b><span>DAYS</span></div><div><b>--</b><span>HRS</span></div><div><b>--</b><span>MIN</span></div><div><b>--</b><span>SEC</span></div></div>
@@ -671,6 +684,41 @@ const IST = { timeZone: 'Asia/Kolkata' };
 const istDay = (d) => new Date(d).toLocaleDateString('en-CA', IST);
 const hhmm = (w) => new Date(w).toLocaleTimeString('en-IN', Object.assign({ hour: 'numeric', minute: '2-digit' }, IST));
 function hashColor(s) { let h = 0; for (const c of String(s)) h = (h * 31 + c.charCodeAt(0)) % 360; return `hsl(${h} 55% 40%)`; }
+/* where to watch: TV channels and streaming apps (generic icons, not brand logos) */
+const PLATFORMS = [
+  [/jio\s*hotstar|hotstar|jiocinema/i, 'JioHotstar', 'app', 'https://www.hotstar.com/in'],
+  [/sony\s*liv/i, 'SonyLIV', 'app', 'https://www.sonyliv.com'],
+  [/fancode/i, 'FanCode', 'app', 'https://www.fancode.com'],
+  [/prime\s*video|amazon/i, 'Prime Video', 'app', 'https://www.primevideo.com'],
+  [/f1\s*tv/i, 'F1 TV', 'app', 'https://f1tv.formula1.com'],
+  [/waves/i, 'Waves (Prasar Bharati)', 'app', ''],
+  [/youtube/i, 'YouTube', 'yt', ''],
+  [/star\s*sports/i, null, 'tv', ''],
+  [/sony\s*(sports|ten|six)/i, null, 'tv', ''],
+  [/dd\s*sports|doordarshan/i, null, 'tv', ''],
+  [/sports\s*18|eurosport|zee|colors|1\s*sports|channel/i, null, 'tv', '']
+];
+const WICON = {
+  tv: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="12" rx="2"/><path d="M8 21h8M12 17v4"/></svg>',
+  app: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="2" width="12" height="20" rx="3"/><path d="M10.5 9.5v5l4-2.5z" fill="currentColor"/></svg>',
+  yt: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M10 8.5v7l6-3.5z" fill="currentColor"/></svg>',
+  web: '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>'
+};
+function watchList(m) {
+  let w = m && m.watch; if (!w) return [];
+  if (typeof w === 'string') w = w.split(/\s*(?:\/|,|;|\+|\band\b)\s*/i);
+  return w.map((x) => (typeof x === 'string' ? { n: x } : x)).filter((x) => x && x.n && !/^(none|tbc|n\/a|not (confirmed|available))$/i.test(String(x.n).trim())).map((x) => {
+    const n = String(x.n).trim(), hit = PLATFORMS.find((p) => p[0].test(n)) || [null, null, x.u ? 'web' : 'tv', ''];
+    return { n: hit[1] || n, type: x.type || hit[2], u: x.u || hit[3] };
+  });
+}
+function watchChips(m, opt) {
+  const L = watchList(m); if (!L.length) return '';
+  const live = state(m) === 'live' || state(m) === 'started';
+  const chip = (p) => { const inner = `${WICON[p.type] || WICON.tv}<span>${esc(p.n)}</span>`; return p.u ? `<a class="wchip w-${p.type}" href="${esc(p.u)}" target="_blank" rel="noopener" title="Open ${esc(p.n)}">${inner}</a>` : `<span class="wchip w-${p.type}" title="${p.type === 'tv' ? 'TV channel' : 'Streaming'}">${inner}</span>`; };
+  return `<div class="watch${opt === 'hero' ? ' watch-hero' : ''}"><span class="wlbl">${live ? 'Watch live' : 'Watch on'}</span>${L.map(chip).join('')}</div>`;
+}
+const asOf = (m) => (m.scoreAt ? ' · as of ' + hhmm(m.scoreAt) : '');
 /* score text; words like 'Won'/'Lost' are hidden because the winner is already shown */
 function scPair(m, sep) { const x = sc(m.a), y = sc(m.b); return x || y ? x + sep + y : ''; }
 function sc(t) { const v = String((t && t[2]) || '').trim(); return /^(won|win|lost|loss|w|l)$/i.test(v) ? '' : v; }
@@ -762,12 +810,13 @@ const OPEN = {
     const m = byId(id); if (!m) return;
     const s = state(m), c = compOf(m);
     const rows = [['Status', s === 'live' ? 'LIVE' + (m.status ? ' · ' + m.status : '') : STLABEL[s]], ['Competition', [m.comp, m.round].filter(Boolean).join(' · ')], ['Sport', m.sport],
-      [s === 'result' ? 'Played' : 'Starts', s === 'result' ? (m.day || whenText(m.when)) : whenText(m.when) || 'TBC'], ['Venue', m.venue || 'TBC'], ['Watch in India', m.watch || 'Not confirmed yet'],
+      [s === 'result' ? 'Played' : 'Starts', s === 'result' ? (m.day || whenText(m.when)) : whenText(m.when) || 'TBC'], ['Venue', m.venue || 'TBC'], ['Watch in India', watchList(m).length ? '' : 'Not confirmed yet'],
       ['Result', s === 'result' ? (m.win ? (m.win === 'a' ? m.a[1] : m.b[1]) + ' won' : 'Draw / shared') : '—']].filter((r) => r[1]);
     const related = DATA.matches.filter((x) => x.id !== m.id && x.comp === m.comp && (x.sport === m.sport)).slice(0, 6);
     openDlg(`${m.sport}${m.india ? ' · India' : ''}`, `${m.a[1]} v ${m.b[1]}`,
       `<div class="dlg-score"><div class="sd">${badge(m.a, 56)}${esc(m.a[1])}<span class="sc">${esc(s === 'upcoming' ? '' : sc(m.a))}</span></div><div style="font-family:'Archivo',sans-serif;font-weight:900;color:var(--muted)">vs</div><div class="sd">${badge(m.b, 56)}${esc(m.b[1])}<span class="sc">${esc(s === 'upcoming' ? '' : sc(m.b))}</span></div></div>
       ${m.note ? `<p style="margin:0;font-size:16px;line-height:1.55">${esc(m.note)}</p>` : ''}
+      ${watchChips(m)}
       <dl class="dl">${rows.map((r) => `<dt>${esc(r[0])}</dt><dd>${esc(r[1])}</dd>`).join('')}</dl>
       ${c ? `<button type="button" class="dlg-item" data-open="comp:${esc(c.id || c.name)}"><span class="medal-ico m-gold" style="flex-shrink:0"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg></span><span><b>${esc(c.name)}</b><span class="s2">${esc(c.status)} — see the whole competition</span></span></button>` : ''}
       ${related.length ? `<div><div class="eyebrow" style="margin-bottom:10px">More from ${esc(m.comp)}</div>${listOr(sortM(related), matchRow, '')}</div>` : ''}
@@ -957,11 +1006,12 @@ function cardHtml(m) {
     : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>'
     : s === 'result' ? (isRecent(m) ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">JUST FINISHED</span>' : '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>')
     : m.gold ? '<span class="pill m-gold">MEDAL MATCH</span>' : m.big ? '<span class="pill m-gold">BIG MATCH</span>' : '<span class="pill" style="background:var(--surface-2);color:var(--text-2)">UPCOMING</span>';
-  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : sc(t))}</div></div>`;
-  const foot = s === 'live' ? esc(m.status || 'In progress') : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
+  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${esc(s === 'upcoming' || s === 'started' ? '' : sc(t) || (s === 'live' ? '–' : ''))}</div></div>`;
+  const foot = s === 'live' ? esc((m.status || 'In progress') + asOf(m)) : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
+    ${s !== 'result' ? watchChips(m) : ''}
     <div class="foot"><span class="mono" style="color:${s === 'live' ? 'var(--live-text)' : 'var(--accent)'}">${foot}</span><span class="more">Details →</span></div>
   </article>`;
 }
@@ -1047,10 +1097,11 @@ function pickFeatured() {
   const s = state(f);
   $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.gold && f.win ? (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? 'INDIA WIN GOLD' : 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
   $('featTitle').textContent = [f.sport, f.comp, f.round].filter(Boolean).join(' · ');
-  $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
+  $('featWhen').textContent = s === 'live' ? (f.status || 'In progress') + asOf(f) : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').textContent = s === 'upcoming' || s === 'started' ? '' : sc(f.a);
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').textContent = s === 'upcoming' || s === 'started' ? '' : sc(f.b);
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
+  $('featWatch').innerHTML = s !== 'result' ? watchChips(f, 'hero') : '';
 }
 function updAgo() {
   const t = Math.min(new Date(DATA.lastUpdated).getTime(), Date.now()), m = Math.max(0, Math.floor((Date.now() - t) / 60000));
@@ -1075,9 +1126,9 @@ function renderAll() {
   $('chip2').textContent = DATA.dayLabel || 'Updated through the day';
   const tick = sortM(DATA.matches.filter((m) => state(m) !== 'result')).map((m) => {
     const s = state(m);
-    return { id: m.id, s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : (scPair(m, ' – ') || 'FT'), x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
+    return { id: m.id, w: watchList(m)[0], s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : (scPair(m, ' – ') || (s === 'live' ? 'vs' : 'FT')), x: s === 'live' ? 'LIVE ' + (m.status || '') : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
   });
-  $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 16 ? k.a[1].split(' ').pop() : k.a[1])}</b><span class="vs">${esc(k.t)}</span>${badge(k.b, 20)}<b style="font-weight:600">${esc(k.b[1].length > 16 ? k.b[1].split(' ').pop() : k.b[1])}</b><span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span></div>`).join('');
+  $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 16 ? k.a[1].split(' ').pop() : k.a[1])}</b><span class="vs">${esc(k.t)}</span>${badge(k.b, 20)}<b style="font-weight:600">${esc(k.b[1].length > 16 ? k.b[1].split(' ').pop() : k.b[1])}</b><span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span>${k.w ? `<span class="tkw w-${k.w.type}">${WICON[k.w.type] || WICON.tv}${esc(k.w.n)}</span>` : ''}</div>`).join('');
   /* results line: every finished match, newest first — winner first, India or not */
   const short = (t) => (t[1].length > 16 ? (FLAGMAP[t[0]] ? t[1].split(' ').pop() : t[0]) : t[1]);
   const res = DATA.matches.filter((m) => state(m) === 'result').sort((x, y) => (resMs(y) || whenMs(y)) - (resMs(x) || whenMs(x))).map((m) => {

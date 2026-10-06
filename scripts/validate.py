@@ -53,6 +53,13 @@ for i, m in enumerate(d.get("matches", [])):
         errors.append(f"{w}: when must be 2026-10-03 or 2026-10-03T14:00:00+05:30")
     if m.get("st") == "upcoming" and not m.get("when"):
         errors.append(f"{w}: upcoming match needs 'when'")
+    w_ = m.get("watch")
+    if w_ is not None and not (isinstance(w_, str) or (isinstance(w_, list) and all(isinstance(x, str) or (isinstance(x, dict) and isinstance(x.get("n"), str)) for x in w_))):
+        errors.append(f"{w}: watch must be a list like [\"Star Sports 1\", \"JioHotstar\"] or [{{'n': 'YouTube', 'u': 'https://…'}}]")
+    if m.get("st") == "live" and not ((len(m.get("a", [])) > 2 and m["a"][2]) or (len(m.get("b", [])) > 2 and m["b"][2])):
+        print(f"warning: {w} is live but has no score — add the current score (and scoreAt)")
+    if m.get("st") in ("live", "upcoming") and m.get("india") and not m.get("watch"):
+        print(f"warning: {w} has no 'watch' (TV channel / streaming app in India) — add it once confirmed")
     if m.get("win") not in (None, "a", "b"):
         errors.append(f"{w}: win must be 'a' or 'b'")
 

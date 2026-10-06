@@ -74,13 +74,26 @@ Mark anything involving an Indian team or athlete with `"india": true`. Mark hea
   "india": true, "big": true, "gold": false,
   "note": "One factual line: scorers, top performers, context.",
   "venue": "New Chandigarh",
-  "watch": "JioHotstar"              // broadcaster in India, only if confirmed
+  "watch": ["Star Sports 1", "JioHotstar"], // where to watch LIVE in India: TV channels and streaming apps (see below)
+  "scoreAt": "2026-10-06T20:24:00+05:30"     // live only: real IST time the score was last confirmed (shown as "as of 8:24 pm")
 }
 ```
 
 Codes: use 3-letter country codes for national teams (`IND`, `PAK`, `AUS`, `ENG`, `BRA` …) — they show real flags (see the list in `flags/`, mapped in `index.html` `FLAGMAP`). `WI` (West Indies) and all clubs get a coloured badge: give clubs a short code (`MCFC`, `BFC`, `LIV`) and their main colour as the 4th element. Use `TBC` when an opponent is unknown.
 
 Scores are free text: cricket `"406/2"` or `"245/8 (50)"`; football `"2"`; tennis `"6-4 7-5"`; individual events the athlete's result, or `"Won"` if only the outcome is known.
+
+### Where to watch (`watch`) — fill it for every live and upcoming match
+
+- A list of the channels and apps that broadcast/stream the match **in India**, TV first then apps: `["Star Sports 1", "Star Sports 1 Hindi", "JioHotstar"]`, `["Sony Ten 1", "SonyLIV"]`, `["DD Sports", "Waves"]`, `["FanCode"]`, `["Sports18", "JioHotstar"]`.
+- A free official stream on YouTube or a federation site: `{"n": "YouTube – AIFF TV", "u": "https://www.youtube.com/@…"}` (only real URLs).
+- The page shows each with an icon by type: TV channel, streaming app (JioHotstar, SonyLIV, FanCode, Prime Video, F1 TV, Waves get a tap-through link), YouTube. Any other name shows as a TV channel unless you give a `u` link.
+- Check the official broadcaster announcement (league/federation/broadcaster press release, or a news report naming the channel) — rights change between seasons and tournaments, so never assume. If not confirmed, omit `watch` (the page says "not confirmed yet").
+
+### Scores — always show the score
+
+- Every **live** match must carry its current score in `a[2]`/`b[2]` (cricket `"124/3 (14.2)"` for the batting side and `"Yet to bat"` or the first-innings total for the other; football `"1"`; tennis set scores) plus `status` and `scoreAt` (when you confirmed it). Update both on every run while the match is live.
+- Every **result** must carry final scores for both sides.
 
 Status changes: when a match starts set `"st": "live"` with a `status`; when it ends set `"st": "result"`, fill both scores, `win`, `day`, `recent: true` and `resultAt` (current IST time from the shell). Keep `when` on results too. If a match has started but you can't find its score, leave it `upcoming` — the site labels it "UNDER WAY" automatically.
 
