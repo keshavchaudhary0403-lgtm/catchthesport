@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-06T22:04:42+05:30",
-  "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I and India v Uruguay live",
-  "featured": "ind-wi-t20-1",
+  "lastUpdated": "2026-10-06T23:04:49+05:30",
+  "dayLabel": "Tue 6 Oct · India win 1st T20I; Uruguay beat India in Kolkata",
+  "featured": "ind-wi-t20-2",
   "matches": [
     {
       "id": "ag-archery-w-ind-final",
@@ -177,7 +177,7 @@
     },
     {
       "id": "ind-wi-t20-1",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -185,7 +185,7 @@
       "a": [
         "IND",
         "India",
-        "121/3 (12.0)"
+        "Chased 172"
       ],
       "b": [
         "WI",
@@ -194,7 +194,7 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "West Indies were bowled out for 171 in 19.1 overs (Shai Hope 52, Sherfane Rutherford fifty; Naman Dhir 2 wickets on T20I debut, Axar Patel 2/26). India lost Samson and another early wicket in the chase; Shreyas Iyer leads the recovery.",
+      "note": "India won by 8 wickets after bowling West Indies out for 171 (Shai Hope 52, Sherfane Rutherford 56; Naman Dhir 3/31 on T20I debut, Axar Patel 2/26). Shreyas Iyer hit his maiden T20I century in the chase. Leads the 5-match series 1–0.",
       "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
         {
@@ -239,8 +239,10 @@
         "DD Sports",
         "JioHotstar"
       ],
-      "status": "India need 51 off 48",
-      "scoreAt": "2026-10-06T22:04:42+05:30"
+      "win": "a",
+      "day": "6 Oct",
+      "recent": true,
+      "resultAt": "2026-10-06T23:04:49+05:30"
     },
     {
       "id": "ind-wi-t20-2",
@@ -329,7 +331,7 @@
     },
     {
       "id": "ind-uru",
-      "st": "live",
+      "st": "result",
       "big": true,
       "india": true,
       "sport": "Football",
@@ -343,26 +345,33 @@
       "b": [
         "URU",
         "Uruguay",
-        "1"
+        "6"
       ],
       "when": "2026-10-06T19:30:00+05:30",
-      "note": "Uruguay took the lead from a Darwin Núñez penalty (Federico Viñas fouled) around 7:43 pm IST; Anirudh Thapa equalised for India. Kolkata, 7:30 pm IST kick-off; Sony LIV.",
+      "note": "Uruguay won 6–1 at Salt Lake Stadium. Darwin Núñez scored a penalty and Anirudh Thapa equalised for India (22'); a thunderstorm halted play for about 35 minutes, and Maxi Araujo (brace) and others sealed the win after the restart.",
       "venue": "Salt Lake Stadium, Kolkata",
       "src": [
         {
-          "t": "Outlook India – India v Uruguay live",
+          "t": "Sunday Guardian – India 1-6 Uruguay",
+          "u": "https://sundayguardianlive.com/sports/india-vs-uruguay-football-match-highlights-anirudh-thapa-scores-historic-equaliser-but-uruguay-cruise-to-6-1-win-kolkata-300286/"
+        },
+        {
+          "t": "Outlook India – India v Uruguay",
           "u": "https://www.outlookindia.com/sports/football/india-vs-uruguay-football-live-score-updates-highlights"
         },
         {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+          "t": "ESPN – Uruguay put six past India",
+          "u": "https://www.espn.com/football/story/_/id/50114110/india-vs-uruguay-live-latest-updates-commentary-score-news-kolkata-friendly"
         }
       ],
-      "status": "1–1 · play halted by thunderstorm, resuming (last confirmed 20:24)",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
-      ]
+      ],
+      "win": "b",
+      "day": "6 Oct",
+      "recent": true,
+      "resultAt": "2026-10-06T23:04:49+05:30"
     },
     {
       "id": "ind-rus-w1",
@@ -2937,7 +2946,7 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "India won the ODI series 2–1 (West Indies won the 3rd ODI by 5 wickets chasing 352). Five T20Is, 6–17 Oct; Washington Sundar replaced by Naman Dhir in the T20I squad.",
+      "note": "India won the ODI series 2–1 (West Indies won the 3rd ODI by 5 wickets chasing 352). India won the 1st T20I by 8 wickets (Iyer ton). Five T20Is, 6–17 Oct; Washington Sundar replaced by Naman Dhir in the T20I squad.",
       "id": "ind-wi",
       "src": [
         {
@@ -2954,9 +2963,9 @@
     {
       "sport": "Football",
       "name": "India v Brazil & Uruguay",
-      "status": "3 & 6 Oct · Kolkata",
+      "status": "Concluded 6 Oct · Kolkata",
       "india": true,
-      "note": "Two glamour friendlies at Salt Lake Stadium for Khalid Jamil's India.",
+      "note": "India lost 0–4 to Brazil (3 Oct) and 1–6 to Uruguay (6 Oct) at Salt Lake Stadium.",
       "id": "ind-friendlies",
       "src": [
         {
@@ -3119,72 +3128,20 @@
   ],
   "feed": [
     {
-      "t": "22:04",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "23:04",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "India lose 1–6 to Uruguay in Kolkata. Anirudh Thapa equalised at 1–1 before a 35-minute thunderstorm break; Uruguay scored five more, Maxi Araujo twice.",
+      "match": "ind-uru"
+    },
+    {
+      "t": "23:04",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Cricket",
-      "text": "India 121/3 after 12 overs chasing 172 v West Indies in Lucknow; Shreyas Iyer has a fifty. Latest report found, so the match may have moved on.",
+      "text": "India beat West Indies by 8 wickets in the 1st T20I in Lucknow after bowling them out for 171; Shreyas Iyer hits a maiden T20I century. India lead 1–0.",
       "match": "ind-wi-t20-1"
-    },
-    {
-      "t": "21:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India chase 172 against West Indies in Lucknow after Naman Dhir's two wickets on debut helped bowl WI out for 171; India 62/2 after 6 overs.",
-      "match": "ind-wi-t20-1",
-      "src": [
-        {
-          "t": "The Tribune – Hope, Sherfane fifties take WI to 171",
-          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-fifties-from-hope-sherfane-take-west-indies-to-171-against-india-in-1st-t20i"
-        },
-        {
-          "t": "CREX – IND v WI 1st T20 live",
-          "u": "https://crex.com/cricket-live-score/ind-vs-wi-1st-t20-west-indies-tour-of-india-2026-match-updates-11AL"
-        }
-      ]
-    },
-    {
-      "t": "20:24",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "India v Uruguay in Kolkata is held up at 1–1 by a thunderstorm; players are back on the pitch and play is about to resume.",
-      "match": "ind-uru",
-      "src": [
-        {
-          "t": "Outlook India – India v Uruguay live",
-          "u": "https://www.outlookindia.com/sports/football/india-vs-uruguay-football-live-score-updates-highlights"
-        }
-      ]
-    },
-    {
-      "t": "20:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "India 1–1 Uruguay in Kolkata: Darwin Núñez scored a penalty for Uruguay, then Anirudh Thapa equalised for the Blue Tigers.",
-      "match": "ind-uru",
-      "src": [
-        {
-          "t": "Outlook India – India v Uruguay live",
-          "u": "https://www.outlookindia.com/sports/football/india-vs-uruguay-football-live-score-updates-highlights"
-        }
-      ]
-    },
-    {
-      "t": "20:00",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "West Indies lose three wickets in the powerplay in Lucknow, two in one Axar Patel over; Shai Hope and Sherfane Rutherford rebuild.",
-      "match": "ind-wi-t20-1",
-      "src": [
-        {
-          "t": "Outlook India – IND v WI 1st T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
-        }
-      ]
     },
     {
       "t": "18:30",
@@ -3339,22 +3296,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "06",
-      "mo": "OCT",
-      "title": "India v West Indies, 1st T20I",
-      "meta": "Cricket · Lucknow",
-      "time": "19:00",
-      "match": "ind-wi-t20-1"
-    },
-    {
-      "d": "06",
-      "mo": "OCT",
-      "title": "India v Uruguay",
-      "meta": "Football friendly · Kolkata",
-      "time": "19:30",
-      "match": "ind-uru"
-    },
     {
       "d": "08",
       "mo": "OCT",
