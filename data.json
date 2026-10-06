@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T21:09:44+05:30",
+  "lastUpdated": "2026-10-06T21:30:24+05:30",
   "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I and India v Uruguay live",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -185,18 +185,26 @@
       "a": [
         "IND",
         "India",
-        ""
+        "62/2 (6.0)"
       ],
       "b": [
         "WI",
         "West Indies",
-        "",
+        "171 (19.1)",
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "India's Shreyas Iyer wins the toss and bowls. India XI: Abhishek Sharma, Samson, Kishan, Iyer, Tilak Varma, Dube, Naman Dhir (T20I debut), Axar, Arshdeep, Kuldeep, Mayank Yadav; Vaibhav Sooryavanshi not picked. India lead the T20I head-to-head 20–10. Axar Patel struck twice in one over as West Indies lost three wickets in the powerplay.",
+      "note": "West Indies were bowled out for 171 in 19.1 overs (Shai Hope 52, Sherfane Rutherford fifty; Naman Dhir 2 wickets on T20I debut, Axar Patel 2/26). India lost Samson and another early wicket in the chase; Shreyas Iyer leads the recovery.",
       "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
+        {
+          "t": "The Tribune – Hope, Sherfane fifties take WI to 171",
+          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-fifties-from-hope-sherfane-take-west-indies-to-171-against-india-in-1st-t20i"
+        },
+        {
+          "t": "CREX – IND v WI 1st T20 live",
+          "u": "https://crex.com/cricket-live-score/ind-vs-wi-1st-t20-west-indies-tour-of-india-2026-match-updates-11AL"
+        },
         {
           "t": "India.com – IND v WI 1st T20I live",
           "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-1st-t20i-match-6-oct-ind-vs-wi-squad-players-list-shreyas-iyer-shai-hope-sanju-samson-ekana-stadium-lucknow-8533416/"
@@ -222,8 +230,13 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
-      "watch": "Star Sports / JioHotstar",
-      "status": "WI batting · 3 down in powerplay, Hope & Rutherford rebuilding"
+      "watch": [
+        "Star Sports Network",
+        "DD Sports",
+        "JioHotstar"
+      ],
+      "status": "India chasing 172 · 62/2 after 6 overs · Iyer & Kishan at the crease",
+      "scoreAt": "2026-10-06T21:30:24+05:30"
     },
     {
       "id": "ind-wi-t20-2",
@@ -342,7 +355,10 @@
         }
       ],
       "status": "1–1 · play halted by thunderstorm, resuming (last confirmed 20:24)",
-      "watch": "Sony LIV / Sony Ten"
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "ind-rus-w1",
@@ -435,9 +451,17 @@
         {
           "t": "ESPN – ISL to begin 10 October",
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Sree Kanteerava Stadium, Bengaluru"
+      "venue": "Sree Kanteerava Stadium, Bengaluru",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-goa-che",
@@ -471,9 +495,17 @@
         {
           "t": "ESPN – ISL to begin 10 October",
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Fatorda Stadium, Goa"
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-chu-mcfc",
@@ -508,9 +540,17 @@
         {
           "t": "ESPN – ISL to begin 10 October",
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Fatorda Stadium, Goa"
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-neu-mbsg",
@@ -538,7 +578,15 @@
         {
           "t": "Olympics.com – ISL 2026-27 schedule",
           "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
       ]
     },
     {
@@ -903,9 +951,17 @@
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Venue TBC"
+      "venue": "Venue TBC",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-pun-odi",
@@ -931,9 +987,17 @@
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "JLN Stadium, Delhi"
+      "venue": "JLN Stadium, Delhi",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-del-mbsg",
@@ -959,9 +1023,17 @@
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "JLN Stadium, Delhi"
+      "venue": "JLN Stadium, Delhi",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-bfc-che",
@@ -987,9 +1059,17 @@
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Sree Kanteerava Stadium, Bengaluru"
+      "venue": "Sree Kanteerava Stadium, Bengaluru",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "isl-chu-eb",
@@ -1015,9 +1095,17 @@
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Fatorda Stadium, Goa"
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
       "id": "f1-sin-sprint",
@@ -2977,6 +3065,24 @@
   ],
   "feed": [
     {
+      "t": "21:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India chase 172 against West Indies in Lucknow after Naman Dhir's two wickets on debut helped bowl WI out for 171; India 62/2 after 6 overs.",
+      "match": "ind-wi-t20-1",
+      "src": [
+        {
+          "t": "The Tribune – Hope, Sherfane fifties take WI to 171",
+          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-fifties-from-hope-sherfane-take-west-indies-to-171-against-india-in-1st-t20i"
+        },
+        {
+          "t": "CREX – IND v WI 1st T20 live",
+          "u": "https://crex.com/cricket-live-score/ind-vs-wi-1st-t20-west-indies-tour-of-india-2026-match-updates-11AL"
+        }
+      ]
+    },
+    {
       "t": "20:24",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -3180,20 +3286,6 @@
         {
           "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
           "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
-        }
-      ]
-    },
-    {
-      "t": "17:08",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Wrestling",
-      "text": "SILVER for Antim Panghal, beaten 1–9 by Japan's Moe Kiyooka in the women's 53kg final — India's 84th medal.",
-      "match": "ag-wrestling-w53-final",
-      "src": [
-        {
-          "t": "ANI – Antim Panghal secures 53kg silver (India 84 medals)",
-          "u": "https://www.aninews.in/news/sports/others/asian-games-2026-antim-panghal-secures-silver-medal-in-womens-53-kg-wrestling20261003172145/"
         }
       ]
     }
