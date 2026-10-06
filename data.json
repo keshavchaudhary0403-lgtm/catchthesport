@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T21:31:21+05:30",
+  "lastUpdated": "2026-10-06T22:04:42+05:30",
   "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I and India v Uruguay live",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -185,7 +185,7 @@
       "a": [
         "IND",
         "India",
-        "62/2 (6.0)"
+        "121/3 (12.0)"
       ],
       "b": [
         "WI",
@@ -228,6 +228,10 @@
         {
           "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
+        },
+        {
+          "t": "Outlook India – 1st T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
         }
       ],
       "watch": [
@@ -235,8 +239,8 @@
         "DD Sports",
         "JioHotstar"
       ],
-      "status": "India chasing 172 · 62/2 after 6 overs · Iyer & Kishan at the crease",
-      "scoreAt": "2026-10-06T21:30:24+05:30"
+      "status": "India need 51 off 48",
+      "scoreAt": "2026-10-06T22:04:42+05:30"
     },
     {
       "id": "ind-wi-t20-2",
@@ -3115,6 +3119,14 @@
   ],
   "feed": [
     {
+      "t": "22:04",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India 121/3 after 12 overs chasing 172 v West Indies in Lucknow; Shreyas Iyer has a fifty. Latest report found, so the match may have moved on.",
+      "match": "ind-wi-t20-1"
+    },
+    {
       "t": "21:30",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -3324,20 +3336,6 @@
       "m": "Football",
       "text": "India lose 0–4 to Brazil in Kolkata — Estêvão, Pedro and Samuel Lino (2) score in Brazil's first match on Indian soil.",
       "match": "ind-bra"
-    },
-    {
-      "t": "17:18",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Hockey",
-      "text": "GOLD! India thrash Malaysia 5–1 in the men's hockey final — Harmanpreet Singh scores twice — to defend the Asian Games title for the first time and qualify for LA 2028. India's 21st gold; they move up to 4th in the medal table.",
-      "match": "ag-hockey-m-final",
-      "src": [
-        {
-          "t": "Indian Express – India beat Malaysia 5-1 to defend hockey gold",
-          "u": "https://indianexpress.com/article/sports/india-mens-hockey-gold-asian-games-malaysia-final-defend-title-10905216/"
-        }
-      ]
     }
   ],
   "schedule": [
