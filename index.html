@@ -389,6 +389,7 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .sc-long{font-size:17px !important;white-space:nowrap}
 .wmore{color:var(--muted) !important;font-weight:500 !important}
 /* scores: live in blue, winner green, loser muted; overs/extra smaller */
+.dlg-score .sc .scv{white-space:nowrap}.dlg-score .sc .scv small{display:inline}
 .scv small{font-size:.68em;font-weight:600;color:var(--muted);margin-left:2px}
 .sc-live{color:var(--accent)}.tk .vs.tk-sc{color:var(--accent);font-weight:700;font-family:'JetBrains Mono',monospace;font-size:13px}.sc-win{color:var(--win)}.sc-lose{color:var(--muted)}.sc-draw{color:var(--text)}
 /* West Indies: no national flag — clean team tile in its colours */
@@ -839,12 +840,12 @@ const OPEN = {
   match(id) {
     const m = byId(id); if (!m) return;
     const s = state(m), c = compOf(m);
-    const rows = [['Status', s === 'live' ? 'LIVE' + (m.status ? ' · ' + m.status : '') : STLABEL[s]], ['Competition', [m.comp, m.round].filter(Boolean).join(' · ')], ['Sport', m.sport],
+    const rows = [['Status', s === 'live' ? 'LIVE' + (m.status ? ' · ' + m.status : '') + (m.scoreAt ? ' (score as of ' + hhmm(m.scoreAt) + ')' : '') : STLABEL[s]], ['Competition', [m.comp, m.round].filter(Boolean).join(' · ')], ['Sport', m.sport],
       [s === 'result' ? 'Played' : 'Starts', s === 'result' ? (m.day || whenText(m.when)) : whenText(m.when) || 'TBC'], ['Venue', m.venue || 'TBC'], ['Watch in India', watchList(m).length ? '' : 'Not confirmed yet'],
       ['Result', s === 'result' ? (m.win ? (m.win === 'a' ? m.a[1] : m.b[1]) + ' won' : 'Draw / shared') : '—']].filter((r) => r[1]);
     const related = DATA.matches.filter((x) => x.id !== m.id && x.comp === m.comp && (x.sport === m.sport)).slice(0, 6);
     openDlg(`${m.sport}${m.india ? ' · India' : ''}`, `${m.a[1]} v ${m.b[1]}`,
-      `<div class="dlg-score"><div class="sd">${badge(m.a, 56)}${esc(m.a[1])}<span class="sc">${esc(s === 'upcoming' ? '' : sc(m.a))}</span></div><div style="font-family:'Archivo',sans-serif;font-weight:900;color:var(--muted)">vs</div><div class="sd">${badge(m.b, 56)}${esc(m.b[1])}<span class="sc">${esc(s === 'upcoming' ? '' : sc(m.b))}</span></div></div>
+      `<div class="dlg-score"><div class="sd">${badge(m.a, 56)}${esc(m.a[1])}<span class="sc">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, 'a')}</span></div><div style="font-family:'Archivo',sans-serif;font-weight:900;color:var(--muted)">vs</div><div class="sd">${badge(m.b, 56)}${esc(m.b[1])}<span class="sc">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, 'b')}</span></div></div>
       ${m.note ? `<p style="margin:0;font-size:16px;line-height:1.55">${esc(m.note)}</p>` : ''}
       ${watchChips(m)}
       <dl class="dl">${rows.map((r) => `<dt>${esc(r[0])}</dt><dd>${esc(r[1])}</dd>`).join('')}</dl>
