@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-06T11:04:51+05:30",
-  "dayLabel": "Tue 6 Oct · India v West Indies T20Is begin tonight",
+  "lastUpdated": "2026-10-06T19:10:32+05:30",
+  "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I under way",
   "featured": "ind-wi-t20-1",
   "matches": [
     {
@@ -177,7 +177,7 @@
     },
     {
       "id": "ind-wi-t20-1",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -194,9 +194,13 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "First of five T20Is. Shreyas Iyer captains India; coach Gambhir has said Abhishek Sharma and Sanju Samson will keep opening, with Vaibhav Sooryavanshi on the bench for now. Naman Dhir replaces Washington Sundar in the squad. West Indies' Amir Jangoo is in the squad as cover for the injured Jewel Andrew.",
+      "note": "India's Shreyas Iyer wins the toss and bowls. India XI: Abhishek Sharma, Samson, Kishan, Iyer, Tilak Varma, Dube, Naman Dhir (T20I debut), Axar, Arshdeep, Kuldeep, Mayank Yadav; Vaibhav Sooryavanshi not picked. India lead the T20I head-to-head 20–10.",
       "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
+        {
+          "t": "Outlook India – IND v WI 1st T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
+        },
         {
           "t": "Wikipedia – West Indies in India 2026-27",
           "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
@@ -214,7 +218,8 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
-      "watch": "Star Sports / JioHotstar"
+      "watch": "Star Sports / JioHotstar",
+      "status": "India bowl first · WI batting"
     },
     {
       "id": "ind-wi-t20-2",
@@ -1294,38 +1299,38 @@
       "sport": "Tennis",
       "comp": "China Open (ATP 500, Beijing)",
       "round": "Final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "SRB",
         "Novak Djokovic",
-        ""
+        "7-6 1-0"
       ],
       "b": [
         "AUS",
         "Alex de Minaur",
-        ""
+        "Ret."
       ],
       "when": "2026-10-06T16:30:00+05:30",
       "big": true,
-      "note": "Djokovic (32-0 in Beijing before this semi) v de Minaur, who advanced when Hurkacz retired. Scheduled for 7 pm Beijing time (4:30 pm IST).",
+      "note": "Djokovic wins the first-set tiebreak; De Minaur retires with a groin injury early in the second set. Seventh Beijing title and 102nd career title for Djokovic, who is 34-0 in Beijing.",
       "src": [
         {
-          "t": "ATP Tour – Djokovic reaches Beijing final after Medvedev default",
-          "u": "https://www.atptour.com/en/news/djokovic-medvedev-beijing-2026-monday-sf"
+          "t": "Last Word on Tennis – Djokovic wins Beijing",
+          "u": "https://lastwordonsports.com/tennis/2026/10/06/djokovic-wins-beijing/"
         },
         {
-          "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
-          "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
+          "t": "ATP Tour – Djokovic wins 102nd title after De Minaur retires",
+          "u": "https://www.atptour.com/en/news/djokovic-de-minaur-beijing-2026-final"
         },
         {
-          "t": "Tennis Watcher – De Minaur reaches Beijing final",
-          "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
-        },
-        {
-          "t": "bet365 News – China Open final start time",
-          "u": "https://news.bet365.com/en-us/article/atp-500-china-open-final-novak-djokovic-vs-alex-de-minaur-start-time-how-to-watch-odds/2026100515094381797"
+          "t": "Yahoo Sports – Djokovic wins 7th Beijing title",
+          "u": "https://sports.yahoo.com/articles/novak-djokovic-wins-7th-beijing-124831271.html"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "6 Oct",
+      "recent": true,
+      "resultAt": "2026-10-06T19:10:32+05:30"
     }
   ],
   "event": {
@@ -2942,7 +2947,7 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Order of play and times TBC. Followed by the Denmark Open (Super 750) from 13 Oct.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. Main-draw order of play and times TBC. Followed by the Denmark Open (Super 750) from 13 Oct.",
       "src": [
         {
           "t": "India Sports Hub – Sindhu leads India's 20-member squad",
@@ -2951,12 +2956,48 @@
         {
           "t": "Olympics.com – Arctic Open 2026 where to watch in India",
           "u": "https://www.olympics.com/en/news/arctic-open-2026-badminton-where-watch-live-streaming-india"
+        },
+        {
+          "t": "BWF – Arctic Open 2026 results, 6 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-06"
         }
       ],
       "live": true
     }
   ],
   "feed": [
+    {
+      "t": "18:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India win the toss and bowl first in the 1st T20I v West Indies in Lucknow; Naman Dhir makes his T20I debut and Vaibhav Sooryavanshi is left out.",
+      "match": "ind-wi-t20-1",
+      "src": [
+        {
+          "t": "Outlook India – IND v WI 1st T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
+        }
+      ]
+    },
+    {
+      "t": "6 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Tennis",
+      "text": "Djokovic wins his seventh China Open title and 102nd overall after Alex de Minaur retires with a groin injury at 7-6, 1-0 in the final.",
+      "match": "chn-open-final",
+      "src": [
+        {
+          "t": "Last Word on Tennis – Djokovic wins Beijing",
+          "u": "https://lastwordonsports.com/tennis/2026/10/06/djokovic-wins-beijing/"
+        },
+        {
+          "t": "ATP Tour – Djokovic wins 102nd title after De Minaur retires",
+          "u": "https://www.atptour.com/en/news/djokovic-de-minaur-beijing-2026-final"
+        }
+      ]
+    },
     {
       "t": "20:04",
       "tag": "NEWS",
@@ -3151,36 +3192,6 @@
         {
           "t": "Business Standard – India edge past Pakistan to defend gold",
           "u": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-edge-past-pakistan-to-defend-gold-medal-in-men-s-cricket-126100300365_1.html"
-        }
-      ]
-    },
-    {
-      "t": "11:15",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Golf",
-      "text": "GOLD! Pranavi Urs wins the women's golf individual title at 15-under 265, one stroke ahead; India also take team silver (14-under) behind China — India's 18th gold.",
-      "src": [
-        {
-          "t": "Business Today – Pranavi Urs first Indian woman golfer to win Asian Games gold",
-          "u": "https://www.businesstoday.in/sports/story/asian-games-2026-pranavi-sharath-urs-becomes-first-indian-woman-golfer-to-win-gold-559298-2026-10-03"
-        },
-        {
-          "t": "Pratidin Time – Pranavi Urs golf gold by a stroke, team silver",
-          "u": "https://www.pratidintime.com/sports/pranavi-urs-womens-golf-gold-asian-games-12618843"
-        }
-      ]
-    },
-    {
-      "t": "3 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Wrestling",
-      "text": "Antim Panghal (53kg, 6–1 v China) and Aman Sehrawat (57kg, 14–8 v Tajikistan) reach Asian Games finals; Sagar Jaglan and Deepak Punia go into bronze bouts.",
-      "src": [
-        {
-          "t": "Social News XYZ – Antim, Aman reach finals",
-          "u": "https://www.socialnews.xyz/2026/10/03/asian-games-antim-aman-reach-final-sagar-deepak-set-up-bronze-medal-bouts/"
         }
       ]
     }
