@@ -94,6 +94,7 @@ Scores are free text: cricket `"406/2"` or `"245/8 (50)"`; football `"2"`; tenni
 
 - Every **live** match must carry its current score in `a[2]`/`b[2]` (cricket `"124/3 (14.2)"` for the batting side and `"Yet to bat"` or the first-innings total for the other; football `"1"`; tennis set scores) plus `status` and `scoreAt` (when you confirmed it). Update both on every run while the match is live.
 - Every **result** must carry final scores for both sides.
+- Keep `status` **short** (under ~40 characters, one idea): `"India need 110 off 84"`, `"72' · rain delay"`, `"2nd set"`. Don't repeat the score or add times in it — the page shows the score and `scoreAt` itself. Longer context goes in `note`.
 
 Status changes: when a match starts set `"st": "live"` with a `status`; when it ends set `"st": "result"`, fill both scores, `win`, `day`, `recent: true` and `resultAt` (current IST time from the shell). Keep `when` on results too. If a match has started but you can't find its score, leave it `upcoming` — the site labels it "UNDER WAY" automatically.
 
