@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-05T23:04:17+05:30",
-  "dayLabel": "Mon 5 Oct · India v West Indies T20Is from Tue",
+  "lastUpdated": "2026-10-06T08:05:02+05:30",
+  "dayLabel": "Tue 6 Oct · India v West Indies T20Is begin tonight",
   "featured": "ind-wi-t20-1",
   "matches": [
     {
@@ -194,7 +194,7 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "First of five T20Is. Shreyas Iyer captains India; coach Gambhir has said Abhishek Sharma and Sanju Samson will keep opening, with Vaibhav Sooryavanshi on the bench for now. Naman Dhir replaces Washington Sundar in the squad.",
+      "note": "First of five T20Is. Shreyas Iyer captains India; coach Gambhir has said Abhishek Sharma and Sanju Samson will keep opening, with Vaibhav Sooryavanshi on the bench for now. Naman Dhir replaces Washington Sundar in the squad. West Indies' Amir Jangoo is in the squad as cover for the injured Jewel Andrew.",
       "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
         {
@@ -2941,14 +2941,15 @@
       "id": "arctic-open",
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
-      "status": "6–11 Oct · Vantaa, Finland",
+      "status": "Live · 6–11 Oct · Vantaa, Finland",
       "note": "Followed by the Denmark Open (Super 750) from 13 Oct. Indian draws TBC.",
       "src": [
         {
           "t": "Wikipedia – 2026 BWF World Tour",
           "u": "https://en.wikipedia.org/wiki/2026_BWF_World_Tour"
         }
-      ]
+      ],
+      "live": true
     }
   ],
   "feed": [
