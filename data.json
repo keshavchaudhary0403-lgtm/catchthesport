@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-06T19:10:32+05:30",
-  "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I under way",
+  "lastUpdated": "2026-10-06T20:05:26+05:30",
+  "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I and India v Uruguay live",
   "featured": "ind-wi-t20-1",
   "matches": [
     {
@@ -194,9 +194,13 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "India's Shreyas Iyer wins the toss and bowls. India XI: Abhishek Sharma, Samson, Kishan, Iyer, Tilak Varma, Dube, Naman Dhir (T20I debut), Axar, Arshdeep, Kuldeep, Mayank Yadav; Vaibhav Sooryavanshi not picked. India lead the T20I head-to-head 20–10.",
+      "note": "India's Shreyas Iyer wins the toss and bowls. India XI: Abhishek Sharma, Samson, Kishan, Iyer, Tilak Varma, Dube, Naman Dhir (T20I debut), Axar, Arshdeep, Kuldeep, Mayank Yadav; Vaibhav Sooryavanshi not picked. India lead the T20I head-to-head 20–10. Axar Patel struck twice in one over as West Indies lost three wickets in the powerplay.",
       "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
+        {
+          "t": "India.com – IND v WI 1st T20I live",
+          "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-1st-t20i-match-6-oct-ind-vs-wi-squad-players-list-shreyas-iyer-shai-hope-sanju-samson-ekana-stadium-lucknow-8533416/"
+        },
         {
           "t": "Outlook India – IND v WI 1st T20I live",
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
@@ -219,7 +223,7 @@
         }
       ],
       "watch": "Star Sports / JioHotstar",
-      "status": "India bowl first · WI batting"
+      "status": "WI batting · 3 down in powerplay, Hope & Rutherford rebuilding"
     },
     {
       "id": "ind-wi-t20-2",
@@ -308,7 +312,7 @@
     },
     {
       "id": "ind-uru",
-      "st": "upcoming",
+      "st": "live",
       "big": true,
       "india": true,
       "sport": "Football",
@@ -317,22 +321,28 @@
       "a": [
         "IND",
         "India",
-        ""
+        "1"
       ],
       "b": [
         "URU",
         "Uruguay",
-        ""
+        "1"
       ],
       "when": "2026-10-06T19:30:00+05:30",
-      "note": "Second Kolkata friendly in four days. 7:30 pm IST per the official ticketing listing and AIFF social posts.",
+      "note": "Uruguay took the lead from a Darwin Núñez penalty (Federico Viñas fouled) around 7:43 pm IST; Anirudh Thapa equalised for India. Kolkata, 7:30 pm IST kick-off; Sony LIV.",
       "venue": "Salt Lake Stadium, Kolkata",
       "src": [
+        {
+          "t": "Outlook India – India v Uruguay live",
+          "u": "https://www.outlookindia.com/sports/football/india-vs-uruguay-football-live-score-updates-highlights"
+        },
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
-      ]
+      ],
+      "status": "1–1 · Thapa equalised after Núñez penalty",
+      "watch": "Sony LIV / Sony Ten"
     },
     {
       "id": "ind-rus-w1",
@@ -2967,6 +2977,34 @@
   ],
   "feed": [
     {
+      "t": "20:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "India 1–1 Uruguay in Kolkata: Darwin Núñez scored a penalty for Uruguay, then Anirudh Thapa equalised for the Blue Tigers.",
+      "match": "ind-uru",
+      "src": [
+        {
+          "t": "Outlook India – India v Uruguay live",
+          "u": "https://www.outlookindia.com/sports/football/india-vs-uruguay-football-live-score-updates-highlights"
+        }
+      ]
+    },
+    {
+      "t": "20:00",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "West Indies lose three wickets in the powerplay in Lucknow, two in one Axar Patel over; Shai Hope and Sherfane Rutherford rebuild.",
+      "match": "ind-wi-t20-1",
+      "src": [
+        {
+          "t": "Outlook India – IND v WI 1st T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
+        }
+      ]
+    },
+    {
       "t": "18:30",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -3160,38 +3198,6 @@
         {
           "t": "Deccan Chronicle – Deepak Punia wins bronze",
           "u": "https://www.deccanchronicle.com/sports/asian-games-2026-deepak-punia-wins-bronze-in-mens-97kg-freestyle-wrestling-1992800"
-        }
-      ]
-    },
-    {
-      "t": "15:37",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Wrestling",
-      "text": "GOLD! Aman Sehrawat beats North Korea's world champion Han Chong Song in the 57kg freestyle final after trailing 6–7 — India's 20th gold of these Games (82 medals).",
-      "match": "ag-wrestling-m57-final",
-      "src": [
-        {
-          "t": "The Tribune – Aman Sehrawat clinches 57kg gold",
-          "u": "https://www.tribuneindia.com/news/sports/aman-sehrawat-clinches-asian-games-mens-freestyle-57kg-wrestling-gold"
-        },
-        {
-          "t": "Sunday Guardian – Aman beats world champion Han Chong Song",
-          "u": "https://sundayguardianlive.com/sports/asian-games-2026-wrestling-results-live-aman-sehrawat-wins-gold-beats-world-champion-han-chong-song-in-mens-freestyle-57kg-297935/"
-        }
-      ]
-    },
-    {
-      "t": "14:05",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Cricket",
-      "text": "GOLD! India beat Pakistan by 19 runs to retain the Asian Games men's cricket title — Hasan Nawaz's 96 for Pakistan falls short of 212.",
-      "match": "ag-cricket-final",
-      "src": [
-        {
-          "t": "Business Standard – India edge past Pakistan to defend gold",
-          "u": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-edge-past-pakistan-to-defend-gold-medal-in-men-s-cricket-126100300365_1.html"
         }
       ]
     }
