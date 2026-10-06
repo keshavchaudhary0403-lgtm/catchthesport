@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T21:30:24+05:30",
+  "lastUpdated": "2026-10-06T21:31:21+05:30",
   "dayLabel": "Tue 6 Oct · India v West Indies 1st T20I and India v Uruguay live",
   "featured": "ind-wi-t20-1",
   "matches": [
@@ -612,7 +612,15 @@
         {
           "t": "Premier League – fixtures",
           "u": "https://www.premierleague.com/fixtures"
+        },
+        {
+          "t": "Khel Now – where to watch Premier League in India",
+          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
         }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
       ]
     },
     {
@@ -638,7 +646,15 @@
         {
           "t": "Premier League – fixtures",
           "u": "https://www.premierleague.com/fixtures"
+        },
+        {
+          "t": "Khel Now – where to watch Premier League in India",
+          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
         }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
       ]
     },
     {
@@ -666,7 +682,15 @@
         {
           "t": "Premier League – fixtures",
           "u": "https://www.premierleague.com/fixtures"
+        },
+        {
+          "t": "Khel Now – where to watch Premier League in India",
+          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
         }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
       ]
     },
     {
@@ -1136,7 +1160,14 @@
         {
           "t": "Formula1.com – Singapore GP 2026",
           "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
         }
+      ],
+      "watch": [
+        "FanCode"
       ]
     },
     {
@@ -1168,7 +1199,14 @@
         {
           "t": "Formula1.com – Singapore GP 2026",
           "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
         }
+      ],
+      "watch": [
+        "FanCode"
       ]
     },
     {
@@ -1188,9 +1226,9 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-09",
+      "when": "2026-10-09T20:30:00+05:30",
       "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct); start time TBC.",
-      "venue": "Rawalpindi Cricket Stadium",
+      "venue": "Rawalpindi",
       "src": [
         {
           "t": "Express Tribune – Sri Lanka set for Pakistan tour",
@@ -1199,6 +1237,10 @@
         {
           "t": "Wikipedia – International cricket in 2026–27",
           "u": "https://en.wikipedia.org/wiki/International_cricket_in_2026%E2%80%9327"
+        },
+        {
+          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
+          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
         }
       ]
     },
@@ -1219,13 +1261,17 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-11",
+      "when": "2026-10-11T20:30:00+05:30",
       "note": "2nd of three T20Is in Rawalpindi; start time TBC.",
-      "venue": "Rawalpindi Cricket Stadium",
+      "venue": "Rawalpindi",
       "src": [
         {
           "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
           "u": "https://www.thepapare.com/?p=2627584"
+        },
+        {
+          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
+          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
         }
       ]
     },
@@ -1246,13 +1292,17 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-13",
+      "when": "2026-10-13T20:30:00+05:30",
       "note": "3rd of three T20Is in Rawalpindi; start time TBC.",
-      "venue": "Rawalpindi Cricket Stadium",
+      "venue": "Rawalpindi",
       "src": [
         {
           "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
           "u": "https://www.thepapare.com/?p=2627584"
+        },
+        {
+          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
+          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
         }
       ]
     },
