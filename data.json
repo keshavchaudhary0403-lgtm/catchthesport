@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-07T19:14:36+05:30",
-  "dayLabel": "Wed 7 Oct · India lead WI 1–0; ATP Shanghai & Arctic Open on",
+  "lastUpdated": "2026-10-07T20:09:23+05:30",
+  "dayLabel": "Wed 7 Oct · India lead WI 1–0; Arctic Open & ATP Shanghai on",
   "featured": "ind-wi-t20-2",
   "matches": [
     {
@@ -1424,7 +1424,7 @@
       "status": "Live · qualifying 5–6 Oct, main draw 7–18 Oct",
       "live": true,
       "id": "shanghai",
-      "note": "ATP Masters 1000. Zverev top seed; Alcaraz, Djokovic and Medvedev in the field; Sinner withdrew with a knee injury. No Indian in the field per the preview.",
+      "note": "ATP Masters 1000. Zverev top seed; Alcaraz, Djokovic and Medvedev in the field; Sinner withdrew with a knee injury. No Indian in the field per the preview. Round of 128 under way on 7 Oct (Berrettini, Halys, Machac, Hanfmann, Kecmanovic among the winners).",
       "src": [
         {
           "t": "Tennisnerd – Guide to the 2026 ATP Shanghai Masters",
@@ -1492,7 +1492,7 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32 (IST, per BWF order of play): Prasad Garaga/Roy v He/Ren (MD) ~14:00, Prannoy v Antonsen ~14:50, Mannepalli v Johannesen ~16:00, Chouhan v Weng Hongyang ~18:30, Srikanth v Brian Yang ~22:40 — results not yet confirmed; Sindhu and Tanvi Sharma play the pre-quarter-finals next. Followed by the Denmark Open (Super 750) from 13 Oct.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Still to be confirmed: Tharun Mannepalli v Magnus Johannesen, Rounak Chouhan v Weng Hongyang, Kidambi Srikanth v Brian Yang (~22:45 IST). PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct.",
       "src": [
         {
           "t": "India Sports Hub – Sindhu leads India's 20-member squad",
@@ -1517,12 +1517,33 @@
         {
           "t": "BWF – Arctic Open 2026 daily schedule",
           "u": "https://badmintonworldtour.com/arctic-open-2026-daily-schedule-order-of-play-and-results/"
+        },
+        {
+          "t": "The Print – Prannoy out, Garaga/Roy stun fifth seeds",
+          "u": "https://theprint.in/sport/prannoy-out-krishna-pruthvi-stuns-fifth-seeds-at-arctic-open/3064356/"
+        },
+        {
+          "t": "Sunday Guardian – Arctic Open where to watch in India",
+          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-badminton-live-streaming-pv-sindhu-kidambi-srikanth-tanvi-sharma-in-action-where-to-watch-in-india-300883/"
         }
       ],
       "live": true
     }
   ],
   "feed": [
+    {
+      "t": "20:00",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Arctic Open: HS Prannoy loses 10-21 9-21 to Anders Antonsen and Isharani Baruah falls to top seed Ratchanok Intanon, but Garaga/Roy upset the fifth-seeded Chinese pair 10-21 21-18 22-20 in men's doubles. Srikanth, Mannepalli and Chouhan still to play.",
+      "src": [
+        {
+          "t": "The Print – Prannoy out, Garaga/Roy stun fifth seeds",
+          "u": "https://theprint.in/sport/prannoy-out-krishna-pruthvi-stuns-fifth-seeds-at-arctic-open/3064356/"
+        }
+      ]
+    },
     {
       "t": "11:05",
       "tag": "WIN",
@@ -1720,24 +1741,6 @@
         {
           "t": "Yahoo Sports – Asian Games Day 16",
           "u": "https://sports.yahoo.com/articles/asian-games-2026-day-16-144533482.html"
-        }
-      ]
-    },
-    {
-      "t": "3 Oct",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "West Indies win the 3rd ODI by 5 wickets, chasing 352/5 — Shai Hope 162*. India still take the series 2–1; T20Is start 6 Oct.",
-      "match": "ind-wi-odi3",
-      "src": [
-        {
-          "t": "ThePrint – Hope's 162 trumps Rahul's 129 as WI win 3rd ODI",
-          "u": "https://theprint.in/sport/hopes-masterly-162-trumps-rahuls-classy-129-as-wi-score-5-wicket-win-over-india-in-3rd-odi/3061315/"
-        },
-        {
-          "t": "Free Press Journal – Hope's 162* powers WI to consolation win",
-          "u": "https://www.freepressjournal.in/sports/ind-vs-wi-3rd-odi-shai-hopes-162-powers-west-indies-to-consolation-win-in-mullanpur-india-seal-series-2-1"
         }
       ]
     }
