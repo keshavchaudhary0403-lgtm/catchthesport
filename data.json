@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T00:09:45+05:30",
+  "lastUpdated": "2026-10-07T08:09:35+05:30",
   "dayLabel": "Wed 7 Oct · India lead WI 1–0; ATP Shanghai & Arctic Open on",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -1391,7 +1391,7 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. Main-draw order of play and times TBC. Followed by the Denmark Open (Super 750) from 13 Oct.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Later main-draw times TBC. Followed by the Denmark Open (Super 750) from 13 Oct.",
       "src": [
         {
           "t": "India Sports Hub – Sindhu leads India's 20-member squad",
@@ -1404,12 +1404,29 @@
         {
           "t": "BWF – Arctic Open 2026 results, 6 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-06"
+        },
+        {
+          "t": "Millennium Post – Arctic Open: Sindhu advances",
+          "u": "https://www.millenniumpost.in/sports/artic-open-sindhu-advances-678810"
         }
       ],
       "live": true
     }
   ],
   "feed": [
+    {
+      "t": "08:09",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Arctic Open: PV Sindhu beats Wen Yu Zhang 21-8 21-11 to reach the second round; Unnati Hooda, Ashmita Chaliha and Malvika Bansod lose in three-game/straight-game defeats.",
+      "src": [
+        {
+          "t": "Millennium Post – Arctic Open: Sindhu advances",
+          "u": "https://www.millenniumpost.in/sports/artic-open-sindhu-advances-678810"
+        }
+      ]
+    },
     {
       "t": "23:04",
       "tag": "LOSS",
