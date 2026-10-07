@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T08:36:28+05:30",
+  "lastUpdated": "2026-10-07T09:36:02+05:30",
   "dayLabel": "Wed 7 Oct · India lead WI 1–0; ATP Shanghai & Arctic Open on",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -63,7 +63,7 @@
       "a": [
         "IND",
         "India",
-        "Chased 172"
+        "172/2 (14.4)"
       ],
       "b": [
         "WI",
@@ -72,9 +72,13 @@
         "#7B1E3A"
       ],
       "when": "2026-10-06T19:00:00+05:30",
-      "note": "India won by 8 wickets after bowling West Indies out for 171 (Shai Hope 52, Sherfane Rutherford 56; Naman Dhir 3/31 on T20I debut, Axar Patel 2/26). Shreyas Iyer hit his maiden T20I century in the chase. Leads the 5-match series 1–0.",
+      "note": "India won by 8 wickets with 32 balls left after bowling West Indies out for 171 (Sherfane Rutherford 56, Shai Hope 52; Naman Dhir 3/31 on T20I debut, Axar Patel 2/26). Captain Shreyas Iyer hit a maiden T20I century, 102* off 43, with Ishan Kishan 37*. India lead the 5-match series 1–0.",
       "venue": "Ekana Cricket Stadium, Lucknow",
       "src": [
+        {
+          "t": "ESPNcricinfo – Shreyas Iyer's maiden ton hands India crushing win",
+          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-t20i-1529230/match-report"
+        },
         {
           "t": "The Tribune – Hope, Sherfane fifties take WI to 171",
           "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-fifties-from-hope-sherfane-take-west-indies-to-171-against-india-in-1st-t20i"
@@ -89,26 +93,6 @@
         },
         {
           "t": "Outlook India – IND v WI 1st T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
-        },
-        {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        },
-        {
-          "t": "NewsX – IND v WI schedule",
-          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
-        },
-        {
-          "t": "CricketTimes – Sundar replaced by Naman Dhir",
-          "u": "https://crickettimes.com/2026/10/bcci-announce-washington-sundars-replacement-for-west-indies-t20is-heres-the-updated-squad/"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        },
-        {
-          "t": "Outlook India – 1st T20I live",
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
         }
       ],
@@ -1516,6 +1500,19 @@
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Cricket",
+      "text": "India name their 16-man squad for the five-T20I tour of New Zealand (22 Oct–1 Nov, starting in Christchurch): Bhuvneshwar Kumar returns after nearly four years, Varun Chakaravarthy is back, Jasprit Bumrah is not included; Shreyas Iyer captains.",
+      "src": [
+        {
+          "t": "Olympics.com – India squad for New Zealand T20Is",
+          "u": "https://www.olympics.com/en/news/india-squad-new-zealand-t20-2026-cricket-team-bhuvneshwar-kumar-return"
+        }
+      ]
+    },
+    {
+      "t": "6 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
       "text": "Smriti Mandhana named full-time India women's captain for the three-T20I home series against Zimbabwe in Raipur (16–20 Oct); Shafali Verma is vice-captain and Harmanpreet Kaur stays in the squad.",
       "match": "indw-zimw-t20-1",
       "src": [
@@ -1551,8 +1548,14 @@
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Cricket",
-      "text": "India beat West Indies by 8 wickets in the 1st T20I in Lucknow after bowling them out for 171; Shreyas Iyer hits a maiden T20I century. India lead 1–0.",
-      "match": "ind-wi-t20-1"
+      "text": "India beat West Indies by 8 wickets in the 1st T20I in Lucknow, chasing 172/2 in 14.4 overs — Shreyas Iyer 102* off 43, his maiden T20I century; debutant Naman Dhir took 3/31.",
+      "match": "ind-wi-t20-1",
+      "src": [
+        {
+          "t": "ESPNcricinfo – Shreyas Iyer's maiden ton hands India crushing win",
+          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-t20i-1529230/match-report"
+        }
+      ]
     },
     {
       "t": "18:30",
