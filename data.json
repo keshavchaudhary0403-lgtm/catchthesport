@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T08:09:35+05:30",
+  "lastUpdated": "2026-10-07T08:36:28+05:30",
   "dayLabel": "Wed 7 Oct · India lead WI 1–0; ATP Shanghai & Arctic Open on",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -693,6 +693,87 @@
       "watch": "Star Sports / JioHotstar"
     },
     {
+      "id": "indw-zimw-t20-1",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "1st T20I",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-16T19:00:00+05:30",
+      "india": true,
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "note": "Smriti Mandhana's first series as full-time captain (Shafali Verma vice-captain); Harmanpreet Kaur stays in the squad. Zimbabwe Women's first tour of India.",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
+      "id": "indw-zimw-t20-2",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "2nd T20I",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-18T19:00:00+05:30",
+      "india": true,
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "note": "2nd of three T20Is in Raipur.",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
+      "id": "indw-zimw-t20-3",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "3rd T20I",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-20T19:00:00+05:30",
+      "india": true,
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "note": "3rd of three T20Is in Raipur.",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
       "id": "isl-kashi-kbfc",
       "st": "upcoming",
       "india": true,
@@ -1267,6 +1348,22 @@
       "comp": "International friendly"
     },
     {
+      "id": "indw-zimw",
+      "sport": "Cricket",
+      "name": "India Women v Zimbabwe Women",
+      "status": "Starts 16 Oct · Raipur",
+      "live": false,
+      "india": true,
+      "comp": "India Women v Zimbabwe Women",
+      "note": "Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
       "status": "Starts 10 Oct",
@@ -1391,7 +1488,7 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Later main-draw times TBC. Followed by the Denmark Open (Super 750) from 13 Oct.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Prannoy v Antonsen and the remaining round-of-32 ties are on Wed 7 Oct; later times TBC. Followed by the Denmark Open (Super 750) from 13 Oct.",
       "src": [
         {
           "t": "India Sports Hub – Sindhu leads India's 20-member squad",
@@ -1414,6 +1511,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "6 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Smriti Mandhana named full-time India women's captain for the three-T20I home series against Zimbabwe in Raipur (16–20 Oct); Shafali Verma is vice-captain and Harmanpreet Kaur stays in the squad.",
+      "match": "indw-zimw-t20-1",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
     {
       "t": "08:09",
       "tag": "WIN",
@@ -1599,6 +1710,14 @@
     {
       "d": "08",
       "mo": "OCT",
+      "title": "India U17 women v Syria (AFC qualifier)",
+      "meta": "Football · Malaysia",
+      "time": "13:30",
+      "match": "u17w-syr-ind"
+    },
+    {
+      "d": "08",
+      "mo": "OCT",
       "title": "India women v Russia",
       "meta": "Football friendly · Kolkata",
       "time": "TBC",
@@ -1613,12 +1732,12 @@
       "match": "ind-wi-t20-2"
     },
     {
-      "d": "10",
+      "d": "11",
       "mo": "OCT",
-      "title": "ISL opener: Bengaluru FC v Sporting Club Delhi",
-      "meta": "Football · Indian Super League",
-      "time": "17:00",
-      "match": "isl-bfc-del"
+      "title": "India U17 women v Malaysia (AFC qualifier)",
+      "meta": "Football · Malaysia",
+      "time": "18:30",
+      "match": "u17w-ind-mas"
     },
     {
       "d": "11",
@@ -1627,6 +1746,46 @@
       "meta": "Cricket · Indore",
       "time": "19:00",
       "match": "ind-wi-t20-3"
+    },
+    {
+      "d": "11",
+      "mo": "OCT",
+      "title": "India women v Russia, 2nd friendly",
+      "meta": "Football · Kolkata",
+      "time": "TBC",
+      "match": "ind-rus-w2"
+    },
+    {
+      "d": "14",
+      "mo": "OCT",
+      "title": "India v West Indies, 4th T20I",
+      "meta": "Cricket · Hyderabad",
+      "time": "19:00",
+      "match": "ind-wi-t20-4"
+    },
+    {
+      "d": "16",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 1st T20I",
+      "meta": "Cricket · Raipur",
+      "time": "19:00",
+      "match": "indw-zimw-t20-1"
+    },
+    {
+      "d": "17",
+      "mo": "OCT",
+      "title": "India v West Indies, 5th T20I",
+      "meta": "Cricket · Bengaluru",
+      "time": "19:00",
+      "match": "ind-wi-t20-5"
+    },
+    {
+      "d": "18",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 2nd T20I",
+      "meta": "Cricket · Raipur",
+      "time": "19:00",
+      "match": "indw-zimw-t20-2"
     }
   ],
   "players": [
