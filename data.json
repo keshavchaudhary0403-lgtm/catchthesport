@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T16:09:49+05:30",
+  "lastUpdated": "2026-10-07T19:14:36+05:30",
   "dayLabel": "Wed 7 Oct · India lead WI 1–0; ATP Shanghai & Arctic Open on",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -252,7 +252,7 @@
         "Russia",
         ""
       ],
-      "when": "2026-10-08",
+      "when": "2026-10-08T18:00:00+05:30",
       "src": [
         {
           "t": "Khel Now – Indian football calendar, October 2026",
@@ -261,10 +261,20 @@
         {
           "t": "ANI – India women to face Russia in Kolkata",
           "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
+        },
+        {
+          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
+          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
         }
       ],
       "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "India women's first international in Kolkata, and first match since winning the SAFF Women's Championship."
+      "note": "India women's first international in Kolkata, and first match since winning the SAFF Women's Championship.",
+      "watch": [
+        {
+          "n": "YouTube – Indian Football",
+          "u": "https://www.youtube.com/@IndianFootball"
+        }
+      ]
     },
     {
       "id": "ind-rus-w2",
@@ -283,13 +293,23 @@
         "Russia",
         ""
       ],
-      "when": "2026-10-11",
+      "when": "2026-10-11T18:00:00+05:30",
       "venue": "Kishore Bharati Krirangan, Kolkata",
       "note": "Second of two friendlies against Russia.",
       "src": [
         {
           "t": "ANI – India women to face Russia in Kolkata",
           "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
+        },
+        {
+          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
+          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
+        }
+      ],
+      "watch": [
+        {
+          "n": "YouTube – Indian Football",
+          "u": "https://www.youtube.com/@IndianFootball"
         }
       ]
     },
@@ -1736,7 +1756,7 @@
       "mo": "OCT",
       "title": "India women v Russia",
       "meta": "Football friendly · Kolkata",
-      "time": "TBC",
+      "time": "18:00",
       "match": "ind-rus-w1"
     },
     {
@@ -1768,7 +1788,7 @@
       "mo": "OCT",
       "title": "India women v Russia, 2nd friendly",
       "meta": "Football · Kolkata",
-      "time": "TBC",
+      "time": "18:00",
       "match": "ind-rus-w2"
     },
     {
