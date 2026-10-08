@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T03:05:47+05:30",
+  "lastUpdated": "2026-10-08T09:16:59+05:30",
   "dayLabel": "Thu 8 Oct · India lead WI 1–0; Arctic Open & ATP Shanghai on",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -140,7 +140,10 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
-      "watch": "Star Sports / JioHotstar"
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
     },
     {
       "id": "ind-bra",
@@ -622,7 +625,10 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
-      "watch": "Star Sports / JioHotstar"
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
     },
     {
       "id": "ind-wi-t20-4",
@@ -658,7 +664,10 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
-      "watch": "Star Sports / JioHotstar"
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
     },
     {
       "id": "ind-wi-t20-5",
@@ -694,7 +703,10 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
-      "watch": "Star Sports / JioHotstar"
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
     },
     {
       "id": "indw-zimw-t20-1",
@@ -1305,6 +1317,88 @@
       "day": "6 Oct",
       "recent": true,
       "resultAt": "2026-10-06T19:10:32+05:30"
+    },
+    {
+      "id": "arctic-sindhu-gunji",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Women's singles · R16",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "PV Sindhu",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "JPN",
+        "Riko Gunji",
+        ""
+      ],
+      "when": "2026-10-08",
+      "india": true,
+      "venue": "Vantaa, Finland",
+      "note": "Sixth seed Sindhu faces Japan's Riko Gunji on Court 1; exact start time follows earlier matches.",
+      "src": [
+        {
+          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "arctic-tanvi-intanon",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Women's singles · R16",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Tanvi Sharma",
+        ""
+      ],
+      "b": [
+        "THA",
+        "Ratchanok Intanon (1)",
+        ""
+      ],
+      "when": "2026-10-08",
+      "india": true,
+      "venue": "Vantaa, Finland",
+      "note": "Tanvi, who upset world No. 18 Chiu Pin-Chian in round one, meets top seed Intanon on Court 2; exact start time follows earlier matches.",
+      "src": [
+        {
+          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
+        }
+      ]
+    },
+    {
+      "id": "arctic-garaga-roy",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Men's doubles · R16",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Garaga/Roy",
+        ""
+      ],
+      "b": [
+        "ENG",
+        "Butler/Jones",
+        ""
+      ],
+      "when": "2026-10-08T21:40:00+05:30",
+      "india": true,
+      "venue": "Vantaa, Finland",
+      "note": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy, who upset the fifth seeds, face England's Oliver Butler/Samuel Jones; scheduled not before 19:10 local (21:40 IST).",
+      "src": [
+        {
+          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1424,11 +1518,15 @@
       "status": "Live · qualifying 5–6 Oct, main draw 7–18 Oct",
       "live": true,
       "id": "shanghai",
-      "note": "ATP Masters 1000. Zverev top seed; Alcaraz, Djokovic and Medvedev in the field; Sinner withdrew with a knee injury. No Indian in the field per the preview. Round of 128 under way on 7 Oct (Berrettini, Halys, Machac, Hanfmann, Kecmanovic among the winners).",
+      "note": "ATP Masters 1000. Zverev top seed; Alcaraz, Djokovic and Medvedev in the field; Sinner withdrew with a knee injury. No Indian in the field per the preview. Round of 128 under way on 7 Oct (Berrettini, Halys, Machac, Hanfmann, Kecmanovic among the winners). Day 1 results: Altmaier d. Rune 1-6 7-6(5) 6-4, Wu Yibing d. Zheng 6-3 7-6(6), Zhou Yi d. Bellucci 6-4 3-6 7-6(4), Fery d. Cilic 7-6(2) 6-1. Next: Zverev v Wu, Musetti v Zhou, Shelton v Altmaier, Khachanov v Fery.",
       "src": [
         {
           "t": "Tennisnerd – Guide to the 2026 ATP Shanghai Masters",
           "u": "https://www.tennisnerd.net/news/guide-to-the-2026-atp-shanghai-masters-players-prize-money-schedule/69792"
+        },
+        {
+          "t": "ATP Tour – Altmaier escapes Rune, sets Shelton showdown",
+          "u": "https://www.atptour.com/en/news/rune-altmaier-shanghai-2026-wednesday"
         }
       ]
     },
@@ -1492,7 +1590,7 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct. Thu 8 Oct last 16: Sindhu v Riko Gunji, Tanvi Sharma v Ratchanok Intanon (1), Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth does not appear on the day's order of play (Brian Yang is listed in the last 16), so he is out.",
       "src": [
         {
           "t": "India Sports Hub – Sindhu leads India's 20-member squad",
@@ -1529,12 +1627,45 @@
         {
           "t": "ThePrint – Prannoy, Mannepalli, Chouhan out; Krishna-Pruthvi stun fifth seeds",
           "u": "https://theprint.in/sport/prannoy-mannepalli-chouhan-out-krishna-pruthvi-stuns-fifth-seeds-at-arctic-open/3064816/"
+        },
+        {
+          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
         }
       ],
-      "live": true
+      "live": true,
+      "comp": "BWF Arctic Open (Super 500)"
+    },
+    {
+      "sport": "Cricket",
+      "name": "Ranji Trophy 2026-27",
+      "status": "Starts 11 Oct",
+      "live": false,
+      "id": "ranji",
+      "note": "Two-phase Ranji Trophy begins 11 October after the Duleep Trophy opened the domestic season.",
+      "src": [
+        {
+          "t": "ESPNcricinfo – Duleep Trophy to kick off Indian domestic season; Ranji from Oct 11",
+          "u": "https://africa.espn.com/cricket/story/_/id/48833167/duleep-trophy-kick-indian-domestic-season-two-phase-ranji-trophy-starts-october-11"
+        }
+      ]
     }
   ],
   "feed": [
+    {
+      "t": "09:10",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Arctic Open last 16 today: PV Sindhu v Riko Gunji, Tanvi Sharma v top seed Ratchanok Intanon, and Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth is out.",
+      "match": "arctic-sindhu-gunji",
+      "src": [
+        {
+          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
+        }
+      ]
+    },
     {
       "t": "20:00",
       "tag": "LOSS",
@@ -1734,19 +1865,6 @@
           "u": "https://www.thehansindia.com/sports/from-chaos-to-cheers-aichi-nagoya-bows-out-leaving-india-with-memories-medals-and-a-lesson-1128744"
         }
       ]
-    },
-    {
-      "t": "09:09",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Asian Games",
-      "text": "No medal events on the final day. India's closing-ceremony flag-bearer is trap shooter Neeru Dhanda (2:30 pm IST, Nagoya); India end 4th with 85 medals (21 G · 27 S · 37 B).",
-      "src": [
-        {
-          "t": "Yahoo Sports – Asian Games Day 16",
-          "u": "https://sports.yahoo.com/articles/asian-games-2026-day-16-144533482.html"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -1767,12 +1885,36 @@
       "match": "ind-rus-w1"
     },
     {
+      "d": "08",
+      "mo": "OCT",
+      "title": "Sindhu v Gunji (Arctic Open R16)",
+      "meta": "Badminton · Vantaa",
+      "time": "TBC",
+      "match": "arctic-sindhu-gunji"
+    },
+    {
+      "d": "08",
+      "mo": "OCT",
+      "title": "Tanvi Sharma v Intanon (Arctic Open R16)",
+      "meta": "Badminton · Vantaa",
+      "time": "TBC",
+      "match": "arctic-tanvi-intanon"
+    },
+    {
       "d": "09",
       "mo": "OCT",
       "title": "India v West Indies, 2nd T20I",
       "meta": "Cricket · Ranchi",
       "time": "19:00",
       "match": "ind-wi-t20-2"
+    },
+    {
+      "d": "08",
+      "mo": "OCT",
+      "title": "Garaga/Roy v Butler/Jones (Arctic Open R16)",
+      "meta": "Badminton · Vantaa",
+      "time": "21:40",
+      "match": "arctic-garaga-roy"
     },
     {
       "d": "11",
@@ -1813,22 +1955,6 @@
       "meta": "Cricket · Raipur",
       "time": "19:00",
       "match": "indw-zimw-t20-1"
-    },
-    {
-      "d": "17",
-      "mo": "OCT",
-      "title": "India v West Indies, 5th T20I",
-      "meta": "Cricket · Bengaluru",
-      "time": "19:00",
-      "match": "ind-wi-t20-5"
-    },
-    {
-      "d": "18",
-      "mo": "OCT",
-      "title": "India Women v Zimbabwe, 2nd T20I",
-      "meta": "Cricket · Raipur",
-      "time": "19:00",
-      "match": "indw-zimw-t20-2"
     }
   ],
   "players": [
