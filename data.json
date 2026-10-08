@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T18:39:39+05:30",
-  "dayLabel": "Thu 8 Oct · India women v Russia and Kolkata derby live",
+  "lastUpdated": "2026-10-08T19:36:10+05:30",
+  "dayLabel": "Thu 8 Oct · India women trail Russia; Bagan lead derby final",
   "featured": "ind-rus-w1",
   "matches": [
     {
@@ -253,7 +253,7 @@
       "b": [
         "RUS",
         "Russia",
-        "0"
+        "2"
       ],
       "when": "2026-10-08T18:00:00+05:30",
       "src": [
@@ -279,15 +279,15 @@
         }
       ],
       "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "India women's first international in Kolkata and first match since winning the SAFF Women's Championship; goalless after 20 minutes. Free stream on Indian Football YouTube, no TV telecast.",
+      "note": "India women's first international in Kolkata and first match since winning the SAFF Women's Championship. Iana Sheina put Russia ahead (40'); substitute Kira made it 2-0 (60') after Monalisha Devi parried a long-range shot from captain Smirnova in heavy rain. Free stream on Indian Football YouTube, no TV telecast.",
       "watch": [
         {
           "n": "YouTube – Indian Football",
           "u": "https://www.youtube.com/@IndianFootball"
         }
       ],
-      "status": "First half",
-      "scoreAt": "2026-10-08T18:36:00+05:30",
+      "status": "60' · second half",
+      "scoreAt": "2026-10-08T19:35:00+05:30",
       "big": true
     },
     {
@@ -305,21 +305,25 @@
       "b": [
         "MBSG",
         "Mohun Bagan SG",
-        "0",
+        "1",
         "#7A1F2B"
       ],
       "when": "2026-10-08T18:15:00+05:30",
-      "status": "First half",
-      "scoreAt": "2026-10-08T18:30:00+05:30",
+      "status": "58' · second half",
+      "scoreAt": "2026-10-08T19:31:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
       "venue": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium), Kolkata",
-      "note": "126th IFA Shield final. Mohun Bagan are holders (beat East Bengal on penalties in 2025); East Bengal won the Durand Cup final 4-1 in August.",
+      "note": "126th IFA Shield final. Samir Zeljkovic put Mohun Bagan ahead late in the first half, set up by Sahal Abdul Samad. Mohun Bagan are holders (beat East Bengal on penalties in 2025); East Bengal won the Durand Cup final 4-1 in August.",
       "watch": [
         "FanCode"
       ],
       "src": [
+        {
+          "t": "Sportstar – East Bengal v Mohun Bagan live: Zeljkovic scores",
+          "u": "https://sportstar.thehindu.com/football/indian-football/east-bengal-vs-mohun-bagan-live-score-updates-ifa-shield-final-goals-highlights-ebfc-vs-mbsg-streaming/article71559536.ece"
+        },
         {
           "t": "NDTV Sports – Mohun Bagan v East Bengal IFA Shield final: where to watch",
           "u": "https://sports.ndtv.com/football/mohun-bagan-vs-east-bengal-live-streaming-ifa-shield-final-live-telecast-when-and-where-to-watch-12156791"
@@ -1529,7 +1533,7 @@
       "when": "2026-10-09",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Sindhu's quarter-final opponent is reported as top seed Ratchanok Intanon; order of play and start time TBC.",
+      "note": "Sindhu meets top seed Ratchanok Intanon in the quarter-finals on Friday; order of play and start time TBC.",
       "src": [
         {
           "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
@@ -1813,6 +1817,20 @@
   ],
   "feed": [
     {
+      "t": "19:35",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "India women trail Russia 0–2 on the hour in Kolkata: Iana Sheina scored before half-time and substitute Kira added a second in the rain. In the IFA Shield final, Mohun Bagan lead East Bengal 1–0 through Samir Zeljkovic.",
+      "match": "ind-rus-w1",
+      "src": [
+        {
+          "t": "Outlook India – India v Russia women live",
+          "u": "https://www.outlookindia.com/sports/football/india-vs-russia-women-live-football-score-2026-updates-highlights"
+        }
+      ]
+    },
+    {
       "t": "18:30",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2003,24 +2021,6 @@
         {
           "t": "Tennis Watcher – De Minaur reaches Beijing final",
           "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
-        }
-      ]
-    },
-    {
-      "t": "19:12",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Tennis",
-      "text": "China Open semi-final: Djokovic takes the first set 6-3 against Medvedev; the winner meets De Minaur in the final. Alcaraz plays Lehecka in the Japan Open final after beating Munar 5-7 6-3 6-1.",
-      "match": "chn-open-djo-med",
-      "src": [
-        {
-          "t": "Tennis.com – Djokovic v Medvedev live",
-          "u": "https://www.tennis.com/tournaments/china-open-atp/matches/n-djokovic-vs-d-medvedev-2026-10-05"
-        },
-        {
-          "t": "Sunday Guardian – where to watch in India",
-          "u": "https://sundayguardianlive.com/sports/novak-djokovic-vs-daniil-medvedev-tennis-live-streaming-where-to-watch-china-open-2026-semifinal-in-india-usa-uk-and-worldwide-299244/"
         }
       ]
     }
