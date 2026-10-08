@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-08T19:36:10+05:30",
-  "dayLabel": "Thu 8 Oct · India women trail Russia; Bagan lead derby final",
-  "featured": "ind-rus-w1",
+  "lastUpdated": "2026-10-08T21:11:28+05:30",
+  "dayLabel": "Thu 8 Oct · Mohun Bagan win IFA Shield; India women lose 0-4 to Russia",
+  "featured": "ind-wi-t20-2",
   "matches": [
     {
       "id": "ind-wi-odi3",
@@ -240,7 +240,7 @@
     },
     {
       "id": "ind-rus-w1",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "International friendly",
@@ -253,21 +253,17 @@
       "b": [
         "RUS",
         "Russia",
-        "2"
+        "4"
       ],
       "when": "2026-10-08T18:00:00+05:30",
       "src": [
         {
-          "t": "Outlook India – India v Russia women live score",
+          "t": "AIFF – New-look India go down to Russia in Kolkata friendly",
+          "u": "https://www.the-aiff.com/article/new-look-india-go-down-to-russia-in-kolkata-friendly"
+        },
+        {
+          "t": "Outlook India – India v Russia women live",
           "u": "https://www.outlookindia.com/sports/football/india-vs-russia-women-live-football-score-2026-updates-highlights"
-        },
-        {
-          "t": "Khel Now – India v Russia live",
-          "u": "https://khelnow.com/football/indian-football-womens-international-friendly-india-vs-russia-live"
-        },
-        {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         },
         {
           "t": "ANI – India women to face Russia in Kolkata",
@@ -279,23 +275,25 @@
         }
       ],
       "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "India women's first international in Kolkata and first match since winning the SAFF Women's Championship. Iana Sheina put Russia ahead (40'); substitute Kira made it 2-0 (60') after Monalisha Devi parried a long-range shot from captain Smirnova in heavy rain. Free stream on Indian Football YouTube, no TV telecast.",
+      "note": "India women lose 0-4 in their first international in Kolkata. Iana Sheina (41') and Kira Petukhova (60', 65') scored, Iana Svistunova added a fourth (81'). Second friendly on 11 Oct. Free stream on Indian Football YouTube, no TV telecast.",
       "watch": [
         {
           "n": "YouTube – Indian Football",
           "u": "https://www.youtube.com/@IndianFootball"
         }
       ],
-      "status": "60' · second half",
-      "scoreAt": "2026-10-08T19:35:00+05:30",
-      "big": true
+      "big": true,
+      "win": "b",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T21:11:28+05:30"
     },
     {
       "id": "ifa-shield-final-eb-mbsg",
       "sport": "Football",
       "comp": "IFA Shield 2026",
       "round": "Final · Kolkata derby",
-      "st": "live",
+      "st": "result",
       "a": [
         "EBFC",
         "East Bengal FC",
@@ -309,26 +307,28 @@
         "#7A1F2B"
       ],
       "when": "2026-10-08T18:15:00+05:30",
-      "status": "58' · second half",
-      "scoreAt": "2026-10-08T19:31:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
       "venue": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium), Kolkata",
-      "note": "126th IFA Shield final. Samir Zeljkovic put Mohun Bagan ahead late in the first half, set up by Sahal Abdul Samad. Mohun Bagan are holders (beat East Bengal on penalties in 2025); East Bengal won the Durand Cup final 4-1 in August.",
+      "note": "Mohun Bagan win the 2026 IFA Shield final 1-0: Samir Zeljkovic scored on 45' from a Sahal Abdul Samad assist and the holders held on as East Bengal pushed late. East Bengal won the Durand Cup final 4-1 in August.",
       "watch": [
         "FanCode"
       ],
       "src": [
         {
-          "t": "Sportstar – East Bengal v Mohun Bagan live: Zeljkovic scores",
-          "u": "https://sportstar.thehindu.com/football/indian-football/east-bengal-vs-mohun-bagan-live-score-updates-ifa-shield-final-goals-highlights-ebfc-vs-mbsg-streaming/article71559536.ece"
+          "t": "RevSportz – Zeljkovic's strike seals IFA Shield for Mohun Bagan",
+          "u": "https://revsportz.in/zeljkovics-strike-seals-23rd-ifa-shield-for-mohun-bagan/"
         },
         {
-          "t": "NDTV Sports – Mohun Bagan v East Bengal IFA Shield final: where to watch",
-          "u": "https://sports.ndtv.com/football/mohun-bagan-vs-east-bengal-live-streaming-ifa-shield-final-live-telecast-when-and-where-to-watch-12156791"
+          "t": "Outlook India – Mohun Bagan 1-0 East Bengal, IFA Shield 2026 final",
+          "u": "https://www.outlookindia.com/sports/football/mohun-bagan-vs-east-bengal-live-score-ifa-shield-2026-updates-highlights"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T21:11:28+05:30"
     },
     {
       "id": "ind-rus-w2",
@@ -1817,30 +1817,30 @@
   ],
   "feed": [
     {
-      "t": "19:35",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "20:35",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Football",
-      "text": "India women trail Russia 0–2 on the hour in Kolkata: Iana Sheina scored before half-time and substitute Kira added a second in the rain. In the IFA Shield final, Mohun Bagan lead East Bengal 1–0 through Samir Zeljkovic.",
-      "match": "ind-rus-w1",
+      "text": "Mohun Bagan beat East Bengal 1–0 in the IFA Shield final at Salt Lake: Samir Zeljkovic scored on 45' from a Sahal Abdul Samad assist.",
+      "match": "ifa-shield-final-eb-mbsg",
       "src": [
         {
-          "t": "Outlook India – India v Russia women live",
-          "u": "https://www.outlookindia.com/sports/football/india-vs-russia-women-live-football-score-2026-updates-highlights"
+          "t": "RevSportz – Zeljkovic's strike seals IFA Shield for Mohun Bagan",
+          "u": "https://revsportz.in/zeljkovics-strike-seals-23rd-ifa-shield-for-mohun-bagan/"
         }
       ]
     },
     {
-      "t": "18:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "19:55",
+      "tag": "LOSS",
+      "c": "var(--accent)",
       "m": "Football",
-      "text": "Kolkata derby under way in the IFA Shield final at Salt Lake: East Bengal 0–0 Mohun Bagan early on (FanCode). Across town, India women are 0–0 with Russia after 20 minutes at Kishore Bharati.",
-      "match": "ifa-shield-final-eb-mbsg",
+      "text": "India women lose 0–4 to Russia in Kolkata: Iana Sheina scored at 41', Kira Petukhova twice (60', 65') and Iana Svistunova at 81'. The teams meet again on 11 Oct.",
+      "match": "ind-rus-w1",
       "src": [
         {
-          "t": "NDTV Sports – Mohun Bagan v East Bengal IFA Shield final: where to watch",
-          "u": "https://sports.ndtv.com/football/mohun-bagan-vs-east-bengal-live-streaming-ifa-shield-final-live-telecast-when-and-where-to-watch-12156791"
+          "t": "AIFF – New-look India go down to Russia in Kolkata friendly",
+          "u": "https://www.the-aiff.com/article/new-look-india-go-down-to-russia-in-kolkata-friendly"
         }
       ]
     },
@@ -2026,14 +2026,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "08",
-      "mo": "OCT",
-      "title": "India women v Russia",
-      "meta": "Football friendly · Kolkata",
-      "time": "18:00",
-      "match": "ind-rus-w1"
-    },
     {
       "d": "08",
       "mo": "OCT",
