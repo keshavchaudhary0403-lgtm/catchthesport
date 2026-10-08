@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T21:11:28+05:30",
+  "lastUpdated": "2026-10-08T21:37:09+05:30",
   "dayLabel": "Thu 8 Oct · Mohun Bagan win IFA Shield; India women lose 0-4 to Russia",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -1492,10 +1492,10 @@
         "Butler/Jones",
         ""
       ],
-      "when": "2026-10-08T21:40:00+05:30",
+      "when": "2026-10-08T22:50:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy, who upset the fifth seeds, face England's Oliver Butler/Samuel Jones; scheduled not before 19:10 local (21:40 IST).",
+      "note": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy, who upset the fifth seeds, face England's Oliver Butler/Samuel Jones on Court 1; pushed back to not before 20:20 local (22:50 IST).",
       "src": [
         {
           "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
@@ -1801,6 +1801,21 @@
       "comp": "BWF Arctic Open (Super 500)"
     },
     {
+      "id": "nat-open-athletics",
+      "sport": "Athletics",
+      "name": "65th National Open Athletics Championships",
+      "status": "Live · 8–11 Oct · New Delhi",
+      "live": true,
+      "india": true,
+      "note": "Four-day national championships at JLN Stadium, New Delhi; streamed on the Athletics Federation of India YouTube channel.",
+      "src": [
+        {
+          "t": "Wikipedia – Indian National Open Athletics Championships",
+          "u": "https://en.wikipedia.org/wiki/Indian_National_Open_Athletics_Championships"
+        }
+      ]
+    },
+    {
       "sport": "Cricket",
       "name": "Ranji Trophy 2026-27",
       "status": "Starts 11 Oct",
@@ -2031,7 +2046,7 @@
       "mo": "OCT",
       "title": "Garaga/Roy v Butler/Jones (Arctic Open R16)",
       "meta": "Badminton · Vantaa",
-      "time": "21:40",
+      "time": "22:50",
       "match": "arctic-garaga-roy"
     },
     {
