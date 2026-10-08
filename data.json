@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T21:37:09+05:30",
+  "lastUpdated": "2026-10-09T03:10:15+05:30",
   "dayLabel": "Thu 8 Oct · Mohun Bagan win IFA Shield; India women lose 0-4 to Russia",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -1559,6 +1559,42 @@
         }
       ],
       "big": true
+    },
+    {
+      "id": "arctic-tharun-popov",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Men's singles · R16",
+      "st": "result",
+      "a": [
+        "IND",
+        "Tharun Mannepalli",
+        "14-21 19-21"
+      ],
+      "b": [
+        "FRA",
+        "Christo Popov",
+        "21-14 21-19"
+      ],
+      "when": "2026-10-08",
+      "win": "b",
+      "day": "8 Oct",
+      "india": true,
+      "venue": "Vantaa, Finland",
+      "note": "Popov ends Tharun Mannepalli's run in straight games.",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        }
+      ],
+      "resultAt": "2026-10-09T03:10:15+05:30"
     }
   ],
   "competitions": [
@@ -1832,6 +1868,20 @@
   ],
   "feed": [
     {
+      "t": "8 Oct",
+      "tag": "LOSS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Arctic Open: Tharun Mannepalli loses 14-21 19-21 to France's Christo Popov in the last 16. Garaga/Roy play Butler/Jones for a quarter-final spot; Sindhu meets Intanon in the QF.",
+      "match": "arctic-tharun-popov",
+      "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        }
+      ]
+    },
+    {
       "t": "20:35",
       "tag": "WIN",
       "c": "var(--win)",
@@ -2018,24 +2068,6 @@
         {
           "t": "ATP Tour – Djokovic wins 102nd title after De Minaur retires",
           "u": "https://www.atptour.com/en/news/djokovic-de-minaur-beijing-2026-final"
-        }
-      ]
-    },
-    {
-      "t": "20:04",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Tennis",
-      "text": "Medvedev is disqualified from the China Open semi-final while trailing Djokovic 7-5, 5-3 after a ball hit into a spectator's face. Djokovic reaches his seventh Beijing final, against Alex de Minaur.",
-      "match": "chn-open-djo-med",
-      "src": [
-        {
-          "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
-          "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
-        },
-        {
-          "t": "Tennis Watcher – De Minaur reaches Beijing final",
-          "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
         }
       ]
     }
