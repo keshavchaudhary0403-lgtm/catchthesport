@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-08T16:10:34+05:30",
-  "dayLabel": "Thu 8 Oct · India lead WI 1–0; Arctic Open & ATP Shanghai on",
-  "featured": "ind-wi-t20-2",
+  "lastUpdated": "2026-10-08T17:10:14+05:30",
+  "dayLabel": "Thu 8 Oct · Sindhu into Arctic Open QFs; India women v Russia tonight",
+  "featured": "ind-rus-w1",
   "matches": [
     {
       "id": "ind-wi-odi3",
@@ -1323,23 +1323,27 @@
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
       "round": "Women's singles · R16",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "PV Sindhu",
-        "",
+        "21-15 21-15",
         "#E4572E"
       ],
       "b": [
         "JPN",
         "Riko Gunji",
-        ""
+        "15-21 15-21"
       ],
       "when": "2026-10-08T15:10:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Sixth seed Sindhu faces Japan's Riko Gunji on Court 1; exact start time follows earlier matches.",
+      "note": "Sixth seed Sindhu beat Japan's Riko Gunji in 34 minutes to reach the quarter-finals.",
       "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        },
         {
           "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
@@ -1358,29 +1362,37 @@
           "n": "YouTube – BWF TV",
           "u": "https://www.youtube.com/@BWFTV"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T17:10:14+05:30"
     },
     {
       "id": "arctic-tanvi-intanon",
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
       "round": "Women's singles · R16",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Tanvi Sharma",
-        ""
+        "18-21 7-21"
       ],
       "b": [
         "THA",
         "Ratchanok Intanon (1)",
-        ""
+        "21-18 21-7"
       ],
       "when": "2026-10-08T16:05:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Tanvi, who upset world No. 18 Chiu Pin-Chian in round one, meets top seed Intanon on Court 2; exact start time follows earlier matches.",
+      "note": "Tanvi, who upset world No. 18 Chiu Pin-Chian in round one, took the first game but lost to top seed Intanon.",
       "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        },
         {
           "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
@@ -1399,7 +1411,11 @@
           "n": "YouTube – BWF TV",
           "u": "https://www.youtube.com/@BWFTV"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T17:10:14+05:30"
     },
     {
       "id": "arctic-garaga-roy",
@@ -1437,6 +1453,53 @@
           "u": "https://www.youtube.com/@BWFTV"
         }
       ]
+    },
+    {
+      "id": "arctic-sindhu-qf",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Women's singles · QF",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "PV Sindhu",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "THA",
+        "Ratchanok Intanon (1)",
+        ""
+      ],
+      "when": "2026-10-09",
+      "india": true,
+      "venue": "Vantaa, Finland",
+      "note": "Sindhu's quarter-final opponent is reported as top seed Ratchanok Intanon; order of play and start time TBC.",
+      "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        },
+        {
+          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
+        },
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 where to watch",
+          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-badminton-live-streaming-pv-sindhu-kidambi-srikanth-tanvi-sharma-in-action-where-to-watch-in-india-300883/"
+        },
+        {
+          "t": "Sunday Guardian – Arctic Open live streaming, women's singles R16",
+          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-live-streaming-pv-sindhu-tanvi-sharma-in-action-today-check-start-time-where-to-watch-womens-singles-round-of-16-badminton-matches-301278/"
+        }
+      ],
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "big": true
     }
   ],
   "competitions": [
@@ -1628,8 +1691,12 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct. Thu 8 Oct last 16: Sindhu v Riko Gunji, Tanvi Sharma v Ratchanok Intanon (1), Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth does not appear on the day's order of play (Brian Yang is listed in the last 16), so he is out.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct. Thu 8 Oct last 16: Sindhu v Riko Gunji, Tanvi Sharma v Ratchanok Intanon (1), Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth does not appear on the day's order of play (Brian Yang is listed in the last 16), so he is out. Thu 8 Oct last 16: PV Sindhu beat Riko Gunji 21-15 21-15 to reach the QFs (reported opponent: Intanon); Tanvi Sharma lost 18-21 7-21 to Intanon; Tharun Mannepalli lost 14-21 19-21 to Christo Popov (2). Garaga/Roy v Butler/Jones result awaited.",
       "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        },
         {
           "t": "India Sports Hub – Sindhu leads India's 20-member squad",
           "u": "https://www.indiasportshub.com/articles/arctic-open-2026-pv-sindhu-leads-india-s-20-member-squad-in-finland"
@@ -1690,6 +1757,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "16:40",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Arctic Open: PV Sindhu beats Riko Gunji 21-15 21-15 to reach the quarter-finals. Tanvi Sharma loses 18-21 7-21 to top seed Ratchanok Intanon and Tharun Mannepalli goes down 14-21 19-21 to Christo Popov.",
+      "match": "arctic-sindhu-gunji",
+      "src": [
+        {
+          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
+        }
+      ]
+    },
     {
       "t": "09:10",
       "tag": "NEWS",
@@ -1886,23 +1967,6 @@
           "u": "https://www.outlookindia.com/sports/others/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count-aichi-nagoya"
         }
       ]
-    },
-    {
-      "t": "14:30",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Asian Games",
-      "text": "Aichi-Nagoya Asian Games close at Mizuho Park Stadium; Neeru Dhanda carries India's flag and the Asian Games flag passes to Doha for 2030. India finish 4th with 85 medals.",
-      "src": [
-        {
-          "t": "The Daily Jagran – Neeru Dhanda carries flag at closing ceremony",
-          "u": "https://www.thedailyjagran.com/sports/watch-neeru-dhanda-carries-indian-flag-at-closing-ceremony-as-asian-games-2026-come-to-a-close-10331511"
-        },
-        {
-          "t": "The Hans India – Aichi-Nagoya bows out",
-          "u": "https://www.thehansindia.com/sports/from-chaos-to-cheers-aichi-nagoya-bows-out-leaving-india-with-memories-medals-and-a-lesson-1128744"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -1923,28 +1987,20 @@
       "match": "ind-rus-w1"
     },
     {
-      "d": "08",
-      "mo": "OCT",
-      "title": "Sindhu v Gunji (Arctic Open R16)",
-      "meta": "Badminton · Vantaa",
-      "time": "15:10",
-      "match": "arctic-sindhu-gunji"
-    },
-    {
-      "d": "08",
-      "mo": "OCT",
-      "title": "Tanvi Sharma v Intanon (Arctic Open R16)",
-      "meta": "Badminton · Vantaa",
-      "time": "16:05",
-      "match": "arctic-tanvi-intanon"
-    },
-    {
       "d": "09",
       "mo": "OCT",
       "title": "India v West Indies, 2nd T20I",
       "meta": "Cricket · Ranchi",
       "time": "19:00",
       "match": "ind-wi-t20-2"
+    },
+    {
+      "d": "09",
+      "mo": "OCT",
+      "title": "Sindhu v Intanon (Arctic Open QF)",
+      "meta": "Badminton · Vantaa",
+      "time": "TBC",
+      "match": "arctic-sindhu-qf"
     },
     {
       "d": "08",
