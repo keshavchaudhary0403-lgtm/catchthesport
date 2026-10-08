@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T18:02:58+05:30",
-  "dayLabel": "Thu 8 Oct · U17 women beat Syria; India women v Russia tonight",
+  "lastUpdated": "2026-10-08T18:39:39+05:30",
+  "dayLabel": "Thu 8 Oct · India women v Russia and Kolkata derby live",
   "featured": "ind-rus-w1",
   "matches": [
     {
@@ -240,7 +240,7 @@
     },
     {
       "id": "ind-rus-w1",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "International friendly",
@@ -248,15 +248,23 @@
       "a": [
         "IND",
         "India",
-        ""
+        "0"
       ],
       "b": [
         "RUS",
         "Russia",
-        ""
+        "0"
       ],
       "when": "2026-10-08T18:00:00+05:30",
       "src": [
+        {
+          "t": "Outlook India – India v Russia women live score",
+          "u": "https://www.outlookindia.com/sports/football/india-vs-russia-women-live-football-score-2026-updates-highlights"
+        },
+        {
+          "t": "Khel Now – India v Russia live",
+          "u": "https://khelnow.com/football/indian-football-womens-international-friendly-india-vs-russia-live"
+        },
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
@@ -271,11 +279,50 @@
         }
       ],
       "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "India women's first international in Kolkata, and first match since winning the SAFF Women's Championship.",
+      "note": "India women's first international in Kolkata and first match since winning the SAFF Women's Championship; goalless after 20 minutes. Free stream on Indian Football YouTube, no TV telecast.",
       "watch": [
         {
           "n": "YouTube – Indian Football",
           "u": "https://www.youtube.com/@IndianFootball"
+        }
+      ],
+      "status": "First half",
+      "scoreAt": "2026-10-08T18:36:00+05:30",
+      "big": true
+    },
+    {
+      "id": "ifa-shield-final-eb-mbsg",
+      "sport": "Football",
+      "comp": "IFA Shield 2026",
+      "round": "Final · Kolkata derby",
+      "st": "live",
+      "a": [
+        "EBFC",
+        "East Bengal FC",
+        "0",
+        "#C8102E"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "0",
+        "#7A1F2B"
+      ],
+      "when": "2026-10-08T18:15:00+05:30",
+      "status": "First half",
+      "scoreAt": "2026-10-08T18:30:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium), Kolkata",
+      "note": "126th IFA Shield final. Mohun Bagan are holders (beat East Bengal on penalties in 2025); East Bengal won the Durand Cup final 4-1 in August.",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "NDTV Sports – Mohun Bagan v East Bengal IFA Shield final: where to watch",
+          "u": "https://sports.ndtv.com/football/mohun-bagan-vs-east-bengal-live-streaming-ifa-shield-final-live-telecast-when-and-where-to-watch-12156791"
         }
       ]
     },
@@ -1766,6 +1813,20 @@
   ],
   "feed": [
     {
+      "t": "18:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "Kolkata derby under way in the IFA Shield final at Salt Lake: East Bengal 0–0 Mohun Bagan early on (FanCode). Across town, India women are 0–0 with Russia after 20 minutes at Kishore Bharati.",
+      "match": "ifa-shield-final-eb-mbsg",
+      "src": [
+        {
+          "t": "NDTV Sports – Mohun Bagan v East Bengal IFA Shield final: where to watch",
+          "u": "https://sports.ndtv.com/football/mohun-bagan-vs-east-bengal-live-streaming-ifa-shield-final-live-telecast-when-and-where-to-watch-12156791"
+        }
+      ]
+    },
+    {
       "t": "8 Oct",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1960,20 +2021,6 @@
         {
           "t": "Sunday Guardian – where to watch in India",
           "u": "https://sundayguardianlive.com/sports/novak-djokovic-vs-daniil-medvedev-tennis-live-streaming-where-to-watch-china-open-2026-semifinal-in-india-usa-uk-and-worldwide-299244/"
-        }
-      ]
-    },
-    {
-      "t": "18:05",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "India U17 women beat Iraq 14–0 in their AFC U17 Women's Asian Cup qualifier opener in Malaysia — Anushka Kumari scores five.",
-      "match": "u17w-ind-irq",
-      "src": [
-        {
-          "t": "Sunday Guardian – India U17 beat Iraq 14-0",
-          "u": "https://sundayguardianlive.com/uncategorized/india-women-vs-iraq-women-result-india-u17-beat-iraq-14-0-in-asian-cup-2027-qualifier-check-goal-scorers-299304/"
         }
       ]
     }
