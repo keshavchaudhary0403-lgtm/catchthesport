@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T11:09:24+05:30",
+  "lastUpdated": "2026-10-08T16:10:34+05:30",
   "dayLabel": "Thu 8 Oct · India lead WI 1–0; Arctic Open & ATP Shanghai on",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -1335,7 +1335,7 @@
         "Riko Gunji",
         ""
       ],
-      "when": "2026-10-08",
+      "when": "2026-10-08T15:10:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
       "note": "Sixth seed Sindhu faces Japan's Riko Gunji on Court 1; exact start time follows earlier matches.",
@@ -1347,10 +1347,13 @@
         {
           "t": "Sunday Guardian – Arctic Open 2026 where to watch",
           "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-badminton-live-streaming-pv-sindhu-kidambi-srikanth-tanvi-sharma-in-action-where-to-watch-in-india-300883/"
+        },
+        {
+          "t": "Sunday Guardian – Arctic Open live streaming, women's singles R16",
+          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-live-streaming-pv-sindhu-tanvi-sharma-in-action-today-check-start-time-where-to-watch-womens-singles-round-of-16-badminton-matches-301278/"
         }
       ],
       "watch": [
-        "FanCode",
         {
           "n": "YouTube – BWF TV",
           "u": "https://www.youtube.com/@BWFTV"
@@ -1373,7 +1376,7 @@
         "Ratchanok Intanon (1)",
         ""
       ],
-      "when": "2026-10-08",
+      "when": "2026-10-08T16:05:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
       "note": "Tanvi, who upset world No. 18 Chiu Pin-Chian in round one, meets top seed Intanon on Court 2; exact start time follows earlier matches.",
@@ -1385,10 +1388,13 @@
         {
           "t": "Sunday Guardian – Arctic Open 2026 where to watch",
           "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-badminton-live-streaming-pv-sindhu-kidambi-srikanth-tanvi-sharma-in-action-where-to-watch-in-india-300883/"
+        },
+        {
+          "t": "Sunday Guardian – Arctic Open live streaming, women's singles R16",
+          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-live-streaming-pv-sindhu-tanvi-sharma-in-action-today-check-start-time-where-to-watch-womens-singles-round-of-16-badminton-matches-301278/"
         }
       ],
       "watch": [
-        "FanCode",
         {
           "n": "YouTube – BWF TV",
           "u": "https://www.youtube.com/@BWFTV"
@@ -1426,7 +1432,6 @@
         }
       ],
       "watch": [
-        "FanCode",
         {
           "n": "YouTube – BWF TV",
           "u": "https://www.youtube.com/@BWFTV"
@@ -1922,7 +1927,7 @@
       "mo": "OCT",
       "title": "Sindhu v Gunji (Arctic Open R16)",
       "meta": "Badminton · Vantaa",
-      "time": "TBC",
+      "time": "15:10",
       "match": "arctic-sindhu-gunji"
     },
     {
@@ -1930,7 +1935,7 @@
       "mo": "OCT",
       "title": "Tanvi Sharma v Intanon (Arctic Open R16)",
       "meta": "Badminton · Vantaa",
-      "time": "TBC",
+      "time": "16:05",
       "match": "arctic-tanvi-intanon"
     },
     {
