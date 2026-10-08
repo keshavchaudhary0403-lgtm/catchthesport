@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T17:10:14+05:30",
-  "dayLabel": "Thu 8 Oct · Sindhu into Arctic Open QFs; India women v Russia tonight",
+  "lastUpdated": "2026-10-08T18:02:58+05:30",
+  "dayLabel": "Thu 8 Oct · U17 women beat Syria; India women v Russia tonight",
   "featured": "ind-rus-w1",
   "matches": [
     {
@@ -1188,22 +1188,26 @@
       "sport": "Football",
       "comp": "AFC U17 Women's Asian Cup qualifiers",
       "round": "Group E · Matchday 2",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "SYR",
         "Syria",
-        ""
+        "0"
       ],
       "b": [
         "IND",
         "India U17 women",
-        ""
+        "2"
       ],
       "when": "2026-10-08T13:30:00+05:30",
       "india": true,
       "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "Group E, Matchday 2.",
+      "note": "Anushka Kumari scored both goals (5', 55') as India made it two wins from two in Group E. Hosts Malaysia are next on 11 Oct.",
       "src": [
+        {
+          "t": "Football India – Syria 0-2 India (U17 women)",
+          "u": "https://footballin.in/event/syria-vs-india-2/"
+        },
         {
           "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
           "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
@@ -1212,7 +1216,11 @@
           "t": "Khel Now – India U17 women squad",
           "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T18:02:58+05:30"
     },
     {
       "id": "u17w-ind-mas",
@@ -1233,7 +1241,7 @@
       "when": "2026-10-11T18:30:00+05:30",
       "india": true,
       "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "Group E, Matchday 3 against the hosts.",
+      "note": "Group E, Matchday 3 against the hosts — only the group winner qualifies for the 2027 Asian Cup.",
       "src": [
         {
           "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
@@ -1758,6 +1766,20 @@
   ],
   "feed": [
     {
+      "t": "8 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "India U17 women beat Syria 2–0 in Malaysia — Anushka Kumari scores in the 5th and 55th minutes — for a second straight win in AFC U17 Women's Asian Cup qualifying. Hosts Malaysia next on 11 Oct.",
+      "match": "u17w-syr-ind",
+      "src": [
+        {
+          "t": "Football India – Syria 0-2 India (U17 women)",
+          "u": "https://footballin.in/event/syria-vs-india-2/"
+        }
+      ]
+    },
+    {
       "t": "16:40",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1954,30 +1976,9 @@
           "u": "https://sundayguardianlive.com/uncategorized/india-women-vs-iraq-women-result-india-u17-beat-iraq-14-0-in-asian-cup-2027-qualifier-check-goal-scorers-299304/"
         }
       ]
-    },
-    {
-      "t": "15:04",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Asian Games",
-      "text": "Final medal table: India finish 4th with 85 medals (21 G · 27 S · 37 B), level on golds with Uzbekistan but ahead on silvers. China top with 169 golds, then Japan (83) and South Korea (39).",
-      "src": [
-        {
-          "t": "Outlook India – India final medal tally",
-          "u": "https://www.outlookindia.com/sports/others/india-final-medal-tally-asian-games-2026-fourth-place-standings-gold-silver-bronze-count-aichi-nagoya"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "08",
-      "mo": "OCT",
-      "title": "India U17 women v Syria (AFC qualifier)",
-      "meta": "Football · Malaysia",
-      "time": "13:30",
-      "match": "u17w-syr-ind"
-    },
     {
       "d": "08",
       "mo": "OCT",
@@ -1985,6 +1986,14 @@
       "meta": "Football friendly · Kolkata",
       "time": "18:00",
       "match": "ind-rus-w1"
+    },
+    {
+      "d": "08",
+      "mo": "OCT",
+      "title": "Garaga/Roy v Butler/Jones (Arctic Open R16)",
+      "meta": "Badminton · Vantaa",
+      "time": "21:40",
+      "match": "arctic-garaga-roy"
     },
     {
       "d": "09",
@@ -2003,12 +2012,12 @@
       "match": "arctic-sindhu-qf"
     },
     {
-      "d": "08",
+      "d": "11",
       "mo": "OCT",
-      "title": "Garaga/Roy v Butler/Jones (Arctic Open R16)",
-      "meta": "Badminton · Vantaa",
-      "time": "21:40",
-      "match": "arctic-garaga-roy"
+      "title": "India women v Russia, 2nd friendly",
+      "meta": "Football · Kolkata",
+      "time": "18:00",
+      "match": "ind-rus-w2"
     },
     {
       "d": "11",
@@ -2025,14 +2034,6 @@
       "meta": "Cricket · Indore",
       "time": "19:00",
       "match": "ind-wi-t20-3"
-    },
-    {
-      "d": "11",
-      "mo": "OCT",
-      "title": "India women v Russia, 2nd friendly",
-      "meta": "Football · Kolkata",
-      "time": "18:00",
-      "match": "ind-rus-w2"
     },
     {
       "d": "14",
