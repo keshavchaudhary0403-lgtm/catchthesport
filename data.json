@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T03:10:15+05:30",
-  "dayLabel": "Thu 8 Oct · Mohun Bagan win IFA Shield; India women lose 0-4 to Russia",
+  "lastUpdated": "2026-10-09T05:05:52+05:30",
+  "dayLabel": "Fri 9 Oct · India v WI 2nd T20I tonight; Sindhu in Arctic Open QF",
   "featured": "ind-wi-t20-2",
   "matches": [
     {
@@ -1115,8 +1115,8 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-09T20:30:00+05:30",
-      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct); start time TBC.",
+      "when": "2026-10-09T20:00:00+05:30",
+      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct); starts 19:30 local (20:00 IST) per Wisden match page.",
       "venue": "Rawalpindi",
       "src": [
         {
@@ -1495,7 +1495,7 @@
       "when": "2026-10-08T22:50:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy, who upset the fifth seeds, face England's Oliver Butler/Samuel Jones on Court 1; pushed back to not before 20:20 local (22:50 IST).",
+      "note": "Garaga/Roy, who upset the fifth seeds, were due to face England's Oliver Butler/Samuel Jones late on Thu 8 Oct (22:50 IST); result not yet published.",
       "src": [
         {
           "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
@@ -2073,14 +2073,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "08",
-      "mo": "OCT",
-      "title": "Garaga/Roy v Butler/Jones (Arctic Open R16)",
-      "meta": "Badminton · Vantaa",
-      "time": "22:50",
-      "match": "arctic-garaga-roy"
-    },
     {
       "d": "09",
       "mo": "OCT",
