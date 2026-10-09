@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T23:05:41+05:30",
+  "lastUpdated": "2026-10-10T01:10:00+05:30",
   "dayLabel": "Fri 9 Oct · WI win 2nd T20I, series 1–1; Pakistan lead SL 1–0",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -1693,37 +1693,35 @@
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
       "round": "Men's doubles · QF",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Garaga/Roy",
-        ""
+        "13-21 14-21"
       ],
       "b": [
         "DEN",
         "Kjær/Kjær",
-        ""
+        "21-13 21-14"
       ],
       "when": "2026-10-09T21:20:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Garaga/Roy meet Denmark's Christian Faust Kjær/Rasmus Kjær in the quarter-finals; scheduled around 21:20 IST (result not yet confirmed).",
+      "note": "Garaga/Roy lost 13-21, 14-21 to Denmark's Christian Faust Kjær/Rasmus Kjær in the quarter-finals; India's Arctic Open campaign is over.",
       "src": [
+        {
+          "t": "Telangana Today – Sindhu loses to Intanon in Arctic Open QF",
+          "u": "https://telanganatoday.com/p-v-sindhu-loses-to-ratchanok-intanon-in-arctic-open-quarterfinals"
+        },
         {
           "t": "BWF – Arctic Open 2026 results, 9 Oct",
           "u": "https://badmintonworldtour.com/arctic-open-2026-daily-schedule-order-of-play-and-results"
-        },
-        {
-          "t": "Sportscape – Sindhu, Krishna-Pruthvi advance to Arctic Open QFs",
-          "u": "https://www.sportscapemagazine.com/blog/pv-sindhu-arctic-open-2026-quarterfinals-krishna-pruthvi-badminton-india"
         }
       ],
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ]
+      "win": "b",
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T01:10:00+05:30"
     }
   ],
   "competitions": [
@@ -1915,7 +1913,7 @@
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
       "status": "Live · 6–11 Oct · Vantaa, Finland",
-      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct. Thu 8 Oct last 16: Sindhu v Riko Gunji, Tanvi Sharma v Ratchanok Intanon (1), Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth does not appear on the day's order of play (Brian Yang is listed in the last 16), so he is out. Thu 8 Oct last 16: PV Sindhu beat Riko Gunji 21-15 21-15 to reach the QFs (reported opponent: Intanon); Tanvi Sharma lost 18-21 7-21 to Intanon; Tharun Mannepalli lost 14-21 19-21 to Christo Popov (2). Garaga/Roy v Butler/Jones result awaited.",
+      "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct. Thu 8 Oct last 16: Sindhu v Riko Gunji, Tanvi Sharma v Ratchanok Intanon (1), Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth does not appear on the day's order of play (Brian Yang is listed in the last 16), so he is out. Thu 8 Oct last 16: PV Sindhu beat Riko Gunji 21-15 21-15 to reach the QFs (reported opponent: Intanon); Tanvi Sharma lost 18-21 7-21 to Intanon; Tharun Mannepalli lost 14-21 19-21 to Christo Popov (2). Garaga/Roy v Butler/Jones result awaited. Update: all Indians are out after Garaga/Roy lost the men's doubles QF 13-21, 14-21 to Kjær/Kjær.",
       "src": [
         {
           "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
@@ -1996,6 +1994,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "Late 9 Oct",
+      "tag": "LOSS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Garaga/Roy lose 13-21, 14-21 to Denmark's Kjær/Kjær in the Arctic Open men's doubles quarter-finals, ending India's run in Vantaa.",
+      "match": "arctic-garaga-kjaer",
+      "src": [
+        {
+          "t": "Telangana Today – Sindhu loses to Intanon in Arctic Open QF",
+          "u": "https://telanganatoday.com/p-v-sindhu-loses-to-ratchanok-intanon-in-arctic-open-quarterfinals"
+        }
+      ]
+    },
     {
       "t": "22:46",
       "tag": "LOSS",
@@ -2155,14 +2167,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "09",
-      "mo": "OCT",
-      "title": "Garaga/Roy v Kjær/Kjær (Arctic Open QF)",
-      "meta": "Badminton · Vantaa",
-      "time": "TBC",
-      "match": "arctic-garaga-kjaer"
-    },
     {
       "d": "11",
       "mo": "OCT",
