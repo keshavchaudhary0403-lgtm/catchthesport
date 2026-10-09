@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T05:05:52+05:30",
+  "lastUpdated": "2026-10-09T13:10:39+05:30",
   "dayLabel": "Fri 9 Oct · India v WI 2nd T20I tonight; Sindhu in Arctic Open QF",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -1018,6 +1018,44 @@
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
+      ]
+    },
+    {
+      "id": "f1-sin-sprintquali",
+      "st": "upcoming",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Sprint qualifying",
+      "a": [
+        "F1",
+        "Formula 1",
+        "",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "",
+        "#334155"
+      ],
+      "when": "2026-10-09T18:00:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "src": [
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
+        }
+      ],
+      "watch": [
+        "FanCode"
       ]
     },
     {
