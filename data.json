@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-09T21:05:44+05:30",
-  "dayLabel": "Fri 9 Oct · India 249/5 v WI, chase on; Sindhu QF tonight",
-  "featured": "ind-wi-t20-2",
+  "lastUpdated": "2026-10-09T23:05:41+05:30",
+  "dayLabel": "Fri 9 Oct · WI win 2nd T20I, series 1–1; Pakistan lead SL 1–0",
+  "featured": "ind-wi-t20-3",
   "matches": [
     {
       "id": "ind-wi-odi3",
@@ -108,7 +108,7 @@
     },
     {
       "id": "ind-wi-t20-2",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -121,19 +121,19 @@
       "b": [
         "WI",
         "West Indies",
-        "Yet to bat",
+        "252/4 (18.3)",
         "#7B1E3A"
       ],
       "when": "2026-10-09T19:00:00+05:30",
       "venue": "JSCA International Stadium, Ranchi",
       "src": [
         {
-          "t": "Mykhel – India post 249/5 in Ranchi",
-          "u": "https://telugu.mykhel.com/cricket/sanju-samson-and-tilak-varma-shine-as-india-post-mammoth-249-5-against-west-indies-in-2nd-t20i-123777.html"
+          "t": "Outlook India – WI beat IND by six wickets",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
         },
         {
-          "t": "Outlook India – IND v WI 2nd T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
+          "t": "Mykhel – India post 249/5 in Ranchi",
+          "u": "https://telugu.mykhel.com/cricket/sanju-samson-and-tilak-varma-shine-as-india-post-mammoth-249-5-against-west-indies-in-2nd-t20i-123777.html"
         },
         {
           "t": "Sunday Guardian – Samson's 21-ball fifty in Ranchi",
@@ -160,9 +160,11 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India posted 249/5 in 20 overs after West Indies chose to bowl: Sanju Samson 82 (41), Ishan Kishan 43 (22), Shreyas Iyer 40 (17), Tilak Varma 47* (13). West Indies chase 250 to level the series. India lead 1–0.",
-      "status": "Innings break",
-      "scoreAt": "2026-10-09T21:05:44+05:30"
+      "note": "West Indies chased 250 with 7 balls to spare, Shai Hope hitting a hundred and the winning six. India's Samson 82 (41), Kishan 43 (22), Iyer 40, Tilak Varma 47* (13) in vain. Series level 1–1.",
+      "win": "b",
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T23:05:41+05:30"
     },
     {
       "id": "ind-bra",
@@ -1168,11 +1170,11 @@
       "sport": "Cricket",
       "comp": "Pakistan v Sri Lanka",
       "round": "1st T20I",
-      "st": "live",
+      "st": "result",
       "a": [
         "PAK",
         "Pakistan",
-        "Yet to bat"
+        "183+/6 (18.5)"
       ],
       "b": [
         "SL",
@@ -1181,9 +1183,13 @@
         "#1E3A8A"
       ],
       "when": "2026-10-09T18:30:00+05:30",
-      "note": "Sri Lanka elected to bat and made 182/8: Lahiru Udara 91 (55), Kamindu Mendis 23. Naseem Shah 3/36, Mohammad Imran 2/21. Pakistan chase 183 to win. First of three T20Is in Rawalpindi. Not telecast in India; streams on PCB Live.",
+      "note": "Pakistan won by 4 wickets with 7 balls to spare, chasing 183. Sahibzada Farhan 89 (53), Maaz Sadaqat 50 (29); 92-run second-wicket stand. Lahiru Udara made 91 for Sri Lanka. Pakistan lead the series 1–0. Not telecast in India.",
       "venue": "Rawalpindi",
       "src": [
+        {
+          "t": "Daily Pakistan – Pakistan pull off 183-run chase",
+          "u": "https://en.dailypakistan.com.pk/09-Oct-2026/pakistan-pull-off-stunning-183-run-chase-to-win-first-t20i-against-sri-lanka"
+        },
         {
           "t": "Dawn – Udara's 91 lifts Sri Lanka to 182-8",
           "u": "https://www.dawn.com/news/2035925/udaras-91-lifts-sri-lanka-to-182-8-against-pakistan-in-first-t20i"
@@ -1205,8 +1211,10 @@
           "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
         }
       ],
-      "status": "Innings break",
-      "scoreAt": "2026-10-09T21:05:44+05:30"
+      "win": "a",
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T23:05:41+05:30"
     },
     {
       "id": "pak-sl-t20-2",
@@ -1600,23 +1608,27 @@
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
       "round": "Women's singles · QF",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "PV Sindhu",
-        "",
+        "11-21 21-19 18-21",
         "#E4572E"
       ],
       "b": [
         "THA",
         "Ratchanok Intanon (1)",
-        ""
+        "21-11 19-21 21-18"
       ],
       "when": "2026-10-09T19:40:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Sindhu meets top seed Ratchanok Intanon on Court 1 in Vantaa; estimated start about 19:40 IST, after the Antonsen v Hu Zhe An match (unconfirmed).",
+      "note": "Sindhu took the second game 21-19 but lost the decider 18-21 to top seed Intanon in 62 minutes; her Arctic Open run ends at the quarter-finals.",
       "src": [
+        {
+          "t": "RevSportz – Sindhu pushes Intanon hard before Arctic Open exit",
+          "u": "https://revsportz.in/pv-sindhu-pushes-intanon-hard-before-arctic-open-exit/"
+        },
         {
           "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
           "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
@@ -1634,14 +1646,11 @@
           "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-live-streaming-pv-sindhu-tanvi-sharma-in-action-today-check-start-time-where-to-watch-womens-singles-round-of-16-badminton-matches-301278/"
         }
       ],
-      "watch": [
-        "FanCode",
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
-      "big": true
+      "big": true,
+      "win": "b",
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T23:05:41+05:30"
     },
     {
       "id": "arctic-tharun-popov",
@@ -1695,11 +1704,15 @@
         "Kjær/Kjær",
         ""
       ],
-      "when": "2026-10-09",
+      "when": "2026-10-09T21:20:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Garaga/Roy meet Denmark's Christian Faust Kjær/Rasmus Kjær in the quarter-finals on Friday; order of play and start time TBC.",
+      "note": "Garaga/Roy meet Denmark's Christian Faust Kjær/Rasmus Kjær in the quarter-finals; scheduled around 21:20 IST (result not yet confirmed).",
       "src": [
+        {
+          "t": "BWF – Arctic Open 2026 results, 9 Oct",
+          "u": "https://badmintonworldtour.com/arctic-open-2026-daily-schedule-order-of-play-and-results"
+        },
         {
           "t": "Sportscape – Sindhu, Krishna-Pruthvi advance to Arctic Open QFs",
           "u": "https://www.sportscapemagazine.com/blog/pv-sindhu-arctic-open-2026-quarterfinals-krishna-pruthvi-badminton-india"
@@ -1720,7 +1733,7 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "India won the ODI series 2–1 (West Indies won the 3rd ODI by 5 wickets chasing 352). India won the 1st T20I by 8 wickets (Iyer ton). Five T20Is, 6–17 Oct; Washington Sundar replaced by Naman Dhir in the T20I squad.",
+      "note": "Series level 1–1 after West Indies won the 2nd T20I in Ranchi by six wickets.",
       "id": "ind-wi",
       "src": [
         {
@@ -1984,28 +1997,28 @@
   ],
   "feed": [
     {
-      "t": "20:55",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "22:46",
+      "tag": "LOSS",
+      "c": "var(--accent)",
       "m": "Cricket",
-      "text": "India post 249/5 in the 2nd T20I in Ranchi: Samson 82, Kishan 43, Iyer 40 off 17, Tilak Varma 47* off 13. West Indies chase 250.",
+      "text": "West Indies beat India by 6 wickets in Ranchi, chasing 250 in 18.3 overs — Shai Hope hit a hundred. T20I series level 1–1.",
       "match": "ind-wi-t20-2"
     },
     {
-      "t": "20:35",
+      "t": "22:30",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Cricket",
-      "text": "Sri Lanka 182/8 v Pakistan in the 1st T20I, Rawalpindi: Lahiru Udara 91; Naseem Shah 3/36.",
+      "text": "Pakistan beat Sri Lanka by 4 wickets in the 1st T20I, chasing 183 with 7 balls spare: Farhan 89, Sadaqat 50.",
       "match": "pak-sl-t20-1"
     },
     {
-      "t": "20:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India 127/1 after 10 overs batting first in the 2nd T20I in Ranchi: Sanju Samson hit a 21-ball fifty; Abhishek Sharma out for 20.",
-      "match": "ind-wi-t20-2"
+      "t": "22:00",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "PV Sindhu lose 11-21, 21-19, 18-21 to top seed Ratchanok Intanon in the Arctic Open quarter-finals.",
+      "match": "arctic-sindhu-qf"
     },
     {
       "t": "19:30",
@@ -2042,20 +2055,6 @@
         {
           "t": "Sunday Guardian – Arctic Open 2026 results",
           "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
-        }
-      ]
-    },
-    {
-      "t": "20:35",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "Mohun Bagan beat East Bengal 1–0 in the IFA Shield final at Salt Lake: Samir Zeljkovic scored on 45' from a Sahal Abdul Samad assist.",
-      "match": "ifa-shield-final-eb-mbsg",
-      "src": [
-        {
-          "t": "RevSportz – Zeljkovic's strike seals IFA Shield for Mohun Bagan",
-          "u": "https://revsportz.in/zeljkovics-strike-seals-23rd-ifa-shield-for-mohun-bagan/"
         }
       ]
     },
@@ -2156,22 +2155,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "09",
-      "mo": "OCT",
-      "title": "India v West Indies, 2nd T20I",
-      "meta": "Cricket · Ranchi",
-      "time": "19:00",
-      "match": "ind-wi-t20-2"
-    },
-    {
-      "d": "09",
-      "mo": "OCT",
-      "title": "Sindhu v Intanon (Arctic Open QF)",
-      "meta": "Badminton · Vantaa",
-      "time": "~19:40",
-      "match": "arctic-sindhu-qf"
-    },
     {
       "d": "09",
       "mo": "OCT",
