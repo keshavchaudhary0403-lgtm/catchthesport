@@ -1,111 +1,8 @@
 {
-  "lastUpdated": "2026-10-10T01:10:00+05:30",
-  "dayLabel": "Fri 9 Oct · WI win 2nd T20I, series 1–1; Pakistan lead SL 1–0",
+  "lastUpdated": "2026-10-10T02:05:15+05:30",
+  "dayLabel": "Sat 10 Oct · ISL opens today; WI beat India in 2nd T20I",
   "featured": "ind-wi-t20-3",
   "matches": [
-    {
-      "id": "ind-wi-odi3",
-      "st": "result",
-      "big": true,
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "3rd ODI",
-      "a": [
-        "IND",
-        "India",
-        "351/7 (50)"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "352/5",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-03T14:00:00+05:30",
-      "note": "West Indies won by 5 wickets with a record ODI chase of 352. Shai Hope made 162* (143) — his 21st ODI hundred — and Amir Jangoo 67; Jayden Seales took 3/62. KL Rahul's 129* (87) and Rohit Sharma's 92 went in vain. India win the series 2–1.",
-      "venue": "New Chandigarh",
-      "src": [
-        {
-          "t": "ThePrint – Hope's 162 trumps Rahul's 129 as WI win 3rd ODI",
-          "u": "https://theprint.in/sport/hopes-masterly-162-trumps-rahuls-classy-129-as-wi-score-5-wicket-win-over-india-in-3rd-odi/3061315/"
-        },
-        {
-          "t": "Free Press Journal – Hope's 162* powers WI to consolation win",
-          "u": "https://www.freepressjournal.in/sports/ind-vs-wi-3rd-odi-shai-hopes-162-powers-west-indies-to-consolation-win-in-mullanpur-india-seal-series-2-1"
-        },
-        {
-          "t": "Sunday Guardian – 3rd ODI highlights",
-          "u": "https://sundayguardianlive.com/sports/ind-vs-wi-3rd-odi-highlights-shai-hope-heroic-century-powers-west-indies-to-5-wicket-win-india-clinch-series-2-1-check-full-scoreboard-298136/"
-        },
-        {
-          "t": "ANI – Rahul's ton, Rohit's 92 guide India to 351/7",
-          "u": "https://www.aninews.in/news/sports/cricket/3rd-odi-kl-rahul8217s-ton-hitman8217s-fighting-92-guide-india-to-3517-against-west-indies-16020261003183830/"
-        },
-        {
-          "t": "India.com – 3rd ODI live",
-          "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-3rd-odi-match-3-oct-ind-vs-wi-squad-players-list-shubman-gill-shai-hope-rohit-sharma-virat-kohli-pca-international-stadium-new-chandigarh-8532377/"
-        }
-      ],
-      "watch": "Star Sports / JioHotstar",
-      "win": "b",
-      "day": "3 Oct",
-      "recent": true,
-      "resultAt": "2026-10-04T00:04:33+05:30"
-    },
-    {
-      "id": "ind-wi-t20-1",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "1st T20I",
-      "a": [
-        "IND",
-        "India",
-        "172/2 (14.4)"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "171 (19.1)",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-06T19:00:00+05:30",
-      "note": "India won by 8 wickets with 32 balls left after bowling West Indies out for 171 (Sherfane Rutherford 56, Shai Hope 52; Naman Dhir 3/31 on T20I debut, Axar Patel 2/26). Captain Shreyas Iyer hit a maiden T20I century, 102* off 43, with Ishan Kishan 37*. India lead the 5-match series 1–0.",
-      "venue": "Ekana Cricket Stadium, Lucknow",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Shreyas Iyer's maiden ton hands India crushing win",
-          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-t20i-1529230/match-report"
-        },
-        {
-          "t": "The Tribune – Hope, Sherfane fifties take WI to 171",
-          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-fifties-from-hope-sherfane-take-west-indies-to-171-against-india-in-1st-t20i"
-        },
-        {
-          "t": "CREX – IND v WI 1st T20 live",
-          "u": "https://crex.com/cricket-live-score/ind-vs-wi-1st-t20-west-indies-tour-of-india-2026-match-updates-11AL"
-        },
-        {
-          "t": "India.com – IND v WI 1st T20I live",
-          "u": "https://www.india.com/sports/cricket/india-vs-west-indies-2026-live-score-1st-t20i-match-6-oct-ind-vs-wi-squad-players-list-shreyas-iyer-shai-hope-sanju-samson-ekana-stadium-lucknow-8533416/"
-        },
-        {
-          "t": "Outlook India – IND v WI 1st T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "DD Sports",
-        "JioHotstar"
-      ],
-      "win": "a",
-      "day": "6 Oct",
-      "recent": true,
-      "resultAt": "2026-10-06T23:04:49+05:30"
-    },
     {
       "id": "ind-wi-t20-2",
       "st": "result",
@@ -165,99 +62,6 @@
       "day": "9 Oct",
       "recent": true,
       "resultAt": "2026-10-09T23:05:41+05:30"
-    },
-    {
-      "id": "ind-bra",
-      "st": "result",
-      "big": true,
-      "india": true,
-      "sport": "Football",
-      "comp": "International friendly",
-      "round": "Men",
-      "a": [
-        "IND",
-        "India",
-        "0"
-      ],
-      "b": [
-        "BRA",
-        "Brazil",
-        "4"
-      ],
-      "when": "2026-10-03T19:30:00+05:30",
-      "note": "Brazil's first senior international on Indian soil. Estêvão (28'), Pedro (42') and Samuel Lino (58', 90+5') scored; Vinícius Júnior started and was replaced at half-time. Sandhu, Abhishek Singh, Anwar Ali, Varghese, Mishra, Thapa, Apuia, Kuruniyan, Samad, Ryan Williams and Manvir Singh started for India.",
-      "venue": "Salt Lake Stadium (VYBK), Kolkata",
-      "src": [
-        {
-          "t": "Goal – Brazil thrash India in historic match",
-          "u": "https://www.goal.com/en/news/vinicius-s-replacement-leads-brazil-to-a-thrashing-of-india-in-a-historic-match/blt06fa647cfd499d48"
-        },
-        {
-          "t": "beIN SPORTS – All goals: India v Brazil",
-          "u": "https://www.beinsports.com/en-us/soccer/friendlies/articles/all-goals-india-vs-brazil-international-friendly-2026-10-03"
-        },
-        {
-          "t": "VAVEL Brasil – Brasil x Índia ao vivo",
-          "u": "https://vavel.com/br/futebol-internacional/2026/10/03/1273693-india-x-brasil-ao-vivo-amistoso-internacional.html"
-        },
-        {
-          "t": "Lance! – Estêvão abre o placar",
-          "u": "https://www.lance.com.br/selecao-brasileira/veja-gol-em-brasil-x-india-estevao-abre-o-placar-de-canhota.html"
-        },
-        {
-          "t": "District – India vs Brazil tickets",
-          "u": "https://www.district.in/events/fifa-international-friendly-india-vs-brazil-buy-tickets"
-        }
-      ],
-      "watch": "Sony Sports Network / SonyLIV",
-      "win": "b",
-      "day": "3 Oct",
-      "recent": true,
-      "resultAt": "2026-10-03T22:05:11+05:30"
-    },
-    {
-      "id": "ind-uru",
-      "st": "result",
-      "big": true,
-      "india": true,
-      "sport": "Football",
-      "comp": "International friendly",
-      "round": "Men",
-      "a": [
-        "IND",
-        "India",
-        "1"
-      ],
-      "b": [
-        "URU",
-        "Uruguay",
-        "6"
-      ],
-      "when": "2026-10-06T19:30:00+05:30",
-      "note": "Uruguay won 6–1 at Salt Lake Stadium. Darwin Núñez scored a penalty and Anirudh Thapa equalised for India (22'); a thunderstorm halted play for about 35 minutes, and Maxi Araujo (brace) and others sealed the win after the restart.",
-      "venue": "Salt Lake Stadium, Kolkata",
-      "src": [
-        {
-          "t": "Sunday Guardian – India 1-6 Uruguay",
-          "u": "https://sundayguardianlive.com/sports/india-vs-uruguay-football-match-highlights-anirudh-thapa-scores-historic-equaliser-but-uruguay-cruise-to-6-1-win-kolkata-300286/"
-        },
-        {
-          "t": "Outlook India – India v Uruguay",
-          "u": "https://www.outlookindia.com/sports/football/india-vs-uruguay-football-live-score-updates-highlights"
-        },
-        {
-          "t": "ESPN – Uruguay put six past India",
-          "u": "https://www.espn.com/football/story/_/id/50114110/india-vs-uruguay-live-latest-updates-commentary-score-news-kolkata-friendly"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "win": "b",
-      "day": "6 Oct",
-      "recent": true,
-      "resultAt": "2026-10-06T23:04:49+05:30"
     },
     {
       "id": "ind-rus-w1",
@@ -430,7 +234,10 @@
       "venue": "Sree Kanteerava Stadium, Bengaluru",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -474,7 +281,10 @@
       "venue": "Fatorda Stadium, Goa",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -519,7 +329,10 @@
       "venue": "Fatorda Stadium, Goa",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -556,7 +369,10 @@
       ],
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -894,7 +710,10 @@
       "venue": "Venue TBC",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -930,7 +749,10 @@
       "venue": "JLN Stadium, Delhi",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -966,7 +788,10 @@
       "venue": "JLN Stadium, Delhi",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -1002,7 +827,10 @@
       "venue": "Sree Kanteerava Stadium, Bengaluru",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -1038,7 +866,10 @@
       "venue": "Fatorda Stadium, Goa",
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
       ]
     },
     {
@@ -1279,45 +1110,6 @@
       ]
     },
     {
-      "id": "u17w-ind-irq",
-      "sport": "Football",
-      "comp": "AFC U17 Women's Asian Cup qualifiers",
-      "round": "Group E · Matchday 1",
-      "st": "result",
-      "a": [
-        "IND",
-        "India U17 women",
-        "14"
-      ],
-      "b": [
-        "IRQ",
-        "Iraq",
-        "0"
-      ],
-      "when": "2026-10-05T13:30:00+05:30",
-      "india": true,
-      "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "India U17 women win 14–0 (7 goals in each half); Anushka Kumari scores five. Group E opener in Malaysia; group winner qualifies for the 2027 Asian Cup.",
-      "src": [
-        {
-          "t": "Sunday Guardian – India U17 beat Iraq 14-0",
-          "u": "https://sundayguardianlive.com/uncategorized/india-women-vs-iraq-women-result-india-u17-beat-iraq-14-0-in-asian-cup-2027-qualifier-check-goal-scorers-299304/"
-        },
-        {
-          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
-          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
-        },
-        {
-          "t": "Khel Now – India U17 women squad",
-          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
-        }
-      ],
-      "win": "a",
-      "day": "5 Oct",
-      "recent": true,
-      "resultAt": "2026-10-05T18:05:17+05:30"
-    },
-    {
       "id": "u17w-syr-ind",
       "sport": "Football",
       "comp": "AFC U17 Women's Asian Cup qualifiers",
@@ -1386,79 +1178,6 @@
           "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
         }
       ]
-    },
-    {
-      "id": "chn-open-djo-med",
-      "sport": "Tennis",
-      "comp": "China Open (ATP 500, Beijing)",
-      "round": "Semi-final",
-      "st": "result",
-      "a": [
-        "SRB",
-        "Novak Djokovic",
-        "7-5 5-3"
-      ],
-      "b": [
-        "RUS",
-        "Daniil Medvedev",
-        "Def."
-      ],
-      "when": "2026-10-05T17:30:00+05:30",
-      "big": true,
-      "note": "Medvedev was disqualified while trailing 7-5, 5-3 after a ball he hit rebounded into a spectator's face. Djokovic stays unbeaten in Beijing and meets Alex de Minaur in the final.",
-      "watch": "Sony Sports Network / SonyLIV / FanCode",
-      "src": [
-        {
-          "t": "Cyprus Mail – Medvedev disqualified from China Open semi",
-          "u": "https://cyprus-mail.com/2026/10/05/medvedev-disqualified-from-china-open-semi-after-hitting-ball-into-spectators-face"
-        },
-        {
-          "t": "Tennis Watcher – De Minaur reaches Beijing final",
-          "u": "https://www.tenniswatcher.com/en/news/china-open-2026-alex-de-minaur-reaches-the-final-as-hubert-hurkacz-retires-with-a-groin-injury"
-        }
-      ],
-      "win": "a",
-      "day": "5 Oct",
-      "recent": true,
-      "resultAt": "2026-10-05T20:04:56+05:30"
-    },
-    {
-      "id": "chn-open-final",
-      "sport": "Tennis",
-      "comp": "China Open (ATP 500, Beijing)",
-      "round": "Final",
-      "st": "result",
-      "a": [
-        "SRB",
-        "Novak Djokovic",
-        "7-6 1-0"
-      ],
-      "b": [
-        "AUS",
-        "Alex de Minaur",
-        "Ret."
-      ],
-      "when": "2026-10-06T16:30:00+05:30",
-      "big": true,
-      "note": "Djokovic wins the first-set tiebreak; De Minaur retires with a groin injury early in the second set. Seventh Beijing title and 102nd career title for Djokovic, who is 34-0 in Beijing.",
-      "src": [
-        {
-          "t": "Last Word on Tennis – Djokovic wins Beijing",
-          "u": "https://lastwordonsports.com/tennis/2026/10/06/djokovic-wins-beijing/"
-        },
-        {
-          "t": "ATP Tour – Djokovic wins 102nd title after De Minaur retires",
-          "u": "https://www.atptour.com/en/news/djokovic-de-minaur-beijing-2026-final"
-        },
-        {
-          "t": "Yahoo Sports – Djokovic wins 7th Beijing title",
-          "u": "https://sports.yahoo.com/articles/novak-djokovic-wins-7th-beijing-124831271.html"
-        }
-      ],
-      "win": "a",
-      "day": "6 Oct",
-      "recent": true,
-      "resultAt": "2026-10-06T19:10:32+05:30"
     },
     {
       "id": "arctic-sindhu-gunji",
@@ -1722,6 +1441,45 @@
       "day": "9 Oct",
       "recent": true,
       "resultAt": "2026-10-10T01:10:00+05:30"
+    },
+    {
+      "id": "f1-sin-quali",
+      "st": "upcoming",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Qualifying",
+      "a": [
+        "F1",
+        "Formula 1",
+        "",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "",
+        "#334155"
+      ],
+      "when": "2026-10-10T18:30:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "note": "Sprint-weekend Saturday; sprint qualifying is Fri 9 Oct at 18:00 IST.",
+      "src": [
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ]
     }
   ],
   "competitions": [
@@ -1744,29 +1502,6 @@
         }
       ],
       "comp": "India v West Indies"
-    },
-    {
-      "sport": "Football",
-      "name": "India v Brazil & Uruguay",
-      "status": "Concluded 6 Oct · Kolkata",
-      "india": true,
-      "note": "India lost 0–4 to Brazil (3 Oct) and 1–6 to Uruguay (6 Oct) at Salt Lake Stadium.",
-      "id": "ind-friendlies",
-      "src": [
-        {
-          "t": "AIFF – India to host Brazil",
-          "u": "https://www.the-aiff.com/article/india-to-host-five-time-world-champions-brazil-in-historic-kolkata-friendly"
-        },
-        {
-          "t": "Newsdrum – India v Brazil details",
-          "u": "https://www.newsdrum.in/sports/india-vs-brazil-friendly-on-october-3-venue-tickets-timing-expected-players-12215394"
-        },
-        {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
-        }
-      ],
-      "comp": "International friendly"
     },
     {
       "id": "indw-zimw",
