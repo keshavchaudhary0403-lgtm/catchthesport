@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T13:10:39+05:30",
+  "lastUpdated": "2026-10-09T17:15:54+05:30",
   "dayLabel": "Fri 9 Oct · India v WI 2nd T20I tonight; Sindhu in Arctic Open QF",
   "featured": "ind-wi-t20-2",
   "matches": [
@@ -143,7 +143,8 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": ""
     },
     {
       "id": "ind-bra",
@@ -1153,8 +1154,8 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-09T20:00:00+05:30",
-      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct); starts 19:30 local (20:00 IST) per Wisden match page.",
+      "when": "2026-10-09T18:30:00+05:30",
+      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct), 18:30 IST (18:00 local). Not telecast in India; streams on PCB Live.",
       "venue": "Rawalpindi",
       "src": [
         {
@@ -1188,8 +1189,8 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-11T20:30:00+05:30",
-      "note": "2nd of three T20Is in Rawalpindi; start time TBC.",
+      "when": "2026-10-11T18:30:00+05:30",
+      "note": "2nd of three T20Is in Rawalpindi; start time TBC. Starts 18:30 IST; not telecast in India (PCB Live stream).",
       "venue": "Rawalpindi",
       "src": [
         {
@@ -1219,8 +1220,8 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-10-13T20:30:00+05:30",
-      "note": "3rd of three T20Is in Rawalpindi; start time TBC.",
+      "when": "2026-10-13T18:30:00+05:30",
+      "note": "3rd of three T20Is in Rawalpindi; start time TBC. Starts 18:30 IST; not telecast in India (PCB Live stream).",
       "venue": "Rawalpindi",
       "src": [
         {
@@ -1519,22 +1520,26 @@
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
       "round": "Men's doubles · R16",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Garaga/Roy",
-        ""
+        "21-19 22-20"
       ],
       "b": [
         "ENG",
         "Butler/Jones",
-        ""
+        "19-21 20-22"
       ],
       "when": "2026-10-08T22:50:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
-      "note": "Garaga/Roy, who upset the fifth seeds, were due to face England's Oliver Butler/Samuel Jones late on Thu 8 Oct (22:50 IST); result not yet published.",
+      "note": "Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy, who upset the fifth seeds in R32, beat England's Oliver Butler/Samuel Jones in two close games to reach the quarter-finals.",
       "src": [
+        {
+          "t": "Sportscape – Sindhu, Krishna-Pruthvi advance to Arctic Open QFs",
+          "u": "https://www.sportscapemagazine.com/blog/pv-sindhu-arctic-open-2026-quarterfinals-krishna-pruthvi-badminton-india"
+        },
         {
           "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
@@ -1549,7 +1554,10 @@
           "n": "YouTube – BWF TV",
           "u": "https://www.youtube.com/@BWFTV"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "8 Oct",
+      "resultAt": "2026-10-09T17:15:54+05:30"
     },
     {
       "id": "arctic-sindhu-qf",
@@ -1633,6 +1641,39 @@
         }
       ],
       "resultAt": "2026-10-09T03:10:15+05:30"
+    },
+    {
+      "id": "arctic-garaga-kjaer",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Men's doubles · QF",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Garaga/Roy",
+        ""
+      ],
+      "b": [
+        "DEN",
+        "Kjær/Kjær",
+        ""
+      ],
+      "when": "2026-10-09",
+      "india": true,
+      "venue": "Vantaa, Finland",
+      "note": "Garaga/Roy meet Denmark's Christian Faust Kjær/Rasmus Kjær in the quarter-finals on Friday; order of play and start time TBC.",
+      "src": [
+        {
+          "t": "Sportscape – Sindhu, Krishna-Pruthvi advance to Arctic Open QFs",
+          "u": "https://www.sportscapemagazine.com/blog/pv-sindhu-arctic-open-2026-quarterfinals-krishna-pruthvi-badminton-india"
+        }
+      ],
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1906,6 +1947,14 @@
   ],
   "feed": [
     {
+      "t": "09 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Arctic Open: Garaga/Roy beat England's Butler/Jones 21-19 22-20 to reach the men's doubles quarter-finals, where they face Denmark's Kjær/Kjær. Sindhu plays top seed Intanon in the women's singles QF today.",
+      "match": "arctic-garaga-roy"
+    },
+    {
       "t": "8 Oct",
       "tag": "LOSS",
       "c": "var(--live-text)",
@@ -2090,24 +2139,6 @@
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-1st-t20i-live-score-updates-wi-tour-of-india-2026-highlights"
         }
       ]
-    },
-    {
-      "t": "6 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Tennis",
-      "text": "Djokovic wins his seventh China Open title and 102nd overall after Alex de Minaur retires with a groin injury at 7-6, 1-0 in the final.",
-      "match": "chn-open-final",
-      "src": [
-        {
-          "t": "Last Word on Tennis – Djokovic wins Beijing",
-          "u": "https://lastwordonsports.com/tennis/2026/10/06/djokovic-wins-beijing/"
-        },
-        {
-          "t": "ATP Tour – Djokovic wins 102nd title after De Minaur retires",
-          "u": "https://www.atptour.com/en/news/djokovic-de-minaur-beijing-2026-final"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2126,6 +2157,14 @@
       "meta": "Badminton · Vantaa",
       "time": "TBC",
       "match": "arctic-sindhu-qf"
+    },
+    {
+      "d": "09",
+      "mo": "OCT",
+      "title": "Garaga/Roy v Kjær/Kjær (Arctic Open QF)",
+      "meta": "Badminton · Vantaa",
+      "time": "TBC",
+      "match": "arctic-garaga-kjaer"
     },
     {
       "d": "11",
