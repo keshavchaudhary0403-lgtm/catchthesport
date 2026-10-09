@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T19:15:25+05:30",
-  "dayLabel": "Fri 9 Oct · India v WI 2nd T20I under way; Sindhu v Intanon QF tonight",
+  "lastUpdated": "2026-10-09T20:07:00+05:30",
+  "dayLabel": "Fri 9 Oct · India v WI 2nd T20I live; Sindhu v Intanon QF tonight",
   "featured": "ind-wi-t20-2",
   "matches": [
     {
@@ -108,7 +108,7 @@
     },
     {
       "id": "ind-wi-t20-2",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -116,17 +116,25 @@
       "a": [
         "IND",
         "India",
-        ""
+        "127/1 (10)"
       ],
       "b": [
         "WI",
         "West Indies",
-        "",
+        "Yet to bat",
         "#7B1E3A"
       ],
       "when": "2026-10-09T19:00:00+05:30",
       "venue": "JSCA International Stadium, Ranchi",
       "src": [
+        {
+          "t": "Outlook India – IND v WI 2nd T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
+        },
+        {
+          "t": "Sunday Guardian – Samson's 21-ball fifty in Ranchi",
+          "u": "https://sundayguardianlive.com/sports/ind-vs-wi-2nd-t20i-live-updates-sanju-samson-roars-back-to-form-with-21-ball-fifty-in-ranchi-watch-video-302337/"
+        },
         {
           "t": "ANI – WI win toss, opt to bowl first in Ranchi",
           "u": "https://www.aninews.in/news/sports/cricket/2nd-t20i-west-indies-win-toss-opt-to-bowl-first-against-india-in-ranchi20261009184447/"
@@ -148,7 +156,9 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "West Indies won the toss and chose to bowl in Ranchi. India unchanged: Abhishek Sharma, Samson, Kishan, Iyer (c), Tilak Varma, Dube, Dhir, Axar, Arshdeep, Kuldeep, Mayank Yadav. WI bring in Motie for Forde."
+      "note": "West Indies won the toss and chose to bowl in Ranchi. Abhishek Sharma out for 20; Sanju Samson reached a 21-ball fifty. Unchanged India XI; Vaibhav Sooryavanshi misses out. India lead the series 1–0.",
+      "status": "India batting first",
+      "scoreAt": "2026-10-09T19:53:00+05:30"
     },
     {
       "id": "ind-bra",
@@ -1027,25 +1037,29 @@
     },
     {
       "id": "f1-sin-sprintquali",
-      "st": "upcoming",
+      "st": "result",
       "sport": "Formula 1",
       "comp": "Singapore Grand Prix",
       "round": "Sprint qualifying",
       "a": [
         "F1",
         "Formula 1",
-        "",
+        "Pole: Verstappen",
         "#E10600"
       ],
       "b": [
         "SIN",
         "Marina Bay",
-        "",
+        "2nd: Russell",
         "#334155"
       ],
       "when": "2026-10-09T18:00:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
       "src": [
+        {
+          "t": "Formula1.com – Verstappen clinches pole in Singapore sprint qualifying",
+          "u": "https://www.formula1.com/en/latest/article/verstappen-clinches-pole-position-in-singapore-sprint-qualifying-ahead-of-russell.4dvkvpkCXftdhX7sLI2dcQ"
+        },
         {
           "t": "Spike Today – F1 Singapore GP start times (IST)",
           "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
@@ -1061,7 +1075,11 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T20:06:00+05:30",
+      "note": "Max Verstappen (Red Bull) took sprint pole in 1:31.156, 0.120s ahead of George Russell (Mercedes); Charles Leclerc (Ferrari) third. Verstappen's lap was pending a stewards' check. Sprint on Saturday."
     },
     {
       "id": "f1-sin-sprint",
@@ -1159,7 +1177,7 @@
         "#1E3A8A"
       ],
       "when": "2026-10-09T18:30:00+05:30",
-      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct), 18:30 IST (18:00 local). Not telecast in India; streams on PCB Live.",
+      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct), 18:30 IST. Not telecast in India; streams on PCB Live. Score shown is the last one confirmed; Lahiru Udara later reported 80* for Sri Lanka.",
       "venue": "Rawalpindi",
       "src": [
         {
@@ -1586,7 +1604,7 @@
         "Ratchanok Intanon (1)",
         ""
       ],
-      "when": "2026-10-09",
+      "when": "2026-10-09T19:40:00+05:30",
       "india": true,
       "venue": "Vantaa, Finland",
       "note": "Sindhu meets top seed Ratchanok Intanon on Court 1 in Vantaa; estimated start about 19:40 IST, after the Antonsen v Hu Zhe An match (unconfirmed).",
@@ -1958,6 +1976,22 @@
   ],
   "feed": [
     {
+      "t": "20:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India 127/1 after 10 overs batting first in the 2nd T20I in Ranchi: Sanju Samson hit a 21-ball fifty; Abhishek Sharma out for 20.",
+      "match": "ind-wi-t20-2"
+    },
+    {
+      "t": "19:30",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "F1",
+      "text": "Verstappen takes pole for the Singapore GP sprint, 0.120s clear of Russell; Leclerc third.",
+      "match": "f1-sin-sprintquali"
+    },
+    {
       "t": "18:44",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2122,28 +2156,6 @@
           "u": "https://www.millenniumpost.in/sports/artic-open-sindhu-advances-678810"
         }
       ]
-    },
-    {
-      "t": "23:04",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "India lose 1–6 to Uruguay in Kolkata. Anirudh Thapa equalised at 1–1 before a 35-minute thunderstorm break; Uruguay scored five more, Maxi Araujo twice.",
-      "match": "ind-uru"
-    },
-    {
-      "t": "23:04",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India beat West Indies by 8 wickets in the 1st T20I in Lucknow, chasing 172/2 in 14.4 overs — Shreyas Iyer 102* off 43, his maiden T20I century; debutant Naman Dhir took 3/31.",
-      "match": "ind-wi-t20-1",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Shreyas Iyer's maiden ton hands India crushing win",
-          "u": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-1st-t20i-1529230/match-report"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2160,7 +2172,7 @@
       "mo": "OCT",
       "title": "Sindhu v Intanon (Arctic Open QF)",
       "meta": "Badminton · Vantaa",
-      "time": "TBC",
+      "time": "~19:40",
       "match": "arctic-sindhu-qf"
     },
     {
