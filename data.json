@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-09T20:07:00+05:30",
-  "dayLabel": "Fri 9 Oct · India v WI 2nd T20I live; Sindhu v Intanon QF tonight",
+  "lastUpdated": "2026-10-09T21:05:44+05:30",
+  "dayLabel": "Fri 9 Oct · India 249/5 v WI, chase on; Sindhu QF tonight",
   "featured": "ind-wi-t20-2",
   "matches": [
     {
@@ -116,7 +116,7 @@
       "a": [
         "IND",
         "India",
-        "127/1 (10)"
+        "249/5 (20)"
       ],
       "b": [
         "WI",
@@ -127,6 +127,10 @@
       "when": "2026-10-09T19:00:00+05:30",
       "venue": "JSCA International Stadium, Ranchi",
       "src": [
+        {
+          "t": "Mykhel – India post 249/5 in Ranchi",
+          "u": "https://telugu.mykhel.com/cricket/sanju-samson-and-tilak-varma-shine-as-india-post-mammoth-249-5-against-west-indies-in-2nd-t20i-123777.html"
+        },
         {
           "t": "Outlook India – IND v WI 2nd T20I live",
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
@@ -156,9 +160,9 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "West Indies won the toss and chose to bowl in Ranchi. Abhishek Sharma out for 20; Sanju Samson reached a 21-ball fifty. Unchanged India XI; Vaibhav Sooryavanshi misses out. India lead the series 1–0.",
-      "status": "India batting first",
-      "scoreAt": "2026-10-09T19:53:00+05:30"
+      "note": "India posted 249/5 in 20 overs after West Indies chose to bowl: Sanju Samson 82 (41), Ishan Kishan 43 (22), Shreyas Iyer 40 (17), Tilak Varma 47* (13). West Indies chase 250 to level the series. India lead 1–0.",
+      "status": "Innings break",
+      "scoreAt": "2026-10-09T21:05:44+05:30"
     },
     {
       "id": "ind-bra",
@@ -1173,13 +1177,17 @@
       "b": [
         "SL",
         "Sri Lanka",
-        "34/2 (5.1)",
+        "182/8 (20)",
         "#1E3A8A"
       ],
       "when": "2026-10-09T18:30:00+05:30",
-      "note": "First of three T20Is in Rawalpindi (9, 11, 13 Oct), 18:30 IST. Not telecast in India; streams on PCB Live. Score shown is the last one confirmed; Lahiru Udara later reported 80* for Sri Lanka.",
+      "note": "Sri Lanka elected to bat and made 182/8: Lahiru Udara 91 (55), Kamindu Mendis 23. Naseem Shah 3/36, Mohammad Imran 2/21. Pakistan chase 183 to win. First of three T20Is in Rawalpindi. Not telecast in India; streams on PCB Live.",
       "venue": "Rawalpindi",
       "src": [
+        {
+          "t": "Dawn – Udara's 91 lifts Sri Lanka to 182-8",
+          "u": "https://www.dawn.com/news/2035925/udaras-91-lifts-sri-lanka-to-182-8-against-pakistan-in-first-t20i"
+        },
         {
           "t": "Sportstak – PAK v SL 1st T20I live",
           "u": "https://thesportstak.com/cricket/match/pak-vs-sl-1st-t20i-sri-lanka-tour-of-pakistan-09-october-2026-274137/live"
@@ -1197,8 +1205,8 @@
           "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
         }
       ],
-      "status": "SL won toss, batting first",
-      "scoreAt": "2026-10-09T19:05:00+05:30"
+      "status": "Innings break",
+      "scoreAt": "2026-10-09T21:05:44+05:30"
     },
     {
       "id": "pak-sl-t20-2",
@@ -1976,6 +1984,22 @@
   ],
   "feed": [
     {
+      "t": "20:55",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India post 249/5 in the 2nd T20I in Ranchi: Samson 82, Kishan 43, Iyer 40 off 17, Tilak Varma 47* off 13. West Indies chase 250.",
+      "match": "ind-wi-t20-2"
+    },
+    {
+      "t": "20:35",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Sri Lanka 182/8 v Pakistan in the 1st T20I, Rawalpindi: Lahiru Udara 91; Naseem Shah 3/36.",
+      "match": "pak-sl-t20-1"
+    },
+    {
       "t": "20:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2127,33 +2151,6 @@
         {
           "t": "Olympics.com – India squad for New Zealand T20Is",
           "u": "https://www.olympics.com/en/news/india-squad-new-zealand-t20-2026-cricket-team-bhuvneshwar-kumar-return"
-        }
-      ]
-    },
-    {
-      "t": "6 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Smriti Mandhana named full-time India women's captain for the three-T20I home series against Zimbabwe in Raipur (16–20 Oct); Shafali Verma is vice-captain and Harmanpreet Kaur stays in the squad.",
-      "match": "indw-zimw-t20-1",
-      "src": [
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        }
-      ]
-    },
-    {
-      "t": "08:09",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Arctic Open: PV Sindhu beats Wen Yu Zhang 21-8 21-11 to reach the second round; Unnati Hooda, Ashmita Chaliha and Malvika Bansod lose in three-game/straight-game defeats.",
-      "src": [
-        {
-          "t": "Millennium Post – Arctic Open: Sindhu advances",
-          "u": "https://www.millenniumpost.in/sports/artic-open-sindhu-advances-678810"
         }
       ]
     }
