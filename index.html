@@ -396,6 +396,12 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .celebrate{background:linear-gradient(180deg,rgba(242,183,5,.07),transparent 45%),var(--surface)}
 canvas.popper{position:absolute;pointer-events:none;z-index:7}
 .mcard2.celebrate,#tilt{position:relative}
+/* sport label: a clear coloured chip with an icon on every match */
+.sport-chip{display:inline-flex;align-items:center;gap:6px;padding:4px 11px 4px 8px;border-radius:999px;font-size:12.5px;font-weight:800;letter-spacing:.02em;line-height:1;white-space:nowrap;color:var(--sc);background:color-mix(in srgb,var(--sc) 13%,transparent);border:1px solid color-mix(in srgb,var(--sc) 35%,transparent)}
+.sport-chip .si{font-size:14px;line-height:1}
+.tk small.tk-sp{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:800;color:var(--sc);letter-spacing:.05em}
+.tk small.tk-sp .si{font-size:14px}
+.sport-line{display:flex;align-items:center;gap:8px;flex-basis:100%;flex-wrap:wrap;font-size:12.5px;color:var(--muted);font-weight:500}
 /* results ticker: the modern burst (particles, sparkles, ring) loops on the winner of fresh results */
 .tk-cel{position:relative;border-color:rgba(242,183,5,.55);background:linear-gradient(180deg,rgba(242,183,5,.10),transparent 60%),var(--surface)}
 .tk .tk-win{position:relative;display:inline-flex;align-items:center;gap:8px;flex:none}
@@ -1138,6 +1144,10 @@ function confettiHtml(m) {
   return `<span class="burst" aria-hidden="true">${h}</span>`;
 }
 const celebrate = (m) => state(m) === 'result' && m.win && isRecent(m);
+const SPORTSTY = { Cricket: ['🏏', '#0F766E'], Football: ['⚽', '#15803D'], Hockey: ['🏑', '#B45309'], Kabaddi: ['🤼', '#C2410C'], Badminton: ['🏸', '#7C3AED'], Tennis: ['🎾', '#65A30D'], Athletics: ['🏃', '#DC2626'], Boxing: ['🥊', '#BE123C'], Wrestling: ['🤼', '#9A3412'], Shooting: ['🎯', '#0369A1'], Archery: ['🏹', '#A21CAF'], Chess: ['♟️', '#475569'], 'Table tennis': ['🏓', '#0E7490'], Golf: ['⛳', '#16A34A'], 'Formula 1': ['🏎️', '#E11D48'], Basketball: ['🏀', '#EA580C'], Volleyball: ['🏐', '#CA8A04'], Weightlifting: ['🏋️', '#4338CA'] };
+const sportSty = (n) => SPORTSTY[n] || ['🏅', '#2563EB'];
+const sportChip = (n) => { const [ic, c] = sportSty(n); return `<span class="sport-chip" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n)}</span>`; };
+const sportTag = (n) => { const [ic, c] = sportSty(n); return `<small class="tk-sp" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n.toUpperCase())}</small>`; };
 function cardHtml(m) {
   const s = state(m);
   const pill = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE</span>'
@@ -1149,7 +1159,7 @@ function cardHtml(m) {
   const foot = s === 'live' ? esc(shortStatus(m) + asOf(m)) : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   const indWin = cel && (m.win === 'a' ? m.a : m.b)[0] === 'IND';
   return `<article class="card mcard2${cel ? ' celebrate' : ''}"${indWin ? ' data-ind="1"' : ''} ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
-    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
+    <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><div class="sport-line">${sportChip(m.sport)}<span>${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div></div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
     ${s !== 'result' ? watchChips(m) : ''}
     <div class="foot"><span class="${s === 'live' ? 'livefoot' : 'mono'}" style="color:${s === 'live' ? 'var(--text-2)' : 'var(--accent)'}">${foot}</span><span class="more">Details →</span></div>
@@ -1241,7 +1251,7 @@ function pickFeatured() {
   if (!f) return;
   const s = state(f);
   $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.win && (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? (f.gold ? 'INDIA WIN GOLD' : 'INDIA WIN') : f.gold && f.win ? 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
-  $('featTitle').textContent = [f.sport, f.comp, f.round].filter(Boolean).join(' · ');
+  $('featTitle').innerHTML = `<span class="sport-line">${sportChip(f.sport)}<span>${esc([f.comp, f.round].filter(Boolean).join(' · '))}</span></span>`;
   $('featWhen').textContent = s === 'live' ? shortStatus(f) : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'a');
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'b');
@@ -1358,7 +1368,7 @@ function renderAll() {
     const s = state(m);
     return { id: m.id, live: s === 'live', w: watchList(m)[0], s: m.sport, a: m.a, b: m.b, t: s === 'upcoming' || s === 'started' ? 'vs' : (scPair(m, ' – ') || (s === 'live' ? 'vs' : 'FT')), x: s === 'live' ? 'LIVE · ' + shortStatus(m) : s === 'started' ? 'UNDER WAY' : s === 'result' ? (isRecent(m) ? 'FT · ' + agoTxt(resMs(m)) : 'FT · ' + (m.comp || '')) : whenText(m.when) };
   });
-  $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}><small>${esc(k.s.toUpperCase())}</small>${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 16 ? k.a[1].split(' ').pop() : k.a[1])}</b><span class="vs${k.live && k.t !== 'vs' ? ' tk-sc' : ''}">${esc(k.t)}</span>${badge(k.b, 20)}<b style="font-weight:600">${esc(k.b[1].length > 16 ? k.b[1].split(' ').pop() : k.b[1])}</b><span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span>${k.w ? `<span class="tkw w-${k.w.type}">${WICON[k.w.type] || WICON.tv}${esc(k.w.n)}</span>` : ''}</div>`).join('');
+  $('ticker').innerHTML = tick.concat(tick).map((k) => `<div class="tk" ${clickable('match:' + k.id, 'Match details')}>${sportTag(k.s)}${badge(k.a, 20)}<b style="font-weight:600">${esc(k.a[1].length > 16 ? k.a[1].split(' ').pop() : k.a[1])}</b><span class="vs${k.live && k.t !== 'vs' ? ' tk-sc' : ''}">${esc(k.t)}</span>${badge(k.b, 20)}<b style="font-weight:600">${esc(k.b[1].length > 16 ? k.b[1].split(' ').pop() : k.b[1])}</b><span class="mono" style="color:var(--accent);font-size:13px">${esc(k.x)}</span>${k.w ? `<span class="tkw w-${k.w.type}">${WICON[k.w.type] || WICON.tv}${esc(k.w.n)}</span>` : ''}</div>`).join('');
   /* results line: every finished match, newest first — winner first, India or not */
   const short = (t) => (t[1].length > 16 ? (FLAGMAP[t[0]] ? t[1].split(' ').pop() : t[0]) : t[1]);
   const fresh = (m) => Date.now() - (resMs(m) || whenMs(m)) < 864e5 && m.india ? 0 : 1;
@@ -1368,7 +1378,7 @@ function renderAll() {
     const indLost = m.win && l[0] === 'IND';
     const cel = m.win && (isRecent(m) || (m.india && !indLost && Date.now() - (resMs(m) || whenMs(m)) < 864e5));
     const spark = cel ? confettiHtml(m) : '';
-    return `<div class="tk${cel ? ' tk-cel' : ''}" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small><span class="tk-win">${spark}${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b></span><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b>${score.replace(/\u2002\u2013\u2002/g, '').trim() ? `<span class="mono tk-sco" style="color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score)}</span>` : ''}<span class="mono tk-rnd">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
+    return `<div class="tk${cel ? ' tk-cel' : ''}" ${clickable('match:' + m.id, 'Result details')}>${sportTag(m.sport)}<span class="tk-win">${spark}${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b></span><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b>${score.replace(/\u2002\u2013\u2002/g, '').trim() ? `<span class="mono tk-sco" style="color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score)}</span>` : ''}<span class="mono tk-rnd">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
   });
   $('resTicker').innerHTML = res.concat(res).join('');
   requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
