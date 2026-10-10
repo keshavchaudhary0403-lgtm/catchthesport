@@ -434,6 +434,12 @@ canvas.popper{position:absolute;pointer-events:none;z-index:7}
 /* West Indies: no national flag — clean team tile in its colours */
 .club.wi{background:#fff !important;color:#7B1E3A;border:1px solid var(--line-strong);box-shadow:inset 0 -4px 0 #F2B705}
 .wchip{white-space:nowrap;flex-shrink:0}
+a.wchip.wlink{cursor:pointer;transition:border-color .2s,color .2s,background .2s,transform .15s}
+a.wchip.wlink:hover{background:var(--surface);transform:translateY(-1px)}
+a.wchip.wlink:active{transform:none}
+.wchip .ext{opacity:.55;margin-left:-2px}
+a.wchip.w-yt:hover{border-color:#FF0000;color:#FF0000}
+.wchip.wtv{cursor:default;background:transparent;border-style:dashed}
 #chip2{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chip2{max-width:calc(100% - 8px)}
 @media (max-width:640px){.watch-hero .wlbl{display:none}.watch-hero{flex-wrap:nowrap !important}.watch-hero .wchip{padding:5px 9px}}
 #featPill{flex-shrink:0;white-space:nowrap}#featWhen{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
@@ -746,6 +752,10 @@ const PLATFORMS = [
   [/prime\s*video|amazon/i, 'Prime Video', 'app', 'https://www.primevideo.com'],
   [/f1\s*tv/i, 'F1 TV', 'app', 'https://f1tv.formula1.com'],
   [/waves/i, 'Waves (Prasar Bharati)', 'app', ''],
+  [/olympics\.com/i, 'Olympics.com', 'web', 'https://www.olympics.com'],
+  [/fifa\s*\+/i, 'FIFA+', 'app', 'https://www.plus.fifa.com'],
+  [/youtube.*(isl|indian super league)/i, 'YouTube – ISL', 'yt', 'https://www.youtube.com/@IndianSuperLeague/streams'],
+  [/youtube.*issf/i, 'YouTube – ISSF', 'yt', 'https://www.youtube.com/issfchannel'],
   [/youtube/i, 'YouTube', 'yt', ''],
   [/star\s*sports/i, null, 'tv', ''],
   [/sony\s*(sports|ten|six)/i, null, 'tv', ''],
@@ -763,14 +773,14 @@ function watchList(m) {
   if (typeof w === 'string') w = w.split(/\s*(?:\/|,|;|\+|\band\b)\s*/i);
   return w.map((x) => (typeof x === 'string' ? { n: x } : x)).filter((x) => x && x.n && !/^(none|tbc|n\/a|not (confirmed|available))$/i.test(String(x.n).trim())).map((x) => {
     const n = String(x.n).trim(), hit = PLATFORMS.find((p) => p[0].test(n)) || [null, null, x.u ? 'web' : 'tv', ''];
-    return { n: hit[1] || n.replace(/\s+(network|channels?)$/i, ''), type: x.type || hit[2], u: x.u || hit[3] };
+    return { n: (hit[2] === 'yt' ? n.replace(/\s*\(.*?\)\s*/g, ' ').trim() : hit[1]) || n.replace(/\s+(network|channels?)$/i, ''), type: x.type || hit[2], u: x.u || hit[3] };
   });
 }
 function watchChips(m, opt) {
   const L = watchList(m);
   if (!L.length) return opt === 'hero' ? '' : `<div class="watch"><span class="wlbl">Watch on</span><span class="wchip wmore">Channel TBC</span></div>`;
   const live = state(m) === 'live' || state(m) === 'started';
-  const chip = (p) => { const inner = `${WICON[p.type] || WICON.tv}<span>${esc(p.n)}</span>`; return p.u ? `<a class="wchip w-${p.type}" href="${esc(p.u)}" target="_blank" rel="noopener" title="Open ${esc(p.n)}">${inner}</a>` : `<span class="wchip w-${p.type}" title="${p.type === 'tv' ? 'TV channel' : 'Streaming'}">${inner}</span>`; };
+  const chip = (p) => { const inner = `${WICON[p.type] || WICON.tv}<span>${esc(p.n)}</span>`; return p.u ? `<a class="wchip wlink w-${p.type}" href="${esc(p.u)}" target="_blank" rel="noopener" title="Watch on ${esc(p.n)} (opens in a new tab)">${inner}<svg class="ext" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a>` : `<span class="wchip wtv w-${p.type}" title="${p.type === 'tv' ? 'TV channel — tune in on your TV' : 'Streaming'}">${inner}</span>`; };
   const shown = opt === 'hero' ? L.slice(0, 2) : L, more = L.length - shown.length;
   return `<div class="watch${opt === 'hero' ? ' watch-hero' : ''}"><span class="wlbl">${live ? 'Watch live' : 'Watch on'}</span>${shown.map(chip).join('')}${more > 0 ? `<span class="wchip wmore">+${more}</span>` : ''}</div>`;
 }

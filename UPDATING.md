@@ -95,7 +95,8 @@ Scores are free text: cricket `"406/2"` or `"245/8 (50)"`; football `"2"`; tenni
 ### Where to watch (`watch`) — fill it for every live and upcoming match
 
 - A list of the channels and apps that broadcast/stream the match **in India**, TV first then apps: `["Star Sports 1", "Star Sports 1 Hindi", "JioHotstar"]`, `["Sony Ten 1", "SonyLIV"]`, `["DD Sports", "Waves"]`, `["FanCode"]`, `["Sports18", "JioHotstar"]`.
-- A free official stream on YouTube or a federation site: `{"n": "YouTube – AIFF TV", "u": "https://www.youtube.com/@…"}` (only real URLs).
+- A free official stream on YouTube or a federation site **must have its link** so the button works: `{"n": "YouTube – ISL", "u": "https://www.youtube.com/@IndianSuperLeague/streams"}`. Use the official channel's live/streams page, or the exact live video URL once it is published. Never link unofficial/re-upload channels. Known: ISL → `https://www.youtube.com/@IndianSuperLeague/streams`, ISSF → `https://www.youtube.com/issfchannel`, Indian Football (AIFF) → `https://www.youtube.com/@IndianFootball`.
+- TV channels show as plain labels (no link); apps (JioHotstar, SonyLIV, FanCode, Prime Video, F1 TV, Olympics.com, FIFA+) link to their sites automatically.
 - The page shows each with an icon by type: TV channel, streaming app (JioHotstar, SonyLIV, FanCode, Prime Video, F1 TV, Waves get a tap-through link), YouTube. Any other name shows as a TV channel unless you give a `u` link.
 - Check the official broadcaster announcement (league/federation/broadcaster press release, or a news report naming the channel) — rights change between seasons and tournaments, so never assume. If not confirmed, omit `watch` (the page says "not confirmed yet").
 

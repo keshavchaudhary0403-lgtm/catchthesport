@@ -240,7 +240,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
       "win": "a",
@@ -300,7 +301,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
       "status": "74' · Chennaiyin lead",
@@ -350,7 +352,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -390,7 +393,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -741,7 +745,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -780,7 +785,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -819,7 +825,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -858,7 +865,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -897,7 +905,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -1259,7 +1268,10 @@
           "n": "Olympics.com",
           "u": "https://www.olympics.com/"
         },
-        "YouTube – ISSF"
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
       ],
       "src": [
         {
@@ -1293,7 +1305,10 @@
           "n": "Olympics.com",
           "u": "https://www.olympics.com/"
         },
-        "YouTube – ISSF"
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
       ],
       "src": [
         {
@@ -1327,7 +1342,10 @@
           "n": "Olympics.com",
           "u": "https://www.olympics.com/"
         },
-        "YouTube – ISSF"
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
       ],
       "src": [
         {
@@ -1745,7 +1763,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -1784,7 +1803,8 @@
         "Sony Sports Network",
         "SonyLIV",
         {
-          "n": "YouTube – ISL (free, all matches)"
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     }

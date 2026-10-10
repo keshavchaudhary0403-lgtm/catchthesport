@@ -60,6 +60,10 @@ for i, m in enumerate(d.get("matches", [])):
         print(f"warning: {w} is live but has no score — add the current score (and scoreAt)")
     if m.get("st") in ("live", "upcoming") and m.get("india") and not m.get("watch"):
         print(f"warning: {w} has no 'watch' (TV channel / streaming app in India) — add it once confirmed")
+    for x in (w_ if isinstance(w_, list) else []):
+        nm = x if isinstance(x, str) else x.get("n", "")
+        if "youtube" in nm.lower() and not (isinstance(x, dict) and str(x.get("u", "")).startswith("https://www.youtube.com/")):
+            print(f"warning: {w} has a YouTube stream without a link — use {{'n': 'YouTube – …', 'u': 'https://www.youtube.com/…'}} (official channel)")
     if m.get("win") not in (None, "a", "b"):
         errors.append(f"{w}: win must be 'a' or 'b'")
 
