@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T00:05:12+05:30",
+  "lastUpdated": "2026-10-11T01:04:24+05:30",
   "dayLabel": "Sun 11 Oct · India v WI 3rd T20I tonight; ISL Day 2",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -1814,6 +1814,87 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
+    },
+    {
+      "id": "ranji-r1-mum-chd",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 1 · Elite D · 4 days",
+      "a": [
+        "MUM",
+        "Mumbai",
+        ""
+      ],
+      "b": [
+        "CHD",
+        "Chandigarh",
+        ""
+      ],
+      "when": "2026-10-11",
+      "venue": "Mumbai",
+      "note": "Four-day match, 11–14 Oct. Start time and broadcaster TBC.",
+      "src": [
+        {
+          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
+          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        }
+      ]
+    },
+    {
+      "id": "ranji-r1-ben-del",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 1 · Elite C · 4 days",
+      "a": [
+        "BEN",
+        "Bengal",
+        ""
+      ],
+      "b": [
+        "DEL",
+        "Delhi",
+        ""
+      ],
+      "when": "2026-10-11",
+      "venue": "Kalyani",
+      "note": "Four-day match, 11–14 Oct. Start time and broadcaster TBC.",
+      "src": [
+        {
+          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
+          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        }
+      ]
+    },
+    {
+      "id": "ranji-r1-and-kar",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 1 · Elite B · 4 days",
+      "a": [
+        "AND",
+        "Andhra",
+        ""
+      ],
+      "b": [
+        "KAR",
+        "Karnataka",
+        ""
+      ],
+      "when": "2026-10-11",
+      "venue": "Mulapadu",
+      "note": "Four-day match, 11–14 Oct. Start time and broadcaster TBC.",
+      "src": [
+        {
+          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
+          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -2102,10 +2183,24 @@
           "u": "https://africa.espn.com/cricket/story/_/id/48833167/duleep-trophy-kick-indian-domestic-season-two-phase-ranji-trophy-starts-october-11"
         }
       ],
-      "india": true
+      "india": true,
+      "comp": "Ranji Trophy 2026-27"
     }
   ],
   "feed": [
+    {
+      "t": "10 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Shooting",
+      "text": "ISSF World Cup Cairo opens: none of India's four mixed-team pairs reached the 10m air pistol or air rifle medal matches (Bhanwala/Udhayveer 14th, Gulia/Ajendra 16th in pistol qualification; Khyati/Dhanush 14th, Arya/Paarth 29th in rifle). France and Japan took the golds.",
+      "src": [
+        {
+          "t": "RevSportz – India miss out as France and Japan win mixed team golds",
+          "u": "https://revsportz.in/india-miss-out-as-france-and-japan-win-mixed-team-golds-at-issf-world-cup-in-cairo/"
+        }
+      ]
+    },
     {
       "t": "23:50",
       "tag": "DRAW",
@@ -2290,14 +2385,6 @@
       "m": "Cricket",
       "text": "West Indies beat India by 6 wickets in Ranchi, chasing 250 in 18.3 overs — Shai Hope hit a hundred. T20I series level 1–1.",
       "match": "ind-wi-t20-2"
-    },
-    {
-      "t": "22:30",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Pakistan beat Sri Lanka by 4 wickets in the 1st T20I, chasing 183 with 7 balls spare: Farhan 89, Sadaqat 50.",
-      "match": "pak-sl-t20-1"
     }
   ],
   "schedule": [
