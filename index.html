@@ -394,16 +394,31 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .cel-row{position:relative}
 .celebrate .team.w .flag,.celebrate .team.w .club{box-shadow:0 0 0 2px var(--surface),0 0 0 4px #F2B705,0 8px 18px -8px rgba(242,183,5,.7)}
 .celebrate{background:linear-gradient(180deg,rgba(242,183,5,.07),transparent 45%),var(--surface)}
-.confetti{position:absolute;left:0;right:0;top:-6px;height:0;pointer-events:none;z-index:3}
-.confetti i{position:absolute;top:0;border-radius:2px;box-shadow:0 0 0 1px rgba(15,20,25,.12);opacity:0;transform:translate(0,0) rotate(var(--r))}
-.celebrate.play .confetti i{animation:conf 1.6s cubic-bezier(.2,.6,.3,1) forwards}
-@keyframes conf{0%{opacity:0;transform:translate(0,-6px) rotate(var(--r)) scale(.6)}12%{opacity:1}70%{opacity:1}100%{opacity:0;transform:translate(var(--dx),58px) rotate(calc(var(--r) + 260deg)) scale(1)}}
-#tilt > .confetti{top:6px;left:8%;right:8%;z-index:6}
+/* modern burst: glowing particles + sparkles + shockwave ring from the winner's flag */
+.celebrate .team .n{position:relative}
+.burst{position:absolute;left:18px;top:50%;width:0;height:0;pointer-events:none;z-index:3;overflow:visible !important}
+.burst.big{left:50%;top:50%}
+.burst i{position:absolute;left:0;top:0;opacity:0;transform:translate(-50%,-50%) scale(.2)}
+.burst .dot{width:6px;height:6px;border-radius:50%;box-shadow:0 0 8px 1px currentColor,0 0 0 1px rgba(15,20,25,.08)}
+.burst .sp{width:12px;height:12px;filter:drop-shadow(0 0 4px currentColor)}
+.burst .sp svg{width:100%;height:100%;display:block}
+.burst .ring{position:absolute;left:0;top:0;width:44px;height:44px;margin:-22px 0 0 -22px;border-radius:50%;border:2px solid rgba(242,183,5,.85);opacity:0;transform:scale(.4)}
+.burst .ring.r2{border-color:rgba(37,99,235,.45);border-width:1px}
+.burst.big .ring{width:96px;height:96px;margin:-48px 0 0 -48px}
+.burst.big .dot{width:8px;height:8px}.burst.big .sp{width:16px;height:16px}
+.celebrate.play .burst i{animation:burstOut 1.1s cubic-bezier(.12,.75,.25,1) forwards}
+.celebrate.play .burst .sp{animation-name:sparkOut;animation-duration:1.3s}
+.celebrate.play .burst .ring{animation:ringOut .9s cubic-bezier(.2,.7,.3,1) forwards}
+.celebrate.play .burst .ring.r2{animation-delay:.12s;animation-duration:1.1s}
+.burst i{--k:1.35}.burst.big i{--k:1.9}
+@keyframes burstOut{0%{opacity:0;transform:translate(-50%,-50%) scale(.2)}15%{opacity:1}100%{opacity:0;transform:translate(calc(-50% + var(--tx) * var(--k,1)),calc(-50% + var(--ty) * var(--k,1))) scale(1)}}
+@keyframes sparkOut{0%{opacity:0;transform:translate(-50%,-50%) scale(.1) rotate(0)}20%{opacity:1}60%{opacity:1;transform:translate(calc(-50% + var(--tx) * var(--k,1) * .8),calc(-50% + var(--ty) * var(--k,1) * .8)) scale(1.15) rotate(45deg)}100%{opacity:0;transform:translate(calc(-50% + var(--tx) * var(--k,1)),calc(-50% + var(--ty) * var(--k,1))) scale(.3) rotate(90deg)}}
+@keyframes ringOut{0%{opacity:.9;transform:scale(.4)}100%{opacity:0;transform:scale(1.9)}}
 #featA,#featB{position:relative}
 .hero-trophy{position:absolute;right:-10px;top:-10px;width:28px;height:28px;border-radius:50%;background:#F2B705;color:#3B2A00;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 14px -6px rgba(0,0,0,.4);animation:tpop .5s cubic-bezier(.3,1.6,.5,1) both}
 .hero-trophy .trophy{width:16px;height:16px}
 @keyframes tpop{from{transform:scale(0) rotate(-30deg)}to{transform:scale(1) rotate(0)}}
-@media (prefers-reduced-motion:reduce){.confetti{display:none}.hero-trophy{animation:none}}
+@media (prefers-reduced-motion:reduce){.burst{display:none}.hero-trophy{animation:none}}
 /* where-to-watch chips */
 .livefoot{font-size:13px;font-weight:500;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mcard2 .foot{gap:12px}
@@ -1083,13 +1098,18 @@ const TROPHY = '<svg class="trophy" width="14" height="14" viewBox="0 0 24 24" f
 /* celebration: confetti over the winner of a just-finished match (tricolour when India wins) */
 function confettiHtml(m) {
   const w = m.win === 'a' ? m.a : m.b, ind = w[0] === 'IND' || (m.india && /india/i.test(w[1]));
-  const cols = ind ? ['#FF9933', '#FFFFFF', '#138808', '#000080'] : ['#F2B705', '#2563EB', '#E5372B', '#16A34A', '#A855F7'];
-  let h = '';
-  for (let i = 0; i < 18; i++) {
-    const x = (i * 37 + 11) % 100, d = (i % 6) * 0.08, r = (i * 53) % 360, c = cols[i % cols.length], sz = 5 + (i % 3) * 2, dx = ((i * 29) % 60) - 30;
-    h += `<i style="left:${x}%;background:${c};width:${sz}px;height:${Math.round(sz * 1.6)}px;animation-delay:${d}s;--r:${r}deg;--dx:${dx}px"></i>`;
+  const cols = ind ? ['#FF9933', '#FFFFFF', '#138808', '#FFB347', '#1FAA3A'] : ['#F2B705', '#60A5FA', '#F472B6', '#34D399', '#A78BFA'];
+  const star = (c) => `<svg viewBox="0 0 24 24"><path fill="${c}" d="M12 0c.6 6.5 5.5 11.4 12 12-6.5.6-11.4 5.5-12 12-.6-6.5-5.5-11.4-12-12C6.5 11.4 11.4 6.5 12 0z"/></svg>`;
+  let h = '<b class="ring"></b><b class="ring r2"></b>';
+  const N = 16;
+  for (let k = 0; k < N; k++) {
+    const a = (k / N) * Math.PI * 2 + (k % 2 ? .18 : 0), dist = 34 + (k * 17) % 26, c = cols[k % cols.length];
+    const tx = Math.round(Math.cos(a) * dist), ty = Math.round(Math.sin(a) * dist * .8), d = ((k * 7) % 5) * 0.035;
+    h += k % 3 === 0
+      ? `<i class="sp" style="--tx:${tx}px;--ty:${ty}px;animation-delay:${d}s;color:${c}">${star(c)}</i>`
+      : `<i class="dot" style="--tx:${tx}px;--ty:${ty}px;animation-delay:${d}s;background:${c};color:${c}"></i>`;
   }
-  return `<span class="confetti" aria-hidden="true">${h}</span>`;
+  return `<span class="burst" aria-hidden="true">${h}</span>`;
 }
 const celebrate = (m) => state(m) === 'result' && m.win && isRecent(m);
 function cardHtml(m) {
@@ -1099,7 +1119,7 @@ function cardHtml(m) {
     : s === 'result' ? (isRecent(m) ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">JUST FINISHED</span>' : '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>')
     : m.gold ? '<span class="pill m-gold">MEDAL MATCH</span>' : m.big ? '<span class="pill m-gold">BIG MATCH</span>' : '<span class="pill" style="background:var(--surface-2);color:var(--text-2)">UPCOMING</span>';
   const cel = celebrate(m);
-  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}${cel && m.win === k ? ' cel-row' : ''}">${cel && m.win === k ? confettiHtml(m) : ''}<div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, k)}</div></div>`;
+  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}${cel && m.win === k ? ' cel-row' : ''}"><div class="n">${cel && m.win === k ? confettiHtml(m) : ''}${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, k)}</div></div>`;
   const foot = s === 'live' ? esc(shortStatus(m) + asOf(m)) : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
   return `<article class="card mcard2${cel ? ' celebrate' : ''}" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
@@ -1200,9 +1220,9 @@ function pickFeatured() {
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'b');
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
   $('featWatch').innerHTML = s !== 'result' ? watchChips(f, 'hero') : '';
-  const tl = $('tilt'), old = tl.querySelector(':scope > .confetti'); if (old) old.remove();
+  const tl = $('tilt'); tl.querySelectorAll('.burst').forEach((x) => x.remove());
   tl.classList.toggle('celebrate', !!celebrate(f)); tl.removeAttribute('data-cw');
-  if (celebrate(f)) { tl.insertAdjacentHTML('afterbegin', confettiHtml(f)); (f.win === 'a' ? $('featA') : $('featB')).insertAdjacentHTML('beforeend', '<span class="hero-trophy">' + TROPHY + '</span>'); }
+  if (celebrate(f)) { const wb = f.win === 'a' ? $('featA') : $('featB'); wb.insertAdjacentHTML('afterbegin', confettiHtml(f).replace('class="burst"', 'class="burst big"')); wb.insertAdjacentHTML('beforeend', '<span class="hero-trophy">' + TROPHY + '</span>'); }
   ['featAS', 'featBS'].forEach((id) => $(id).classList.toggle('sc-long', $(id).textContent.length > 6));
 }
 function updAgo() {
