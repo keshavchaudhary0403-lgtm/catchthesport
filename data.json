@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T20:35:47+05:30",
-  "dayLabel": "Sat 10 Oct · ISL is back; Goa v Chennaiyin level at HT",
+  "lastUpdated": "2026-10-10T21:04:38+05:30",
+  "dayLabel": "Sat 10 Oct · ISL is back; Chennaiyin lead Goa 1–0 late on",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -265,7 +265,7 @@
       "b": [
         "CFC",
         "Chennaiyin FC",
-        "0",
+        "1",
         "#1D4ED8"
       ],
       "when": "2026-10-10T19:30:00+05:30",
@@ -289,6 +289,10 @@
         {
           "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        },
+        {
+          "t": "ISL – FC Goa v Chennaiyin match centre",
+          "u": "https://www.indiansuperleague.com/matchcentre/194635"
         }
       ],
       "venue": "Fatorda Stadium, Goa",
@@ -299,8 +303,8 @@
           "n": "YouTube – ISL (free, all matches)"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-10T20:35:00+05:30"
+      "status": "74' · Chennaiyin lead",
+      "scoreAt": "2026-10-10T21:04:38+05:30"
     },
     {
       "id": "isl-chu-mcfc",
@@ -2072,6 +2076,14 @@
   ],
   "feed": [
     {
+      "t": "21:04",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL: Chennaiyin FC lead FC Goa 1–0 at the 74th minute at Fatorda (official match centre; scorer not listed).",
+      "match": "isl-goa-che"
+    },
+    {
       "t": "20:03",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2238,14 +2250,6 @@
       "m": "Badminton",
       "text": "PV Sindhu lose 11-21, 21-19, 18-21 to top seed Ratchanok Intanon in the Arctic Open quarter-finals.",
       "match": "arctic-sindhu-qf"
-    },
-    {
-      "t": "19:30",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "F1",
-      "text": "Verstappen takes pole for the Singapore GP sprint, 0.120s clear of Russell; Leclerc third.",
-      "match": "f1-sin-sprintquali"
     }
   ],
   "schedule": [
