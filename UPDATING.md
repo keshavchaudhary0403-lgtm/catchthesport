@@ -10,6 +10,15 @@ The site is a single static page. **All content lives in `data.json`.** Committi
 
 ## Audience and priorities
 
+**India first.** The site serves Indian fans first (a global version comes later). The page sorts India matches above everything else in every tier, the hero tiles count only India ("India live", "India today", "India next 7 days", "Indian events on"), and India results lead the results line. Keep the data India-heavy:
+
+- At least **3 out of 4 matches** should involve an Indian team/athlete or an Indian league (`"india": true`). Non-India matches only when Indian fans genuinely follow them (ICC events, big cricket series, Premier League top-6 games, Champions League knockouts, F1 race, Grand Slam finals) — at most ~8 at a time.
+- `"india": true` also covers Indian domestic leagues and tournaments (ISL, I-League, IPL/WPL, PKL, Ranji/Duleep/Vijay Hazare/SMAT, Durand, IFA Shield, Hockey India League, national championships) and Indian clubs abroad.
+- Feed: at least two-thirds of items about India/Indian leagues; put India items first when several happen at the same time.
+- Competitions: mark Indian ones `"india": true` (they sort first).
+- Players: Indian athletes only.
+
+
 The site is for **Indian sports fans**. Every update should answer: *what is India playing, what's live, what just happened, what's next?*
 
 Coverage priority (highest first):
