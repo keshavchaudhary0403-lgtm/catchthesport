@@ -1077,6 +1077,7 @@ function renderMatches() {
   $('matchEmpty').hidden = list.length > 0;
   const cap = matchMedia('(max-width:640px)').matches && !showAllM ? 6 : Infinity;
   $('matchGrid').innerHTML = list.slice(0, cap).map(cardHtml).join('');
+  requestAnimationFrame(watchCelebrations);
   const more = $('matchMore'), extra = list.length - cap;
   more.hidden = !(extra > 0);
   if (extra > 0) more.textContent = 'Show all ' + list.length + ' matches';
@@ -1223,6 +1224,7 @@ function pickFeatured() {
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'b');
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
   $('featWatch').innerHTML = s !== 'result' ? watchChips(f, 'hero') : '';
+  requestAnimationFrame(watchCelebrations);
   const tl = $('tilt'); tl.querySelectorAll('.burst').forEach((x) => x.remove());
   tl.classList.toggle('celebrate', !!celebrate(f)); tl.removeAttribute('data-cw');
   tl.dataset.ind = celebrate(f) && (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? '1' : '0';
@@ -1291,9 +1293,13 @@ function watchCelebrations() {
   const els = document.querySelectorAll('.celebrate:not([data-cw]), #tilt.celebrate:not([data-cw])');
   if (!('IntersectionObserver' in window)) { els.forEach(playCel); return; }
   celObs = celObs || new IntersectionObserver((es) => es.forEach((e) => { e.target.classList.toggle('cel-vis', e.isIntersecting); if (e.isIntersecting && !e.target.dataset.cp) { e.target.dataset.cp = '1'; playCel(e.target); } }), { threshold: 0.4 });
-  els.forEach((el) => { el.setAttribute('data-cw', '1'); celObs.observe(el); el.addEventListener('mouseenter', () => playCel(el)); });
+  els.forEach((el) => { el.setAttribute('data-cw', '1'); celObs.observe(el); });
 }
 /* keep celebrating: replay the confetti on every visible winner every few seconds, staggered */
+document.addEventListener('mouseover', (e) => {
+  const el = e.target.closest && e.target.closest('.celebrate'); if (!el || el.contains(e.relatedTarget)) return;
+  if (Date.now() - (+el.dataset.hov || 0) < 900) return; el.dataset.hov = Date.now(); playCel(el);
+});
 /* round-robin: every ~1.4 s the next visible winner celebrates, so something is always popping;
    each card waits a little longer than the last time (its own rhythm) */
 let celTurn = 0;
@@ -1403,7 +1409,7 @@ if (location.protocol.indexOf('http') === 0) {
   pullData(); setInterval(pullData, 20000); checkCode(); setInterval(checkCode, 30000);
   /* phones pause timers while the tab is in the background or the screen is off — catch up the moment the page is back */
   let lastWake = 0;
-  const wake = () => { if (document.visibilityState !== 'visible' || Date.now() - lastWake < 3000) return; lastWake = Date.now(); pullData(); checkCode(); try { renderMatches(); pickFeatured(); } catch (e) {} };
+  const wake = () => { if (document.visibilityState !== 'visible' || Date.now() - lastWake < 3000) return; lastWake = Date.now(); pullData(); checkCode(); try { renderMatches(); pickFeatured(); } catch (e) {} setTimeout(() => { const v = document.querySelector('.celebrate.cel-vis'); if (v) playCel(v); }, 400); };
   document.addEventListener('visibilitychange', wake);
   addEventListener('focus', wake); addEventListener('online', wake);
   addEventListener('pageshow', (e) => { if (e.persisted) { lastWake = 0; wake(); } });
