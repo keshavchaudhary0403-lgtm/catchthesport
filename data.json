@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T22:34:41+05:30",
-  "dayLabel": "Sat 10 Oct · ISL is back; Goa and Chennaiyin draw 1–1",
+  "lastUpdated": "2026-10-11T00:05:12+05:30",
+  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I tonight; ISL Day 2",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -446,40 +446,42 @@
     },
     {
       "id": "epl-mun-tot",
-      "st": "live",
+      "st": "result",
       "sport": "Football",
       "comp": "Premier League",
       "round": "",
       "a": [
         "MUN",
         "Manchester United",
-        "0",
+        "1",
         "#DA291C"
       ],
       "b": [
         "TOT",
         "Tottenham Hotspur",
-        "0",
+        "1",
         "#132257"
       ],
       "when": "2026-10-10T22:00:00+05:30",
       "src": [
         {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
+          "t": "101greatgoals – Man Utd 1-1 Spurs report",
+          "u": "https://www.101greatgoals.com/football/premier-league/manchester-united-tottenham-report-result-goals/"
         },
         {
-          "t": "Khel Now – where to watch Premier League in India",
-          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
         }
       ],
       "watch": [
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "34' · first half",
-      "scoreAt": "2026-10-10T22:34:00+05:30",
-      "venue": "Old Trafford"
+      "venue": "Old Trafford",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T00:05:12+05:30",
+      "note": "Mbeumo (73') put United ahead; Solanke equalised in stoppage time (90+2') for 10-man Spurs after Bentancur was sent off."
     },
     {
       "id": "epl-liv-mci",
@@ -2105,6 +2107,20 @@
   ],
   "feed": [
     {
+      "t": "23:50",
+      "tag": "DRAW",
+      "c": "var(--silver)",
+      "m": "Premier League",
+      "text": "Manchester United 1–1 Tottenham: Mbeumo (73') gave United the lead, Solanke (90+2') rescued a point for 10-man Spurs.",
+      "match": "epl-mun-tot",
+      "src": [
+        {
+          "t": "101greatgoals – Man Utd 1-1 Spurs report",
+          "u": "https://www.101greatgoals.com/football/premier-league/manchester-united-tottenham-report-result-goals/"
+        }
+      ]
+    },
+    {
       "t": "10 Oct",
       "tag": "DRAW",
       "c": "var(--silver)",
@@ -2282,14 +2298,6 @@
       "m": "Cricket",
       "text": "Pakistan beat Sri Lanka by 4 wickets in the 1st T20I, chasing 183 with 7 balls spare: Farhan 89, Sadaqat 50.",
       "match": "pak-sl-t20-1"
-    },
-    {
-      "t": "22:00",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "PV Sindhu lose 11-21, 21-19, 18-21 to top seed Ratchanok Intanon in the Arctic Open quarter-finals.",
-      "match": "arctic-sindhu-qf"
     }
   ],
   "schedule": [
