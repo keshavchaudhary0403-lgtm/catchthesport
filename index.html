@@ -402,6 +402,11 @@ canvas.popper{position:absolute;pointer-events:none;z-index:7}
 .sport-chip .si{font-size:14px;line-height:1}
 .tk small.tk-sp{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:800;color:var(--sc);letter-spacing:.05em}
 .tk small.tk-sp .si{font-size:14px}
+.eyebrow .sport-chip{text-transform:none;font-family:"Archivo",sans-serif}
+.eb-row{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%}
+.dlg-head>div:first-child{flex:1;min-width:0}
+.comp .sp{justify-content:space-between;align-self:stretch}
+.comp .sp .ind-tag{margin-left:auto;flex:none}
 .sport-line{display:flex;align-items:center;gap:8px;flex-basis:100%;flex-wrap:wrap;font-size:12.5px;color:var(--muted);font-weight:500}
 /* results ticker: the modern burst (particles, sparkles, ring) loops on the winner of fresh results */
 .tk-cel{position:relative;border-color:rgba(242,183,5,.55);background:linear-gradient(180deg,rgba(242,183,5,.10),transparent 60%),var(--surface)}
@@ -880,7 +885,7 @@ $('themeBtn').onclick = () => { theme = theme === 'dark' ? 'light' : 'dark'; set
 const dlg = $('dlg');
 let lastFocus = null;
 function openDlg(eyebrow, title, html) {
-  $('dlgEyebrow').textContent = eyebrow; $('dlgTitle').textContent = title; $('dlgBody').innerHTML = html; $('dlgBody').scrollTop = 0;
+  if (eyebrow && eyebrow.html) $('dlgEyebrow').innerHTML = eyebrow.html; else $('dlgEyebrow').textContent = eyebrow; $('dlgTitle').textContent = title; $('dlgBody').innerHTML = html; $('dlgBody').scrollTop = 0;
   if (!dlg.open) { lastFocus = document.activeElement; openedByKey = lastInputKey; if (dlg.showModal) dlg.showModal(); else dlg.setAttribute('open', ''); }
 }
 /* keyboard users get focus back on the item they opened; mouse/touch users get no leftover focus ring */
@@ -926,7 +931,7 @@ const OPEN = {
       [s === 'result' ? 'Played' : 'Starts', s === 'result' ? (m.day || whenText(m.when)) : whenText(m.when) || 'TBC'], ['Venue', m.venue || 'TBC'], ['Watch in India', watchList(m).length ? '' : 'Not confirmed yet'],
       ['Result', s === 'result' ? (m.win ? (m.win === 'a' ? m.a[1] : m.b[1]) + ' won' : 'Draw / shared') : '—']].filter((r) => r[1]);
     const related = DATA.matches.filter((x) => x.id !== m.id && x.comp === m.comp && (x.sport === m.sport)).slice(0, 6);
-    openDlg(`${m.sport}${m.india ? ' · India' : ''}`, `${m.a[1]} v ${m.b[1]}`,
+    openDlg({ html: sportEyebrow(m.sport, m.india) }, `${m.a[1]} v ${m.b[1]}`,
       `<div class="dlg-score"><div class="sd">${badge(m.a, 56)}${esc(m.a[1])}<span class="sc">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, 'a')}</span></div><div style="font-family:'Archivo',sans-serif;font-weight:900;color:var(--muted)">vs</div><div class="sd">${badge(m.b, 56)}${esc(m.b[1])}<span class="sc">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, 'b')}</span></div></div>
       ${m.note ? `<p style="margin:0;font-size:16px;line-height:1.55">${esc(m.note)}</p>` : ''}
       ${watchChips(m)}
@@ -942,7 +947,7 @@ const OPEN = {
   comp(id) {
     const c = (DATA.competitions || []).find((x) => (x.id || x.name) === id); if (!c) return;
     const ms = sortM(DATA.matches.filter((m) => (c.comp && m.comp === c.comp) || m.comp === c.name));
-    openDlg(c.sport + (c.india ? ' · India' : ''), c.name,
+    openDlg({ html: sportEyebrow(c.sport, c.india) }, c.name,
       `<p style="margin:0;font-size:16px;line-height:1.55">${esc(c.note || '')}</p><dl class="dl"><dt>Status</dt><dd>${esc(c.status)}</dd><dt>Sport</dt><dd>${esc(c.sport)}</dd></dl>
       <div><div class="eyebrow" style="margin-bottom:10px">Matches on the site (${ms.length})</div>${listOr(ms, matchRow, 'No fixtures listed yet — they will appear here as soon as they are announced.')}</div>
       ${c.id === 'asian-games' && DATA.event ? `<button type="button" class="dlg-item" data-open="medals:all"><span class="medal-ico m-gold">G</span><span><b>India's ${medalsAll().length} medals</b><span class="s2">Full list with athletes and events</span></span></button>` : ''}
@@ -1040,7 +1045,7 @@ const OPEN = {
   sport(s) {
     const ms = sortM(DATA.matches.filter((m) => m.sport === s));
     const cs = (DATA.competitions || []).filter((c) => c.sport === s);
-    openDlg('Sport', s, `${cs.length ? `<div><div class="eyebrow" style="margin-bottom:10px">Tournaments</div><div class="dlg-list">${cs.map((c) => `<button type="button" class="dlg-item" data-open="comp:${esc(c.id || c.name)}"><span><b>${esc(c.name)}</b><span class="s2">${esc(c.status)}</span></span></button>`).join('')}</div></div>` : ''}<div><div class="eyebrow" style="margin-bottom:10px">Matches (${ms.length})</div>${listOr(ms, matchRow, 'No matches listed.')}</div>`);
+    openDlg({ html: sportEyebrow(s, false) }, s, `${cs.length ? `<div><div class="eyebrow" style="margin-bottom:10px">Tournaments</div><div class="dlg-list">${cs.map((c) => `<button type="button" class="dlg-item" data-open="comp:${esc(c.id || c.name)}"><span><b>${esc(c.name)}</b><span class="s2">${esc(c.status)}</span></span></button>`).join('')}</div></div>` : ''}<div><div class="eyebrow" style="margin-bottom:10px">Matches (${ms.length})</div>${listOr(ms, matchRow, 'No matches listed.')}</div>`);
   },
   stat(i) {
     const st = DATA.event && DATA.event.stats ? DATA.event.stats[+i] : null; if (!st) return;
@@ -1147,6 +1152,7 @@ function confettiHtml(m) {
 const celebrate = (m) => state(m) === 'result' && m.win && isRecent(m);
 const SPORTSTY = { Cricket: ['🏏', '#2563EB'], Football: ['⚽', '#16A34A'], Hockey: ['🏑', '#D97706'], Kabaddi: ['🤼', '#EA580C'], Badminton: ['🏸', '#7C3AED'], Tennis: ['🎾', '#CA8A04'], Athletics: ['🏃', '#DC2626'], Boxing: ['🥊', '#BE185D'], Wrestling: ['🤼', '#92400E'], Shooting: ['🎯', '#0891B2'], Archery: ['🏹', '#A21CAF'], Chess: ['♟️', '#475569'], 'Table tennis': ['🏓', '#0F766E'], Golf: ['⛳', '#4D7C0F'], 'Formula 1': ['🏎️', '#BE123C'], Basketball: ['🏀', '#C2410C'], Volleyball: ['🏐', '#0D9488'], Weightlifting: ['🏋️', '#4338CA'] };
 const sportSty = (n) => SPORTSTY[n] || ['🏅', '#2563EB'];
+const sportEyebrow = (n, ind) => `<span class="eb-row">${sportChip(n)}${ind ? '<span class="ind-tag">INDIA</span>' : ''}</span>`;
 const sportChip = (n) => { const [ic, c] = sportSty(n); return `<span class="sport-chip" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n)}</span>`; };
 const sportTag = (n) => { const [ic, c] = sportSty(n); return `<small class="tk-sp" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n.toUpperCase())}</small>`; };
 function cardHtml(m) {
