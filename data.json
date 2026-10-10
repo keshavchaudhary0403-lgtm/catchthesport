@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T14:04:30+05:30",
+  "lastUpdated": "2026-10-10T14:21:25+05:30",
   "dayLabel": "Sat 10 Oct · ISL opens today; WI beat India in 2nd T20I",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -1494,6 +1494,70 @@
       "watch": [
         "FanCode"
       ]
+    },
+    {
+      "id": "acl2-eb-shorta",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "AFC Champions League Two",
+      "round": "Group D",
+      "a": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "SHR",
+        "Al-Shorta",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-13T19:15:00+05:30",
+      "venue": "Salt Lake Stadium, Kolkata",
+      "watch": [
+        "FanCode"
+      ],
+      "note": "East Bengal's home tie against Iraq's Al-Shorta in Group D (with Al Hussein and Al Seeb).",
+      "src": [
+        {
+          "t": "FanCode – East Bengal FC vs Al Shorta (13 Oct, 7:15 PM)",
+          "u": "https://www.fancode.com/football/tour/afc-champions-league-two-2026-27-19845218/matches/east-bengal-fc-vs-al-shorta-4248975/live-match-info"
+        },
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
+    },
+    {
+      "id": "acgl-goa-regar",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "AFC Challenge League",
+      "round": "Group C",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#F97316"
+      ],
+      "b": [
+        "REG",
+        "Regar-TadAZ",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-10-17",
+      "note": "Kick-off time and venue not yet confirmed — listings disagree.",
+      "src": [
+        {
+          "t": "Khel Now – Indian football calendar, October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1571,6 +1635,21 @@
       ]
     },
     {
+      "sport": "Hockey",
+      "name": "Asian Champions Trophy 2026",
+      "status": "27 Oct – 5 Nov · Jalandhar & Mohali",
+      "live": false,
+      "india": true,
+      "id": "act-2026",
+      "note": "India (holders) open v Bangladesh on 27 Oct, then China 29 Oct, Japan 30 Oct, Malaysia 1 Nov, South Korea 2 Nov — all 7 pm IST. Pakistan withdrew; Bangladesh replace them.",
+      "src": [
+        {
+          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
+          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
+        }
+      ]
+    },
+    {
       "sport": "Football",
       "name": "Premier League",
       "status": "Back 10 Oct",
@@ -1620,14 +1699,15 @@
       "name": "AFC club competitions",
       "status": "From 13 Oct",
       "india": true,
-      "note": "East Bengal v Al-Shorta (AFC Champions League 2, 13 Oct); FC Goa in the AFC Challenge League.",
+      "note": "East Bengal v Al-Shorta (AFC Champions League Two, 13 Oct, 7:15 pm, Kolkata); FC Goa v Regar-TadAZ (AFC Challenge League, 17 Oct).",
       "id": "afc-clubs",
       "src": [
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
-      ]
+      ],
+      "live": true
     },
     {
       "sport": "Formula 1",
@@ -1747,6 +1827,32 @@
     }
   ],
   "feed": [
+    {
+      "t": "9 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Hockey",
+      "text": "Asian Champions Trophy schedule out: India begin their title defence against Bangladesh in Jalandhar on 27 Oct (7 pm IST); semis and final in Mohali on 4–5 Nov. Pakistan have withdrawn.",
+      "src": [
+        {
+          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
+          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
+        }
+      ]
+    },
+    {
+      "t": "9 Oct",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Table tennis",
+      "text": "WTT China Smash: Manav Thakkar & Manush Shah lose 8-11, 6-11, 3-11 to South Korea's Lim Jonghoon & Oh Junsung in the men's doubles semi-finals in Beijing.",
+      "src": [
+        {
+          "t": "Sportstar – Manush, Manav bow out in China Smash doubles semis",
+          "u": "https://sportstar.thehindu.com/table-tennis/manush-shah-manav-thakkar-china-smash-2026-doubles-semifinal/article71562891.ece"
+        }
+      ]
+    },
     {
       "t": "9 Oct",
       "tag": "NEWS",
@@ -1891,32 +1997,6 @@
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
         }
       ]
-    },
-    {
-      "t": "20:00",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Arctic Open: HS Prannoy loses 10-21 9-21 to Anders Antonsen and Isharani Baruah falls to top seed Ratchanok Intanon, but Garaga/Roy upset the fifth-seeded Chinese pair 10-21 21-18 22-20 in men's doubles. Srikanth, Mannepalli and Chouhan still to play.",
-      "src": [
-        {
-          "t": "The Print – Prannoy out, Garaga/Roy stun fifth seeds",
-          "u": "https://theprint.in/sport/prannoy-out-krishna-pruthvi-stuns-fifth-seeds-at-arctic-open/3064356/"
-        }
-      ]
-    },
-    {
-      "t": "11:05",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Arctic Open: Tanvi Sharma upsets world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals, joining PV Sindhu in the last 16.",
-      "src": [
-        {
-          "t": "India Sports Hub – Tanvi Sharma beats Chiu Pin-Chian",
-          "u": "https://www.indiasportshub.com/articles/tanvi-sharma-defeats-world-no-18-chiu-pin-chian-as-pv-sindhu-cruises-into-arctic-open-pre-quarterfinals"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -1959,6 +2039,45 @@
       "meta": "Cricket · Raipur",
       "time": "19:00",
       "match": "indw-zimw-t20-1"
+    },
+    {
+      "d": "13",
+      "mo": "OCT",
+      "title": "East Bengal v Al-Shorta (AFC Champions League Two)",
+      "meta": "Football · Kolkata",
+      "time": "19:15",
+      "match": "acl2-eb-shorta"
+    },
+    {
+      "d": "17",
+      "mo": "OCT",
+      "title": "India v West Indies, 5th T20I",
+      "meta": "Cricket",
+      "time": "19:00",
+      "match": "ind-wi-t20-5"
+    },
+    {
+      "d": "18",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 2nd T20I",
+      "meta": "Cricket",
+      "time": "19:00",
+      "match": "indw-zimw-t20-2"
+    },
+    {
+      "d": "20",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 3rd T20I",
+      "meta": "Cricket",
+      "time": "19:00",
+      "match": "indw-zimw-t20-3"
+    },
+    {
+      "d": "27",
+      "mo": "OCT",
+      "title": "India v Bangladesh, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
+      "time": "19:00"
     }
   ],
   "players": [
