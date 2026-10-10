@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T21:04:38+05:30",
-  "dayLabel": "Sat 10 Oct · ISL is back; Chennaiyin lead Goa 1–0 late on",
+  "lastUpdated": "2026-10-10T21:35:27+05:30",
+  "dayLabel": "Sat 10 Oct · ISL is back; Goa and Chennaiyin draw 1–1",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -252,7 +252,7 @@
     },
     {
       "id": "isl-goa-che",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -260,7 +260,7 @@
       "a": [
         "FCG",
         "FC Goa",
-        "0",
+        "1",
         "#EA580C"
       ],
       "b": [
@@ -305,8 +305,10 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "74' · Chennaiyin lead",
-      "scoreAt": "2026-10-10T21:04:38+05:30"
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T21:35:27+05:30",
+      "note": "Chennaiyin led through Irfan Yadwad (63') before Chiki equalised for Goa in the 75th minute at Fatorda."
     },
     {
       "id": "isl-chu-mcfc",
@@ -2050,8 +2052,12 @@
       "status": "Live · 8–11 Oct · New Delhi",
       "live": true,
       "india": true,
-      "note": "Four-day national championships at JLN Stadium, New Delhi. Day 1: Nirbhay Chaudhary hammer gold 69.42m, Kuldeep Kumar pole vault meet record 5.30m. Day 2 has 14 finals incl. men's 100m, 400m and 1500m.",
+      "note": "Four-day national championships at JLN Stadium, New Delhi. Day 1: Nirbhay Chaudhary hammer gold 69.42m, Kuldeep Kumar pole vault meet record 5.30m. Day 2 has 14 finals incl. men's 100m, 400m and 1500m. Day 3: Anushka Yadav hammer meet record 66.53m. Final day 11 Oct.",
       "src": [
+        {
+          "t": "Rediff/PTI – Day 3 results",
+          "u": "https://m.rediff.com/sports/report/teenage-hammer-thrower-anushka-yadav-improves-meet-record/20261010.htm"
+        },
         {
           "t": "Khel Now – National Open Athletics Day 1 wrap",
           "u": "https://khelnow.com/athletics/day-1-report-national-open-athletics-championships-202610"
@@ -2096,12 +2102,31 @@
   ],
   "feed": [
     {
-      "t": "21:04",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ISL: Chennaiyin FC lead FC Goa 1–0 at the 74th minute at Fatorda (official match centre; scorer not listed).",
-      "match": "isl-goa-che"
+      "t": "10 Oct",
+      "tag": "DRAW",
+      "c": "var(--silver)",
+      "m": "ISL",
+      "text": "FC Goa 1–1 Chennaiyin FC at Fatorda: Irfan Yadwad put Chennaiyin ahead (63'), Chiki levelled for Goa (75').",
+      "match": "isl-goa-che",
+      "src": [
+        {
+          "t": "ISL – FC Goa v Chennaiyin match centre",
+          "u": "https://www.indiansuperleague.com/matchcentre/194635"
+        }
+      ]
+    },
+    {
+      "t": "21:02",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Athletics",
+      "text": "National Open, Day 3: 18-year-old Anushka Yadav wins women's hammer with a meet record 66.53m (old mark 64.42m). Sunil Dawar takes men's 5000m, Karanveer Singh shot put (19.63m), SSCB the men's 4x100m relay.",
+      "src": [
+        {
+          "t": "Rediff/PTI – Anushka Yadav sets hammer meet record",
+          "u": "https://m.rediff.com/sports/report/teenage-hammer-thrower-anushka-yadav-improves-meet-record/20261010.htm"
+        }
+      ]
     },
     {
       "t": "20:03",
@@ -2116,14 +2141,6 @@
           "u": "https://www.bbc.com/sport/formula1/live/c9wqlxzvnzvt"
         }
       ]
-    },
-    {
-      "t": "19:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "ISL",
-      "text": "FC Goa v Chennaiyin under way at Fatorda — 0–0 at half-time.",
-      "match": "isl-goa-che"
     },
     {
       "t": "10 Oct",
