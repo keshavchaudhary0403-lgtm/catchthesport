@@ -514,6 +514,11 @@ a.wchip:hover{border-color:var(--accent);color:var(--accent)}
 /* ticker labels: rounded badges matching the item boxes, with a fade so items slide under cleanly */
 .ticker::before{content:'';position:absolute;left:0;top:0;bottom:0;width:200px;z-index:1;pointer-events:none;background:linear-gradient(90deg,var(--surface-2) 0,var(--surface-2) 176px,transparent 200px)}
 .ticker-tag{left:16px;top:50% !important;bottom:auto !important;transform:translateY(-50%);height:46px;width:150px;border-radius:12px;font-size:12px;white-space:nowrap;box-shadow:0 6px 14px -8px rgba(15,20,25,.45),inset 0 1px 0 rgba(255,255,255,.18)}
+.tag-btn{cursor:pointer;transition:filter .15s,transform .15s}
+.tag-btn:hover{filter:brightness(1.1)}
+.tag-btn:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.tag-btn .tag-go{margin-left:2px;opacity:.85;transition:transform .15s}
+.tag-btn:hover .tag-go{transform:translateX(3px)}
 .ticker-tag .dot{animation:tagPulse 1.4s ease-in-out infinite}
 @keyframes tagPulse{50%{opacity:.35}}
 .track{padding-left:186px !important}
@@ -594,11 +599,11 @@ a.wchip:hover{border-color:var(--accent);color:var(--accent)}
 </div>
 
 <div class="ticker" aria-label="Live and upcoming">
-<div class="ticker-tag"><span class="dot" style="background:#fff"></span>LIVE &amp; NEXT</div>
+<div class="ticker-tag tag-btn" data-open="list:livenext" role="button" tabindex="0" aria-label="See all live and upcoming matches" title="See all live &amp; upcoming matches"><span class="dot" style="background:#fff"></span>LIVE &amp; NEXT<svg class="tag-go" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 <div class="track" id="ticker"></div>
 </div>
 <div class="ticker ticker-res" aria-label="Latest results">
-<div class="ticker-tag" style="background:#15803D"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>RESULTS</div>
+<div class="ticker-tag tag-btn" data-open="list:results" role="button" tabindex="0" aria-label="See all results" title="See all results" style="background:#15803D"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>RESULTS<svg class="tag-go" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
 <div class="track" id="resTicker"></div>
 </div>
 
@@ -1029,6 +1034,7 @@ const OPEN = {
       live: ['Live & under way', DATA.matches.filter((m) => state(m) === 'live' || state(m) === 'started')],
       today: ['Today’s matches', DATA.matches.filter((m) => m.when && istDay(whenMs(m)) === today)],
       india: ['India’s upcoming matches', DATA.matches.filter((m) => m.india && state(m) === 'upcoming')],
+      livenext: ['Live & next — every live and upcoming match', DATA.matches.filter((m) => state(m) === 'live' || state(m) === 'started' || (state(m) === 'upcoming' && whenMs(m) - Date.now() < 14 * 864e5))],
       indlive: ['India — live & under way', DATA.matches.filter((m) => m.india && (state(m) === 'live' || state(m) === 'started'))],
       indtoday: ['India — today', DATA.matches.filter((m) => m.india && m.when && istDay(whenMs(m)) === today)],
       indnext: ['India — next ' + NEXT_DAYS + ' days', DATA.matches.filter((m) => m.india && state(m) === 'upcoming' && whenMs(m) - Date.now() < NEXT_DAYS * 864e5)],
@@ -1039,7 +1045,7 @@ const OPEN = {
     }[kind];
     if (!L) return;
     L[1] = sortM(L[1]);
-    openDlg('Match centre', `${L[0]} (${L[1].length})`, `<div class="dlg-tabs">${[['indlive', 'India live'], ['indtoday', 'India today'], ['indnext', 'India next 7 days'], ['live', 'All live'], ['upcoming', 'All upcoming'], ['recent', 'Just finished'], ['results', 'Results'], ['all', 'All']].map((k) => `<button type="button" class="chip" aria-selected="${k[0] === kind}" data-open="list:${k[0]}">${k[1]}</button>`).join('')}</div>${listOr(sortM(L[1]), matchRow, 'Nothing here right now.')}`);
+    openDlg('Match centre', `${L[0]} (${L[1].length})`, `<div class="dlg-tabs">${[['livenext', 'Live & next'], ['indlive', 'India live'], ['indtoday', 'India today'], ['indnext', 'India next 7 days'], ['live', 'All live'], ['upcoming', 'All upcoming'], ['recent', 'Just finished'], ['results', 'Results'], ['all', 'All']].map((k) => `<button type="button" class="chip" aria-selected="${k[0] === kind}" data-open="list:${k[0]}">${k[1]}</button>`).join('')}</div>${listOr(sortM(L[1]), matchRow, 'Nothing here right now.')}`);
   },
   sports() {
     const sp = sportsPresent();
