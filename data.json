@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T14:41:28+05:30",
-  "dayLabel": "Sat 10 Oct · ISL opens today; WI beat India in 2nd T20I",
+  "lastUpdated": "2026-10-10T16:10:30+05:30",
+  "dayLabel": "Sat 10 Oct · ISL opens today; Verstappen wins Singapore sprint",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -920,26 +920,30 @@
     },
     {
       "id": "f1-sin-sprint",
-      "st": "upcoming",
+      "st": "result",
       "sport": "Formula 1",
       "comp": "Singapore Grand Prix",
       "round": "Sprint",
       "a": [
         "F1",
         "Formula 1",
-        "",
+        "Winner: Verstappen",
         "#E10600"
       ],
       "b": [
         "SIN",
         "Marina Bay",
-        "",
+        "2nd: Hamilton",
         "#334155"
       ],
       "when": "2026-10-10T14:30:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "21-lap sprint, Verstappen on pole ahead of Russell and Leclerc. Start delayed by heavy rain at Marina Bay.",
+      "note": "Verstappen won the rain-hit 20-lap sprint from pole, 2.5s clear of Hamilton (P2 from sixth); Leclerc third, Antonelli fourth. Russell crashed out of the lead; Norris and Piastri collided on the last lap (Piastri out, Norris 8th, stewards investigating).",
       "src": [
+        {
+          "t": "PlanetF1 – Singapore GP sprint report",
+          "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
+        },
         {
           "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
           "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
@@ -959,7 +963,11 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T16:10:30+05:30"
     },
     {
       "id": "f1-sin-race",
@@ -1480,7 +1488,7 @@
       ],
       "when": "2026-10-10T18:30:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Sprint-weekend Saturday; sprint qualifying is Fri 9 Oct at 18:00 IST.",
+      "note": "Qualifying for Sunday's race, 18:30 IST. Verstappen won this morning's sprint; Hamilton second, Leclerc third.",
       "src": [
         {
           "t": "Spike Today – F1 Singapore GP start times (IST)",
@@ -1910,6 +1918,33 @@
   ],
   "feed": [
     {
+      "t": "15:50",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Formula 1",
+      "text": "Verstappen wins the rain-delayed Singapore GP sprint from pole, 2.5s ahead of Hamilton; Leclerc third. Russell crashed out of the lead and Norris and Piastri collided on the final lap.",
+      "match": "f1-sin-sprint",
+      "src": [
+        {
+          "t": "PlanetF1 – Singapore GP sprint report",
+          "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
+        }
+      ]
+    },
+    {
+      "t": "9 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Athletics",
+      "text": "National Open Day 2: Manikanta Hoblidhar wins men's 100m in 10.25; Akash Raj takes 400m (46.24), Arjun Waskale 1500m (3:43.04), Anjli women's 400m (53.37), Manpreet Kaur shot put (17.07m).",
+      "src": [
+        {
+          "t": "Telangana Today – Hoblidhar wins 100m gold",
+          "u": "https://telanganatoday.com/manikanta-hoblidhar-wins-100m-gold-at-national-open-athletics-championships"
+        }
+      ]
+    },
+    {
       "t": "14:35",
       "tag": "NEWS",
       "c": "var(--live-text)",
@@ -2049,34 +2084,6 @@
         {
           "t": "AIFF – New-look India go down to Russia in Kolkata friendly",
           "u": "https://www.the-aiff.com/article/new-look-india-go-down-to-russia-in-kolkata-friendly"
-        }
-      ]
-    },
-    {
-      "t": "8 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "India U17 women beat Syria 2–0 in Malaysia — Anushka Kumari scores in the 5th and 55th minutes — for a second straight win in AFC U17 Women's Asian Cup qualifying. Hosts Malaysia next on 11 Oct.",
-      "match": "u17w-syr-ind",
-      "src": [
-        {
-          "t": "Football India – Syria 0-2 India (U17 women)",
-          "u": "https://footballin.in/event/syria-vs-india-2/"
-        }
-      ]
-    },
-    {
-      "t": "16:40",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Arctic Open: PV Sindhu beats Riko Gunji 21-15 21-15 to reach the quarter-finals. Tanvi Sharma loses 18-21 7-21 to top seed Ratchanok Intanon and Tharun Mannepalli goes down 14-21 19-21 to Christo Popov.",
-      "match": "arctic-sindhu-gunji",
-      "src": [
-        {
-          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
-          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
         }
       ]
     }
