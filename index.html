@@ -1216,9 +1216,14 @@ function playCel(el) { el.classList.remove('play'); void el.offsetWidth; el.clas
 function watchCelebrations() {
   const els = document.querySelectorAll('.celebrate:not([data-cw]), #tilt.celebrate:not([data-cw])');
   if (!('IntersectionObserver' in window)) { els.forEach(playCel); return; }
-  celObs = celObs || new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { playCel(e.target); celObs.unobserve(e.target); } }), { threshold: 0.5 });
+  celObs = celObs || new IntersectionObserver((es) => es.forEach((e) => { e.target.classList.toggle('cel-vis', e.isIntersecting); if (e.isIntersecting && !e.target.dataset.cp) { e.target.dataset.cp = '1'; playCel(e.target); } }), { threshold: 0.4 });
   els.forEach((el) => { el.setAttribute('data-cw', '1'); celObs.observe(el); el.addEventListener('mouseenter', () => playCel(el)); });
 }
+/* keep celebrating: replay the confetti on every visible winner every few seconds, staggered */
+setInterval(() => {
+  if (document.hidden || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  [...document.querySelectorAll('.celebrate.cel-vis')].forEach((el, i) => setTimeout(() => playCel(el), i * 450));
+}, 4000);
 function renderAll() {
   renderMatches(); renderEvent(); pickFeatured(); requestAnimationFrame(watchCelebrations);
   const live = DATA.matches.filter((m) => state(m) === 'live' || state(m) === 'started').length;
