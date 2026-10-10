@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T21:35:27+05:30",
+  "lastUpdated": "2026-10-10T22:34:41+05:30",
   "dayLabel": "Sat 10 Oct · ISL is back; Goa and Chennaiyin draw 1–1",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -446,20 +446,20 @@
     },
     {
       "id": "epl-mun-tot",
-      "st": "upcoming",
+      "st": "live",
       "sport": "Football",
       "comp": "Premier League",
       "round": "",
       "a": [
         "MUN",
         "Manchester United",
-        "",
+        "0",
         "#DA291C"
       ],
       "b": [
         "TOT",
         "Tottenham Hotspur",
-        "",
+        "0",
         "#132257"
       ],
       "when": "2026-10-10T22:00:00+05:30",
@@ -476,7 +476,10 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "status": "34' · first half",
+      "scoreAt": "2026-10-10T22:34:00+05:30",
+      "venue": "Old Trafford"
     },
     {
       "id": "epl-liv-mci",
