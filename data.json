@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T02:05:15+05:30",
+  "lastUpdated": "2026-10-10T10:05:25+05:30",
   "dayLabel": "Sat 10 Oct · ISL opens today; WI beat India in 2nd T20I",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -1705,8 +1705,12 @@
       "status": "Live · 8–11 Oct · New Delhi",
       "live": true,
       "india": true,
-      "note": "Four-day national championships at JLN Stadium, New Delhi; streamed on the Athletics Federation of India YouTube channel.",
+      "note": "Four-day national championships at JLN Stadium, New Delhi. Day 1: Nirbhay Chaudhary hammer gold 69.42m, Kuldeep Kumar pole vault meet record 5.30m. Day 2 has 14 finals incl. men's 100m, 400m and 1500m.",
       "src": [
+        {
+          "t": "Khel Now – National Open Athletics Day 1 wrap",
+          "u": "https://khelnow.com/athletics/day-1-report-national-open-athletics-championships-202610"
+        },
         {
           "t": "Wikipedia – Indian National Open Athletics Championships",
           "u": "https://en.wikipedia.org/wiki/Indian_National_Open_Athletics_Championships"
@@ -1729,6 +1733,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "9 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Athletics",
+      "text": "National Open Athletics, Day 1: Nirbhay Chaudhary wins hammer gold (69.42m), Kuldeep Kumar sets a meet record in pole vault (5.30m), Asha Ilango triple jump meet record (13.89m). Fourteen finals today, incl. men's 100m.",
+      "src": [
+        {
+          "t": "Khel Now – National Open Athletics Day 1 wrap",
+          "u": "https://khelnow.com/athletics/day-1-report-national-open-athletics-championships-202610"
+        }
+      ]
+    },
     {
       "t": "Late 9 Oct",
       "tag": "LOSS",
@@ -1884,19 +1901,6 @@
         {
           "t": "India Sports Hub – Tanvi Sharma beats Chiu Pin-Chian",
           "u": "https://www.indiasportshub.com/articles/tanvi-sharma-defeats-world-no-18-chiu-pin-chian-as-pv-sindhu-cruises-into-arctic-open-pre-quarterfinals"
-        }
-      ]
-    },
-    {
-      "t": "6 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "India name their 16-man squad for the five-T20I tour of New Zealand (22 Oct–1 Nov, starting in Christchurch): Bhuvneshwar Kumar returns after nearly four years, Varun Chakaravarthy is back, Jasprit Bumrah is not included; Shreyas Iyer captains.",
-      "src": [
-        {
-          "t": "Olympics.com – India squad for New Zealand T20Is",
-          "u": "https://www.olympics.com/en/news/india-squad-new-zealand-t20-2026-cricket-team-bhuvneshwar-kumar-return"
         }
       ]
     }
