@@ -412,15 +412,18 @@ canvas.popper{position:absolute;pointer-events:none;z-index:7}
 .tk-cel{position:relative;border-color:rgba(242,183,5,.55);background:linear-gradient(180deg,rgba(242,183,5,.10),transparent 60%),var(--surface)}
 .tk .tk-win{position:relative;display:inline-flex;align-items:center;gap:8px;flex:none}
 .tk .tk-win .burst{left:10px}
-.tk-cel .burst i{--k:1.15;animation:burstOut 2.6s cubic-bezier(.12,.75,.25,1) infinite}
-.tk-cel .burst .sp{animation-name:sparkOut;animation-duration:2.9s}
-.tk-cel .burst .ring{animation:ringOut 2.4s cubic-bezier(.2,.7,.3,1) infinite}
-.tk-cel .burst .ring.r2{animation-delay:.12s;animation-duration:2.8s}
+.tk-sparkle{position:absolute;left:0;top:50%;width:0;height:0;pointer-events:none;z-index:2}
+.tk-sparkle i{position:absolute;left:var(--x);top:var(--y);opacity:0;transform:translate(-50%,-50%) scale(.2);animation:tkSpark 2.2s ease-in-out var(--d) infinite}
+.tk-sparkle .st svg{width:12px;height:12px;display:block;filter:drop-shadow(0 0 3px currentColor)}
+.tk-sparkle .dt{width:5px;height:5px;border-radius:50%;background:currentColor;box-shadow:0 0 6px 1px currentColor}
+.tk-sparkle .rb{width:4px;height:9px;border-radius:1px;background:currentColor}
+@keyframes tkSpark{0%{opacity:0;transform:translate(-50%,-50%) scale(.2) rotate(0)}25%{opacity:1;transform:translate(-50%,calc(-50% - 3px)) scale(1.1) rotate(60deg)}60%{opacity:.85;transform:translate(-50%,calc(-50% - 7px)) scale(.9) rotate(150deg)}100%{opacity:0;transform:translate(-50%,calc(-50% + 6px)) scale(.3) rotate(240deg)}}
+.tk-cel-old .tk-sparkle i{animation-duration:2.8s}
 .tk-cel .tk-win .flag,.tk-cel .tk-win .club{box-shadow:0 0 0 2px var(--surface),0 0 0 3px #F2B705}
 .tk .tk-sco{font-weight:700;white-space:nowrap;margin:0 2px 0 4px;padding:2px 10px;border-radius:8px;background:var(--surface-2)}
 .tk .tk-rnd{color:var(--muted);font-size:12px;white-space:nowrap;margin-left:2px}
 .tk>*{flex:none}
-@media (prefers-reduced-motion:reduce){.tk-cel .burst{display:none}}
+@media (prefers-reduced-motion:reduce){.tk-sparkle{display:none}}
 /* modern burst: glowing particles + sparkles + shockwave ring from the winner's flag */
 .celebrate .team .n{position:relative}
 .burst{position:absolute;left:18px;top:50%;width:0;height:0;pointer-events:none;z-index:3;overflow:visible !important}
@@ -1329,6 +1332,19 @@ function popper(el) {
   };
   cv._raf = requestAnimationFrame(step);
 }
+/* sparkles for the results running line: twinkling stars, glow dots and paper ribbons around the winner (tricolour for India) */
+function tkSparkle(w, m, seed) {
+  const ind = w[0] === 'IND' || (m.india && /india/i.test(w[1]));
+  const cols = ind ? ['#FF9933', '#FFFFFF', '#138808', '#FFB347', '#1FAA3A', '#FF9933'] : ['#F2B705', '#60A5FA', '#F472B6', '#34D399', '#A78BFA', '#FB923C'];
+  let h = 0; for (const ch of String(seed)) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  const R = (k) => ((h >>> (k % 20)) + k * 2654435761) % 1000 / 1000;
+  let out = '';
+  for (let k = 0; k < 14; k++) {
+    const x = Math.round(-10 + R(k * 3 + 1) * 120), y = Math.round(-20 + R(k * 3 + 2) * 40), d = (R(k * 3 + 3) * 2.2).toFixed(2), c = cols[k % cols.length], kind = k % 3;
+    out += `<i class="${kind === 0 ? 'st' : kind === 1 ? 'dt' : 'rb'}" style="--x:${x}px;--y:${y}px;--d:${d}s;color:${c}">${kind === 0 ? `<svg viewBox="0 0 24 24"><path fill="${c}" d="M12 0c.6 6.5 5.5 11.4 12 12-6.5.6-11.4 5.5-12 12-.6-6.5-5.5-11.4-12-12C6.5 11.4 11.4 6.5 12 0z"/></svg>` : ''}</i>`;
+  }
+  return `<span class="tk-sparkle" aria-hidden="true">${out}</span>`;
+}
 function watchCelebrations() {
   const els = document.querySelectorAll('.celebrate:not([data-cw]), #tilt.celebrate:not([data-cw])');
   if (!('IntersectionObserver' in window)) { els.forEach(playCel); return; }
@@ -1383,9 +1399,10 @@ function renderAll() {
     const w = m.win === 'b' ? m.b : m.a, l = m.win === 'b' ? m.a : m.b, verb = m.win ? 'beat' : 'drew with';
     const SEP = '\u2002\u2013\u2002', score = m.win ? `${sc(w)}${sc(w) || sc(l) ? SEP : ''}${sc(l)}` : scPair(m, SEP);
     const indLost = m.win && l[0] === 'IND';
-    const cel = m.win && (isRecent(m) || (m.india && !indLost && Date.now() - (resMs(m) || whenMs(m)) < 864e5));
-    const spark = cel ? confettiHtml(m) : '';
-    return `<div class="tk${cel ? ' tk-cel' : ''}" ${clickable('match:' + m.id, 'Result details')}>${sportTag(m.sport)}<span class="tk-win">${spark}${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b></span><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b>${score.replace(/\u2002\u2013\u2002/g, '').trim() ? `<span class="mono tk-sco" style="color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score)}</span>` : ''}<span class="mono tk-rnd">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
+    const fresh = !!m.win && isRecent(m) || (m.win && m.india && !indLost && Date.now() - (resMs(m) || whenMs(m)) < 864e5);
+    const cel = !!m.win;
+    const spark = cel ? tkSparkle(w, m, m.id) : '';
+    return `<div class="tk${cel ? (fresh ? ' tk-cel' : ' tk-cel-old') : ''}" ${clickable('match:' + m.id, 'Result details')}>${sportTag(m.sport)}<span class="tk-win">${spark}${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b></span><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b>${score.replace(/\u2002\u2013\u2002/g, '').trim() ? `<span class="mono tk-sco" style="color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score)}</span>` : ''}<span class="mono tk-rnd">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
   });
   $('resTicker').innerHTML = res.concat(res).join('');
   requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
