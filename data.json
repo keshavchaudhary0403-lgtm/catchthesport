@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T14:21:25+05:30",
+  "lastUpdated": "2026-10-10T14:41:28+05:30",
   "dayLabel": "Sat 10 Oct · ISL opens today; WI beat India in 2nd T20I",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -938,8 +938,12 @@
       ],
       "when": "2026-10-10T14:30:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Sprint-weekend Saturday; sprint qualifying is Fri 9 Oct at 18:00 IST.",
+      "note": "21-lap sprint, Verstappen on pole ahead of Russell and Leclerc. Start delayed by heavy rain at Marina Bay.",
       "src": [
+        {
+          "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
+          "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
+        },
         {
           "t": "Spike Today – F1 Singapore GP start times (IST)",
           "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
@@ -1558,6 +1562,84 @@
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ]
+    },
+    {
+      "id": "isl-kashi-odi",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "IKFC",
+        "Inter Kashi",
+        "",
+        "#F59E0B"
+      ],
+      "b": [
+        "ODI",
+        "Odisha FC",
+        "",
+        "#7C3AED"
+      ],
+      "when": "2026-10-17T17:00:00+05:30",
+      "venue": "Venue TBC",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
+      ]
+    },
+    {
+      "id": "isl-neu-kbfc",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "KBFC",
+        "Kerala Blasters",
+        "",
+        "#FACC15"
+      ],
+      "when": "2026-10-18T19:30:00+05:30",
+      "venue": "Indira Gandhi Athletic Stadium, Guwahati",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free, all matches)"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1828,6 +1910,20 @@
   ],
   "feed": [
     {
+      "t": "14:35",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Formula 1",
+      "text": "Singapore GP sprint start delayed by heavy rain at Marina Bay; Verstappen on pole, Russell and Leclerc behind.",
+      "match": "f1-sin-sprint",
+      "src": [
+        {
+          "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
+          "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
+        }
+      ]
+    },
+    {
       "t": "9 Oct",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -1983,20 +2079,6 @@
           "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
         }
       ]
-    },
-    {
-      "t": "09:10",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Arctic Open last 16 today: PV Sindhu v Riko Gunji, Tanvi Sharma v top seed Ratchanok Intanon, and Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth is out.",
-      "match": "arctic-sindhu-gunji",
-      "src": [
-        {
-          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2025,6 +2107,14 @@
       "match": "ind-wi-t20-3"
     },
     {
+      "d": "13",
+      "mo": "OCT",
+      "title": "East Bengal v Al-Shorta (AFC Champions League Two)",
+      "meta": "Football · Kolkata",
+      "time": "19:15",
+      "match": "acl2-eb-shorta"
+    },
+    {
       "d": "14",
       "mo": "OCT",
       "title": "India v West Indies, 4th T20I",
@@ -2039,14 +2129,6 @@
       "meta": "Cricket · Raipur",
       "time": "19:00",
       "match": "indw-zimw-t20-1"
-    },
-    {
-      "d": "13",
-      "mo": "OCT",
-      "title": "East Bengal v Al-Shorta (AFC Champions League Two)",
-      "meta": "Football · Kolkata",
-      "time": "19:15",
-      "match": "acl2-eb-shorta"
     },
     {
       "d": "17",
