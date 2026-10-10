@@ -389,6 +389,21 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .pcard .avatar{width:56px;height:56px;box-shadow:0 0 0 2px var(--surface),0 0 0 3px var(--line-strong)}
 .photo-credits{margin-top:14px;font-size:11px;line-height:1.6;color:var(--muted)}
 .photo-credits a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+/* celebration for just-finished winners */
+.wonpill .trophy{color:#C99A06}
+.cel-row{position:relative}
+.celebrate .team.w .flag,.celebrate .team.w .club{box-shadow:0 0 0 2px var(--surface),0 0 0 4px #F2B705,0 8px 18px -8px rgba(242,183,5,.7)}
+.celebrate{background:linear-gradient(180deg,rgba(242,183,5,.07),transparent 45%),var(--surface)}
+.confetti{position:absolute;left:0;right:0;top:-6px;height:0;pointer-events:none;z-index:3}
+.confetti i{position:absolute;top:0;border-radius:2px;box-shadow:0 0 0 1px rgba(15,20,25,.12);opacity:0;transform:translate(0,0) rotate(var(--r))}
+.celebrate.play .confetti i{animation:conf 1.6s cubic-bezier(.2,.6,.3,1) forwards}
+@keyframes conf{0%{opacity:0;transform:translate(0,-6px) rotate(var(--r)) scale(.6)}12%{opacity:1}70%{opacity:1}100%{opacity:0;transform:translate(var(--dx),58px) rotate(calc(var(--r) + 260deg)) scale(1)}}
+#tilt > .confetti{top:6px;left:8%;right:8%;z-index:6}
+#featA,#featB{position:relative}
+.hero-trophy{position:absolute;right:-10px;top:-10px;width:28px;height:28px;border-radius:50%;background:#F2B705;color:#3B2A00;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 14px -6px rgba(0,0,0,.4);animation:tpop .5s cubic-bezier(.3,1.6,.5,1) both}
+.hero-trophy .trophy{width:16px;height:16px}
+@keyframes tpop{from{transform:scale(0) rotate(-30deg)}to{transform:scale(1) rotate(0)}}
+@media (prefers-reduced-motion:reduce){.confetti{display:none}.hero-trophy{animation:none}}
 /* where-to-watch chips */
 .livefoot{font-size:13px;font-weight:500;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mcard2 .foot{gap:12px}
@@ -1054,18 +1069,39 @@ function winnerName(t) { return t[0] === 'IND' && /india/i.test(t[1]) ? 'India' 
 function wonPill(m) {
   if (state(m) !== 'result') return '';
   if (!m.win) return '<span class="pill wonpill">DRAW</span>';
-  const w = m.win === 'a' ? m.a : m.b;
+  const w = m.win === 'a' ? m.a : m.b, rl = raceLabel(m);
+  if (rl) return `<span class="pill wonpill">${TROPHY}${esc(rl)}</span>`;
   return `<span class="pill wonpill">${badge(w, 16)}${esc(winnerName(w))} won</span>`;
 }
+/* events with no head-to-head (F1, golf…): 'Winner: X' / 'Pole: X' in the score */
+function raceLabel(m) {
+  const v = String((m.a && m.a[2]) || '') ; const x = v.match(/^\s*(winner|won|pole|gold|champion)\s*:\s*(.+)$/i);
+  if (!x) return '';
+  return /pole/i.test(x[1]) ? 'Pole: ' + x[2] : x[2] + ' won';
+}
+const TROPHY = '<svg class="trophy" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg>';
+/* celebration: confetti over the winner of a just-finished match (tricolour when India wins) */
+function confettiHtml(m) {
+  const w = m.win === 'a' ? m.a : m.b, ind = w[0] === 'IND' || (m.india && /india/i.test(w[1]));
+  const cols = ind ? ['#FF9933', '#FFFFFF', '#138808', '#000080'] : ['#F2B705', '#2563EB', '#E5372B', '#16A34A', '#A855F7'];
+  let h = '';
+  for (let i = 0; i < 18; i++) {
+    const x = (i * 37 + 11) % 100, d = (i % 6) * 0.08, r = (i * 53) % 360, c = cols[i % cols.length], sz = 5 + (i % 3) * 2, dx = ((i * 29) % 60) - 30;
+    h += `<i style="left:${x}%;background:${c};width:${sz}px;height:${Math.round(sz * 1.6)}px;animation-delay:${d}s;--r:${r}deg;--dx:${dx}px"></i>`;
+  }
+  return `<span class="confetti" aria-hidden="true">${h}</span>`;
+}
+const celebrate = (m) => state(m) === 'result' && m.win && isRecent(m);
 function cardHtml(m) {
   const s = state(m);
   const pill = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE</span>'
     : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>'
     : s === 'result' ? (isRecent(m) ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">JUST FINISHED</span>' : '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>')
     : m.gold ? '<span class="pill m-gold">MEDAL MATCH</span>' : m.big ? '<span class="pill m-gold">BIG MATCH</span>' : '<span class="pill" style="background:var(--surface-2);color:var(--text-2)">UPCOMING</span>';
-  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}"><div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, k)}</div></div>`;
+  const cel = celebrate(m);
+  const side = (t, k) => `<div class="team ${m.win === k ? 'w' : ''}${cel && m.win === k ? ' cel-row' : ''}">${cel && m.win === k ? confettiHtml(m) : ''}<div class="n">${badge(t, 36)}<span>${esc(t[1])}</span></div><div class="s">${s === 'upcoming' || s === 'started' ? '' : scoreHtml(m, k)}</div></div>`;
   const foot = s === 'live' ? esc(shortStatus(m) + asOf(m)) : s === 'result' ? (isRecent(m) ? 'Result ' + agoTxt(resMs(m)) : esc(m.day || '')) : s === 'started' ? 'Started ' + hhmm(m.when) + ' IST · result awaited' : whenText(m.when);
-  return `<article class="card mcard2" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
+  return `<article class="card mcard2${cel ? ' celebrate' : ''}" ${clickable('match:' + m.id, 'Details: ' + m.a[1] + ' v ' + m.b[1])}>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap"><div style="display:flex;align-items:center;justify-content:space-between;gap:10px;flex-basis:100%">${pill}${wonPill(m)}</div><span style="font-size:12px;color:var(--muted);font-weight:500;flex-basis:100%">${esc(m.sport)} · ${esc(m.comp || '')}${m.round ? ' · ' + esc(m.round) : ''}</span></div>
     <div style="display:flex;flex-direction:column;gap:12px">${side(m.a, 'a')}${side(m.b, 'b')}</div>
     ${s !== 'result' ? watchChips(m) : ''}
@@ -1141,8 +1177,13 @@ function pickFeatured() {
   /* priority: India live (big first) > any big live > India result in last 90 min > next India big match … */
   const liveNow = by((m) => m.india && state(m) === 'live' && (m.big || m.gold)) || by((m) => m.india && on(m) && (m.big || m.gold)) || by((m) => m.india && on(m)) || by((m) => on(m) && (m.big || m.gold));
   if (f && !on(f) && liveNow) f = null;
+  /* a fresh India win is celebrated on the hero for 90 min, unless an India match starts within the hour */
+  const soonInd = by((m) => m.india && state(m) === 'upcoming' && whenMs(m) - Date.now() < 36e5);
+  const freshWin = justDone && justDone.win && (justDone.win === 'a' ? justDone.a : justDone.b)[0] === 'IND' && !soonInd ? justDone : null;
+  if (f && !on(f) && freshWin) f = null;
   f = f || liveNow
         || by((m) => state(m) === 'live')
+        || freshWin
         || by((m) => m.india && state(m) === 'upcoming' && (m.big || m.gold))
         || by((m) => state(m) === 'upcoming' && m.india)
         || by((m) => state(m) === 'upcoming' && m.big)
@@ -1152,13 +1193,16 @@ function pickFeatured() {
   feat = f;
   if (!f) return;
   const s = state(f);
-  $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.gold && f.win ? (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? 'INDIA WIN GOLD' : 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
+  $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.win && (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? (f.gold ? 'INDIA WIN GOLD' : 'INDIA WIN') : f.gold && f.win ? 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
   $('featTitle').textContent = [f.sport, f.comp, f.round].filter(Boolean).join(' · ');
   $('featWhen').textContent = s === 'live' ? shortStatus(f) : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'a');
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'b');
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
   $('featWatch').innerHTML = s !== 'result' ? watchChips(f, 'hero') : '';
+  const tl = $('tilt'), old = tl.querySelector(':scope > .confetti'); if (old) old.remove();
+  tl.classList.toggle('celebrate', !!celebrate(f)); tl.removeAttribute('data-cw');
+  if (celebrate(f)) { tl.insertAdjacentHTML('afterbegin', confettiHtml(f)); (f.win === 'a' ? $('featA') : $('featB')).insertAdjacentHTML('beforeend', '<span class="hero-trophy">' + TROPHY + '</span>'); }
   ['featAS', 'featBS'].forEach((id) => $(id).classList.toggle('sc-long', $(id).textContent.length > 6));
 }
 function updAgo() {
@@ -1167,8 +1211,16 @@ function updAgo() {
   $('lastUpd').textContent = (m < 1 ? 'just now' : m < 60 ? m + ' min ago' : m < 1440 ? Math.floor(m / 60) + ' hr ' + (m % 60) + ' min ago' : abs) + (m < 1440 ? ' (' + abs + ' IST)' : '');
 }
 
+let celObs = null;
+function playCel(el) { el.classList.remove('play'); void el.offsetWidth; el.classList.add('play'); }
+function watchCelebrations() {
+  const els = document.querySelectorAll('.celebrate:not([data-cw]), #tilt.celebrate:not([data-cw])');
+  if (!('IntersectionObserver' in window)) { els.forEach(playCel); return; }
+  celObs = celObs || new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { playCel(e.target); celObs.unobserve(e.target); } }), { threshold: 0.5 });
+  els.forEach((el) => { el.setAttribute('data-cw', '1'); celObs.observe(el); el.addEventListener('mouseenter', () => playCel(el)); });
+}
 function renderAll() {
-  renderMatches(); renderEvent(); pickFeatured();
+  renderMatches(); renderEvent(); pickFeatured(); requestAnimationFrame(watchCelebrations);
   const live = DATA.matches.filter((m) => state(m) === 'live' || state(m) === 'started').length;
   const today = istDay(Date.now());
   const todayN = DATA.matches.filter((m) => m.when && istDay(whenMs(m)) === today).length;
