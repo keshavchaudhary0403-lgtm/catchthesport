@@ -396,6 +396,13 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
 .celebrate{background:linear-gradient(180deg,rgba(242,183,5,.07),transparent 45%),var(--surface)}
 canvas.popper{position:absolute;pointer-events:none;z-index:7}
 .mcard2.celebrate,#tilt{position:relative}
+/* results ticker: twinkling sparkles on the winner of fresh results (tricolour when India wins) */
+.tk-cel{position:relative;border-color:rgba(242,183,5,.55);background:linear-gradient(180deg,rgba(242,183,5,.10),transparent 60%),var(--surface)}
+.tk-cel .tk-win{position:relative;display:inline-flex;align-items:center;gap:10px}
+.tk-sparks{position:absolute;left:0;top:50%;width:0;height:0;pointer-events:none;z-index:2}
+.tk-sparks svg{position:absolute;left:0;top:0;width:11px;height:11px;margin:-5px 0 0 -5px;opacity:0;filter:drop-shadow(0 0 3px currentColor);animation:tkTwinkle 1.9s ease-in-out infinite}
+@keyframes tkTwinkle{0%,100%{opacity:0;transform:translate(var(--sx),var(--sy)) scale(.2) rotate(0)}45%{opacity:1;transform:translate(var(--sx),var(--sy)) scale(1.15) rotate(45deg)}70%{opacity:.6;transform:translate(var(--sx),var(--sy)) scale(.7) rotate(80deg)}}
+@media (prefers-reduced-motion:reduce){.tk-sparks svg{animation:none;opacity:.8;transform:translate(var(--sx),var(--sy))}}
 /* modern burst: glowing particles + sparkles + shockwave ring from the winner's flag */
 .celebrate .team .n{position:relative}
 .burst{position:absolute;left:18px;top:50%;width:0;height:0;pointer-events:none;z-index:3;overflow:visible !important}
@@ -1353,7 +1360,11 @@ function renderAll() {
     const w = m.win === 'b' ? m.b : m.a, l = m.win === 'b' ? m.a : m.b, verb = m.win ? 'beat' : 'drew with';
     const score = m.win ? `${sc(w)}${sc(w) || sc(l) ? '–' : ''}${sc(l)}` : scPair(m, '–');
     const indLost = m.win && l[0] === 'IND';
-    return `<div class="tk" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small>${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b><span class="mono" style="font-weight:700;color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score.replace(/^–$/, ''))}</span><span class="mono" style="color:var(--muted);font-size:12px">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
+    const cel = m.win && (isRecent(m) || (m.india && !indLost && Date.now() - (resMs(m) || whenMs(m)) < 864e5));
+    const wInd = w[0] === 'IND' || (m.india && /india/i.test(w[1]));
+    const cols = wInd ? ['#FF9933', '#FFFFFF', '#138808', '#FFB347', '#1FAA3A'] : ['#F2B705', '#60A5FA', '#F472B6', '#34D399', '#A78BFA'];
+    const spark = cel ? `<span class="tk-sparks" aria-hidden="true">${[[-4, -16], [30, -14], [14, 17], [-10, 14], [42, 4], [22, -4]].map((p, i) => `<svg viewBox="0 0 24 24" style="--sx:${p[0] + 10}px;--sy:${p[1]}px;color:${cols[i % cols.length]};animation-delay:${(i * 0.31).toFixed(2)}s"><path fill="currentColor" d="M12 0c.6 6.5 5.5 11.4 12 12-6.5.6-11.4 5.5-12 12-.6-6.5-5.5-11.4-12-12C6.5 11.4 11.4 6.5 12 0z"/></svg>`).join('')}</span>` : '';
+    return `<div class="tk${cel ? ' tk-cel' : ''}" ${clickable('match:' + m.id, 'Result details')}><small>${esc(m.sport.toUpperCase())}</small><span class="tk-win">${spark}${badge(w, 20)}<b style="font-weight:700">${esc(short(w))}</b></span><span class="vs">${verb}</span>${badge(l, 20)}<b style="font-weight:600">${esc(short(l))}</b><span class="mono" style="font-weight:700;color:${indLost ? 'var(--live-text)' : 'var(--win)'}">${esc(score.replace(/^–$/, ''))}</span><span class="mono" style="color:var(--muted);font-size:12px">${esc((m.round || m.comp || '').replace(/ · Gold$/, ' (gold)'))}${isRecent(m) ? ' · ' + agoTxt(resMs(m)) : m.day ? ' · ' + esc(m.day) : ''}</span></div>`;
   });
   $('resTicker').innerHTML = res.concat(res).join('');
   requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
