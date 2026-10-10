@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T16:10:30+05:30",
+  "lastUpdated": "2026-10-10T19:10:43+05:30",
   "dayLabel": "Sat 10 Oct · ISL opens today; Verstappen wins Singapore sprint",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -377,24 +377,28 @@
     },
     {
       "id": "epl-ars-lee",
-      "st": "upcoming",
+      "st": "result",
       "sport": "Football",
       "comp": "Premier League",
       "round": "",
       "a": [
         "ARS",
         "Arsenal",
-        "",
+        "2",
         "#DB0007"
       ],
       "b": [
         "LEE",
         "Leeds United",
-        "",
+        "1",
         "#1D428A"
       ],
       "when": "2026-10-10T17:00:00+05:30",
       "src": [
+        {
+          "t": "NBC Sports – Arsenal 2-1 Leeds live updates",
+          "u": "https://www.nbcsports.com/soccer/live/arsenal-vs-leeds-live-updates-score-goals-highlights-stats-2026-october-10"
+        },
         {
           "t": "Premier League – fixtures",
           "u": "https://www.premierleague.com/fixtures"
@@ -407,7 +411,13 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T19:10:43+05:30",
+      "venue": "Emirates Stadium, London",
+      "note": "Leeds led through James Justin (56'); Arsenal hit back with Riccardo Calafiori (62') and Bruno Guimarães (70') to win 2–1 and go to 15 points."
     },
     {
       "id": "epl-mun-tot",
@@ -1918,6 +1928,20 @@
   ],
   "feed": [
     {
+      "t": "10 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Premier League",
+      "text": "Arsenal come from behind to beat Leeds 2–1 at the Emirates: Calafiori (62') and Guimarães (70') answer James Justin's opener.",
+      "match": "epl-ars-lee",
+      "src": [
+        {
+          "t": "NBC Sports – Arsenal 2-1 Leeds",
+          "u": "https://www.nbcsports.com/soccer/live/arsenal-vs-leeds-live-updates-score-goals-highlights-stats-2026-october-10"
+        }
+      ]
+    },
+    {
       "t": "15:50",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2070,20 +2094,6 @@
         {
           "t": "Sunday Guardian – Arctic Open 2026 results",
           "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
-        }
-      ]
-    },
-    {
-      "t": "19:55",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "India women lose 0–4 to Russia in Kolkata: Iana Sheina scored at 41', Kira Petukhova twice (60', 65') and Iana Svistunova at 81'. The teams meet again on 11 Oct.",
-      "match": "ind-rus-w1",
-      "src": [
-        {
-          "t": "AIFF – New-look India go down to Russia in Kolkata friendly",
-          "u": "https://www.the-aiff.com/article/new-look-india-go-down-to-russia-in-kolkata-friendly"
         }
       ]
     }
