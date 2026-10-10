@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T19:10:43+05:30",
-  "dayLabel": "Sat 10 Oct · ISL opens today; Verstappen wins Singapore sprint",
+  "lastUpdated": "2026-10-10T20:10:29+05:30",
+  "dayLabel": "Sat 10 Oct · ISL is back; Verstappen on Singapore pole",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -194,7 +194,7 @@
     },
     {
       "id": "isl-bfc-del",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -202,18 +202,22 @@
       "a": [
         "BFC",
         "Bengaluru FC",
-        "",
+        "3",
         "#1E3A8A"
       ],
       "b": [
         "DEL",
         "Sporting Club Delhi",
-        "",
+        "2",
         "#B91C1C"
       ],
       "when": "2026-10-10T17:00:00+05:30",
-      "note": "ISL 2026-27 kicks off — 13 teams, playoffs are back. East Bengal are defending champions.",
+      "note": "Bengaluru came from behind to win the ISL opener: Rodriguinho (26') and a Menno Koch own goal (32') put Delhi 2-1 up; Borja Martínez (22', 75') and Koch's 89th-minute winner turned it round.",
       "src": [
+        {
+          "t": "India Today – Bengaluru beat SC Delhi 3-2",
+          "u": "https://www.indiatoday.in/sports/football/story/isl-return-bengaluru-fc-beat-sc-delhi-koch-late-winner-youtube-livestream-3014347-2026-10-10"
+        },
         {
           "t": "Olympics.com – ISL 2026-27 schedule",
           "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
@@ -238,11 +242,16 @@
         {
           "n": "YouTube – ISL (free, all matches)"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T20:10:29+05:30",
+      "big": true
     },
     {
       "id": "isl-goa-che",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -250,17 +259,21 @@
       "a": [
         "FCG",
         "FC Goa",
-        "",
+        "0",
         "#EA580C"
       ],
       "b": [
         "CFC",
         "Chennaiyin FC",
-        "",
+        "0",
         "#1D4ED8"
       ],
       "when": "2026-10-10T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google live score / ISL match centre",
+          "u": "https://www.indiansuperleague.com/"
+        },
         {
           "t": "Olympics.com – ISL 2026-27 schedule",
           "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
@@ -285,7 +298,9 @@
         {
           "n": "YouTube – ISL (free, all matches)"
         }
-      ]
+      ],
+      "status": "1st half · 40'",
+      "scoreAt": "2026-10-10T20:10:00+05:30"
     },
     {
       "id": "isl-chu-mcfc",
@@ -1203,7 +1218,7 @@
       "when": "2026-10-11T18:30:00+05:30",
       "india": true,
       "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "Group E, Matchday 3 against the hosts — only the group winner qualifies for the 2027 Asian Cup.",
+      "note": "Winner-takes-all: India and hosts Malaysia both have six points; India top on goal difference (16 scored, none conceded). Only the group winner qualifies for the 2027 Asian Cup.",
       "src": [
         {
           "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
@@ -1480,26 +1495,30 @@
     },
     {
       "id": "f1-sin-quali",
-      "st": "upcoming",
+      "st": "result",
       "sport": "Formula 1",
       "comp": "Singapore Grand Prix",
       "round": "Qualifying",
       "a": [
         "F1",
         "Formula 1",
-        "",
+        "Pole: Verstappen",
         "#E10600"
       ],
       "b": [
         "SIN",
         "Marina Bay",
-        "",
+        "2nd: Leclerc",
         "#334155"
       ],
       "when": "2026-10-10T18:30:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Qualifying for Sunday's race, 18:30 IST. Verstappen won this morning's sprint; Hamilton second, Leclerc third.",
+      "note": "Verstappen takes his first Singapore pole (back-to-back poles, 250th F1 race); Leclerc and Hamilton make it a Ferrari 2-3, Antonelli fourth, Norris fifth. Race Sunday 17:30 IST.",
       "src": [
+        {
+          "t": "BBC Sport – Singapore GP qualifying live",
+          "u": "https://www.bbc.com/sport/formula1/live/c9wqlxzvnzvt"
+        },
         {
           "t": "Spike Today – F1 Singapore GP start times (IST)",
           "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
@@ -1515,7 +1534,11 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T20:10:29+05:30"
     },
     {
       "id": "acl2-eb-shorta",
@@ -1700,7 +1723,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Starts 10 Oct",
+      "status": "Live · Phase 1 till 18 Oct",
       "india": true,
       "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title. Phase 1 fixtures run to 18 Oct.",
       "id": "isl",
@@ -1714,7 +1737,8 @@
           "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
         }
       ],
-      "comp": "Indian Super League"
+      "comp": "Indian Super League",
+      "live": true
     },
     {
       "sport": "Kabaddi",
@@ -1821,7 +1845,8 @@
           "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
         }
       ],
-      "comp": "Singapore Grand Prix"
+      "comp": "Singapore Grand Prix",
+      "live": true
     },
     {
       "id": "pak-sl",
@@ -1927,6 +1952,42 @@
     }
   ],
   "feed": [
+    {
+      "t": "20:03",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Formula 1",
+      "text": "Verstappen takes pole for the Singapore GP — his first at Marina Bay. Leclerc and Hamilton line up 2nd and 3rd for Ferrari; Antonelli 4th, Norris 5th. Race Sunday 17:30 IST.",
+      "match": "f1-sin-quali",
+      "src": [
+        {
+          "t": "BBC Sport – Singapore GP qualifying live",
+          "u": "https://www.bbc.com/sport/formula1/live/c9wqlxzvnzvt"
+        }
+      ]
+    },
+    {
+      "t": "19:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "ISL",
+      "text": "FC Goa v Chennaiyin under way at Fatorda — goalless in the first half.",
+      "match": "isl-goa-che"
+    },
+    {
+      "t": "10 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "ISL",
+      "text": "ISL is back: Bengaluru FC beat Sporting Club Delhi 3–2 in the opener. Borja Martínez scored twice and Menno Koch, who had put through his own net, headed the 89th-minute winner.",
+      "match": "isl-bfc-del",
+      "src": [
+        {
+          "t": "India Today – Bengaluru beat SC Delhi 3-2",
+          "u": "https://www.indiatoday.in/sports/football/story/isl-return-bengaluru-fc-beat-sc-delhi-koch-late-winner-youtube-livestream-3014347-2026-10-10"
+        }
+      ]
+    },
     {
       "t": "10 Oct",
       "tag": "WIN",
@@ -2066,36 +2127,6 @@
       "m": "F1",
       "text": "Verstappen takes pole for the Singapore GP sprint, 0.120s clear of Russell; Leclerc third.",
       "match": "f1-sin-sprintquali"
-    },
-    {
-      "t": "18:44",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "West Indies win the toss and bowl first in the 2nd T20I in Ranchi; India unchanged, Vaibhav Sooryavanshi misses out. India lead the series 1–0.",
-      "match": "ind-wi-t20-2"
-    },
-    {
-      "t": "09 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Arctic Open: Garaga/Roy beat England's Butler/Jones 21-19 22-20 to reach the men's doubles quarter-finals, where they face Denmark's Kjær/Kjær. Sindhu plays top seed Intanon in the women's singles QF today.",
-      "match": "arctic-garaga-roy"
-    },
-    {
-      "t": "8 Oct",
-      "tag": "LOSS",
-      "c": "var(--live-text)",
-      "m": "Badminton",
-      "text": "Arctic Open: Tharun Mannepalli loses 14-21 19-21 to France's Christo Popov in the last 16. Garaga/Roy play Butler/Jones for a quarter-final spot; Sindhu meets Intanon in the QF.",
-      "match": "arctic-tharun-popov",
-      "src": [
-        {
-          "t": "Sunday Guardian – Arctic Open 2026 results",
-          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
-        }
-      ]
     }
   ],
   "schedule": [
