@@ -215,6 +215,7 @@ footer nav a{color:var(--text-2)}
 .comp-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
 .comp{padding:22px;display:flex;flex-direction:column;gap:10px;transition:transform .35s,border-color .3s}
 .comp:hover{transform:translateY(-4px);border-color:var(--accent)}
+.comp .sp .sport-chip{text-transform:none;letter-spacing:.02em}
 .comp .sp{font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;align-items:center;gap:8px}
 .comp b{font-family:'Archivo',sans-serif;font-size:20px;font-weight:800;letter-spacing:-.01em;line-height:1.2}
 .comp p{margin:0;font-size:14px;line-height:1.5;color:var(--text-2)}
@@ -1144,7 +1145,7 @@ function confettiHtml(m) {
   return `<span class="burst" aria-hidden="true">${h}</span>`;
 }
 const celebrate = (m) => state(m) === 'result' && m.win && isRecent(m);
-const SPORTSTY = { Cricket: ['🏏', '#0F766E'], Football: ['⚽', '#15803D'], Hockey: ['🏑', '#B45309'], Kabaddi: ['🤼', '#C2410C'], Badminton: ['🏸', '#7C3AED'], Tennis: ['🎾', '#65A30D'], Athletics: ['🏃', '#DC2626'], Boxing: ['🥊', '#BE123C'], Wrestling: ['🤼', '#9A3412'], Shooting: ['🎯', '#0369A1'], Archery: ['🏹', '#A21CAF'], Chess: ['♟️', '#475569'], 'Table tennis': ['🏓', '#0E7490'], Golf: ['⛳', '#16A34A'], 'Formula 1': ['🏎️', '#E11D48'], Basketball: ['🏀', '#EA580C'], Volleyball: ['🏐', '#CA8A04'], Weightlifting: ['🏋️', '#4338CA'] };
+const SPORTSTY = { Cricket: ['🏏', '#2563EB'], Football: ['⚽', '#16A34A'], Hockey: ['🏑', '#D97706'], Kabaddi: ['🤼', '#EA580C'], Badminton: ['🏸', '#7C3AED'], Tennis: ['🎾', '#CA8A04'], Athletics: ['🏃', '#DC2626'], Boxing: ['🥊', '#BE185D'], Wrestling: ['🤼', '#92400E'], Shooting: ['🎯', '#0891B2'], Archery: ['🏹', '#A21CAF'], Chess: ['♟️', '#475569'], 'Table tennis': ['🏓', '#0F766E'], Golf: ['⛳', '#4D7C0F'], 'Formula 1': ['🏎️', '#BE123C'], Basketball: ['🏀', '#C2410C'], Volleyball: ['🏐', '#0D9488'], Weightlifting: ['🏋️', '#4338CA'] };
 const sportSty = (n) => SPORTSTY[n] || ['🏅', '#2563EB'];
 const sportChip = (n) => { const [ic, c] = sportSty(n); return `<span class="sport-chip" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n)}</span>`; };
 const sportTag = (n) => { const [ic, c] = sportSty(n); return `<small class="tk-sp" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n.toUpperCase())}</small>`; };
@@ -1382,7 +1383,7 @@ function renderAll() {
   });
   $('resTicker').innerHTML = res.concat(res).join('');
   requestAnimationFrame(() => ['ticker', 'resTicker'].forEach((id) => { const tr = $(id); const half = tr.scrollWidth / 2; if (half > 0) tr.style.animationDuration = Math.round(half / 52) + 's'; }));
-  $('compGrid').innerHTML = compsSorted().map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
+  $('compGrid').innerHTML = compsSorted().map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${sportChip(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
   $('feed').innerHTML = DATA.feed.map((f, i) => `<div class="feed-row" ${clickable('feed:' + i, f.tag + ' ' + f.m)}><div class="t">${esc(f.t)}</div><div class="rail"><i style="background:${f.c}"></i><em></em></div><div class="b"><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag" style="color:${f.c}">${esc(f.tag)}</span><span class="note">${esc(f.m)}</span></div><p>${esc(f.text)}</p></div></div>`).join('');
   $('schedList').innerHTML = DATA.schedule.map((s, i) => `<div class="srow" ${clickable('sched:' + i, s.title)}><div class="d"><b>${esc(s.d)}</b><span>${esc(s.mo)}</span></div><div style="flex-grow:1;min-width:0"><div style="font-weight:700;font-size:15px">${esc(s.title)}</div><div style="font-size:13px;opacity:.82;margin-top:2px">${esc(s.meta)}</div></div><div class="mono" style="font-weight:700;font-size:13px">${esc(s.time)}</div></div>`).join('');
   $('playerCards').innerHTML = (DATA.players || []).map((p, i) => `<article class="card pcard" ${clickable('player:' + i, p.name)}>${avatarHtml(p)}<div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></article>`).join('');
