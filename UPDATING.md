@@ -57,7 +57,7 @@ Mark anything involving an Indian team or athlete with `"india": true`. Mark hea
   "competitions": [ { "sport": "Cricket", "name": "India v West Indies", "status": "Live series · till 17 Oct", "live": true, "india": true, "note": "…" } ],
   "feed": [ { "t": "15:42", "tag": "GOLD", "c": "var(--gold)", "m": "Boxing", "text": "…" } ],
   "schedule": [ { "d": "03", "mo": "OCT", "title": "India v West Indies, 3rd ODI", "meta": "Cricket · New Chandigarh", "time": "14:00" } ],
-  "players": [ { "i": "SG", "name": "Shubman Gill", "role": "Cricket · ODI captain", "p": "…" } ],
+  "players": [ { "i": "SG", "name": "Shubman Gill", "role": "Cricket · ODI captain", "p": "…", "photo": { "u": "https://upload.wikimedia.org/…", "by": "Bollywood Hungama", "lic": "CC BY 3.0", "licUrl": "https://creativecommons.org/licenses/by/3.0", "page": "https://commons.wikimedia.org/wiki/File:…" } } ],
   "videos": [ { "big": "GILL 222\nRECORD", "title": "…", "meta": "…", "len": "12:04", "bg": "#0F766E", "url": "https://youtube.com/…" } ],
   "sources": "Olympics.com, ESPNcricinfo, …"
 }
@@ -106,6 +106,13 @@ Scores are free text: cricket `"406/2"` or `"245/8 (50)"`; football `"2"`; tenni
 - Keep `status` **short** (under ~40 characters, one idea): `"India need 110 off 84"`, `"72' · rain delay"`, `"2nd set"`. Don't repeat the score or add times in it — the page shows the score and `scoreAt` itself. Longer context goes in `note`.
 
 Status changes: when a match starts set `"st": "live"` with a `status`; when it ends set `"st": "result"`, fill both scores, `win`, `day`, `recent: true` and `resultAt` (current IST time from the shell). Keep `when` on results too. If a match has started but you can't find its score, leave it `upcoming` — the site labels it "UNDER WAY" automatically.
+
+### Player photos (`players[].photo`) — legal rules
+
+- **Only Wikimedia Commons files under a free licence**: CC0 / public domain, CC BY, CC BY-SA, or GODL-India (Indian government photos: PIB, PMO, President's Secretariat). Check the licence on the file's Commons page. Never use photos from news sites, Google Images, team/league sites, agencies (Getty, AP, PTI, BCCI) or social media — even if they look free.
+- Fill every field: `u` (the upload.wikimedia.org / thumb.wikimedia.org image URL, ideally a ~250px thumbnail), `by` (author as written on Commons), `lic` (short licence name), `licUrl` (licence link), `page` (the Commons file page). The page shows the credit under the players and in the player panel — that attribution is what the licence requires.
+- Easiest way: the player's English Wikipedia infobox photo is usually on Commons; use its file page to read author and licence. If there is no free photo, omit `photo` — the page shows initials.
+- Keep a player's `photo` when you edit their note. When you replace a player, drop or replace their photo too.
 
 ### Feed
 

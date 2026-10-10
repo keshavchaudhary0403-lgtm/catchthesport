@@ -2358,49 +2358,98 @@
       "name": "Lovlina Borgohain",
       "role": "Boxing · 75kg",
       "p": "Won Asian Games women's 75kg gold today, beating China's Bao Ziyi 5–0 on her 29th birthday.",
-      "q": "Borgohain"
+      "q": "Borgohain",
+      "photo": {
+        "u": "https://upload.wikimedia.org/wikipedia/commons/8/82/Lovlina_Borgohain_in_August_2022.jpg",
+        "by": "Prime Minister's Office (India)",
+        "lic": "GODL-India",
+        "licUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "page": "https://commons.wikimedia.org/wiki/File:Lovlina_Borgohain_in_August_2022.jpg"
+      }
     },
     {
       "i": "SG",
       "name": "Shubman Gill",
       "role": "Cricket · ODI captain",
       "p": "222 in Guwahati — the fastest ODI double hundred ever.",
-      "q": "Gill"
+      "q": "Gill",
+      "photo": {
+        "u": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg",
+        "by": "Bollywood Hungama",
+        "lic": "CC BY 3.0",
+        "licUrl": "https://creativecommons.org/licenses/by/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Shubman_Gill_2023_(cropped).jpg"
+      }
     },
     {
       "i": "RS",
       "name": "Rohit Sharma",
       "role": "Cricket · Opener",
       "p": "Century in the 2nd ODI; now past 12,000 ODI runs.",
-      "q": "Sharma"
+      "q": "Sharma",
+      "photo": {
+        "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/250px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg",
+        "by": "Prime Minister's Office (India)",
+        "lic": "GODL-India",
+        "licUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_(Cropped).jpg"
+      }
     },
     {
       "i": "SI",
       "name": "Shreyas Iyer",
       "role": "Cricket · T20I captain",
       "p": "Leads India in the five-match T20I series from 6 Oct.",
-      "q": "Iyer"
+      "q": "Iyer",
+      "photo": {
+        "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg/250px-Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg",
+        "by": "Bollywood Hungama",
+        "lic": "CC BY 3.0",
+        "licUrl": "https://creativecommons.org/licenses/by/3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Shreyas_Iyer_snapped_at_the_airport_(Cropped).jpg"
+      }
     },
     {
       "i": "HS",
       "name": "Harmanpreet Singh",
       "role": "Hockey · Captain",
       "p": "Two penalty-corner goals in the semi; Asian Games final vs Malaysia.",
-      "q": "Singh"
+      "q": "Singh",
+      "photo": {
+        "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Shri_Harmanpreet_Singh.jpg/250px-Shri_Harmanpreet_Singh.jpg",
+        "by": "President's Secretariat (India)",
+        "lic": "GODL-India",
+        "licUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+        "page": "https://commons.wikimedia.org/wiki/File:Shri_Harmanpreet_Singh.jpg"
+      }
     },
     {
       "i": "ST",
       "name": "Salima Tete",
       "role": "Women's hockey",
       "p": "Part of the India women's side that won Asian Games hockey gold today, beating China.",
-      "q": "Tete"
+      "q": "Tete",
+      "photo": {
+        "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Women%27s_Hockey5s_Medallist_Ceremony_YOG18_14-10-2018_%28038%29_%28cropped%29.jpg/250px-Women%27s_Hockey5s_Medallist_Ceremony_YOG18_14-10-2018_%28038%29_%28cropped%29.jpg",
+        "by": "Mauricio V. Genta",
+        "lic": "CC BY-SA 4.0",
+        "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Women%27s_Hockey5s_Medallist_Ceremony_YOG18_14-10-2018_(038)_(cropped).jpg"
+      }
     },
     {
       "i": "GS",
       "name": "Gurpreet Singh Sandhu",
       "role": "Football · Goalkeeper",
       "p": "Likely to face Brazil's attack in Kolkata on 3 Oct.",
-      "q": "Sandhu"
+      "q": "Sandhu",
+      "photo": {
+        "u": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Gurpreet_Singh_Sandhu_2019_AFC_Asian_Cup.jpg/250px-Gurpreet_Singh_Sandhu_2019_AFC_Asian_Cup.jpg",
+        "by": "Mehdi Zare",
+        "lic": "CC BY 4.0",
+        "licUrl": "https://creativecommons.org/licenses/by/4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Gurpreet_Singh_Sandhu_2019_AFC_Asian_Cup.jpg"
+      }
     }
   ],
   "videos": [

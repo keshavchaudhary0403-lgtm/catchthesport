@@ -382,6 +382,13 @@ button.dlg-item{cursor:pointer;transition:border-color .2s,background .2s}button
  .mt .nat{gap:8px}
  .mt .rk-l{display:none}.mt .rk-s{display:inline}
 }
+/* player photos */
+.avatar{position:relative;overflow:hidden}
+.avatar.has-photo{color:transparent;background:var(--surface-2)}
+.avatar img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 22%;border-radius:inherit}
+.pcard .avatar{width:56px;height:56px;box-shadow:0 0 0 2px var(--surface),0 0 0 3px var(--line-strong)}
+.photo-credits{margin-top:14px;font-size:11px;line-height:1.6;color:var(--muted)}
+.photo-credits a{color:inherit;text-decoration:underline;text-underline-offset:2px}
 /* where-to-watch chips */
 .livefoot{font-size:13px;font-weight:500;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mcard2 .foot{gap:12px}
@@ -634,6 +641,7 @@ a.wchip:hover{border-color:var(--accent);color:var(--accent)}
 <div class="l"><div class="eyebrow">05 — Players</div><h2 class="h2">Indian stars to watch</h2></div>
 </div>
 <div class="pgrid" id="playerCards"></div>
+<p class="note photo-credits" id="photoCredits"></p>
 </section>
 
 <!-- SPORTS -->
@@ -741,6 +749,17 @@ function shortStatus(m) {
   let t = keep[0] || parts[0] || 'In progress';
   t = t.replace(/\s*\((?:last )?confirmed[^)]*\)/i, '');
   return t.length > 42 ? t.slice(0, 40).replace(/\s+\S*$/, '') + '…' : t;
+}
+/* player photo (free-licensed, from Wikimedia Commons) with initials fallback */
+function avatarHtml(p, size) {
+  const st = size ? ` style="width:${size}px;height:${size}px;font-size:${Math.round(size * .31)}px"` : '';
+  const ok = p.photo && /^https:\/\/(upload|thumb)\.wikimedia\.org\//.test(p.photo.u || '');
+  return `<div class="avatar${ok ? ' has-photo' : ''}"${st}>${esc(p.i)}${ok ? `<img src="${esc(p.photo.u)}" alt="${esc(p.name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove();this.parentNode&&this.parentNode.classList.remove('has-photo')">` : ''}</div>`;
+}
+function photoCredit(p) {
+  if (!p.photo) return '';
+  const f = p.photo;
+  return `Photo: <a href="${esc(f.page)}" target="_blank" rel="noopener">${esc(f.by)}</a>, <a href="${esc(f.licUrl)}" target="_blank" rel="noopener">${esc(f.lic)}</a>, via Wikimedia Commons`;
 }
 const asOf = (m) => (m.scoreAt ? ' · as of ' + hhmm(m.scoreAt) : '');
 /* score text; words like 'Won'/'Lost' are hidden because the winner is already shown */
@@ -927,7 +946,8 @@ const OPEN = {
     const meds = medalsAll().filter((x) => x.who.toLowerCase().indexOf(q) > -1);
     const fd = DATA.feed.filter((f) => f.text.toLowerCase().indexOf(q) > -1);
     openDlg(p.role, p.name,
-      `<div style="display:flex;gap:14px;align-items:center"><div class="avatar" style="width:64px;height:64px;font-size:20px">${esc(p.i)}</div><p style="margin:0;font-size:16px;line-height:1.55">${esc(p.p)}</p></div>
+      `<div style="display:flex;gap:16px;align-items:center">${avatarHtml(p, 88)}<p style="margin:0;font-size:16px;line-height:1.55">${esc(p.p)}</p></div>
+      ${p.photo ? `<p class="note" style="margin:0;font-size:12px">${photoCredit(p)}</p>` : ''}
       ${meds.length ? `<div><div class="eyebrow" style="margin-bottom:10px">Medals at ${esc(DATA.event ? DATA.event.short : '')}</div>${listOr(meds, medalRow, '')}</div>` : ''}
       ${ms.length ? `<div><div class="eyebrow" style="margin-bottom:10px">Matches</div>${listOr(ms, matchRow, '')}</div>` : ''}
       ${fd.length ? `<div><div class="eyebrow" style="margin-bottom:10px">In the updates</div><div class="dlg-list">${fd.map((x) => `<button type="button" class="dlg-item" data-open="feed:${DATA.feed.indexOf(x)}"><span class="tag" style="color:${x.c};flex-shrink:0">${esc(x.tag)}</span><span><b>${esc(x.t)}</b><span class="s2">${esc(x.text)}</span></span></button>`).join('')}</div></div>` : ''}
@@ -1186,7 +1206,9 @@ function renderAll() {
   $('compGrid').innerHTML = compsSorted().map((c) => `<article class="card comp" ${clickable('comp:' + (c.id || c.name), c.name)}><span class="sp">${esc(c.sport)}${c.india ? '<span class="ind-tag">INDIA</span>' : ''}</span><b>${esc(c.name)}</b><span class="pill ${c.live ? 'livepill' : ''}" style="align-self:flex-start;${c.live ? '' : 'background:var(--surface-2);color:var(--text-2)'}">${c.live ? '<span class="dot pulse" style="width:6px;height:6px"></span>' : ''}${esc(c.status)}</span><span class="more">Fixtures & details →</span></article>`).join('');
   $('feed').innerHTML = DATA.feed.map((f, i) => `<div class="feed-row" ${clickable('feed:' + i, f.tag + ' ' + f.m)}><div class="t">${esc(f.t)}</div><div class="rail"><i style="background:${f.c}"></i><em></em></div><div class="b"><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag" style="color:${f.c}">${esc(f.tag)}</span><span class="note">${esc(f.m)}</span></div><p>${esc(f.text)}</p></div></div>`).join('');
   $('schedList').innerHTML = DATA.schedule.map((s, i) => `<div class="srow" ${clickable('sched:' + i, s.title)}><div class="d"><b>${esc(s.d)}</b><span>${esc(s.mo)}</span></div><div style="flex-grow:1;min-width:0"><div style="font-weight:700;font-size:15px">${esc(s.title)}</div><div style="font-size:13px;opacity:.82;margin-top:2px">${esc(s.meta)}</div></div><div class="mono" style="font-weight:700;font-size:13px">${esc(s.time)}</div></div>`).join('');
-  $('playerCards').innerHTML = (DATA.players || []).map((p, i) => `<article class="card pcard" ${clickable('player:' + i, p.name)}><div class="avatar">${esc(p.i)}</div><div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></article>`).join('');
+  $('playerCards').innerHTML = (DATA.players || []).map((p, i) => `<article class="card pcard" ${clickable('player:' + i, p.name)}>${avatarHtml(p)}<div><b>${esc(p.name)}</b><span>${esc(p.role)}</span></div></article>`).join('');
+  const credits = (DATA.players || []).filter((p) => p.photo);
+  $('photoCredits').innerHTML = credits.length ? 'Player photos via Wikimedia Commons under free licences — ' + credits.map((p) => `${esc(p.name)}: <a href="${esc(p.photo.page)}" target="_blank" rel="noopener">${esc(p.photo.by)}</a> (<a href="${esc(p.photo.licUrl)}" target="_blank" rel="noopener">${esc(p.photo.lic)}</a>)`).join(' · ') : '';
   const sp = sportsPresent();
   $('sportList').innerHTML = sp.map(([s, n]) => `<button type="button" data-open="sport:${esc(s)}">${esc(s)}<span class="ct">${n}</span></button>`).join('');
   $('videoList').innerHTML = (DATA.videos || []).map((v) => `<a class="vid" href="${esc(v.url || 'https://www.youtube.com/')}" target="_blank" rel="noopener"><div class="thumb" style="background:${v.bg}"><div class="big">${esc(v.big)}</div><div class="play"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><polygon points="7 4 20 12 7 20 7 4"/></svg></div><div class="mono" style="position:absolute;right:14px;bottom:14px;padding:4px 8px;border-radius:6px;background:rgba(0,0,0,.65);color:#fff;font-size:12px">${esc(v.len)}</div></div><div><div style="font-weight:600;font-size:16px;line-height:1.35">${esc(v.title)}</div><div class="note" style="margin-top:4px">${esc(v.meta)}</div></div></a>`).join('');
