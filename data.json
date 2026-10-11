@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T23:35:38+05:30",
+  "lastUpdated": "2026-10-12T00:04:34+05:30",
   "dayLabel": "Sun 11 Oct · India win 3rd T20I, lead WI 2–1",
   "featured": "issf-cai-m10ar",
   "matches": [
@@ -2007,7 +2007,15 @@
         {
           "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
           "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
+        },
+        {
+          "t": "Esquire India – India v New Zealand T20I series: schedule and live streaming",
+          "u": "https://www.esquireindia.co.in/culture/sports/india-vs-new-zealand-t20i-series-2026-squad-announced-check-full-players-list-scheudle-match-timings-live-streaming-sonylive-sony-sports"
         }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
       ]
     },
     {
@@ -2029,13 +2037,21 @@
         ""
       ],
       "when": "2026-10-24T12:30:00+05:30",
-      "venue": "Christchurch",
+      "venue": "Hagley Oval, Christchurch",
       "note": "2nd of five T20Is (day-night, 8 pm local).",
       "src": [
         {
           "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
           "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
+        },
+        {
+          "t": "Esquire India – India v New Zealand T20I series: schedule and live streaming",
+          "u": "https://www.esquireindia.co.in/culture/sports/india-vs-new-zealand-t20i-series-2026-squad-announced-check-full-players-list-scheudle-match-timings-live-streaming-sonylive-sony-sports"
         }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
       ]
     },
     {
