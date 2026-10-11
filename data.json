@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T23:13:37+05:30",
+  "lastUpdated": "2026-10-11T23:35:38+05:30",
   "dayLabel": "Sun 11 Oct · India win 3rd T20I, lead WI 2–1",
   "featured": "issf-cai-m10ar",
   "matches": [
@@ -312,103 +312,6 @@
       "win": "a",
       "day": "8 Oct",
       "resultAt": "2026-10-09T17:15:54+05:30"
-    },
-    {
-      "id": "f1-sin-sprintquali",
-      "st": "result",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Sprint qualifying",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Pole: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Russell",
-        "#334155"
-      ],
-      "when": "2026-10-09T18:00:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "src": [
-        {
-          "t": "Formula1.com – Verstappen clinches pole in Singapore sprint qualifying",
-          "u": "https://www.formula1.com/en/latest/article/verstappen-clinches-pole-position-in-singapore-sprint-qualifying-ahead-of-russell.4dvkvpkCXftdhX7sLI2dcQ"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T20:06:00+05:30",
-      "note": "Max Verstappen (Red Bull) took sprint pole in 1:31.156, 0.120s ahead of George Russell (Mercedes); Charles Leclerc (Ferrari) third. Verstappen's lap was pending a stewards' check. Sprint on Saturday."
-    },
-    {
-      "id": "pak-sl-t20-1",
-      "sport": "Cricket",
-      "comp": "Pakistan v Sri Lanka",
-      "round": "1st T20I",
-      "st": "result",
-      "a": [
-        "PAK",
-        "Pakistan",
-        "183+/6 (18.5)"
-      ],
-      "b": [
-        "SL",
-        "Sri Lanka",
-        "182/8 (20)",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-09T18:30:00+05:30",
-      "note": "Pakistan won by 4 wickets with 7 balls to spare, chasing 183. Sahibzada Farhan 89 (53), Maaz Sadaqat 50 (29); 92-run second-wicket stand. Lahiru Udara made 91 for Sri Lanka. Pakistan lead the series 1–0. Not telecast in India.",
-      "venue": "Rawalpindi",
-      "src": [
-        {
-          "t": "Daily Pakistan – Pakistan pull off 183-run chase",
-          "u": "https://en.dailypakistan.com.pk/09-Oct-2026/pakistan-pull-off-stunning-183-run-chase-to-win-first-t20i-against-sri-lanka"
-        },
-        {
-          "t": "Dawn – Udara's 91 lifts Sri Lanka to 182-8",
-          "u": "https://www.dawn.com/news/2035925/udaras-91-lifts-sri-lanka-to-182-8-against-pakistan-in-first-t20i"
-        },
-        {
-          "t": "Sportstak – PAK v SL 1st T20I live",
-          "u": "https://thesportstak.com/cricket/match/pak-vs-sl-1st-t20i-sri-lanka-tour-of-pakistan-09-october-2026-274137/live"
-        },
-        {
-          "t": "Express Tribune – Sri Lanka set for Pakistan tour",
-          "u": "https://tribune.com.pk/story/2628548/sri-lanka-set-for-pakistan-tour"
-        },
-        {
-          "t": "Wikipedia – International cricket in 2026–27",
-          "u": "https://en.wikipedia.org/wiki/International_cricket_in_2026%E2%80%9327"
-        },
-        {
-          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
-          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
-        }
-      ],
-      "win": "a",
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T23:05:41+05:30"
     },
     {
       "id": "ind-wi-t20-2",
@@ -2097,17 +2000,13 @@
         "India",
         ""
       ],
-      "when": "2026-10-22",
+      "when": "2026-10-22T12:30:00+05:30",
       "venue": "Hagley Oval, Christchurch",
-      "note": "Start of India's five-match T20I tour of New Zealand; IST start time TBC.",
+      "note": "Start of India's five-match T20I tour of New Zealand (day-night, 8 pm local).",
       "src": [
         {
-          "t": "Cricinfo – India tour of New Zealand 2026 fixtures",
-          "u": "https://www.espncricinfo.com/"
-        },
-        {
-          "t": "Google – India tour of New Zealand 2026 schedule",
-          "u": "https://www.google.com/search?q=India+vs+New+Zealand+T20I+series+October+2026+schedule+venues"
+          "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
         }
       ]
     },
@@ -2129,17 +2028,44 @@
         "India",
         ""
       ],
-      "when": "2026-10-24",
-      "venue": "Hagley Oval, Christchurch",
-      "note": "Start of India's five-match T20I tour of New Zealand; IST start time TBC.",
+      "when": "2026-10-24T12:30:00+05:30",
+      "venue": "Christchurch",
+      "note": "2nd of five T20Is (day-night, 8 pm local).",
       "src": [
         {
-          "t": "Cricinfo – India tour of New Zealand 2026 fixtures",
-          "u": "https://www.espncricinfo.com/"
-        },
+          "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
+        }
+      ]
+    },
+    {
+      "id": "inda-ausa-odi3",
+      "st": "result",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Australia A in India",
+      "round": "3rd unofficial ODI",
+      "a": [
+        "IND",
+        "India A",
+        "275 (47.3)"
+      ],
+      "b": [
+        "AUS",
+        "Australia A",
+        "226 (46.2)"
+      ],
+      "when": "2026-10-11",
+      "venue": "Puducherry",
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T23:35:38+05:30",
+      "note": "India A won by 49 runs: Suryansh Shedge 66, Priyansh Arya 49, Vipraj Nigam 40; Gurjapneet Singh 3 wickets. Australia A take the series 2–1.",
+      "src": [
         {
-          "t": "Google – India tour of New Zealand 2026 schedule",
-          "u": "https://www.google.com/search?q=India+vs+New+Zealand+T20I+series+October+2026+schedule+venues"
+          "t": "NDTV Sports – India A seal thumping win in 3rd unofficial ODI",
+          "u": "https://sports.ndtv.com/cricket/india-a-vs-australia-a-live-score-3rd-unofficial-odi-live-updates-ind-a-vs-aus-a-match-scorecard-ruturaj-gaikwad-devdutt-padikkal-rajat-patidar-12168311"
         }
       ]
     }
@@ -2382,10 +2308,10 @@
       "id": "nat-open-athletics",
       "sport": "Athletics",
       "name": "65th National Open Athletics Championships",
-      "status": "Live · 8–11 Oct · New Delhi",
-      "live": true,
+      "status": "Concluded · 8–11 Oct · New Delhi",
+      "live": false,
       "india": true,
-      "note": "Four-day national championships at JLN Stadium, New Delhi. Day 1: Nirbhay Chaudhary hammer gold 69.42m, Kuldeep Kumar pole vault meet record 5.30m. Day 2 has 14 finals incl. men's 100m, 400m and 1500m. Day 3: Anushka Yadav hammer meet record 66.53m. Final day 11 Oct.",
+      "note": "Four-day national championships at JLN Stadium, New Delhi. Day 1: Nirbhay Chaudhary hammer gold 69.42m, Kuldeep Kumar pole vault meet record 5.30m. Day 2 has 14 finals incl. men's 100m, 400m and 1500m. Day 3: Anushka Yadav hammer meet record 66.53m. Concluded on 11 Oct.",
       "src": [
         {
           "t": "Rediff/PTI – Day 3 results",
@@ -2444,6 +2370,25 @@
       ],
       "india": true,
       "comp": "Ranji Trophy 2026-27"
+    },
+    {
+      "id": "denmark-open",
+      "sport": "Badminton",
+      "name": "BWF Denmark Open (Super 750)",
+      "status": "13–18 Oct · Odense",
+      "live": true,
+      "india": false,
+      "note": "Super 750 event at Jyske Bank Arena, Odense, straight after the Arctic Open. First round 13–14 Oct, final 18 Oct. Indian entries to be confirmed from the official draw.",
+      "src": [
+        {
+          "t": "BWF – VICTOR Denmark Open 2026 results",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/"
+        },
+        {
+          "t": "Denmark Open – schedule",
+          "u": "https://denmarkopen.dk/"
+        }
+      ]
     }
   ],
   "feed": [
@@ -2460,6 +2405,14 @@
           "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-3rd-t20i-abhishek-arshdeep-shine-as-india-secure-14-run-win"
         }
       ]
+    },
+    {
+      "t": "16:53",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "match": "inda-ausa-odi3",
+      "text": "India A beat Australia A by 49 runs in the 3rd unofficial ODI in Puducherry (275 v 226) — Suryansh Shedge 66. Australia A win the series 2–1."
     },
     {
       "t": "22:50",
@@ -2658,7 +2611,7 @@
       "mo": "OCT",
       "title": "New Zealand v India, 1st T20I",
       "meta": "Cricket · Christchurch",
-      "time": "TBC",
+      "time": "12:30",
       "match": "nz-ind-t20-1"
     },
     {
@@ -2666,7 +2619,7 @@
       "mo": "OCT",
       "title": "New Zealand v India, 2nd T20I",
       "meta": "Cricket · Christchurch",
-      "time": "TBC",
+      "time": "12:30",
       "match": "nz-ind-t20-2"
     },
     {
