@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-11T22:34:54+05:30",
-  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I live; U17 women qualify",
-  "featured": "ind-wi-t20-3",
+  "lastUpdated": "2026-10-11T23:13:37+05:30",
+  "dayLabel": "Sun 11 Oct · India win 3rd T20I, lead WI 2–1",
+  "featured": "issf-cai-m10ar",
   "matches": [
     {
       "id": "arctic-tharun-popov",
@@ -1308,7 +1308,7 @@
     },
     {
       "id": "ind-wi-t20-3",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -1321,27 +1321,15 @@
       "b": [
         "WI",
         "West Indies",
-        "174/7 (17.5)",
+        "209/7 (20)",
         "#7B1E3A"
       ],
       "when": "2026-10-11T19:00:00+05:30",
       "venue": "Holkar Stadium, Indore",
       "src": [
         {
-          "t": "Google – IND vs WI live score",
-          "u": "https://www.google.com/search?q=ind+vs+wi+live+score"
-        },
-        {
-          "t": "Google – India vs West Indies 3rd T20I live score",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+live+score"
-        },
-        {
-          "t": "Livemint – IND v WI 3rd T20I live",
-          "u": "https://www.livemint.com/sports/cricket-news"
-        },
-        {
-          "t": "Google – India vs West Indies 3rd T20I toss",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
+          "t": "Tribune India – Abhishek, Arshdeep shine as India secure 14-run win",
+          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-3rd-t20i-abhishek-arshdeep-shine-as-india-secure-14-run-win"
         },
         {
           "t": "Spike Today – IND v WI T20I schedule",
@@ -1364,9 +1352,11 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India 223 all out (20): Abhishek Sharma 69 off 30, Ishan Kishan 37 off 18, Tilak Varma 28; Roston Chase 2/38. West Indies 174/7 chasing 224 — Nitish Kumar Reddy and Arshdeep Singh among the wicket-takers.",
-      "status": "WI need 50 off 13",
-      "scoreAt": "2026-10-11T22:34:54+05:30"
+      "note": "India won by 14 runs to lead the series 2–1. India 223 (20): Abhishek Sharma 69 off 30, Ishan Kishan 37 off 18. WI 209/7: Shimron Hetmyer 43, Pooran 42; Arshdeep Singh 3/44, Naman Dhir 2/39.",
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T23:13:37+05:30"
     },
     {
       "id": "isl-chu-mcfc",
@@ -1431,7 +1421,7 @@
     },
     {
       "id": "epl-liv-mci",
-      "st": "live",
+      "st": "result",
       "big": true,
       "sport": "Football",
       "comp": "Premier League",
@@ -1445,19 +1435,15 @@
       "b": [
         "MCI",
         "Manchester City",
-        "2",
+        "3",
         "#6CABDD"
       ],
       "when": "2026-10-11T21:00:00+05:30",
-      "note": "Ryan Gravenberch sent off for a second yellow (62'), then Erling Haaland (65') and Jérémy Doku (68') score for City at Anfield.",
+      "note": "Man City won 3–0 at Anfield after Ryan Gravenberch's second yellow: Erling Haaland 65', Jérémy Doku 67', Rayan Cherki 78'.",
       "src": [
         {
-          "t": "Google – Liverpool vs Man City",
-          "u": "https://www.google.com/search?q=liverpool+vs+man+city"
-        },
-        {
-          "t": "Google – Liverpool vs Manchester City live score",
-          "u": "https://www.google.com/search?q=Liverpool+vs+Manchester+City+live+score"
+          "t": "Yahoo Sports – Haaland, Doku and Cherki fire City to victory at Liverpool",
+          "u": "https://sports.yahoo.com/articles/haaland-doku-cherki-fire-city-173000604.html"
         },
         {
           "t": "Premier League – fixtures",
@@ -1472,8 +1458,10 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "76' · 10-man Liverpool",
-      "scoreAt": "2026-10-11T22:34:54+05:30"
+      "win": "b",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T23:13:37+05:30"
     },
     {
       "id": "issf-cai-m10ar",
@@ -2163,7 +2151,7 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "Series level 1–1 after West Indies won the 2nd T20I in Ranchi by six wickets.",
+      "note": "India lead the five-match T20I series 2–1 after a 14-run win in Indore; 4th T20I on 14 Oct.",
       "id": "ind-wi",
       "src": [
         {
@@ -2460,12 +2448,32 @@
   ],
   "feed": [
     {
-      "t": "22:34",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "23:05",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Cricket",
       "match": "ind-wi-t20-3",
-      "text": "3rd T20I, Indore: West Indies slip to 174/7 after 17.5 overs, needing 50 off 13 balls to chase India's 223."
+      "text": "India beat West Indies by 14 runs in Indore (223 v 209/7) to lead the T20I series 2–1 — Abhishek Sharma 69 off 30, Arshdeep Singh 3/44.",
+      "src": [
+        {
+          "t": "Tribune India – Abhishek, Arshdeep shine as India secure 14-run win",
+          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-3rd-t20i-abhishek-arshdeep-shine-as-india-secure-14-run-win"
+        }
+      ]
+    },
+    {
+      "t": "22:50",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "match": "epl-liv-mci",
+      "text": "Premier League: Man City beat 10-man Liverpool 3–0 at Anfield — Haaland, Doku and Cherki score after Gravenberch's red card.",
+      "src": [
+        {
+          "t": "Yahoo Sports – Haaland, Doku and Cherki fire City to victory at Liverpool",
+          "u": "https://sports.yahoo.com/articles/haaland-doku-cherki-fire-city-173000604.html"
+        }
+      ]
     },
     {
       "t": "22:15",
@@ -2482,14 +2490,6 @@
       "m": "Football",
       "match": "ind-rus-w2",
       "text": "India women lose 0–8 to Russia in the second Kolkata friendly, after a 0–4 defeat on Thursday."
-    },
-    {
-      "t": "22:31",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "match": "epl-liv-mci",
-      "text": "Premier League: Man City lead 10-man Liverpool 2–0 at Anfield — Haaland (65') and Doku (68') strike after Gravenberch's red card."
     },
     {
       "t": "22:05",
@@ -2514,14 +2514,6 @@
       "m": "Football",
       "match": "isl-kashi-kbfc",
       "text": "Kerala Blasters win 2–0 at Inter Kashi in Pune: Vibin Mohanan (18') and Andre Green (90+4') score in their ISL opener."
-    },
-    {
-      "t": "19:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-3",
-      "text": "3rd T20I, Indore: India race to 87/1 in the powerplay — Abhishek Sharma hits an 18-ball fifty after Sanju Samson's early exit."
     },
     {
       "t": "19:25",
@@ -2605,14 +2597,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "11",
-      "mo": "OCT",
-      "title": "India v West Indies, 3rd T20I",
-      "meta": "Cricket · Indore",
-      "time": "19:00",
-      "match": "ind-wi-t20-3"
-    },
     {
       "d": "12",
       "mo": "OCT",
