@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T15:36:58+05:30",
-  "dayLabel": "Sun 11 Oct · Udhayveer gold in Cairo; India v WI 3rd T20I tonight",
+  "lastUpdated": "2026-10-11T16:36:47+05:30",
+  "dayLabel": "Sun 11 Oct · Shami 4/30 in Ranji; India v WI 3rd T20I tonight",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -739,6 +739,10 @@
       "when": "2026-10-11T17:00:00+05:30",
       "src": [
         {
+          "t": "Shillong Times (PTI) – Inter Kashi, Kerala Blasters seek winning start to ISL",
+          "u": "https://theshillongtimes.com/2026/10/11/inter-kashi-kerala-blasters-seek-winning-start-to-isl/"
+        },
+        {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
         },
@@ -747,7 +751,7 @@
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
         }
       ],
-      "venue": "Venue TBC",
+      "venue": "Balewadi Stadium (Shree Shiv Chhatrapati Sports Complex), Pune",
       "watch": [
         "Sony Sports Network",
         "SonyLIV",
@@ -755,7 +759,8 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "note": "First ISL match in Pune in seven years. Inter Kashi, with around 16 new signings and two players hit by a registration ban, are expected to field an all-Indian squad; Ashley Westwood coaches Kerala Blasters."
     },
     {
       "id": "isl-pun-odi",
@@ -1835,7 +1840,7 @@
       "a": [
         "MUM",
         "Mumbai",
-        "171/4 (60)"
+        "204/5"
       ],
       "b": [
         "CHD",
@@ -1844,8 +1849,12 @@
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "Wankhede Stadium, Mumbai",
-      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck in the first hour.",
+      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck, and Musheer and Sarfaraz Khan both fell just before tea (Mumbai 153/4 at tea).",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
         {
           "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
           "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
@@ -1867,8 +1876,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 1 · 3rd session",
-      "scoreAt": "2026-10-11T15:36:58+05:30"
+      "status": "Day 1 · final session",
+      "scoreAt": "2026-10-11T16:29:00+05:30"
     },
     {
       "id": "ranji-r1-ben-del",
@@ -1885,12 +1894,16 @@
       "b": [
         "DEL",
         "Delhi",
-        "215/8 (67)"
+        "240 (77.3)"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Four-day match, 11–14 Oct.",
+      "note": "Four-day match, 11–14 Oct. Delhi bowled out for 240 on Day 1: Mohammed Shami 4/30, Gani 3/45; Hrithik Shokeen top-scored with 56. Bengal to bat on Day 2.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
         {
           "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
           "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
@@ -1912,8 +1925,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 1 · 3rd session",
-      "scoreAt": "2026-10-11T15:36:58+05:30"
+      "status": "Stumps, Day 1",
+      "scoreAt": "2026-10-11T16:28:00+05:30"
     },
     {
       "id": "ranji-r1-and-kar",
@@ -1930,12 +1943,16 @@
       "b": [
         "KAR",
         "Karnataka",
-        "226/7 (66.4)"
+        "258/8 (77)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat; KL Rahul fell for 4 as pacers Kavuri Saiteja and KV Sasikanth took four early wickets.",
+      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat and slid to 22/4 (KL Rahul 4); captain Smaran Ravichandran hit a century on his captaincy debut, adding a rescue stand with Krishnan Shrijith.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
         {
           "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
           "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
@@ -1957,8 +1974,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 1 · 3rd session",
-      "scoreAt": "2026-10-11T15:36:58+05:30"
+      "status": "Day 1 · final session",
+      "scoreAt": "2026-10-11T16:29:00+05:30"
     }
   ],
   "competitions": [
@@ -2244,8 +2261,12 @@
       "status": "Live · Round 1 till 14 Oct",
       "live": true,
       "id": "ranji",
-      "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association.",
+      "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association. Stumps Day 1: Shami took 4/30 as Bengal bowled Delhi out for 240 in Kalyani; Smaran Ravichandran made a hundred on his Karnataka captaincy debut; Punjab v Assam was washed out.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
         {
           "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
           "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
@@ -2260,6 +2281,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "16:28",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "match": "ranji-r1-ben-del",
+      "text": "Ranji Trophy Day 1: Mohammed Shami takes 4/30 as Bengal bowl Delhi out for 240 in Kalyani. Karnataka captain Smaran Ravichandran hits a century on debut as skipper (Karnataka 258/8 v Andhra); Mumbai 204/5 v Chandigarh.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        }
+      ]
+    },
     {
       "t": "15:10",
       "tag": "GOLD",
@@ -2448,19 +2483,6 @@
         {
           "t": "Sportstar – Manush, Manav bow out in China Smash doubles semis",
           "u": "https://sportstar.thehindu.com/table-tennis/manush-shah-manav-thakkar-china-smash-2026-doubles-semifinal/article71562891.ece"
-        }
-      ]
-    },
-    {
-      "t": "9 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Athletics",
-      "text": "National Open Athletics, Day 1: Nirbhay Chaudhary wins hammer gold (69.42m), Kuldeep Kumar sets a meet record in pole vault (5.30m), Asha Ilango triple jump meet record (13.89m). Fourteen finals today, incl. men's 100m.",
-      "src": [
-        {
-          "t": "Khel Now – National Open Athletics Day 1 wrap",
-          "u": "https://khelnow.com/athletics/day-1-report-national-open-athletics-championships-202610"
         }
       ]
     }
