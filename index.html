@@ -450,13 +450,22 @@ canvas.popper{position:absolute;pointer-events:none;z-index:7}
 @keyframes tpop{from{transform:scale(0) rotate(-30deg)}to{transform:scale(1) rotate(0)}}
 @media (prefers-reduced-motion:reduce){.burst{display:none}.hero-trophy{animation:none}}
 /* hero rotation through live matches */
-/*dots inside card*/.hero-dots{position:relative;margin:16px auto 0;width:max-content;display:flex;align-items:center;gap:7px;padding:6px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow-sm);z-index:8}
+#tilt{touch-action:pan-y;-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+.pausepill{background:var(--surface-2);color:var(--text-2);border:1px solid var(--line-strong)}
+.scv.sc-ytb{font-size:.62em;font-weight:600;color:var(--muted);letter-spacing:0}
+.hero-dots .hd-arr{width:22px;height:22px;border:0;border-radius:50%;background:transparent;color:var(--text-2);font-size:18px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.hero-dots .hd-arr:hover{background:var(--surface-2);color:var(--accent)}
+.watch-hero{max-width:100%;overflow:hidden}
+.watch-hero .wchip{min-width:0;max-width:48%}.watch-hero .wchip span{overflow:hidden;text-overflow:ellipsis}
+.feat.swap-l{animation:featSwapL .5s cubic-bezier(.2,.7,.2,1)}
+@keyframes featSwapL{0%{opacity:.25;transform:translateX(-14px)}100%{opacity:1;transform:none}}
+/*dots inside card*/.hero-dots{position:relative;margin:16px auto 14px;width:max-content;display:flex;align-items:center;gap:7px;padding:6px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow-sm);z-index:8}
 .hero-dots[hidden]{display:none}.hero-dots .hd-lbl{white-space:nowrap;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--live-text);margin-right:4px}
 .hero-dots .hd{width:8px;height:8px;padding:0;border:0;border-radius:999px;background:var(--line-strong);cursor:pointer;transition:width .3s,background .3s}
 .hero-dots .hd.on{width:22px;background:var(--accent)}
 .feat.swap{animation:featSwap .5s cubic-bezier(.2,.7,.2,1)}
-@keyframes featSwap{0%{opacity:.25;transform:translateY(8px)}100%{opacity:1;transform:none}}
-@media (max-width:640px){.hero-dots{margin-top:12px}}
+@keyframes featSwap{0%{opacity:.25;transform:translateX(14px)}100%{opacity:1;transform:none}}
+@media (max-width:640px){.hero-dots{margin:12px auto 16px;padding:4px 8px;gap:6px}.hero-dots .hd{width:7px;height:7px}.hero-dots .hd.on{width:18px}}
 @media (prefers-reduced-motion:reduce){.feat.swap{animation:none}}
 /* where-to-watch chips */
 .livefoot{font-size:13px;font-weight:500;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
@@ -816,17 +825,21 @@ function watchList(m) {
   if (typeof w === 'string') w = w.split(/\s*(?:\/|,|;|\+|\band\b)\s*/i);
   return w.map((x) => (typeof x === 'string' ? { n: x } : x)).filter((x) => x && x.n && !/^(none|tbc|n\/a|not (confirmed|available))$/i.test(String(x.n).trim())).map((x) => {
     const n = String(x.n).trim(), hit = PLATFORMS.find((p) => p[0].test(n)) || [null, null, x.u ? 'web' : 'tv', ''];
-    return { n: (hit[2] === 'yt' ? n.replace(/\s*\(.*?\)\s*/g, ' ').trim() : hit[1]) || n.replace(/\s+(network|channels?)$/i, ''), type: x.type || hit[2], u: x.u || hit[3] };
+    const clean = n.replace(/\s*\(.*?\)\s*/g, ' ').trim(), note = (n.match(/\((.*?)\)/) || [])[1] || '';
+    return { n: (hit[2] === 'yt' ? clean : hit[1]) || clean.replace(/\s+(network|channels?)$/i, ''), note: note, type: x.type || hit[2], u: x.u || hit[3] };
   });
 }
 function watchChips(m, opt) {
   const L = watchList(m);
   if (!L.length) return opt === 'hero' ? '' : `<div class="watch"><span class="wlbl">Watch on</span><span class="wchip wmore">Channel TBC</span></div>`;
   const live = state(m) === 'live' || state(m) === 'started';
-  const chip = (p) => { const inner = `${WICON[p.type] || WICON.tv}<span>${esc(p.n)}</span>`; return p.u ? `<a class="wchip wlink w-${p.type}" href="${esc(p.u)}" target="_blank" rel="noopener" title="Watch on ${esc(p.n)} (opens in a new tab)">${inner}<svg class="ext" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a>` : `<span class="wchip wtv w-${p.type}" title="${p.type === 'tv' ? 'TV channel — tune in on your TV' : 'Streaming'}">${inner}</span>`; };
+  const chip = (p) => { const inner = `${WICON[p.type] || WICON.tv}<span>${esc(p.n)}</span>`; return p.u ? `<a class="wchip wlink w-${p.type}" href="${esc(p.u)}" target="_blank" rel="noopener" title="Watch on ${esc(p.n)} (opens in a new tab)">${inner}<svg class="ext" width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M9 7h8v8"/></svg></a>` : `<span class="wchip wtv w-${p.type}" title="${p.type === 'tv' ? 'TV channel — tune in on your TV' : 'Streaming'}${p.note ? ' (' + esc(p.note) + ')' : ''}">${inner}</span>`; };
   const shown = opt === 'hero' ? L.slice(0, 2) : L, more = L.length - shown.length;
   return `<div class="watch${opt === 'hero' ? ' watch-hero' : ''}"><span class="wlbl">${live ? 'Watch live' : 'Watch on'}</span>${shown.map(chip).join('')}${more > 0 ? `<span class="wchip wmore">+${more}</span>` : ''}</div>`;
 }
+const PAUSE_RE = /\b(stumps|lunch|tea|innings break|drinks|rain|bad light|wet outfield|halted|suspended|delayed|half[- ]?time|interval)\b/i;
+const paused = (m) => state(m) === 'live' && PAUSE_RE.test(m.status || '');
+function pauseLabel(m) { const x = (m.status || '').match(PAUSE_RE); return x ? x[1].replace(/half[- ]?time/i, 'Half-time').toUpperCase() : 'PAUSED'; }
 function shortStatus(m) {
   const parts = String(m.status || '').split(/\s+·\s+/).map((x) => x.trim()).filter(Boolean);
   const scores = [sc(m.a), sc(m.b)].filter(Boolean);
@@ -851,6 +864,7 @@ const asOf = (m) => (m.scoreAt ? ' · as of ' + hhmm(m.scoreAt) : '');
 function scoreHtml(m, k) {
   const t = m[k], v = sc(t), s = state(m); if (!v) return s === 'live' ? '<span class="scv">–</span>' : '';
   const cls = s === 'live' ? 'sc-live' : s === 'result' ? (m.win ? (m.win === k ? 'sc-win' : 'sc-lose') : 'sc-draw') : '';
+  if (/^(yet to bat|did not bat|dnb)$/i.test(v)) return `<span class="scv sc-ytb">${esc(v)}</span>`;
   const mt = v.match(/^(.*?)\s*(\([^)]*\))$/);
   return `<span class="scv ${cls}">${mt ? esc(mt[1]) + ` <small>${esc(mt[2])}</small>` : esc(v)}</span>`;
 }
@@ -1176,7 +1190,7 @@ const sportChip = (n) => { const [ic, c] = sportSty(n); return `<span class="spo
 const sportTag = (n) => { const [ic, c] = sportSty(n); return `<small class="tk-sp" style="--sc:${c}"><span class="si" aria-hidden="true">${ic}</span>${esc(n.toUpperCase())}</small>`; };
 function cardHtml(m) {
   const s = state(m);
-  const pill = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE</span>'
+  const pill = paused(m) ? `<span class="pill pausepill">${esc(pauseLabel(m))}</span>` : s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE</span>'
     : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>'
     : s === 'result' ? (isRecent(m) ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">JUST FINISHED</span>' : '<span class="pill" style="background:var(--win-bg);color:var(--win)">RESULT</span>')
     : m.gold ? '<span class="pill m-gold">MEDAL MATCH</span>' : m.big ? '<span class="pill m-gold">BIG MATCH</span>' : '<span class="pill" style="background:var(--surface-2);color:var(--text-2)">UPCOMING</span>';
@@ -1275,7 +1289,7 @@ function pickFeatured() {
         || ms.find((m) => state(m) === 'result');
   /* rotate through every live / under-way match (India first); otherwise show the single pick */
   const natInd = (m) => m.a[0] === 'IND' || m.b[0] === 'IND' || /^india\b/i.test(m.a[1]) || /^india\b/i.test(m.b[1]);
-  const hr = (m) => (natInd(m) ? 0 : m.india && m.big ? 1 : m.big ? 2 : m.india ? 3 : 4) + (state(m) === 'live' ? 0 : .5);
+  const hr = (m) => (natInd(m) ? 0 : m.india && m.big ? 1 : m.big ? 2 : m.india ? 3 : 4) + (state(m) === 'live' ? 0 : .5) + (paused(m) ? 10 : 0);
   const lives = ms.filter(on).sort((x, y) => hr(x) - hr(y) || whenMs(x) - whenMs(y));
   if (f && on(f)) { lives.splice(lives.indexOf(f), 1); lives.unshift(f); }
   heroList = lives.length > 1 ? lives : f ? [f] : [];
@@ -1289,21 +1303,42 @@ $('tilt').addEventListener('mouseenter', () => (heroPause = true)); $('tilt').ad
 function renderHeroDots() {
   const el = $('heroDots'); if (!el) return;
   el.hidden = heroList.length < 2;
-  el.innerHTML = heroList.length < 2 ? '' : `<span class="hd-lbl">${heroList.length} live</span>` + heroList.map((m, i) => `<button type="button" class="hd${i === heroIdx ? ' on' : ''}" data-i="${i}" aria-label="Show ${esc(m.a[1])} v ${esc(m.b[1])}"></button>`).join('');
-  el.querySelectorAll('.hd').forEach((b) => (b.onclick = (e) => { e.stopPropagation(); heroIdx = +b.dataset.i; showFeat(heroList[heroIdx], true); renderHeroDots(); }));
+  el.innerHTML = heroList.length < 2 ? '' : `<button type="button" class="hd-arr" data-d="-1" aria-label="Previous live match">‹</button><span class="hd-lbl">${heroList.length} live</span>` + heroList.map((m, i) => `<button type="button" class="hd${i === heroIdx ? ' on' : ''}" data-i="${i}" aria-label="Show ${esc(m.a[1])} v ${esc(m.b[1])}"></button>`).join('');
+  if (heroList.length > 1) el.insertAdjacentHTML('beforeend', '<button type="button" class="hd-arr" data-d="1" aria-label="Next live match">›</button>');
+  el.querySelectorAll('.hd').forEach((b) => (b.onclick = (e) => { e.stopPropagation(); heroGo(+b.dataset.i); }));
+  el.querySelectorAll('.hd-arr').forEach((b) => (b.onclick = (e) => { e.stopPropagation(); heroGo(heroIdx + +b.dataset.d); }));
 }
+function heroGo(i) {
+  if (heroList.length < 2) return;
+  const dir = i > heroIdx ? 1 : -1;
+  heroIdx = (i + heroList.length) % heroList.length; heroLast = Date.now();
+  showFeat(heroList[heroIdx], dir); renderHeroDots();
+}
+let heroLast = 0;
+/* swipe left/right on the hero card (touch and mouse drag) */
+(function () {
+  const t = $('tilt'); let x0 = null, y0 = 0, moved = false;
+  t.addEventListener('pointerdown', (e) => { x0 = e.clientX; y0 = e.clientY; moved = false; });
+  t.addEventListener('pointerup', (e) => {
+    if (x0 === null) return; const dx = e.clientX - x0, dy = e.clientY - y0; x0 = null;
+    if (Math.abs(dx) > 45 && Math.abs(dx) > Math.abs(dy) * 1.3) { moved = true; heroGo(heroIdx + (dx < 0 ? 1 : -1)); }
+  });
+  t.addEventListener('pointercancel', () => (x0 = null));
+  t.addEventListener('click', (e) => { if (moved) { e.stopPropagation(); e.preventDefault(); moved = false; } }, true);
+  t.addEventListener('wheel', (e) => { if (Math.abs(e.deltaX) > 30 && Math.abs(e.deltaX) > Math.abs(e.deltaY) && Date.now() - heroLast > 500) { e.preventDefault(); heroGo(heroIdx + (e.deltaX > 0 ? 1 : -1)); } }, { passive: false });
+})();
 setInterval(() => {
-  if (heroPause || document.hidden || heroList.length < 2 || document.querySelector('dialog[open]')) return;
+  if (heroPause || document.hidden || heroList.length < 2 || document.querySelector('dialog[open]') || Date.now() - heroLast < 9000) return;
   heroIdx = (heroIdx + 1) % heroList.length; showFeat(heroList[heroIdx], true); renderHeroDots();
 }, 6000);
 function showFeat(f, anim) {
   feat = f;
   if (!f) return;
   const s = state(f);
-  if (anim) { const fe = document.querySelector('.feat'); if (fe) { fe.classList.remove('swap'); void fe.offsetWidth; fe.classList.add('swap'); } }
-  $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.win && (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? (f.gold ? 'INDIA WIN GOLD' : 'INDIA WIN') : f.gold && f.win ? 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
+  if (anim) { const fe = document.querySelector('.feat'); if (fe) { fe.classList.remove('swap', 'swap-l'); void fe.offsetWidth; fe.classList.add(anim === -1 ? 'swap-l' : 'swap'); } }
+  $('featPill').innerHTML = paused(f) ? `<span class="pill pausepill">${esc(pauseLabel(f))}</span>` : s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.win && (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? (f.gold ? 'INDIA WIN GOLD' : 'INDIA WIN') : f.gold && f.win ? 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
   $('featTitle').innerHTML = `<span class="sport-line">${sportChip(f.sport)}<span>${esc([f.comp, f.round].filter(Boolean).join(' · '))}</span></span>`;
-  $('featWhen').textContent = s === 'live' ? shortStatus(f) : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
+  $('featWhen').textContent = paused(f) ? String(f.status || '').replace(PAUSE_RE, '').replace(/^[\s,·:–-]+|[\s,·:–-]+$/g, '') : s === 'live' ? shortStatus(f) : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
   $('featA').innerHTML = badge(f.a, 72); $('featAName').textContent = f.a[1]; $('featAS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'a');
   $('featB').innerHTML = badge(f.b, 72); $('featBName').textContent = f.b[1]; $('featBS').innerHTML = s === 'upcoming' || s === 'started' ? '' : scoreHtml(f, 'b');
   $('featCdWrap').hidden = !(s === 'upcoming' && f.when && f.when.length > 10);
