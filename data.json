@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T01:04:24+05:30",
+  "lastUpdated": "2026-10-11T06:05:04+05:30",
   "dayLabel": "Sun 11 Oct · India v WI 3rd T20I tonight; ISL Day 2",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -1832,14 +1832,26 @@
         "Chandigarh",
         ""
       ],
-      "when": "2026-10-11",
-      "venue": "Mumbai",
-      "note": "Four-day match, 11–14 Oct. Start time and broadcaster TBC.",
+      "when": "2026-10-11T09:30:00+05:30",
+      "venue": "Wankhede Stadium, Mumbai",
+      "note": "Four-day match, 11–14 Oct. Yashasvi Jaiswal and Sarfaraz Khan play for Mumbai.",
       "src": [
         {
           "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
           "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round One",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
+        },
+        {
+          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
+          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
         }
+      ],
+      "watch": [
+        "JioHotstar",
+        "Star Sports Khel (select matches)"
       ]
     },
     {
@@ -1859,14 +1871,26 @@
         "Delhi",
         ""
       ],
-      "when": "2026-10-11",
-      "venue": "Kalyani",
-      "note": "Four-day match, 11–14 Oct. Start time and broadcaster TBC.",
+      "when": "2026-10-11T09:00:00+05:30",
+      "venue": "Bengal Cricket Academy Ground, Kalyani",
+      "note": "Four-day match, 11–14 Oct.",
       "src": [
         {
           "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
           "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round One",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
+        },
+        {
+          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
+          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
         }
+      ],
+      "watch": [
+        "JioHotstar",
+        "Star Sports Khel (select matches)"
       ]
     },
     {
@@ -1886,14 +1910,26 @@
         "Karnataka",
         ""
       ],
-      "when": "2026-10-11",
-      "venue": "Mulapadu",
-      "note": "Four-day match, 11–14 Oct. Start time and broadcaster TBC.",
+      "when": "2026-10-11T09:30:00+05:30",
+      "venue": "ACA Ground, Mulapadu (Vijayawada)",
+      "note": "Four-day match, 11–14 Oct. KL Rahul and Prasidh Krishna play for Karnataka.",
       "src": [
         {
           "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
           "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round One",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
+        },
+        {
+          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
+          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
         }
+      ],
+      "watch": [
+        "JioHotstar",
+        "Star Sports Khel (select matches)"
       ]
     }
   ],
