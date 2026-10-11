@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T16:36:47+05:30",
-  "dayLabel": "Sun 11 Oct · Shami 4/30 in Ranji; India v WI 3rd T20I tonight",
+  "lastUpdated": "2026-10-11T17:36:40+05:30",
+  "dayLabel": "Sun 11 Oct · ISL & Singapore GP live; India v WI 3rd T20I 7 pm",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -719,7 +719,7 @@
     },
     {
       "id": "isl-kashi-kbfc",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -727,13 +727,13 @@
       "a": [
         "IKFC",
         "Inter Kashi",
-        "",
+        "0",
         "#F59E0B"
       ],
       "b": [
         "KBFC",
         "Kerala Blasters",
-        "",
+        "1",
         "#FACC15"
       ],
       "when": "2026-10-11T17:00:00+05:30",
@@ -760,7 +760,9 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "note": "First ISL match in Pune in seven years. Inter Kashi, with around 16 new signings and two players hit by a registration ban, are expected to field an all-Indian squad; Ashley Westwood coaches Kerala Blasters."
+      "note": "First ISL match in Pune in seven years. Kerala Blasters captain Vibin Mohanan scored the opener (18'). Ashley Westwood coaches Kerala Blasters; Inter Kashi are fielding a largely all-Indian squad after a registration ban.",
+      "status": "35' · first half",
+      "scoreAt": "2026-10-11T17:36:40+05:30"
     },
     {
       "id": "isl-pun-odi",
@@ -1021,25 +1023,25 @@
     },
     {
       "id": "f1-sin-race",
-      "st": "upcoming",
+      "st": "live",
       "sport": "Formula 1",
       "comp": "Singapore Grand Prix",
       "round": "Race",
       "a": [
         "F1",
         "Formula 1",
-        "",
+        "Leader: Verstappen",
         "#E10600"
       ],
       "b": [
         "SIN",
         "Marina Bay",
-        "",
+        "2nd: Leclerc",
         "#334155"
       ],
       "when": "2026-10-11T17:30:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Sunday night race in Singapore; qualifying is Sat 10 Oct at 18:30 IST.",
+      "note": "Verstappen leads from pole ahead of the Ferraris of Leclerc and Hamilton; Antonelli, Norris and Piastri follow. Russell starts 19th after his sprint crash.",
       "src": [
         {
           "t": "Spike Today – F1 Singapore GP start times (IST)",
@@ -1056,7 +1058,9 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "status": "Race under way · 62 laps",
+      "scoreAt": "2026-10-11T17:36:40+05:30"
     },
     {
       "id": "pak-sl-t20-1",
@@ -1840,7 +1844,7 @@
       "a": [
         "MUM",
         "Mumbai",
-        "204/5"
+        "249/5 (84)"
       ],
       "b": [
         "CHD",
@@ -1849,7 +1853,7 @@
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "Wankhede Stadium, Mumbai",
-      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck, and Musheer and Sarfaraz Khan both fell just before tea (Mumbai 153/4 at tea).",
+      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck and Musheer and Sarfaraz Khan fell just before tea (153/4). Mumbai closed Day 1 on 249/5.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
@@ -1876,8 +1880,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 1 · final session",
-      "scoreAt": "2026-10-11T16:29:00+05:30"
+      "status": "Stumps, Day 1",
+      "scoreAt": "2026-10-11T17:36:40+05:30"
     },
     {
       "id": "ranji-r1-ben-del",
@@ -1938,16 +1942,16 @@
       "a": [
         "AND",
         "Andhra",
-        "Yet to bat"
+        "16/2 (5)"
       ],
       "b": [
         "KAR",
         "Karnataka",
-        "258/8 (77)"
+        "274 (82.2)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat and slid to 22/4 (KL Rahul 4); captain Smaran Ravichandran hit a century on his captaincy debut, adding a rescue stand with Krishnan Shrijith.",
+      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat and slid to 22/4 (KL Rahul 4); captain Smaran Ravichandran's century lifted them to 274 all out. Andhra 16/2 at stumps.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
@@ -1974,8 +1978,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 1 · final session",
-      "scoreAt": "2026-10-11T16:29:00+05:30"
+      "status": "Stumps · AND trail by 258",
+      "scoreAt": "2026-10-11T17:36:40+05:30"
     }
   ],
   "competitions": [
@@ -2161,7 +2165,7 @@
       "id": "arctic-open",
       "sport": "Badminton",
       "name": "BWF Arctic Open (Super 500)",
-      "status": "Live · SFs 10 Oct, final 11 Oct · Indians out",
+      "status": "Concluded · final 11 Oct · Indians out",
       "note": "20-member Indian squad led by PV Sindhu. Round-of-32 draws: Prannoy v Anders Antonsen (4), Srikanth v Brian Yang, Tanvi Sharma v Chiu Pin-Chian, Isharani Baruah v Ratchanok Intanon (1), Ashmita Chaliha v Line Christophersen (7), Unnati Hooda v Han Qian Xi. Qualifying (6 Oct): Malvika Bansod, Rounak Chouhan and Tharun Mannepalli won their qualifiers in three games. PV Sindhu beat Wen Yu Zhang (CAN) 21-8 21-11 in her opener; Tanvi Sharma upset world No. 18 Chiu Pin-Chian 21-15 21-17 to reach the pre-quarter-finals; Unnati Hooda (16-21 21-15 22-24 v Han Qian Xi), Ashmita Chaliha (7-21 21-14 24-26 v Line Christophersen) and Malvika Bansod (18-21 13-21 v Kirsty Gilmour) are out. Wed 7 Oct round of 32: HS Prannoy lost 10-21 9-21 to Anders Antonsen (4) and Isharani Baruah lost 10-21 15-21 to Ratchanok Intanon (1); Krishna Prasad Garaga/Pruthvi Krishnamurthy Roy upset fifth seeds He Jiting/Ren Xiangyu 10-21 21-18 22-20 in men's doubles. Also out in the round of 32: Tharun Mannepalli (16-21 14-21 v Magnus Johannesen) and Rounak Chouhan (20-22 22-20 17-21 v Weng Hongyang). Kidambi Srikanth v Brian Yang (~22:45 IST) result not yet found. Garaga/Roy next face England's Oliver Butler/Samuel Jones. PV Sindhu plays Riko Gunji in the pre-quarter-finals; Tanvi Sharma is also in the last 16. Watch: FanCode and BWF TV on YouTube (no confirmed TV broadcast in India). QFs 9 Oct, SFs 10 Oct, final 11 Oct. Followed by the Denmark Open (Super 750) from 13 Oct. Thu 8 Oct last 16: Sindhu v Riko Gunji, Tanvi Sharma v Ratchanok Intanon (1), Garaga/Roy v Butler/Jones (not before 21:40 IST). Srikanth does not appear on the day's order of play (Brian Yang is listed in the last 16), so he is out. Thu 8 Oct last 16: PV Sindhu beat Riko Gunji 21-15 21-15 to reach the QFs (reported opponent: Intanon); Tanvi Sharma lost 18-21 7-21 to Intanon; Tharun Mannepalli lost 14-21 19-21 to Christo Popov (2). Garaga/Roy v Butler/Jones result awaited. Update: all Indians are out after Garaga/Roy lost the men's doubles QF 13-21, 14-21 to Kjær/Kjær.",
       "src": [
         {
@@ -2209,7 +2213,7 @@
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
         }
       ],
-      "live": true,
+      "live": false,
       "comp": "BWF Arctic Open (Super 500)"
     },
     {
@@ -2282,6 +2286,28 @@
   ],
   "feed": [
     {
+      "t": "17:18",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "match": "isl-kashi-kbfc",
+      "text": "ISL: Kerala Blasters captain Vibin Mohanan scores in the 18th minute to put KBFC 1–0 up against Inter Kashi in Pune — the ISL's first game in the city in seven years."
+    },
+    {
+      "t": "17:00",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "match": "ranji-r1-and-kar",
+      "text": "Ranji Trophy stumps, Day 1: Karnataka all out for 274 thanks to Smaran Ravichandran's hundred, Andhra 16/2 in reply; Mumbai 249/5 v Chandigarh at the Wankhede.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy live: Shami picks four; Karan Lamba century",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        }
+      ]
+    },
+    {
       "t": "16:28",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2320,6 +2346,19 @@
         {
           "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
           "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        }
+      ]
+    },
+    {
+      "t": "10 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cue sports",
+      "text": "India top the Commonwealth Cue Sports Championships in Ahmedabad (7–10 Oct) with 13 medals: three gold, five silver and five bronze.",
+      "src": [
+        {
+          "t": "The Tribune – India finishes on top with 13 medals at Commonwealth Cue Sports Championships",
+          "u": "https://www.tribuneindia.com/news/sports/india-finishes-on-top-with-13-medals-at-commonwealth-cue-sports-championships/"
         }
       ]
     },
@@ -2443,46 +2482,6 @@
         {
           "t": "Telangana Today – Hoblidhar wins 100m gold",
           "u": "https://telanganatoday.com/manikanta-hoblidhar-wins-100m-gold-at-national-open-athletics-championships"
-        }
-      ]
-    },
-    {
-      "t": "14:35",
-      "tag": "NEWS",
-      "c": "var(--live-text)",
-      "m": "Formula 1",
-      "text": "Singapore GP sprint start delayed by heavy rain at Marina Bay; Verstappen on pole, Russell and Leclerc behind.",
-      "match": "f1-sin-sprint",
-      "src": [
-        {
-          "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
-          "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
-        }
-      ]
-    },
-    {
-      "t": "9 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Hockey",
-      "text": "Asian Champions Trophy schedule out: India begin their title defence against Bangladesh in Jalandhar on 27 Oct (7 pm IST); semis and final in Mohali on 4–5 Nov. Pakistan have withdrawn.",
-      "src": [
-        {
-          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
-          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
-        }
-      ]
-    },
-    {
-      "t": "9 Oct",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Table tennis",
-      "text": "WTT China Smash: Manav Thakkar & Manush Shah lose 8-11, 6-11, 3-11 to South Korea's Lim Jonghoon & Oh Junsung in the men's doubles semi-finals in Beijing.",
-      "src": [
-        {
-          "t": "Sportstar – Manush, Manav bow out in China Smash doubles semis",
-          "u": "https://sportstar.thehindu.com/table-tennis/manush-shah-manav-thakkar-china-smash-2026-doubles-semifinal/article71562891.ece"
         }
       ]
     }
