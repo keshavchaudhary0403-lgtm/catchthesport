@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T06:05:04+05:30",
-  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I tonight; ISL Day 2",
+  "lastUpdated": "2026-10-11T15:36:58+05:30",
+  "dayLabel": "Sun 11 Oct · Udhayveer gold in Cairo; India v WI 3rd T20I tonight",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -1252,24 +1252,24 @@
     },
     {
       "id": "issf-cai-m10ap",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Shooting",
       "comp": "ISSF World Cup Cairo",
       "round": "Men's 10m air pistol",
       "a": [
         "IND",
-        "Sarabjot / Ajendra / Udhayveer",
-        ""
+        "Udhayveer Sidhu",
+        "240.6"
       ],
       "b": [
-        "TBC",
-        "Final field",
-        ""
+        "GER",
+        "Christian Reitz",
+        "240.1"
       ],
       "when": "2026-10-11T11:45:00+05:30",
       "venue": "Cairo, Egypt",
-      "note": "Qualification 11:45 IST, final 14:30 IST. Sarabjot Singh, Ajendra Singh Chauhan and Udhayveer Sidhu for India.",
+      "note": "Udhayveer Sidhu (24) wins gold with 240.6, ahead of Germany's Christian Reitz (240.1) and Italy's Paolo Monna (219.8, bronze). He qualified 4th with 585-19x. Ajendra Singh Chauhan (14th) and Sarabjot Singh (31st) missed the final; Jonathan Gavin Antony was 2nd in qualification but shooting for ranking points only.",
       "watch": [
         {
           "n": "Olympics.com",
@@ -1282,10 +1282,20 @@
       ],
       "src": [
         {
+          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
+          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
+        },
+        {
           "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
           "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T15:36:58+05:30",
+      "gold": true,
+      "big": true
     },
     {
       "id": "issf-cai-m10ar",
@@ -1817,7 +1827,7 @@
     },
     {
       "id": "ranji-r1-mum-chd",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
@@ -1825,17 +1835,21 @@
       "a": [
         "MUM",
         "Mumbai",
-        ""
+        "171/4 (60)"
       ],
       "b": [
         "CHD",
         "Chandigarh",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "Wankhede Stadium, Mumbai",
-      "note": "Four-day match, 11–14 Oct. Yashasvi Jaiswal and Sarfaraz Khan play for Mumbai.",
+      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck in the first hour.",
       "src": [
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
         {
           "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
           "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
@@ -1852,11 +1866,13 @@
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
-      ]
+      ],
+      "status": "Day 1 · 3rd session",
+      "scoreAt": "2026-10-11T15:36:58+05:30"
     },
     {
       "id": "ranji-r1-ben-del",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
@@ -1864,17 +1880,21 @@
       "a": [
         "BEN",
         "Bengal",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "DEL",
         "Delhi",
-        ""
+        "215/8 (67)"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
       "note": "Four-day match, 11–14 Oct.",
       "src": [
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
         {
           "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
           "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
@@ -1891,11 +1911,13 @@
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
-      ]
+      ],
+      "status": "Day 1 · 3rd session",
+      "scoreAt": "2026-10-11T15:36:58+05:30"
     },
     {
       "id": "ranji-r1-and-kar",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
@@ -1903,17 +1925,21 @@
       "a": [
         "AND",
         "Andhra",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "KAR",
         "Karnataka",
-        ""
+        "226/7 (66.4)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Four-day match, 11–14 Oct. KL Rahul and Prasidh Krishna play for Karnataka.",
+      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat; KL Rahul fell for 4 as pacers Kavuri Saiteja and KV Sasikanth took four early wickets.",
       "src": [
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
         {
           "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
           "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
@@ -1930,7 +1956,9 @@
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
-      ]
+      ],
+      "status": "Day 1 · 3rd session",
+      "scoreAt": "2026-10-11T15:36:58+05:30"
     }
   ],
   "competitions": [
@@ -2198,8 +2226,12 @@
       "status": "Live · 10–15 Oct · Cairo",
       "live": true,
       "india": true,
-      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India.",
+      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India. 11 Oct: Udhayveer Sidhu won the men's 10m air pistol gold (240.6), India's first medal in Cairo.",
       "src": [
+        {
+          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
+          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
+        },
         {
           "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
           "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
@@ -2209,11 +2241,15 @@
     {
       "sport": "Cricket",
       "name": "Ranji Trophy 2026-27",
-      "status": "Starts 11 Oct · Round 1 till 14 Oct",
-      "live": false,
+      "status": "Live · Round 1 till 14 Oct",
+      "live": true,
       "id": "ranji",
-      "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate).",
+      "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association.",
       "src": [
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
         {
           "t": "ESPNcricinfo – Duleep Trophy to kick off Indian domestic season; Ranji from Oct 11",
           "u": "https://africa.espn.com/cricket/story/_/id/48833167/duleep-trophy-kick-indian-domestic-season-two-phase-ranji-trophy-starts-october-11"
@@ -2224,6 +2260,34 @@
     }
   ],
   "feed": [
+    {
+      "t": "15:10",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Shooting",
+      "match": "issf-cai-m10ap",
+      "text": "Udhayveer Sidhu wins men's 10m air pistol gold at the ISSF World Cup in Cairo with 240.6, edging Germany's Christian Reitz (240.1); Italy's Paolo Monna took bronze. Sarabjot Singh (31st) and Ajendra Singh Chauhan (14th) missed the final.",
+      "src": [
+        {
+          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
+          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
+        }
+      ]
+    },
+    {
+      "t": "10:30",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "match": "ranji-r1-mum-chd",
+      "text": "Ranji Trophy 2026-27 opens at 18 venues: Yashasvi Jaiswal out for a 13-ball duck for Mumbai v Chandigarh, KL Rahul out for 4 as Andhra's pacers rock Karnataka early.",
+      "src": [
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        }
+      ]
+    },
     {
       "t": "10 Oct",
       "tag": "NEWS",
@@ -2399,39 +2463,9 @@
           "u": "https://khelnow.com/athletics/day-1-report-national-open-athletics-championships-202610"
         }
       ]
-    },
-    {
-      "t": "Late 9 Oct",
-      "tag": "LOSS",
-      "c": "var(--live-text)",
-      "m": "Badminton",
-      "text": "Garaga/Roy lose 13-21, 14-21 to Denmark's Kjær/Kjær in the Arctic Open men's doubles quarter-finals, ending India's run in Vantaa.",
-      "match": "arctic-garaga-kjaer",
-      "src": [
-        {
-          "t": "Telangana Today – Sindhu loses to Intanon in Arctic Open QF",
-          "u": "https://telanganatoday.com/p-v-sindhu-loses-to-ratchanok-intanon-in-arctic-open-quarterfinals"
-        }
-      ]
-    },
-    {
-      "t": "22:46",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "West Indies beat India by 6 wickets in Ranchi, chasing 250 in 18.3 overs — Shai Hope hit a hundred. T20I series level 1–1.",
-      "match": "ind-wi-t20-2"
     }
   ],
   "schedule": [
-    {
-      "d": "11",
-      "mo": "OCT",
-      "title": "Men's 10m air pistol, ISSF World Cup Cairo",
-      "meta": "Shooting · Cairo",
-      "time": "11:45",
-      "match": "issf-cai-m10ap"
-    },
     {
       "d": "11",
       "mo": "OCT",
