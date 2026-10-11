@@ -449,6 +449,15 @@ canvas.popper{position:absolute;pointer-events:none;z-index:7}
 .hero-trophy .trophy{width:16px;height:16px}
 @keyframes tpop{from{transform:scale(0) rotate(-30deg)}to{transform:scale(1) rotate(0)}}
 @media (prefers-reduced-motion:reduce){.burst{display:none}.hero-trophy{animation:none}}
+/* hero rotation through live matches */
+/*dots inside card*/.hero-dots{position:relative;margin:16px auto 0;width:max-content;display:flex;align-items:center;gap:7px;padding:6px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--line);box-shadow:var(--shadow-sm);z-index:8}
+.hero-dots[hidden]{display:none}.hero-dots .hd-lbl{white-space:nowrap;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--live-text);margin-right:4px}
+.hero-dots .hd{width:8px;height:8px;padding:0;border:0;border-radius:999px;background:var(--line-strong);cursor:pointer;transition:width .3s,background .3s}
+.hero-dots .hd.on{width:22px;background:var(--accent)}
+.feat.swap{animation:featSwap .5s cubic-bezier(.2,.7,.2,1)}
+@keyframes featSwap{0%{opacity:.25;transform:translateY(8px)}100%{opacity:1;transform:none}}
+@media (max-width:640px){.hero-dots{margin-top:12px}}
+@media (prefers-reduced-motion:reduce){.feat.swap{animation:none}}
 /* where-to-watch chips */
 .livefoot{font-size:13px;font-weight:500;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mcard2 .foot{gap:12px}
@@ -585,6 +594,7 @@ a.wchip:hover{border-color:var(--accent);color:var(--accent)}
 <div style="display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center"><div id="featB" style="display:flex"></div><div style="font-size:14px;color:var(--text-2)" id="featBName"></div><div class="mono" style="font-weight:700;font-size:22px" id="featBS"></div></div>
 </div>
 <div id="featWatch" style="transform:translateZ(40px)"></div>
+<div class="hero-dots" id="heroDots" hidden></div>
 <div style="margin-top:24px;transform:translateZ(40px)" id="featCdWrap">
 <div style="font-size:12px;color:var(--muted);margin-bottom:10px" id="featCdLabel">Starts in</div>
 <div class="cd" id="countdown"><div><b>--</b><span>DAYS</span></div><div><b>--</b><span>HRS</span></div><div><b>--</b><span>MIN</span></div><div><b>--</b><span>SEC</span></div></div>
@@ -1263,9 +1273,34 @@ function pickFeatured() {
         || by((m) => state(m) === 'upcoming')
         || justDone
         || ms.find((m) => state(m) === 'result');
+  /* rotate through every live / under-way match (India first); otherwise show the single pick */
+  const natInd = (m) => m.a[0] === 'IND' || m.b[0] === 'IND' || /^india\b/i.test(m.a[1]) || /^india\b/i.test(m.b[1]);
+  const hr = (m) => (natInd(m) ? 0 : m.india && m.big ? 1 : m.big ? 2 : m.india ? 3 : 4) + (state(m) === 'live' ? 0 : .5);
+  const lives = ms.filter(on).sort((x, y) => hr(x) - hr(y) || whenMs(x) - whenMs(y));
+  if (f && on(f)) { lives.splice(lives.indexOf(f), 1); lives.unshift(f); }
+  heroList = lives.length > 1 ? lives : f ? [f] : [];
+  const keep = feat && heroList.findIndex((m) => m.id === feat.id);
+  heroIdx = keep > -1 ? keep : 0;
+  renderHeroDots();
+  if (heroList.length) showFeat(heroList[heroIdx]);
+}
+let heroList = [], heroIdx = 0, heroPause = false;
+$('tilt').addEventListener('mouseenter', () => (heroPause = true)); $('tilt').addEventListener('mouseleave', () => (heroPause = false));
+function renderHeroDots() {
+  const el = $('heroDots'); if (!el) return;
+  el.hidden = heroList.length < 2;
+  el.innerHTML = heroList.length < 2 ? '' : `<span class="hd-lbl">${heroList.length} live</span>` + heroList.map((m, i) => `<button type="button" class="hd${i === heroIdx ? ' on' : ''}" data-i="${i}" aria-label="Show ${esc(m.a[1])} v ${esc(m.b[1])}"></button>`).join('');
+  el.querySelectorAll('.hd').forEach((b) => (b.onclick = (e) => { e.stopPropagation(); heroIdx = +b.dataset.i; showFeat(heroList[heroIdx], true); renderHeroDots(); }));
+}
+setInterval(() => {
+  if (heroPause || document.hidden || heroList.length < 2 || document.querySelector('dialog[open]')) return;
+  heroIdx = (heroIdx + 1) % heroList.length; showFeat(heroList[heroIdx], true); renderHeroDots();
+}, 6000);
+function showFeat(f, anim) {
   feat = f;
   if (!f) return;
   const s = state(f);
+  if (anim) { const fe = document.querySelector('.feat'); if (fe) { fe.classList.remove('swap'); void fe.offsetWidth; fe.classList.add('swap'); } }
   $('featPill').innerHTML = s === 'live' ? '<span class="pill livepill"><span class="dot pulse" style="width:6px;height:6px"></span>LIVE NOW</span>' : s === 'started' ? '<span class="pill livepill">UNDER WAY</span>' : s === 'result' ? '<span class="pill" style="background:var(--win-bg);color:var(--win)">' + (f.win && (f.win === 'a' ? f.a : f.b)[0] === 'IND' ? (f.gold ? 'INDIA WIN GOLD' : 'INDIA WIN') : f.gold && f.win ? 'FINAL RESULT' : 'JUST FINISHED') + '</span>' : f.gold ? '<span class="pill m-gold">GOLD MEDAL MATCH</span>' : '<span class="pill m-gold">BIG MATCH</span>';
   $('featTitle').innerHTML = `<span class="sport-line">${sportChip(f.sport)}<span>${esc([f.comp, f.round].filter(Boolean).join(' · '))}</span></span>`;
   $('featWhen').textContent = s === 'live' ? shortStatus(f) : s === 'started' ? 'Started ' + hhmm(f.when) + ' IST' : s === 'result' ? (f.resultAt ? 'Result ' + agoTxt(resMs(f)) : (f.day || '')) : 'Starts ' + whenText(f.when);
