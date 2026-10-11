@@ -1,1212 +1,43 @@
 {
-  "lastUpdated": "2026-10-11T18:35:36+05:30",
-  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I 7 pm; ISL & Singapore GP live",
+  "lastUpdated": "2026-10-11T19:36:05+05:30",
+  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I live; Verstappen wins Singapore",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
-      "id": "ind-wi-t20-2",
+      "id": "arctic-tharun-popov",
+      "sport": "Badminton",
+      "comp": "BWF Arctic Open (Super 500)",
+      "round": "Men's singles · R16",
       "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "2nd T20I",
       "a": [
         "IND",
-        "India",
-        "249/5 (20)"
+        "Tharun Mannepalli",
+        "14-21 19-21"
       ],
       "b": [
-        "WI",
-        "West Indies",
-        "252/4 (18.3)",
-        "#7B1E3A"
+        "FRA",
+        "Christo Popov",
+        "21-14 21-19"
       ],
-      "when": "2026-10-09T19:00:00+05:30",
-      "venue": "JSCA International Stadium, Ranchi",
-      "src": [
-        {
-          "t": "Outlook India – WI beat IND by six wickets",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
-        },
-        {
-          "t": "Mykhel – India post 249/5 in Ranchi",
-          "u": "https://telugu.mykhel.com/cricket/sanju-samson-and-tilak-varma-shine-as-india-post-mammoth-249-5-against-west-indies-in-2nd-t20i-123777.html"
-        },
-        {
-          "t": "Sunday Guardian – Samson's 21-ball fifty in Ranchi",
-          "u": "https://sundayguardianlive.com/sports/ind-vs-wi-2nd-t20i-live-updates-sanju-samson-roars-back-to-form-with-21-ball-fifty-in-ranchi-watch-video-302337/"
-        },
-        {
-          "t": "ANI – WI win toss, opt to bowl first in Ranchi",
-          "u": "https://www.aninews.in/news/sports/cricket/2nd-t20i-west-indies-win-toss-opt-to-bowl-first-against-india-in-ranchi20261009184447/"
-        },
-        {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        },
-        {
-          "t": "NewsX – IND v WI schedule",
-          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "West Indies chased 250 with 7 balls to spare, Shai Hope hitting a hundred and the winning six. India's Samson 82 (41), Kishan 43 (22), Iyer 40, Tilak Varma 47* (13) in vain. Series level 1–1.",
-      "win": "b",
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T23:05:41+05:30"
-    },
-    {
-      "id": "ind-rus-w1",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "International friendly",
-      "round": "Women",
-      "a": [
-        "IND",
-        "India",
-        "0"
-      ],
-      "b": [
-        "RUS",
-        "Russia",
-        "4"
-      ],
-      "when": "2026-10-08T18:00:00+05:30",
-      "src": [
-        {
-          "t": "AIFF – New-look India go down to Russia in Kolkata friendly",
-          "u": "https://www.the-aiff.com/article/new-look-india-go-down-to-russia-in-kolkata-friendly"
-        },
-        {
-          "t": "Outlook India – India v Russia women live",
-          "u": "https://www.outlookindia.com/sports/football/india-vs-russia-women-live-football-score-2026-updates-highlights"
-        },
-        {
-          "t": "ANI – India women to face Russia in Kolkata",
-          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
-        },
-        {
-          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
-          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
-        }
-      ],
-      "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "India women lose 0-4 in their first international in Kolkata. Iana Sheina (41') and Kira Petukhova (60', 65') scored, Iana Svistunova added a fourth (81'). Second friendly on 11 Oct. Free stream on Indian Football YouTube, no TV telecast.",
-      "watch": [
-        {
-          "n": "YouTube – Indian Football",
-          "u": "https://www.youtube.com/@IndianFootball"
-        }
-      ],
-      "big": true,
+      "when": "2026-10-08",
       "win": "b",
       "day": "8 Oct",
-      "recent": true,
-      "resultAt": "2026-10-08T21:11:28+05:30"
-    },
-    {
-      "id": "ifa-shield-final-eb-mbsg",
-      "sport": "Football",
-      "comp": "IFA Shield 2026",
-      "round": "Final · Kolkata derby",
-      "st": "result",
-      "a": [
-        "EBFC",
-        "East Bengal FC",
-        "0",
-        "#C8102E"
-      ],
-      "b": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "1",
-        "#7A1F2B"
-      ],
-      "when": "2026-10-08T18:15:00+05:30",
       "india": true,
-      "big": true,
-      "gold": true,
-      "venue": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium), Kolkata",
-      "note": "Mohun Bagan win the 2026 IFA Shield final 1-0: Samir Zeljkovic scored on 45' from a Sahal Abdul Samad assist and the holders held on as East Bengal pushed late. East Bengal won the Durand Cup final 4-1 in August.",
-      "watch": [
-        "FanCode"
-      ],
-      "src": [
-        {
-          "t": "RevSportz – Zeljkovic's strike seals IFA Shield for Mohun Bagan",
-          "u": "https://revsportz.in/zeljkovics-strike-seals-23rd-ifa-shield-for-mohun-bagan/"
-        },
-        {
-          "t": "Outlook India – Mohun Bagan 1-0 East Bengal, IFA Shield 2026 final",
-          "u": "https://www.outlookindia.com/sports/football/mohun-bagan-vs-east-bengal-live-score-ifa-shield-2026-updates-highlights"
-        }
-      ],
-      "win": "b",
-      "day": "8 Oct",
-      "recent": true,
-      "resultAt": "2026-10-08T21:11:28+05:30"
-    },
-    {
-      "id": "ind-rus-w2",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "International friendly",
-      "round": "Women",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "RUS",
-        "Russia",
-        ""
-      ],
-      "when": "2026-10-11T18:00:00+05:30",
-      "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "Second of two friendlies against Russia.",
-      "src": [
-        {
-          "t": "ANI – India women to face Russia in Kolkata",
-          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
-        },
-        {
-          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
-          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
-        }
-      ],
+      "venue": "Vantaa, Finland",
+      "note": "Popov ends Tharun Mannepalli's run in straight games.",
       "watch": [
         {
-          "n": "YouTube – Indian Football",
-          "u": "https://www.youtube.com/@IndianFootball"
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
         }
-      ]
-    },
-    {
-      "id": "isl-bfc-del",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "BFC",
-        "Bengaluru FC",
-        "3",
-        "#1E3A8A"
       ],
-      "b": [
-        "DEL",
-        "Sporting Club Delhi",
-        "2",
-        "#B91C1C"
-      ],
-      "when": "2026-10-10T17:00:00+05:30",
-      "note": "Bengaluru came from behind to win the ISL opener: Rodriguinho (26') and a Menno Koch own goal (32') put Delhi 2-1 up; Borja Martínez (22', 75') and Koch's 89th-minute winner turned it round.",
       "src": [
         {
-          "t": "India Today – Bengaluru beat SC Delhi 3-2",
-          "u": "https://www.indiatoday.in/sports/football/story/isl-return-bengaluru-fc-beat-sc-delhi-koch-late-winner-youtube-livestream-3014347-2026-10-10"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Wikipedia – 2026-27 Indian Super League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
-        },
-        {
-          "t": "ESPN – ISL to begin 10 October",
-          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+          "t": "Sunday Guardian – Arctic Open 2026 results",
+          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
         }
       ],
-      "venue": "Sree Kanteerava Stadium, Bengaluru",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T20:10:29+05:30",
-      "big": true
-    },
-    {
-      "id": "isl-goa-che",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "1",
-        "#EA580C"
-      ],
-      "b": [
-        "CFC",
-        "Chennaiyin FC",
-        "1",
-        "#1D4ED8"
-      ],
-      "when": "2026-10-10T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Google live score / ISL match centre",
-          "u": "https://www.indiansuperleague.com/"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Wikipedia – 2026-27 Indian Super League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
-        },
-        {
-          "t": "ESPN – ISL to begin 10 October",
-          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        },
-        {
-          "t": "ISL – FC Goa v Chennaiyin match centre",
-          "u": "https://www.indiansuperleague.com/matchcentre/194635"
-        }
-      ],
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T21:35:27+05:30",
-      "note": "Chennaiyin led through Irfan Yadwad (63') before Chiki equalised for Goa in the 75th minute at Fatorda."
-    },
-    {
-      "id": "isl-chu-mcfc",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "CHB",
-        "Churchill Brothers",
-        "",
-        "#991B1B"
-      ],
-      "b": [
-        "MCFC",
-        "Mumbai City FC",
-        "",
-        "#0EA5E9"
-      ],
-      "when": "2026-10-11T19:30:00+05:30",
-      "note": "Churchill Brothers make their ISL debut after taking over Jamshedpur's licence.",
-      "src": [
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Wikipedia – 2026-27 Indian Super League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
-        },
-        {
-          "t": "ESPN – ISL to begin 10 October",
-          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-neu-mbsg",
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "st": "upcoming",
-      "a": [
-        "NEU",
-        "NorthEast United",
-        "",
-        "#C8102E"
-      ],
-      "b": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "",
-        "#7A1F3D"
-      ],
-      "when": "2026-10-12T19:30:00+05:30",
-      "india": true,
-      "venue": "Sarusajai Stadium, Guwahati",
-      "note": "Mohun Bagan's season opener, away in Guwahati.",
-      "src": [
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "epl-ars-lee",
-      "st": "result",
-      "sport": "Football",
-      "comp": "Premier League",
-      "round": "",
-      "a": [
-        "ARS",
-        "Arsenal",
-        "2",
-        "#DB0007"
-      ],
-      "b": [
-        "LEE",
-        "Leeds United",
-        "1",
-        "#1D428A"
-      ],
-      "when": "2026-10-10T17:00:00+05:30",
-      "src": [
-        {
-          "t": "NBC Sports – Arsenal 2-1 Leeds live updates",
-          "u": "https://www.nbcsports.com/soccer/live/arsenal-vs-leeds-live-updates-score-goals-highlights-stats-2026-october-10"
-        },
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        },
-        {
-          "t": "Khel Now – where to watch Premier League in India",
-          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T19:10:43+05:30",
-      "venue": "Emirates Stadium, London",
-      "note": "Leeds led through James Justin (56'); Arsenal hit back with Riccardo Calafiori (62') and Bruno Guimarães (70') to win 2–1 and go to 15 points."
-    },
-    {
-      "id": "epl-mun-tot",
-      "st": "result",
-      "sport": "Football",
-      "comp": "Premier League",
-      "round": "",
-      "a": [
-        "MUN",
-        "Manchester United",
-        "1",
-        "#DA291C"
-      ],
-      "b": [
-        "TOT",
-        "Tottenham Hotspur",
-        "1",
-        "#132257"
-      ],
-      "when": "2026-10-10T22:00:00+05:30",
-      "src": [
-        {
-          "t": "101greatgoals – Man Utd 1-1 Spurs report",
-          "u": "https://www.101greatgoals.com/football/premier-league/manchester-united-tottenham-report-result-goals/"
-        },
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "venue": "Old Trafford",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T00:05:12+05:30",
-      "note": "Mbeumo (73') put United ahead; Solanke equalised in stoppage time (90+2') for 10-man Spurs after Bentancur was sent off."
-    },
-    {
-      "id": "epl-liv-mci",
-      "st": "upcoming",
-      "big": true,
-      "sport": "Football",
-      "comp": "Premier League",
-      "round": "",
-      "a": [
-        "LIV",
-        "Liverpool",
-        "",
-        "#C8102E"
-      ],
-      "b": [
-        "MCI",
-        "Manchester City",
-        "",
-        "#6CABDD"
-      ],
-      "when": "2026-10-11T21:00:00+05:30",
-      "note": "Pick of the weekend — the bookmakers can't split them.",
-      "src": [
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        },
-        {
-          "t": "Khel Now – where to watch Premier League in India",
-          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ]
-    },
-    {
-      "id": "ind-wi-t20-3",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "3rd T20I",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-11T19:00:00+05:30",
-      "venue": "Holkar Stadium, Indore",
-      "src": [
-        {
-          "t": "Google – India vs West Indies 3rd T20I toss",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
-        },
-        {
-          "t": "Spike Today – IND v WI T20I schedule",
-          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
-        },
-        {
-          "t": "CricInnings – IND v WI 2026 schedule",
-          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Series level 1–1. West Indies won the toss and chose to bowl first."
-    },
-    {
-      "id": "ind-wi-t20-4",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "4th T20I",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-14T19:00:00+05:30",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "src": [
-        {
-          "t": "Spike Today – IND v WI T20I schedule",
-          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
-        },
-        {
-          "t": "CricInnings – IND v WI 2026 schedule",
-          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ]
-    },
-    {
-      "id": "ind-wi-t20-5",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "5th T20I",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-17T19:00:00+05:30",
-      "venue": "M. Chinnaswamy Stadium, Bengaluru",
-      "src": [
-        {
-          "t": "Spike Today – IND v WI T20I schedule",
-          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
-        },
-        {
-          "t": "CricInnings – IND v WI 2026 schedule",
-          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ]
-    },
-    {
-      "id": "indw-zimw-t20-1",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "1st T20I",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India Women",
-        ""
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        ""
-      ],
-      "when": "2026-10-16T19:00:00+05:30",
-      "india": true,
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "Smriti Mandhana's first series as full-time captain (Shafali Verma vice-captain); Harmanpreet Kaur stays in the squad. Zimbabwe Women's first tour of India.",
-      "src": [
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        }
-      ]
-    },
-    {
-      "id": "indw-zimw-t20-2",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "2nd T20I",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India Women",
-        ""
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        ""
-      ],
-      "when": "2026-10-18T19:00:00+05:30",
-      "india": true,
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "2nd of three T20Is in Raipur.",
-      "src": [
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        }
-      ]
-    },
-    {
-      "id": "indw-zimw-t20-3",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "3rd T20I",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India Women",
-        ""
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        ""
-      ],
-      "when": "2026-10-20T19:00:00+05:30",
-      "india": true,
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur.",
-      "src": [
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        }
-      ]
-    },
-    {
-      "id": "isl-kashi-kbfc",
-      "st": "live",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "IKFC",
-        "Inter Kashi",
-        "0",
-        "#F59E0B"
-      ],
-      "b": [
-        "KBFC",
-        "Kerala Blasters",
-        "1",
-        "#FACC15"
-      ],
-      "when": "2026-10-11T17:00:00+05:30",
-      "src": [
-        {
-          "t": "Google – Inter Kashi vs Kerala Blasters live score",
-          "u": "https://www.google.com/search?q=Inter+Kashi+vs+Kerala+Blasters+ISL+score"
-        },
-        {
-          "t": "Shillong Times (PTI) – Inter Kashi, Kerala Blasters seek winning start to ISL",
-          "u": "https://theshillongtimes.com/2026/10/11/inter-kashi-kerala-blasters-seek-winning-start-to-isl/"
-        },
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "Balewadi Stadium (Shree Shiv Chhatrapati Sports Complex), Pune",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "First ISL match in Pune in seven years. Kerala Blasters captain Vibin Mohanan scored the opener (18'). Ashley Westwood coaches Kerala Blasters; Inter Kashi are fielding a largely all-Indian squad after a registration ban.",
-      "status": "75' · second half",
-      "scoreAt": "2026-10-11T18:33:00+05:30"
-    },
-    {
-      "id": "isl-pun-odi",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 2",
-      "a": [
-        "PFC",
-        "Punjab FC",
-        "",
-        "#DC2626"
-      ],
-      "b": [
-        "ODI",
-        "Odisha FC",
-        "",
-        "#7C3AED"
-      ],
-      "when": "2026-10-14T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "JLN Stadium, Delhi",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-del-mbsg",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "DEL",
-        "Sporting Club Delhi",
-        "",
-        "#B91C1C"
-      ],
-      "b": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "",
-        "#166534"
-      ],
-      "when": "2026-10-16T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "JLN Stadium, Delhi",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-bfc-che",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "BFC",
-        "Bengaluru FC",
-        "",
-        "#1E3A8A"
-      ],
-      "b": [
-        "CFC",
-        "Chennaiyin FC",
-        "",
-        "#1D4ED8"
-      ],
-      "when": "2026-10-17T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "Sree Kanteerava Stadium, Bengaluru",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-chu-eb",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "CHB",
-        "Churchill Brothers",
-        "",
-        "#9F1239"
-      ],
-      "b": [
-        "EBFC",
-        "East Bengal FC",
-        "",
-        "#DC2626"
-      ],
-      "when": "2026-10-18T17:00:00+05:30",
-      "src": [
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "f1-sin-sprintquali",
-      "st": "result",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Sprint qualifying",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Pole: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Russell",
-        "#334155"
-      ],
-      "when": "2026-10-09T18:00:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "src": [
-        {
-          "t": "Formula1.com – Verstappen clinches pole in Singapore sprint qualifying",
-          "u": "https://www.formula1.com/en/latest/article/verstappen-clinches-pole-position-in-singapore-sprint-qualifying-ahead-of-russell.4dvkvpkCXftdhX7sLI2dcQ"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T20:06:00+05:30",
-      "note": "Max Verstappen (Red Bull) took sprint pole in 1:31.156, 0.120s ahead of George Russell (Mercedes); Charles Leclerc (Ferrari) third. Verstappen's lap was pending a stewards' check. Sprint on Saturday."
-    },
-    {
-      "id": "f1-sin-sprint",
-      "st": "result",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Sprint",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Winner: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Hamilton",
-        "#334155"
-      ],
-      "when": "2026-10-10T14:30:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Verstappen won the rain-hit 20-lap sprint from pole, 2.5s clear of Hamilton (P2 from sixth); Leclerc third, Antonelli fourth. Russell crashed out of the lead; Norris and Piastri collided on the last lap (Piastri out, Norris 8th, stewards investigating).",
-      "src": [
-        {
-          "t": "PlanetF1 – Singapore GP sprint report",
-          "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
-        },
-        {
-          "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
-          "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T16:10:30+05:30"
-    },
-    {
-      "id": "f1-sin-race",
-      "st": "live",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Race",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Leader: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Leclerc",
-        "#334155"
-      ],
-      "when": "2026-10-11T17:30:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Verstappen leads from pole ahead of Leclerc and Hamilton; Antonelli, Norris and Piastri follow. Russell up to 7th from 19th on the grid; Colapinto and Bortoleto retired.",
-      "src": [
-        {
-          "t": "Google – Singapore GP live leaderboard",
-          "u": "https://www.google.com/search?q=Singapore+Grand+Prix+2026+race"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "status": "Lap 36 of 62",
-      "scoreAt": "2026-10-11T18:33:00+05:30"
-    },
-    {
-      "id": "pak-sl-t20-1",
-      "sport": "Cricket",
-      "comp": "Pakistan v Sri Lanka",
-      "round": "1st T20I",
-      "st": "result",
-      "a": [
-        "PAK",
-        "Pakistan",
-        "183+/6 (18.5)"
-      ],
-      "b": [
-        "SL",
-        "Sri Lanka",
-        "182/8 (20)",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-09T18:30:00+05:30",
-      "note": "Pakistan won by 4 wickets with 7 balls to spare, chasing 183. Sahibzada Farhan 89 (53), Maaz Sadaqat 50 (29); 92-run second-wicket stand. Lahiru Udara made 91 for Sri Lanka. Pakistan lead the series 1–0. Not telecast in India.",
-      "venue": "Rawalpindi",
-      "src": [
-        {
-          "t": "Daily Pakistan – Pakistan pull off 183-run chase",
-          "u": "https://en.dailypakistan.com.pk/09-Oct-2026/pakistan-pull-off-stunning-183-run-chase-to-win-first-t20i-against-sri-lanka"
-        },
-        {
-          "t": "Dawn – Udara's 91 lifts Sri Lanka to 182-8",
-          "u": "https://www.dawn.com/news/2035925/udaras-91-lifts-sri-lanka-to-182-8-against-pakistan-in-first-t20i"
-        },
-        {
-          "t": "Sportstak – PAK v SL 1st T20I live",
-          "u": "https://thesportstak.com/cricket/match/pak-vs-sl-1st-t20i-sri-lanka-tour-of-pakistan-09-october-2026-274137/live"
-        },
-        {
-          "t": "Express Tribune – Sri Lanka set for Pakistan tour",
-          "u": "https://tribune.com.pk/story/2628548/sri-lanka-set-for-pakistan-tour"
-        },
-        {
-          "t": "Wikipedia – International cricket in 2026–27",
-          "u": "https://en.wikipedia.org/wiki/International_cricket_in_2026%E2%80%9327"
-        },
-        {
-          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
-          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
-        }
-      ],
-      "win": "a",
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T23:05:41+05:30"
-    },
-    {
-      "id": "pak-sl-t20-2",
-      "sport": "Cricket",
-      "comp": "Pakistan v Sri Lanka",
-      "round": "2nd T20I",
-      "st": "live",
-      "a": [
-        "PAK",
-        "Pakistan",
-        "5/0 (1)"
-      ],
-      "b": [
-        "SL",
-        "Sri Lanka",
-        "Yet to bat",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-11T18:30:00+05:30",
-      "note": "2nd of three T20Is in Rawalpindi; Pakistan lead the series 1–0. Not telecast on Indian TV.",
-      "venue": "Rawalpindi",
-      "src": [
-        {
-          "t": "Google – Pakistan vs Sri Lanka 2nd T20I live score",
-          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+Rawalpindi+score"
-        },
-        {
-          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
-          "u": "https://www.thepapare.com/?p=2627584"
-        },
-        {
-          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
-          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
-        },
-        {
-          "t": "Wisden – PAK v SL T20Is where to watch",
-          "u": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan"
-        }
-      ],
-      "watch": [
-        "Veto"
-      ],
-      "status": "SL chose to bowl",
-      "scoreAt": "2026-10-11T18:33:00+05:30"
-    },
-    {
-      "id": "pak-sl-t20-3",
-      "sport": "Cricket",
-      "comp": "Pakistan v Sri Lanka",
-      "round": "3rd T20I",
-      "st": "upcoming",
-      "a": [
-        "PAK",
-        "Pakistan",
-        ""
-      ],
-      "b": [
-        "SL",
-        "Sri Lanka",
-        "",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-13T18:30:00+05:30",
-      "note": "3rd of three T20Is in Rawalpindi; start time TBC. Starts 18:30 IST; not telecast in India (PCB Live stream).",
-      "venue": "Rawalpindi",
-      "src": [
-        {
-          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
-          "u": "https://www.thepapare.com/?p=2627584"
-        },
-        {
-          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
-          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
-        },
-        {
-          "t": "Wisden – PAK v SL T20Is where to watch",
-          "u": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan"
-        }
-      ],
-      "watch": [
-        "Veto"
-      ]
+      "resultAt": "2026-10-09T03:10:15+05:30"
     },
     {
       "id": "u17w-syr-ind",
@@ -1246,158 +77,6 @@
       "day": "8 Oct",
       "recent": true,
       "resultAt": "2026-10-08T18:02:58+05:30"
-    },
-    {
-      "id": "u17w-ind-mas",
-      "sport": "Football",
-      "comp": "AFC U17 Women's Asian Cup qualifiers",
-      "round": "Group E · Matchday 3",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India U17 women",
-        ""
-      ],
-      "b": [
-        "MAS",
-        "Malaysia",
-        ""
-      ],
-      "when": "2026-10-11T18:30:00+05:30",
-      "india": true,
-      "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "Winner-takes-all: India and hosts Malaysia both have six points; India top on goal difference (16 scored, none conceded). Only the group winner qualifies for the 2027 Asian Cup.",
-      "src": [
-        {
-          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
-          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
-        },
-        {
-          "t": "Khel Now – India U17 women squad",
-          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
-        }
-      ]
-    },
-    {
-      "id": "issf-cai-m10ap",
-      "st": "result",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Men's 10m air pistol",
-      "a": [
-        "IND",
-        "Udhayveer Sidhu",
-        "240.6"
-      ],
-      "b": [
-        "GER",
-        "Christian Reitz",
-        "240.1"
-      ],
-      "when": "2026-10-11T11:45:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Udhayveer Sidhu (24) wins gold with 240.6, ahead of Germany's Christian Reitz (240.1) and Italy's Paolo Monna (219.8, bronze). He qualified 4th with 585-19x. Ajendra Singh Chauhan (14th) and Sarabjot Singh (31st) missed the final; Jonathan Gavin Antony was 2nd in qualification but shooting for ranking points only.",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
-          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
-        },
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ],
-      "win": "a",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T15:36:58+05:30",
-      "gold": true,
-      "big": true
-    },
-    {
-      "id": "issf-cai-m10ar",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Men's 10m air rifle",
-      "a": [
-        "IND",
-        "Babuta / Dhanush / Makhija",
-        ""
-      ],
-      "b": [
-        "TBC",
-        "Final field",
-        ""
-      ],
-      "when": "2026-10-12T12:45:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Qualification 12:45 & 14:45 IST, final 18:00 IST. Arjun Babuta, Dhanush Srikanth and Paarth Makhija for India.",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ]
-    },
-    {
-      "id": "issf-cai-m3p",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Men's 50m rifle 3 positions",
-      "a": [
-        "IND",
-        "Kusale / Sheoran / Karmakar",
-        ""
-      ],
-      "b": [
-        "TBC",
-        "Final field",
-        ""
-      ],
-      "when": "2026-10-15T11:45:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Olympic bronze medallist Swapnil Kusale leads; qualification 11:45 IST, final 15:30 IST.",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ]
     },
     {
       "id": "arctic-sindhu-gunji",
@@ -1499,6 +178,98 @@
       "resultAt": "2026-10-08T17:10:14+05:30"
     },
     {
+      "id": "ind-rus-w1",
+      "st": "result",
+      "india": true,
+      "sport": "Football",
+      "comp": "International friendly",
+      "round": "Women",
+      "a": [
+        "IND",
+        "India",
+        "0"
+      ],
+      "b": [
+        "RUS",
+        "Russia",
+        "4"
+      ],
+      "when": "2026-10-08T18:00:00+05:30",
+      "src": [
+        {
+          "t": "AIFF – New-look India go down to Russia in Kolkata friendly",
+          "u": "https://www.the-aiff.com/article/new-look-india-go-down-to-russia-in-kolkata-friendly"
+        },
+        {
+          "t": "Outlook India – India v Russia women live",
+          "u": "https://www.outlookindia.com/sports/football/india-vs-russia-women-live-football-score-2026-updates-highlights"
+        },
+        {
+          "t": "ANI – India women to face Russia in Kolkata",
+          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
+        },
+        {
+          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
+          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
+        }
+      ],
+      "venue": "Kishore Bharati Krirangan, Kolkata",
+      "note": "India women lose 0-4 in their first international in Kolkata. Iana Sheina (41') and Kira Petukhova (60', 65') scored, Iana Svistunova added a fourth (81'). Second friendly on 11 Oct. Free stream on Indian Football YouTube, no TV telecast.",
+      "watch": [
+        {
+          "n": "YouTube – Indian Football",
+          "u": "https://www.youtube.com/@IndianFootball"
+        }
+      ],
+      "big": true,
+      "win": "b",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T21:11:28+05:30"
+    },
+    {
+      "id": "ifa-shield-final-eb-mbsg",
+      "sport": "Football",
+      "comp": "IFA Shield 2026",
+      "round": "Final · Kolkata derby",
+      "st": "result",
+      "a": [
+        "EBFC",
+        "East Bengal FC",
+        "0",
+        "#C8102E"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "1",
+        "#7A1F2B"
+      ],
+      "when": "2026-10-08T18:15:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Vivekananda Yuba Bharati Krirangan (Salt Lake Stadium), Kolkata",
+      "note": "Mohun Bagan win the 2026 IFA Shield final 1-0: Samir Zeljkovic scored on 45' from a Sahal Abdul Samad assist and the holders held on as East Bengal pushed late. East Bengal won the Durand Cup final 4-1 in August.",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "RevSportz – Zeljkovic's strike seals IFA Shield for Mohun Bagan",
+          "u": "https://revsportz.in/zeljkovics-strike-seals-23rd-ifa-shield-for-mohun-bagan/"
+        },
+        {
+          "t": "Outlook India – Mohun Bagan 1-0 East Bengal, IFA Shield 2026 final",
+          "u": "https://www.outlookindia.com/sports/football/mohun-bagan-vs-east-bengal-live-score-ifa-shield-2026-updates-highlights"
+        }
+      ],
+      "win": "b",
+      "day": "8 Oct",
+      "recent": true,
+      "resultAt": "2026-10-08T21:11:28+05:30"
+    },
+    {
       "id": "arctic-garaga-roy",
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
@@ -1541,6 +312,163 @@
       "win": "a",
       "day": "8 Oct",
       "resultAt": "2026-10-09T17:15:54+05:30"
+    },
+    {
+      "id": "f1-sin-sprintquali",
+      "st": "result",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Sprint qualifying",
+      "a": [
+        "F1",
+        "Formula 1",
+        "Pole: Verstappen",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "2nd: Russell",
+        "#334155"
+      ],
+      "when": "2026-10-09T18:00:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "src": [
+        {
+          "t": "Formula1.com – Verstappen clinches pole in Singapore sprint qualifying",
+          "u": "https://www.formula1.com/en/latest/article/verstappen-clinches-pole-position-in-singapore-sprint-qualifying-ahead-of-russell.4dvkvpkCXftdhX7sLI2dcQ"
+        },
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ],
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T20:06:00+05:30",
+      "note": "Max Verstappen (Red Bull) took sprint pole in 1:31.156, 0.120s ahead of George Russell (Mercedes); Charles Leclerc (Ferrari) third. Verstappen's lap was pending a stewards' check. Sprint on Saturday."
+    },
+    {
+      "id": "pak-sl-t20-1",
+      "sport": "Cricket",
+      "comp": "Pakistan v Sri Lanka",
+      "round": "1st T20I",
+      "st": "result",
+      "a": [
+        "PAK",
+        "Pakistan",
+        "183+/6 (18.5)"
+      ],
+      "b": [
+        "SL",
+        "Sri Lanka",
+        "182/8 (20)",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-09T18:30:00+05:30",
+      "note": "Pakistan won by 4 wickets with 7 balls to spare, chasing 183. Sahibzada Farhan 89 (53), Maaz Sadaqat 50 (29); 92-run second-wicket stand. Lahiru Udara made 91 for Sri Lanka. Pakistan lead the series 1–0. Not telecast in India.",
+      "venue": "Rawalpindi",
+      "src": [
+        {
+          "t": "Daily Pakistan – Pakistan pull off 183-run chase",
+          "u": "https://en.dailypakistan.com.pk/09-Oct-2026/pakistan-pull-off-stunning-183-run-chase-to-win-first-t20i-against-sri-lanka"
+        },
+        {
+          "t": "Dawn – Udara's 91 lifts Sri Lanka to 182-8",
+          "u": "https://www.dawn.com/news/2035925/udaras-91-lifts-sri-lanka-to-182-8-against-pakistan-in-first-t20i"
+        },
+        {
+          "t": "Sportstak – PAK v SL 1st T20I live",
+          "u": "https://thesportstak.com/cricket/match/pak-vs-sl-1st-t20i-sri-lanka-tour-of-pakistan-09-october-2026-274137/live"
+        },
+        {
+          "t": "Express Tribune – Sri Lanka set for Pakistan tour",
+          "u": "https://tribune.com.pk/story/2628548/sri-lanka-set-for-pakistan-tour"
+        },
+        {
+          "t": "Wikipedia – International cricket in 2026–27",
+          "u": "https://en.wikipedia.org/wiki/International_cricket_in_2026%E2%80%9327"
+        },
+        {
+          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
+          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
+        }
+      ],
+      "win": "a",
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T23:05:41+05:30"
+    },
+    {
+      "id": "ind-wi-t20-2",
+      "st": "result",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "2nd T20I",
+      "a": [
+        "IND",
+        "India",
+        "249/5 (20)"
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "252/4 (18.3)",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-09T19:00:00+05:30",
+      "venue": "JSCA International Stadium, Ranchi",
+      "src": [
+        {
+          "t": "Outlook India – WI beat IND by six wickets",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
+        },
+        {
+          "t": "Mykhel – India post 249/5 in Ranchi",
+          "u": "https://telugu.mykhel.com/cricket/sanju-samson-and-tilak-varma-shine-as-india-post-mammoth-249-5-against-west-indies-in-2nd-t20i-123777.html"
+        },
+        {
+          "t": "Sunday Guardian – Samson's 21-ball fifty in Ranchi",
+          "u": "https://sundayguardianlive.com/sports/ind-vs-wi-2nd-t20i-live-updates-sanju-samson-roars-back-to-form-with-21-ball-fifty-in-ranchi-watch-video-302337/"
+        },
+        {
+          "t": "ANI – WI win toss, opt to bowl first in Ranchi",
+          "u": "https://www.aninews.in/news/sports/cricket/2nd-t20i-west-indies-win-toss-opt-to-bowl-first-against-india-in-ranchi20261009184447/"
+        },
+        {
+          "t": "Wikipedia – West Indies in India 2026-27",
+          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
+        },
+        {
+          "t": "NewsX – IND v WI schedule",
+          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "West Indies chased 250 with 7 balls to spare, Shai Hope hitting a hundred and the winning six. India's Samson 82 (41), Kishan 43 (22), Iyer 40, Tilak Varma 47* (13) in vain. Series level 1–1.",
+      "win": "b",
+      "day": "9 Oct",
+      "recent": true,
+      "resultAt": "2026-10-09T23:05:41+05:30"
     },
     {
       "id": "arctic-sindhu-qf",
@@ -1592,42 +520,6 @@
       "resultAt": "2026-10-09T23:05:41+05:30"
     },
     {
-      "id": "arctic-tharun-popov",
-      "sport": "Badminton",
-      "comp": "BWF Arctic Open (Super 500)",
-      "round": "Men's singles · R16",
-      "st": "result",
-      "a": [
-        "IND",
-        "Tharun Mannepalli",
-        "14-21 19-21"
-      ],
-      "b": [
-        "FRA",
-        "Christo Popov",
-        "21-14 21-19"
-      ],
-      "when": "2026-10-08",
-      "win": "b",
-      "day": "8 Oct",
-      "india": true,
-      "venue": "Vantaa, Finland",
-      "note": "Popov ends Tharun Mannepalli's run in straight games.",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
-      "src": [
-        {
-          "t": "Sunday Guardian – Arctic Open 2026 results",
-          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
-        }
-      ],
-      "resultAt": "2026-10-09T03:10:15+05:30"
-    },
-    {
       "id": "arctic-garaga-kjaer",
       "sport": "Badminton",
       "comp": "BWF Arctic Open (Super 500)",
@@ -1661,6 +553,159 @@
       "day": "9 Oct",
       "recent": true,
       "resultAt": "2026-10-10T01:10:00+05:30"
+    },
+    {
+      "id": "f1-sin-sprint",
+      "st": "result",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Sprint",
+      "a": [
+        "F1",
+        "Formula 1",
+        "Winner: Verstappen",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "2nd: Hamilton",
+        "#334155"
+      ],
+      "when": "2026-10-10T14:30:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "note": "Verstappen won the rain-hit 20-lap sprint from pole, 2.5s clear of Hamilton (P2 from sixth); Leclerc third, Antonelli fourth. Russell crashed out of the lead; Norris and Piastri collided on the last lap (Piastri out, Norris 8th, stewards investigating).",
+      "src": [
+        {
+          "t": "PlanetF1 – Singapore GP sprint report",
+          "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
+        },
+        {
+          "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
+          "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
+        },
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T16:10:30+05:30"
+    },
+    {
+      "id": "isl-bfc-del",
+      "st": "result",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "a": [
+        "BFC",
+        "Bengaluru FC",
+        "3",
+        "#1E3A8A"
+      ],
+      "b": [
+        "DEL",
+        "Sporting Club Delhi",
+        "2",
+        "#B91C1C"
+      ],
+      "when": "2026-10-10T17:00:00+05:30",
+      "note": "Bengaluru came from behind to win the ISL opener: Rodriguinho (26') and a Menno Koch own goal (32') put Delhi 2-1 up; Borja Martínez (22', 75') and Koch's 89th-minute winner turned it round.",
+      "src": [
+        {
+          "t": "India Today – Bengaluru beat SC Delhi 3-2",
+          "u": "https://www.indiatoday.in/sports/football/story/isl-return-bengaluru-fc-beat-sc-delhi-koch-late-winner-youtube-livestream-3014347-2026-10-10"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "Sree Kanteerava Stadium, Bengaluru",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T20:10:29+05:30",
+      "big": true
+    },
+    {
+      "id": "epl-ars-lee",
+      "st": "result",
+      "sport": "Football",
+      "comp": "Premier League",
+      "round": "",
+      "a": [
+        "ARS",
+        "Arsenal",
+        "2",
+        "#DB0007"
+      ],
+      "b": [
+        "LEE",
+        "Leeds United",
+        "1",
+        "#1D428A"
+      ],
+      "when": "2026-10-10T17:00:00+05:30",
+      "src": [
+        {
+          "t": "NBC Sports – Arsenal 2-1 Leeds live updates",
+          "u": "https://www.nbcsports.com/soccer/live/arsenal-vs-leeds-live-updates-score-goals-highlights-stats-2026-october-10"
+        },
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        },
+        {
+          "t": "Khel Now – where to watch Premier League in India",
+          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "win": "a",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T19:10:43+05:30",
+      "venue": "Emirates Stadium, London",
+      "note": "Leeds led through James Justin (56'); Arsenal hit back with Riccardo Calafiori (62') and Bruno Guimarães (70') to win 2–1 and go to 15 points."
     },
     {
       "id": "f1-sin-quali",
@@ -1710,6 +755,796 @@
       "resultAt": "2026-10-10T20:10:29+05:30"
     },
     {
+      "id": "isl-goa-che",
+      "st": "result",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "1",
+        "#EA580C"
+      ],
+      "b": [
+        "CFC",
+        "Chennaiyin FC",
+        "1",
+        "#1D4ED8"
+      ],
+      "when": "2026-10-10T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Google live score / ISL match centre",
+          "u": "https://www.indiansuperleague.com/"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        },
+        {
+          "t": "ISL – FC Goa v Chennaiyin match centre",
+          "u": "https://www.indiansuperleague.com/matchcentre/194635"
+        }
+      ],
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-10T21:35:27+05:30",
+      "note": "Chennaiyin led through Irfan Yadwad (63') before Chiki equalised for Goa in the 75th minute at Fatorda."
+    },
+    {
+      "id": "epl-mun-tot",
+      "st": "result",
+      "sport": "Football",
+      "comp": "Premier League",
+      "round": "",
+      "a": [
+        "MUN",
+        "Manchester United",
+        "1",
+        "#DA291C"
+      ],
+      "b": [
+        "TOT",
+        "Tottenham Hotspur",
+        "1",
+        "#132257"
+      ],
+      "when": "2026-10-10T22:00:00+05:30",
+      "src": [
+        {
+          "t": "101greatgoals – Man Utd 1-1 Spurs report",
+          "u": "https://www.101greatgoals.com/football/premier-league/manchester-united-tottenham-report-result-goals/"
+        },
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "venue": "Old Trafford",
+      "day": "10 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T00:05:12+05:30",
+      "note": "Mbeumo (73') put United ahead; Solanke equalised in stoppage time (90+2') for 10-man Spurs after Bentancur was sent off."
+    },
+    {
+      "id": "ranji-r1-ben-del",
+      "st": "live",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 1 · Elite C · 4 days",
+      "a": [
+        "BEN",
+        "Bengal",
+        "Yet to bat"
+      ],
+      "b": [
+        "DEL",
+        "Delhi",
+        "240 (77.3)"
+      ],
+      "when": "2026-10-11T09:00:00+05:30",
+      "venue": "Bengal Cricket Academy Ground, Kalyani",
+      "note": "Four-day match, 11–14 Oct. Delhi bowled out for 240 on Day 1: Mohammed Shami 4/30, Gani 3/45; Hrithik Shokeen top-scored with 56. Bengal to bat on Day 2.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
+        {
+          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
+          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round One",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
+        },
+        {
+          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
+          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+        }
+      ],
+      "watch": [
+        "JioHotstar",
+        "Star Sports Khel (select matches)"
+      ],
+      "status": "Stumps, Day 1",
+      "scoreAt": "2026-10-11T16:28:00+05:30"
+    },
+    {
+      "id": "ranji-r1-mum-chd",
+      "st": "live",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 1 · Elite D · 4 days",
+      "a": [
+        "MUM",
+        "Mumbai",
+        "249/5 (84)"
+      ],
+      "b": [
+        "CHD",
+        "Chandigarh",
+        "Yet to bat"
+      ],
+      "when": "2026-10-11T09:30:00+05:30",
+      "venue": "Wankhede Stadium, Mumbai",
+      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck and Musheer and Sarfaraz Khan fell just before tea (153/4). Mumbai closed Day 1 on 249/5.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
+        {
+          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
+          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round One",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
+        },
+        {
+          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
+          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+        }
+      ],
+      "watch": [
+        "JioHotstar",
+        "Star Sports Khel (select matches)"
+      ],
+      "status": "Stumps, Day 1",
+      "scoreAt": "2026-10-11T17:36:40+05:30"
+    },
+    {
+      "id": "ranji-r1-and-kar",
+      "st": "live",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 1 · Elite B · 4 days",
+      "a": [
+        "AND",
+        "Andhra",
+        "16/2 (5)"
+      ],
+      "b": [
+        "KAR",
+        "Karnataka",
+        "274 (82.2)"
+      ],
+      "when": "2026-10-11T09:30:00+05:30",
+      "venue": "ACA Ground, Mulapadu (Vijayawada)",
+      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat and slid to 22/4 (KL Rahul 4); captain Smaran Ravichandran's century lifted them to 274 all out. Andhra 16/2 at stumps.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+        },
+        {
+          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
+          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
+        },
+        {
+          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
+          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round One",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
+        },
+        {
+          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
+          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+        }
+      ],
+      "watch": [
+        "JioHotstar",
+        "Star Sports Khel (select matches)"
+      ],
+      "status": "Stumps · AND trail by 258",
+      "scoreAt": "2026-10-11T17:36:40+05:30"
+    },
+    {
+      "id": "issf-cai-m10ap",
+      "st": "result",
+      "india": true,
+      "sport": "Shooting",
+      "comp": "ISSF World Cup Cairo",
+      "round": "Men's 10m air pistol",
+      "a": [
+        "IND",
+        "Udhayveer Sidhu",
+        "240.6"
+      ],
+      "b": [
+        "GER",
+        "Christian Reitz",
+        "240.1"
+      ],
+      "when": "2026-10-11T11:45:00+05:30",
+      "venue": "Cairo, Egypt",
+      "note": "Udhayveer Sidhu (24) wins gold with 240.6, ahead of Germany's Christian Reitz (240.1) and Italy's Paolo Monna (219.8, bronze). He qualified 4th with 585-19x. Ajendra Singh Chauhan (14th) and Sarabjot Singh (31st) missed the final; Jonathan Gavin Antony was 2nd in qualification but shooting for ranking points only.",
+      "watch": [
+        {
+          "n": "Olympics.com",
+          "u": "https://www.olympics.com/"
+        },
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
+      ],
+      "src": [
+        {
+          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
+          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
+        },
+        {
+          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
+          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
+        }
+      ],
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T15:36:58+05:30",
+      "gold": true,
+      "big": true
+    },
+    {
+      "id": "isl-kashi-kbfc",
+      "st": "result",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "a": [
+        "IKFC",
+        "Inter Kashi",
+        "0",
+        "#F59E0B"
+      ],
+      "b": [
+        "KBFC",
+        "Kerala Blasters",
+        "2",
+        "#FACC15"
+      ],
+      "when": "2026-10-11T17:00:00+05:30",
+      "src": [
+        {
+          "t": "Google – Inter Kashi vs Kerala Blasters full time",
+          "u": "https://www.google.com/search?q=Inter+Kashi+vs+Kerala+Blasters"
+        },
+        {
+          "t": "Google – Inter Kashi vs Kerala Blasters live score",
+          "u": "https://www.google.com/search?q=Inter+Kashi+vs+Kerala+Blasters+ISL+score"
+        },
+        {
+          "t": "Shillong Times (PTI) – Inter Kashi, Kerala Blasters seek winning start to ISL",
+          "u": "https://theshillongtimes.com/2026/10/11/inter-kashi-kerala-blasters-seek-winning-start-to-isl/"
+        },
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "Balewadi Stadium (Shree Shiv Chhatrapati Sports Complex), Pune",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "note": "Kerala Blasters win their opener 2–0 in Pune: captain Vibin Mohanan scored on 18' and Andre Green added a second in stoppage time (90+4'). First ISL match in Pune in seven years.",
+      "win": "b",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T19:36:05+05:30"
+    },
+    {
+      "id": "f1-sin-race",
+      "st": "result",
+      "sport": "Formula 1",
+      "comp": "Singapore Grand Prix",
+      "round": "Race",
+      "a": [
+        "F1",
+        "Formula 1",
+        "Winner: Verstappen",
+        "#E10600"
+      ],
+      "b": [
+        "SIN",
+        "Marina Bay",
+        "2nd: Leclerc",
+        "#334155"
+      ],
+      "when": "2026-10-11T17:30:00+05:30",
+      "venue": "Marina Bay Street Circuit, Singapore",
+      "note": "Max Verstappen (Red Bull) won from pole in 1:42:00.785, 7.335s ahead of Charles Leclerc (Ferrari); Kimi Antonelli (Mercedes) third, then Lando Norris and Oscar Piastri (McLaren).",
+      "src": [
+        {
+          "t": "Google – Singapore GP 2026 race result",
+          "u": "https://www.google.com/search?q=Singapore+Grand+Prix+2026+result"
+        },
+        {
+          "t": "RaceFans – 2026 Singapore GP race result",
+          "u": "https://www.racefans.net/2026/10/11/"
+        },
+        {
+          "t": "Google – Singapore GP live leaderboard",
+          "u": "https://www.google.com/search?q=Singapore+Grand+Prix+2026+race"
+        },
+        {
+          "t": "Spike Today – F1 Singapore GP start times (IST)",
+          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
+        },
+        {
+          "t": "Formula1.com – Singapore GP 2026",
+          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
+        },
+        {
+          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
+          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ],
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T19:36:05+05:30"
+    },
+    {
+      "id": "ind-rus-w2",
+      "st": "live",
+      "india": true,
+      "sport": "Football",
+      "comp": "International friendly",
+      "round": "Women",
+      "a": [
+        "IND",
+        "India",
+        "0"
+      ],
+      "b": [
+        "RUS",
+        "Russia",
+        "5"
+      ],
+      "when": "2026-10-11T18:00:00+05:30",
+      "venue": "Kishore Bharati Krirangan, Kolkata",
+      "note": "Second of two friendlies against Russia, who won the first 4–0. Russia led 5–0 at half-time (Khel Now).",
+      "src": [
+        {
+          "t": "Google – Khel Now: Halftime India 0-5 Russia",
+          "u": "https://www.google.com/search?q=Blue+Tigresses+Russia+0-5"
+        },
+        {
+          "t": "ANI – India women to face Russia in Kolkata",
+          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
+        },
+        {
+          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
+          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
+        }
+      ],
+      "watch": [
+        {
+          "n": "YouTube – Indian Football",
+          "u": "https://www.youtube.com/@IndianFootball"
+        }
+      ],
+      "status": "Half-time",
+      "scoreAt": "2026-10-11T19:08:00+05:30"
+    },
+    {
+      "id": "pak-sl-t20-2",
+      "sport": "Cricket",
+      "comp": "Pakistan v Sri Lanka",
+      "round": "2nd T20I",
+      "st": "live",
+      "a": [
+        "PAK",
+        "Pakistan",
+        "125/1 (12.2)"
+      ],
+      "b": [
+        "SL",
+        "Sri Lanka",
+        "Yet to bat",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-11T18:30:00+05:30",
+      "note": "2nd of three T20Is in Rawalpindi; Pakistan lead the series 1–0. Not telecast on Indian TV.",
+      "venue": "Rawalpindi",
+      "src": [
+        {
+          "t": "Google – Pakistan vs Sri Lanka 2nd T20I live score",
+          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+Rawalpindi+score"
+        },
+        {
+          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
+          "u": "https://www.thepapare.com/?p=2627584"
+        },
+        {
+          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
+          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
+        },
+        {
+          "t": "Wisden – PAK v SL T20Is where to watch",
+          "u": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan"
+        }
+      ],
+      "watch": [
+        "Veto"
+      ],
+      "status": "SL chose to bowl",
+      "scoreAt": "2026-10-11T19:34:00+05:30"
+    },
+    {
+      "id": "u17w-ind-mas",
+      "sport": "Football",
+      "comp": "AFC U17 Women's Asian Cup qualifiers",
+      "round": "Group E · Matchday 3",
+      "st": "live",
+      "a": [
+        "IND",
+        "India U17 women",
+        "1"
+      ],
+      "b": [
+        "MAS",
+        "Malaysia",
+        "0"
+      ],
+      "when": "2026-10-11T18:30:00+05:30",
+      "india": true,
+      "venue": "MP Selayang Stadium, Selayang, Malaysia",
+      "note": "Winner-takes-all: India and hosts Malaysia both have six points; India top on goal difference (16 scored, none conceded). Only the group winner qualifies for the 2027 Asian Cup.",
+      "src": [
+        {
+          "t": "Google – Khel Now: HT India U17 1-0 Malaysia",
+          "u": "https://www.google.com/search?q=India+U-17+women+Malaysia+half-time"
+        },
+        {
+          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
+          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
+        },
+        {
+          "t": "Khel Now – India U17 women squad",
+          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
+        }
+      ],
+      "status": "Half-time",
+      "scoreAt": "2026-10-11T19:30:00+05:30"
+    },
+    {
+      "id": "ind-wi-t20-3",
+      "st": "live",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "3rd T20I",
+      "a": [
+        "IND",
+        "India",
+        "98/1 (7)"
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "Yet to bat",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-11T19:00:00+05:30",
+      "venue": "Holkar Stadium, Indore",
+      "src": [
+        {
+          "t": "Google – India vs West Indies 3rd T20I live score",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+live+score"
+        },
+        {
+          "t": "Livemint – IND v WI 3rd T20I live",
+          "u": "https://www.livemint.com/sports/cricket-news"
+        },
+        {
+          "t": "Google – India vs West Indies 3rd T20I toss",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
+        },
+        {
+          "t": "Spike Today – IND v WI T20I schedule",
+          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
+        },
+        {
+          "t": "CricInnings – IND v WI 2026 schedule",
+          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Series level 1–1. West Indies chose to bowl; Sanju Samson fell early, then Abhishek Sharma (18-ball fifty) and Ishan Kishan took India to 87/1 in the powerplay.",
+      "status": "7 ov · Abhishek 18-ball fifty",
+      "scoreAt": "2026-10-11T19:34:00+05:30"
+    },
+    {
+      "id": "isl-chu-mcfc",
+      "st": "live",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "a": [
+        "CHB",
+        "Churchill Brothers",
+        "0",
+        "#991B1B"
+      ],
+      "b": [
+        "MCFC",
+        "Mumbai City FC",
+        "0",
+        "#0EA5E9"
+      ],
+      "when": "2026-10-11T19:30:00+05:30",
+      "note": "Churchill Brothers make their ISL debut after taking over Jamshedpur's licence.",
+      "src": [
+        {
+          "t": "Google – Churchill Brothers vs Mumbai City live",
+          "u": "https://www.google.com/search?q=Churchill+Brothers+vs+Mumbai+City"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Wikipedia – 2026-27 Indian Super League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
+        },
+        {
+          "t": "ESPN – ISL to begin 10 October",
+          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "status": "Kick-off",
+      "scoreAt": "2026-10-11T19:34:00+05:30"
+    },
+    {
+      "id": "epl-liv-mci",
+      "st": "upcoming",
+      "big": true,
+      "sport": "Football",
+      "comp": "Premier League",
+      "round": "",
+      "a": [
+        "LIV",
+        "Liverpool",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "MCI",
+        "Manchester City",
+        "",
+        "#6CABDD"
+      ],
+      "when": "2026-10-11T21:00:00+05:30",
+      "note": "Pick of the weekend — the bookmakers can't split them.",
+      "src": [
+        {
+          "t": "Premier League – fixtures",
+          "u": "https://www.premierleague.com/fixtures"
+        },
+        {
+          "t": "Khel Now – where to watch Premier League in India",
+          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "issf-cai-m10ar",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Shooting",
+      "comp": "ISSF World Cup Cairo",
+      "round": "Men's 10m air rifle",
+      "a": [
+        "IND",
+        "Babuta / Dhanush / Makhija",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "Final field",
+        ""
+      ],
+      "when": "2026-10-12T12:45:00+05:30",
+      "venue": "Cairo, Egypt",
+      "note": "Qualification 12:45 & 14:45 IST, final 18:00 IST. Arjun Babuta, Dhanush Srikanth and Paarth Makhija for India.",
+      "watch": [
+        {
+          "n": "Olympics.com",
+          "u": "https://www.olympics.com/"
+        },
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
+      ],
+      "src": [
+        {
+          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
+          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
+        }
+      ]
+    },
+    {
+      "id": "isl-neu-mbsg",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Opening weekend",
+      "st": "upcoming",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "",
+        "#7A1F3D"
+      ],
+      "when": "2026-10-12T19:30:00+05:30",
+      "india": true,
+      "venue": "Sarusajai Stadium, Guwahati",
+      "note": "Mohun Bagan's season opener, away in Guwahati.",
+      "src": [
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "pak-sl-t20-3",
+      "sport": "Cricket",
+      "comp": "Pakistan v Sri Lanka",
+      "round": "3rd T20I",
+      "st": "upcoming",
+      "a": [
+        "PAK",
+        "Pakistan",
+        ""
+      ],
+      "b": [
+        "SL",
+        "Sri Lanka",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-13T18:30:00+05:30",
+      "note": "3rd of three T20Is in Rawalpindi; start time TBC. Starts 18:30 IST; not telecast in India (PCB Live stream).",
+      "venue": "Rawalpindi",
+      "src": [
+        {
+          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
+          "u": "https://www.thepapare.com/?p=2627584"
+        },
+        {
+          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
+          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
+        },
+        {
+          "t": "Wisden – PAK v SL T20Is where to watch",
+          "u": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan"
+        }
+      ],
+      "watch": [
+        "Veto"
+      ]
+    },
+    {
       "id": "acl2-eb-shorta",
       "st": "upcoming",
       "india": true,
@@ -1742,6 +1577,189 @@
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
+    },
+    {
+      "id": "ind-wi-t20-4",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "4th T20I",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-14T19:00:00+05:30",
+      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+      "src": [
+        {
+          "t": "Spike Today – IND v WI T20I schedule",
+          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
+        },
+        {
+          "t": "CricInnings – IND v WI 2026 schedule",
+          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "isl-pun-odi",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 2",
+      "a": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#DC2626"
+      ],
+      "b": [
+        "ODI",
+        "Odisha FC",
+        "",
+        "#7C3AED"
+      ],
+      "when": "2026-10-14T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "JLN Stadium, Delhi",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "issf-cai-m3p",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Shooting",
+      "comp": "ISSF World Cup Cairo",
+      "round": "Men's 50m rifle 3 positions",
+      "a": [
+        "IND",
+        "Kusale / Sheoran / Karmakar",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "Final field",
+        ""
+      ],
+      "when": "2026-10-15T11:45:00+05:30",
+      "venue": "Cairo, Egypt",
+      "note": "Olympic bronze medallist Swapnil Kusale leads; qualification 11:45 IST, final 15:30 IST.",
+      "watch": [
+        {
+          "n": "Olympics.com",
+          "u": "https://www.olympics.com/"
+        },
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
+      ],
+      "src": [
+        {
+          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
+          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
+        }
+      ]
+    },
+    {
+      "id": "indw-zimw-t20-1",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "1st T20I",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-16T19:00:00+05:30",
+      "india": true,
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "note": "Smriti Mandhana's first series as full-time captain (Shafali Verma vice-captain); Harmanpreet Kaur stays in the squad. Zimbabwe Women's first tour of India.",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
+      "id": "isl-del-mbsg",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "DEL",
+        "Sporting Club Delhi",
+        "",
+        "#B91C1C"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "",
+        "#166534"
+      ],
+      "when": "2026-10-16T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "JLN Stadium, Delhi",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
     },
@@ -1814,6 +1832,152 @@
       ]
     },
     {
+      "id": "ind-wi-t20-5",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "India v West Indies",
+      "round": "5th T20I",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "WI",
+        "West Indies",
+        "",
+        "#7B1E3A"
+      ],
+      "when": "2026-10-17T19:00:00+05:30",
+      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "src": [
+        {
+          "t": "Spike Today – IND v WI T20I schedule",
+          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
+        },
+        {
+          "t": "CricInnings – IND v WI 2026 schedule",
+          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
+        },
+        {
+          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "isl-bfc-che",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "BFC",
+        "Bengaluru FC",
+        "",
+        "#1E3A8A"
+      ],
+      "b": [
+        "CFC",
+        "Chennaiyin FC",
+        "",
+        "#1D4ED8"
+      ],
+      "when": "2026-10-17T19:30:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "Sree Kanteerava Stadium, Bengaluru",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-chu-eb",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Matchweek 3",
+      "a": [
+        "CHB",
+        "Churchill Brothers",
+        "",
+        "#9F1239"
+      ],
+      "b": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#DC2626"
+      ],
+      "when": "2026-10-18T17:00:00+05:30",
+      "src": [
+        {
+          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
+        },
+        {
+          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        }
+      ],
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "indw-zimw-t20-2",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "2nd T20I",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-18T19:00:00+05:30",
+      "india": true,
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "note": "2nd of three T20Is in Raipur.",
+      "src": [
+        {
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
       "id": "isl-neu-kbfc",
       "st": "upcoming",
       "india": true,
@@ -1854,151 +2018,95 @@
       ]
     },
     {
-      "id": "ranji-r1-mum-chd",
-      "st": "live",
-      "india": true,
+      "id": "indw-zimw-t20-3",
       "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 1 · Elite D · 4 days",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "3rd T20I",
+      "st": "upcoming",
       "a": [
-        "MUM",
-        "Mumbai",
-        "249/5 (84)"
+        "IND",
+        "India Women",
+        ""
       ],
       "b": [
-        "CHD",
-        "Chandigarh",
-        "Yet to bat"
+        "ZIM",
+        "Zimbabwe Women",
+        ""
       ],
-      "when": "2026-10-11T09:30:00+05:30",
-      "venue": "Wankhede Stadium, Mumbai",
-      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck and Musheer and Sarfaraz Khan fell just before tea (153/4). Mumbai closed Day 1 on 249/5.",
+      "when": "2026-10-20T19:00:00+05:30",
+      "india": true,
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "note": "3rd of three T20Is in Raipur.",
       "src": [
         {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
-        },
-        {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
-          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round One",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
-        },
-        {
-          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
-          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
+          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
         }
-      ],
-      "watch": [
-        "JioHotstar",
-        "Star Sports Khel (select matches)"
-      ],
-      "status": "Stumps, Day 1",
-      "scoreAt": "2026-10-11T17:36:40+05:30"
+      ]
     },
     {
-      "id": "ranji-r1-ben-del",
-      "st": "live",
+      "id": "nz-ind-t20-1",
+      "st": "upcoming",
       "india": true,
       "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 1 · Elite C · 4 days",
+      "comp": "New Zealand v India",
+      "round": "1st T20I",
       "a": [
-        "BEN",
-        "Bengal",
-        "Yet to bat"
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
       ],
       "b": [
-        "DEL",
-        "Delhi",
-        "240 (77.3)"
+        "IND",
+        "India",
+        ""
       ],
-      "when": "2026-10-11T09:00:00+05:30",
-      "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Four-day match, 11–14 Oct. Delhi bowled out for 240 on Day 1: Mohammed Shami 4/30, Gani 3/45; Hrithik Shokeen top-scored with 56. Bengal to bat on Day 2.",
+      "when": "2026-10-22",
+      "venue": "Hagley Oval, Christchurch",
+      "note": "Start of India's five-match T20I tour of New Zealand; IST start time TBC.",
       "src": [
         {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+          "t": "Cricinfo – India tour of New Zealand 2026 fixtures",
+          "u": "https://www.espncricinfo.com/"
         },
         {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
-          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round One",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
-        },
-        {
-          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
-          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+          "t": "Google – India tour of New Zealand 2026 schedule",
+          "u": "https://www.google.com/search?q=India+vs+New+Zealand+T20I+series+October+2026+schedule+venues"
         }
-      ],
-      "watch": [
-        "JioHotstar",
-        "Star Sports Khel (select matches)"
-      ],
-      "status": "Stumps, Day 1",
-      "scoreAt": "2026-10-11T16:28:00+05:30"
+      ]
     },
     {
-      "id": "ranji-r1-and-kar",
-      "st": "live",
+      "id": "nz-ind-t20-2",
+      "st": "upcoming",
       "india": true,
       "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 1 · Elite B · 4 days",
+      "comp": "New Zealand v India",
+      "round": "2nd T20I",
       "a": [
-        "AND",
-        "Andhra",
-        "16/2 (5)"
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
       ],
       "b": [
-        "KAR",
-        "Karnataka",
-        "274 (82.2)"
+        "IND",
+        "India",
+        ""
       ],
-      "when": "2026-10-11T09:30:00+05:30",
-      "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat and slid to 22/4 (KL Rahul 4); captain Smaran Ravichandran's century lifted them to 274 all out. Andhra 16/2 at stumps.",
+      "when": "2026-10-24",
+      "venue": "Hagley Oval, Christchurch",
+      "note": "Start of India's five-match T20I tour of New Zealand; IST start time TBC.",
       "src": [
         {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
+          "t": "Cricinfo – India tour of New Zealand 2026 fixtures",
+          "u": "https://www.espncricinfo.com/"
         },
         {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
-          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round One",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
-        },
-        {
-          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
-          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+          "t": "Google – India tour of New Zealand 2026 schedule",
+          "u": "https://www.google.com/search?q=India+vs+New+Zealand+T20I+series+October+2026+schedule+venues"
         }
-      ],
-      "watch": [
-        "JioHotstar",
-        "Star Sports Khel (select matches)"
-      ],
-      "status": "Stumps · AND trail by 258",
-      "scoreAt": "2026-10-11T17:36:40+05:30"
+      ]
     }
   ],
   "competitions": [
@@ -2154,7 +2262,7 @@
     {
       "sport": "Formula 1",
       "name": "Singapore Grand Prix",
-      "status": "9–11 Oct · sprint weekend",
+      "status": "Concluded · Verstappen won 11 Oct",
       "id": "f1",
       "note": "Race on Sunday 11 Oct, 20:00 local (17:30 IST); sprint qualifying Fri, sprint Sat.",
       "src": [
@@ -2164,7 +2272,7 @@
         }
       ],
       "comp": "Singapore Grand Prix",
-      "live": true
+      "live": false
     },
     {
       "id": "pak-sl",
@@ -2305,6 +2413,46 @@
   ],
   "feed": [
     {
+      "t": "19:31",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "match": "isl-kashi-kbfc",
+      "text": "Kerala Blasters win 2–0 at Inter Kashi in Pune: Vibin Mohanan (18') and Andre Green (90+4') score in their ISL opener."
+    },
+    {
+      "t": "19:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "match": "ind-wi-t20-3",
+      "text": "3rd T20I, Indore: India race to 87/1 in the powerplay — Abhishek Sharma hits an 18-ball fifty after Sanju Samson's early exit."
+    },
+    {
+      "t": "19:25",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "match": "u17w-ind-mas",
+      "text": "AFC U17 Women's Asian Cup qualifier: India lead hosts Malaysia 1–0 at half-time in the Group E decider."
+    },
+    {
+      "t": "19:08",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "match": "ind-rus-w2",
+      "text": "India women trail Russia 0–5 at half-time in the second friendly in Kolkata."
+    },
+    {
+      "t": "19:20",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Formula 1",
+      "match": "f1-sin-race",
+      "text": "Max Verstappen wins the Singapore GP from pole, 7.3s ahead of Leclerc; Antonelli third, Norris and Piastri next."
+    },
+    {
       "t": "18:30",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2317,14 +2465,6 @@
           "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
         }
       ]
-    },
-    {
-      "t": "17:18",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "match": "isl-kashi-kbfc",
-      "text": "ISL: Kerala Blasters captain Vibin Mohanan scores in the 18th minute to put KBFC 1–0 up against Inter Kashi in Pune — the ISL's first game in the city in seven years."
     },
     {
       "t": "17:00",
@@ -2448,73 +2588,9 @@
           "u": "https://m.rediff.com/sports/report/teenage-hammer-thrower-anushka-yadav-improves-meet-record/20261010.htm"
         }
       ]
-    },
-    {
-      "t": "20:03",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Formula 1",
-      "text": "Verstappen takes pole for the Singapore GP — his first at Marina Bay. Leclerc and Hamilton line up 2nd and 3rd for Ferrari; Antonelli 4th, Norris 5th. Race Sunday 17:30 IST.",
-      "match": "f1-sin-quali",
-      "src": [
-        {
-          "t": "BBC Sport – Singapore GP qualifying live",
-          "u": "https://www.bbc.com/sport/formula1/live/c9wqlxzvnzvt"
-        }
-      ]
-    },
-    {
-      "t": "10 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "ISL",
-      "text": "ISL is back: Bengaluru FC beat Sporting Club Delhi 3–2 in the opener. Borja Martínez scored twice and Menno Koch, who had put through his own net, headed the 89th-minute winner.",
-      "match": "isl-bfc-del",
-      "src": [
-        {
-          "t": "India Today – Bengaluru beat SC Delhi 3-2",
-          "u": "https://www.indiatoday.in/sports/football/story/isl-return-bengaluru-fc-beat-sc-delhi-koch-late-winner-youtube-livestream-3014347-2026-10-10"
-        }
-      ]
-    },
-    {
-      "t": "10 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Premier League",
-      "text": "Arsenal come from behind to beat Leeds 2–1 at the Emirates: Calafiori (62') and Guimarães (70') answer James Justin's opener.",
-      "match": "epl-ars-lee",
-      "src": [
-        {
-          "t": "NBC Sports – Arsenal 2-1 Leeds",
-          "u": "https://www.nbcsports.com/soccer/live/arsenal-vs-leeds-live-updates-score-goals-highlights-stats-2026-october-10"
-        }
-      ]
-    },
-    {
-      "t": "15:50",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Formula 1",
-      "text": "Verstappen wins the rain-delayed Singapore GP sprint from pole, 2.5s ahead of Hamilton; Leclerc third. Russell crashed out of the lead and Norris and Piastri collided on the final lap.",
-      "match": "f1-sin-sprint",
-      "src": [
-        {
-          "t": "PlanetF1 – Singapore GP sprint report",
-          "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "11",
-      "mo": "OCT",
-      "title": "India women v Russia, 2nd friendly",
-      "meta": "Football · Kolkata",
-      "time": "18:00",
-      "match": "ind-rus-w2"
-    },
     {
       "d": "11",
       "mo": "OCT",
@@ -2586,6 +2662,22 @@
       "meta": "Cricket",
       "time": "19:00",
       "match": "indw-zimw-t20-3"
+    },
+    {
+      "d": "22",
+      "mo": "OCT",
+      "title": "New Zealand v India, 1st T20I",
+      "meta": "Cricket · Christchurch",
+      "time": "TBC",
+      "match": "nz-ind-t20-1"
+    },
+    {
+      "d": "24",
+      "mo": "OCT",
+      "title": "New Zealand v India, 2nd T20I",
+      "meta": "Cricket · Christchurch",
+      "time": "TBC",
+      "match": "nz-ind-t20-2"
     },
     {
       "d": "27",
