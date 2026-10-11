@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T22:23:11+05:30",
+  "lastUpdated": "2026-10-11T22:34:54+05:30",
   "dayLabel": "Sun 11 Oct · India v WI 3rd T20I live; U17 women qualify",
   "featured": "ind-wi-t20-3",
   "matches": [
@@ -1321,12 +1321,16 @@
       "b": [
         "WI",
         "West Indies",
-        "151/5 (15.4)",
+        "174/7 (17.5)",
         "#7B1E3A"
       ],
       "when": "2026-10-11T19:00:00+05:30",
       "venue": "Holkar Stadium, Indore",
       "src": [
+        {
+          "t": "Google – IND vs WI live score",
+          "u": "https://www.google.com/search?q=ind+vs+wi+live+score"
+        },
         {
           "t": "Google – India vs West Indies 3rd T20I live score",
           "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+live+score"
@@ -1360,9 +1364,9 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India 223 all out (20): Abhishek Sharma 69 off 30, Ishan Kishan 37 off 18, Tilak Varma 28; Roston Chase 2/38. West Indies chasing 224 at Indore.",
-      "status": "WI need 73 off 26",
-      "scoreAt": "2026-10-11T22:23:11+05:30"
+      "note": "India 223 all out (20): Abhishek Sharma 69 off 30, Ishan Kishan 37 off 18, Tilak Varma 28; Roston Chase 2/38. West Indies 174/7 chasing 224 — Nitish Kumar Reddy and Arshdeep Singh among the wicket-takers.",
+      "status": "WI need 50 off 13",
+      "scoreAt": "2026-10-11T22:34:54+05:30"
     },
     {
       "id": "isl-chu-mcfc",
@@ -1441,12 +1445,16 @@
       "b": [
         "MCI",
         "Manchester City",
-        "0",
+        "2",
         "#6CABDD"
       ],
       "when": "2026-10-11T21:00:00+05:30",
-      "note": "Goalless at Anfield; Liverpool down to ten after Ryan Gravenberch's red card (62'). City's first game after the guilty verdict.",
+      "note": "Ryan Gravenberch sent off for a second yellow (62'), then Erling Haaland (65') and Jérémy Doku (68') score for City at Anfield.",
       "src": [
+        {
+          "t": "Google – Liverpool vs Man City",
+          "u": "https://www.google.com/search?q=liverpool+vs+man+city"
+        },
         {
           "t": "Google – Liverpool vs Manchester City live score",
           "u": "https://www.google.com/search?q=Liverpool+vs+Manchester+City+live+score"
@@ -1464,8 +1472,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "64' · Gravenberch sent off",
-      "scoreAt": "2026-10-11T22:23:11+05:30"
+      "status": "76' · 10-man Liverpool",
+      "scoreAt": "2026-10-11T22:34:54+05:30"
     },
     {
       "id": "issf-cai-m10ar",
@@ -2452,12 +2460,12 @@
   ],
   "feed": [
     {
-      "t": "22:23",
+      "t": "22:34",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
       "match": "ind-wi-t20-3",
-      "text": "3rd T20I, Indore: West Indies 151/5 after 15.4 overs, needing 73 off 26 to chase India's 223."
+      "text": "3rd T20I, Indore: West Indies slip to 174/7 after 17.5 overs, needing 50 off 13 balls to chase India's 223."
     },
     {
       "t": "22:15",
@@ -2474,6 +2482,14 @@
       "m": "Football",
       "match": "ind-rus-w2",
       "text": "India women lose 0–8 to Russia in the second Kolkata friendly, after a 0–4 defeat on Thursday."
+    },
+    {
+      "t": "22:31",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "match": "epl-liv-mci",
+      "text": "Premier League: Man City lead 10-man Liverpool 2–0 at Anfield — Haaland (65') and Doku (68') strike after Gravenberch's red card."
     },
     {
       "t": "22:05",
@@ -2584,20 +2600,6 @@
         {
           "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
           "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
-        }
-      ]
-    },
-    {
-      "t": "10:30",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "match": "ranji-r1-mum-chd",
-      "text": "Ranji Trophy 2026-27 opens at 18 venues: Yashasvi Jaiswal out for a 13-ball duck for Mumbai v Chandigarh, KL Rahul out for 4 as Andhra's pacers rock Karnataka early.",
-      "src": [
-        {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
         }
       ]
     }
