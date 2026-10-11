@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T22:11:20+05:30",
-  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I live; Verstappen wins Singapore",
+  "lastUpdated": "2026-10-11T22:23:11+05:30",
+  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I live; U17 women qualify",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "ind-rus-w2",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "International friendly",
@@ -1174,12 +1174,16 @@
       "b": [
         "RUS",
         "Russia",
-        "5"
+        "8"
       ],
       "when": "2026-10-11T18:00:00+05:30",
       "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "Second of two friendlies against Russia, who won the first 4–0. Russia led 5–0 at half-time (Khel Now).",
+      "note": "Russia win 8–0 in the second friendly in Kolkata (5–0 at half-time), after a 4–0 win in the first — India lose the two-match series 0–12 on aggregate.",
       "src": [
+        {
+          "t": "Google – India women vs Russia result",
+          "u": "https://www.google.com/search?q=India+women+vs+Russia+football+friendly+Kolkata+result"
+        },
         {
           "t": "Google – Khel Now: Halftime India 0-5 Russia",
           "u": "https://www.google.com/search?q=Blue+Tigresses+Russia+0-5"
@@ -1199,15 +1203,17 @@
           "u": "https://www.youtube.com/@IndianFootball"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-11T19:08:00+05:30"
+      "win": "b",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T22:23:11+05:30"
     },
     {
       "id": "pak-sl-t20-2",
       "sport": "Cricket",
       "comp": "Pakistan v Sri Lanka",
       "round": "2nd T20I",
-      "st": "live",
+      "st": "result",
       "a": [
         "PAK",
         "Pakistan",
@@ -1216,13 +1222,17 @@
       "b": [
         "SL",
         "Sri Lanka",
-        "Chasing 216",
+        "133/7 (20)",
         "#1E3A8A"
       ],
       "when": "2026-10-11T18:30:00+05:30",
-      "note": "Pakistan 215/3 after Sri Lanka chose to bowl: Sahibzada Farhan and Maaz Sadaqat the top scorers. Pakistan lead the series 1-0.",
+      "note": "Pakistan win by 82 runs after posting 215/3 and restricting Sri Lanka to 133/7; Pakistan take an unbeatable 2–0 lead in the three-match series.",
       "venue": "Rawalpindi",
       "src": [
+        {
+          "t": "Google – Pakistan vs Sri Lanka 2nd T20I result",
+          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+result"
+        },
         {
           "t": "Google – Pakistan vs Sri Lanka 2nd T20I live score",
           "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+Rawalpindi+score"
@@ -1247,18 +1257,21 @@
       "watch": [
         "Veto"
       ],
-      "status": "SL chasing 216"
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T22:23:11+05:30"
     },
     {
       "id": "u17w-ind-mas",
       "sport": "Football",
       "comp": "AFC U17 Women's Asian Cup qualifiers",
       "round": "Group E · Matchday 3",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "India U17 women",
-        "1"
+        "4"
       ],
       "b": [
         "MAS",
@@ -1268,8 +1281,12 @@
       "when": "2026-10-11T18:30:00+05:30",
       "india": true,
       "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "Winner-takes-all: India and hosts Malaysia both have six points; India top on goal difference (16 scored, none conceded). Only the group winner qualifies for the 2027 Asian Cup.",
+      "note": "India beat hosts Malaysia 4–0 to win Group E with three wins from three and qualify for the AFC U17 Women's Asian Cup 2027 in China — their second straight qualification.",
       "src": [
+        {
+          "t": "Google – India U17 women vs Malaysia result",
+          "u": "https://www.google.com/search?q=India+U17+women+vs+Malaysia+AFC+U17+Women%27s+Asian+Cup+qualifier+result"
+        },
         {
           "t": "Google – Khel Now: HT India U17 1-0 Malaysia",
           "u": "https://www.google.com/search?q=India+U-17+women+Malaysia+half-time"
@@ -1283,8 +1300,11 @@
           "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-11T19:30:00+05:30"
+      "win": "a",
+      "day": "11 Oct",
+      "recent": true,
+      "resultAt": "2026-10-11T22:23:11+05:30",
+      "gold": false
     },
     {
       "id": "ind-wi-t20-3",
@@ -1301,7 +1321,7 @@
       "b": [
         "WI",
         "West Indies",
-        "Chasing 224",
+        "151/5 (15.4)",
         "#7B1E3A"
       ],
       "when": "2026-10-11T19:00:00+05:30",
@@ -1341,7 +1361,8 @@
         "JioHotstar"
       ],
       "note": "India 223 all out (20): Abhishek Sharma 69 off 30, Ishan Kishan 37 off 18, Tilak Varma 28; Roston Chase 2/38. West Indies chasing 224 at Indore.",
-      "status": "WI chasing 224"
+      "status": "WI need 73 off 26",
+      "scoreAt": "2026-10-11T22:23:11+05:30"
     },
     {
       "id": "isl-chu-mcfc",
@@ -1406,7 +1427,7 @@
     },
     {
       "id": "epl-liv-mci",
-      "st": "upcoming",
+      "st": "live",
       "big": true,
       "sport": "Football",
       "comp": "Premier League",
@@ -1414,18 +1435,22 @@
       "a": [
         "LIV",
         "Liverpool",
-        "",
+        "0",
         "#C8102E"
       ],
       "b": [
         "MCI",
         "Manchester City",
-        "",
+        "0",
         "#6CABDD"
       ],
       "when": "2026-10-11T21:00:00+05:30",
-      "note": "Pick of the weekend — the bookmakers can't split them.",
+      "note": "Goalless at Anfield; Liverpool down to ten after Ryan Gravenberch's red card (62'). City's first game after the guilty verdict.",
       "src": [
+        {
+          "t": "Google – Liverpool vs Manchester City live score",
+          "u": "https://www.google.com/search?q=Liverpool+vs+Manchester+City+live+score"
+        },
         {
           "t": "Premier League – fixtures",
           "u": "https://www.premierleague.com/fixtures"
@@ -1438,7 +1463,9 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "status": "64' · Gravenberch sent off",
+      "scoreAt": "2026-10-11T22:23:11+05:30"
     },
     {
       "id": "issf-cai-m10ar",
@@ -2425,6 +2452,38 @@
   ],
   "feed": [
     {
+      "t": "22:23",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "match": "ind-wi-t20-3",
+      "text": "3rd T20I, Indore: West Indies 151/5 after 15.4 overs, needing 73 off 26 to chase India's 223."
+    },
+    {
+      "t": "22:15",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "match": "u17w-ind-mas",
+      "text": "India U17 women beat hosts Malaysia 4–0 to top their group and qualify for the 2027 AFC U17 Women's Asian Cup in China."
+    },
+    {
+      "t": "20:00",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "match": "ind-rus-w2",
+      "text": "India women lose 0–8 to Russia in the second Kolkata friendly, after a 0–4 defeat on Thursday."
+    },
+    {
+      "t": "22:05",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "match": "pak-sl-t20-2",
+      "text": "Pakistan beat Sri Lanka by 82 runs in Rawalpindi (215/3 v 133/7) to clinch the T20I series 2–0."
+    },
+    {
       "t": "22:11",
       "tag": "WIN",
       "c": "var(--win)",
@@ -2541,71 +2600,9 @@
           "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
         }
       ]
-    },
-    {
-      "t": "10 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cue sports",
-      "text": "India top the Commonwealth Cue Sports Championships in Ahmedabad (7–10 Oct) with 13 medals: three gold, five silver and five bronze.",
-      "src": [
-        {
-          "t": "The Tribune – India finishes on top with 13 medals at Commonwealth Cue Sports Championships",
-          "u": "https://www.tribuneindia.com/news/sports/india-finishes-on-top-with-13-medals-at-commonwealth-cue-sports-championships/"
-        }
-      ]
-    },
-    {
-      "t": "10 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Shooting",
-      "text": "ISSF World Cup Cairo opens: none of India's four mixed-team pairs reached the 10m air pistol or air rifle medal matches (Bhanwala/Udhayveer 14th, Gulia/Ajendra 16th in pistol qualification; Khyati/Dhanush 14th, Arya/Paarth 29th in rifle). France and Japan took the golds.",
-      "src": [
-        {
-          "t": "RevSportz – India miss out as France and Japan win mixed team golds",
-          "u": "https://revsportz.in/india-miss-out-as-france-and-japan-win-mixed-team-golds-at-issf-world-cup-in-cairo/"
-        }
-      ]
-    },
-    {
-      "t": "23:50",
-      "tag": "DRAW",
-      "c": "var(--silver)",
-      "m": "Premier League",
-      "text": "Manchester United 1–1 Tottenham: Mbeumo (73') gave United the lead, Solanke (90+2') rescued a point for 10-man Spurs.",
-      "match": "epl-mun-tot",
-      "src": [
-        {
-          "t": "101greatgoals – Man Utd 1-1 Spurs report",
-          "u": "https://www.101greatgoals.com/football/premier-league/manchester-united-tottenham-report-result-goals/"
-        }
-      ]
-    },
-    {
-      "t": "10 Oct",
-      "tag": "DRAW",
-      "c": "var(--silver)",
-      "m": "ISL",
-      "text": "FC Goa 1–1 Chennaiyin FC at Fatorda: Irfan Yadwad put Chennaiyin ahead (63'), Chiki levelled for Goa (75').",
-      "match": "isl-goa-che",
-      "src": [
-        {
-          "t": "ISL – FC Goa v Chennaiyin match centre",
-          "u": "https://www.indiansuperleague.com/matchcentre/194635"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "11",
-      "mo": "OCT",
-      "title": "India U17 women v Malaysia (AFC qualifier)",
-      "meta": "Football · Malaysia",
-      "time": "18:30",
-      "match": "u17w-ind-mas"
-    },
     {
       "d": "11",
       "mo": "OCT",
