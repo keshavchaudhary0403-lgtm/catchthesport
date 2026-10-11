@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T17:36:40+05:30",
-  "dayLabel": "Sun 11 Oct · ISL & Singapore GP live; India v WI 3rd T20I 7 pm",
+  "lastUpdated": "2026-10-11T18:35:36+05:30",
+  "dayLabel": "Sun 11 Oct · India v WI 3rd T20I 7 pm; ISL & Singapore GP live",
   "featured": "ind-wi-t20-3",
   "matches": [
     {
@@ -541,6 +541,10 @@
       "venue": "Holkar Stadium, Indore",
       "src": [
         {
+          "t": "Google – India vs West Indies 3rd T20I toss",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
+        },
+        {
           "t": "Spike Today – IND v WI T20I schedule",
           "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
         },
@@ -556,7 +560,8 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": "Series level 1–1. West Indies won the toss and chose to bowl first."
     },
     {
       "id": "ind-wi-t20-4",
@@ -739,6 +744,10 @@
       "when": "2026-10-11T17:00:00+05:30",
       "src": [
         {
+          "t": "Google – Inter Kashi vs Kerala Blasters live score",
+          "u": "https://www.google.com/search?q=Inter+Kashi+vs+Kerala+Blasters+ISL+score"
+        },
+        {
           "t": "Shillong Times (PTI) – Inter Kashi, Kerala Blasters seek winning start to ISL",
           "u": "https://theshillongtimes.com/2026/10/11/inter-kashi-kerala-blasters-seek-winning-start-to-isl/"
         },
@@ -761,8 +770,8 @@
         }
       ],
       "note": "First ISL match in Pune in seven years. Kerala Blasters captain Vibin Mohanan scored the opener (18'). Ashley Westwood coaches Kerala Blasters; Inter Kashi are fielding a largely all-Indian squad after a registration ban.",
-      "status": "35' · first half",
-      "scoreAt": "2026-10-11T17:36:40+05:30"
+      "status": "75' · second half",
+      "scoreAt": "2026-10-11T18:33:00+05:30"
     },
     {
       "id": "isl-pun-odi",
@@ -1041,8 +1050,12 @@
       ],
       "when": "2026-10-11T17:30:00+05:30",
       "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Verstappen leads from pole ahead of the Ferraris of Leclerc and Hamilton; Antonelli, Norris and Piastri follow. Russell starts 19th after his sprint crash.",
+      "note": "Verstappen leads from pole ahead of Leclerc and Hamilton; Antonelli, Norris and Piastri follow. Russell up to 7th from 19th on the grid; Colapinto and Bortoleto retired.",
       "src": [
+        {
+          "t": "Google – Singapore GP live leaderboard",
+          "u": "https://www.google.com/search?q=Singapore+Grand+Prix+2026+race"
+        },
         {
           "t": "Spike Today – F1 Singapore GP start times (IST)",
           "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
@@ -1059,8 +1072,8 @@
       "watch": [
         "FanCode"
       ],
-      "status": "Race under way · 62 laps",
-      "scoreAt": "2026-10-11T17:36:40+05:30"
+      "status": "Lap 36 of 62",
+      "scoreAt": "2026-10-11T18:33:00+05:30"
     },
     {
       "id": "pak-sl-t20-1",
@@ -1118,22 +1131,26 @@
       "sport": "Cricket",
       "comp": "Pakistan v Sri Lanka",
       "round": "2nd T20I",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "PAK",
         "Pakistan",
-        ""
+        "5/0 (1)"
       ],
       "b": [
         "SL",
         "Sri Lanka",
-        "",
+        "Yet to bat",
         "#1E3A8A"
       ],
       "when": "2026-10-11T18:30:00+05:30",
-      "note": "2nd of three T20Is in Rawalpindi; start time TBC. Starts 18:30 IST; not telecast in India (PCB Live stream).",
+      "note": "2nd of three T20Is in Rawalpindi; Pakistan lead the series 1–0. Not telecast on Indian TV.",
       "venue": "Rawalpindi",
       "src": [
+        {
+          "t": "Google – Pakistan vs Sri Lanka 2nd T20I live score",
+          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+Rawalpindi+score"
+        },
         {
           "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
           "u": "https://www.thepapare.com/?p=2627584"
@@ -1149,7 +1166,9 @@
       ],
       "watch": [
         "Veto"
-      ]
+      ],
+      "status": "SL chose to bowl",
+      "scoreAt": "2026-10-11T18:33:00+05:30"
     },
     {
       "id": "pak-sl-t20-3",
@@ -2286,6 +2305,20 @@
   ],
   "feed": [
     {
+      "t": "18:30",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "3rd T20I, Indore: West Indies win the toss and bowl first against India. Series level 1–1.",
+      "match": "ind-wi-t20-3",
+      "src": [
+        {
+          "t": "Google – India vs West Indies 3rd T20I toss",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
+        }
+      ]
+    },
+    {
       "t": "17:18",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2469,19 +2502,6 @@
         {
           "t": "PlanetF1 – Singapore GP sprint report",
           "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
-        }
-      ]
-    },
-    {
-      "t": "9 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Athletics",
-      "text": "National Open Day 2: Manikanta Hoblidhar wins men's 100m in 10.25; Akash Raj takes 400m (46.24), Arjun Waskale 1500m (3:43.04), Anjli women's 400m (53.37), Manpreet Kaur shot put (17.07m).",
-      "src": [
-        {
-          "t": "Telangana Today – Hoblidhar wins 100m gold",
-          "u": "https://telanganatoday.com/manikanta-hoblidhar-wins-100m-gold-at-national-open-athletics-championships"
         }
       ]
     }
