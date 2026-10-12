@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T15:15:27+05:30",
+  "lastUpdated": "2026-10-12T20:11:00+05:30",
   "dayLabel": "Mon 12 Oct · India lead WI 2–1 · Ranji Day 2 & Cairo shooting today",
   "featured": "issf-cai-m10ar",
   "matches": [
@@ -456,16 +456,16 @@
       "a": [
         "BEN",
         "Bengal",
-        "Yet to bat"
+        "304/3"
       ],
       "b": [
         "DEL",
         "Delhi",
-        "240 (77.3)"
+        "240"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Four-day match, 11–14 Oct. Delhi bowled out for 240 on Day 1: Mohammed Shami 4/30, Gani 3/45; Hrithik Shokeen top-scored with 56. Bengal to bat on Day 2.",
+      "note": "Bengal 304/3 in reply to Delhi's 240 (Shami took 4 on Day 1) at Kalyani.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
@@ -486,14 +486,18 @@
         {
           "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
           "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+        },
+        {
+          "t": "IANS – Ranji Trophy Day 2 round-up",
+          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
         }
       ],
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Stumps, Day 1",
-      "scoreAt": "2026-10-11T16:28:00+05:30"
+      "status": "Stumps D2 · BEN lead by 64",
+      "scoreAt": "2026-10-12T20:11:00+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -505,16 +509,16 @@
       "a": [
         "MUM",
         "Mumbai",
-        "249/5 (84)"
+        "429"
       ],
       "b": [
         "CHD",
         "Chandigarh",
-        "Yet to bat"
+        "78 & 0/1 (f/o)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "Wankhede Stadium, Mumbai",
-      "note": "Four-day match, 11–14 Oct. Chandigarh chose to bowl; Yashasvi Jaiswal fell for a 13-ball duck and Musheer and Sarfaraz Khan fell just before tea (153/4). Mumbai closed Day 1 on 249/5.",
+      "note": "Tushar Deshpande 5/17 and Mohit Avasthi 3/9 bowl Chandigarh out for 78 after Mumbai's 429; Mumbai enforce the follow-on.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
@@ -535,14 +539,18 @@
         {
           "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
           "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+        },
+        {
+          "t": "IANS – Ranji Trophy Day 2 round-up",
+          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
         }
       ],
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Stumps, Day 1",
-      "scoreAt": "2026-10-11T17:36:40+05:30"
+      "status": "Stumps D2 · follow-on enforced",
+      "scoreAt": "2026-10-12T20:11:00+05:30"
     },
     {
       "id": "ranji-r1-and-kar",
@@ -554,16 +562,16 @@
       "a": [
         "AND",
         "Andhra",
-        "16/2 (5)"
+        "331/6"
       ],
       "b": [
         "KAR",
         "Karnataka",
-        "274 (82.2)"
+        "274"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Four-day match, 11–14 Oct. Karnataka chose to bat and slid to 22/4 (KL Rahul 4); captain Smaran Ravichandran's century lifted them to 274 all out. Andhra 16/2 at stumps.",
+      "note": "Andhra 331/6 against Karnataka's 274 (Smaran Ravichandran century on Day 1) at Vijayawada.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
@@ -584,14 +592,18 @@
         {
           "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
           "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
+        },
+        {
+          "t": "IANS – Ranji Trophy Day 2 round-up",
+          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
         }
       ],
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Stumps · AND trail by 258",
-      "scoreAt": "2026-10-11T17:36:40+05:30"
+      "status": "Stumps D2 · AND lead by 57",
+      "scoreAt": "2026-10-12T20:11:00+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -2302,6 +2314,20 @@
   ],
   "feed": [
     {
+      "t": "19:49",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Ranji Trophy",
+      "text": "Day 2 stumps: Mumbai bowl Chandigarh out for 78 (Deshpande 5/17) after 429 and enforce the follow-on; Bengal 304/3 lead Delhi by 64; Andhra 331/6 lead Karnataka by 57.",
+      "src": [
+        {
+          "t": "IANS – Ranji Trophy Day 2 round-up",
+          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
+        }
+      ],
+      "match": "ranji-r1-mum-chd"
+    },
+    {
       "t": "12:06",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2439,20 +2465,6 @@
       "src": [
         {
           "t": "Sportstar – Ranji Trophy live: Shami picks four; Karan Lamba century",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
-        }
-      ]
-    },
-    {
-      "t": "16:28",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "match": "ranji-r1-ben-del",
-      "text": "Ranji Trophy Day 1: Mohammed Shami takes 4/30 as Bengal bowl Delhi out for 240 in Kalyani. Karnataka captain Smaran Ravichandran hits a century on debut as skipper (Karnataka 258/8 v Andhra); Mumbai 204/5 v Chandigarh.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
         }
       ]
