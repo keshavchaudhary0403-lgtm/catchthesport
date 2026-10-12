@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T11:10:06+05:30",
+  "lastUpdated": "2026-10-12T12:06:05+05:30",
   "dayLabel": "Mon 12 Oct · India lead WI 2–1 · Ranji Day 2 & Cairo shooting today",
   "featured": "issf-cai-m10ar",
   "matches": [
@@ -1861,6 +1861,93 @@
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ]
+    },
+    {
+      "id": "den-sindhu-an",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's singles · R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "PV Sindhu",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "KOR",
+        "An Se-young (1)",
+        ""
+      ],
+      "when": "2026-10-13",
+      "india": true,
+      "big": true,
+      "venue": "Odense, Denmark",
+      "note": "Sindhu drew defending champion and world No. 1 An Se-young in the first round. Order of play TBC.",
+      "src": [
+        {
+          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
+          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
+        }
+      ]
+    },
+    {
+      "id": "den-lakshya-chou",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Men's singles · R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "TPE",
+        "Chou Tien Chen (3)",
+        ""
+      ],
+      "when": "2026-10-13",
+      "india": true,
+      "big": true,
+      "venue": "Odense, Denmark",
+      "note": "Lakshya Sen opens against third seed Chou Tien Chen. Order of play TBC.",
+      "src": [
+        {
+          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
+          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
+        }
+      ]
+    },
+    {
+      "id": "den-satwik-chirag",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Men's doubles · R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Satwik/Chirag (5)",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "CHN",
+        "He Ji Ting/Ren Xiang Yu",
+        ""
+      ],
+      "when": "2026-10-13",
+      "india": true,
+      "big": false,
+      "venue": "Odense, Denmark",
+      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He/Ren in round one. Order of play TBC.",
+      "src": [
+        {
+          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
+          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -2170,9 +2257,13 @@
       "name": "BWF Denmark Open (Super 750)",
       "status": "13–18 Oct · Odense",
       "live": true,
-      "india": false,
-      "note": "Super 750 event at Jyske Bank Arena, Odense, straight after the Arctic Open. First round 13–14 Oct, final 18 Oct. Indian entries to be confirmed from the official draw.",
+      "india": true,
+      "note": "Super 750 in Odense, 13–18 Oct. India: Sindhu v An Se-young, Lakshya Sen v Chou Tien Chen, Ayush Shetty v Alwi Farhan, Srikanth v Merkle, Satwik/Chirag v He/Ren, Treesa/Gayatri and the Panda sisters in doubles. Order of play and Indian broadcaster TBC.",
       "src": [
+        {
+          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
+          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
+        },
         {
           "t": "BWF – VICTOR Denmark Open 2026 results",
           "u": "https://bwfworldchampionships.bwfbadminton.com/"
@@ -2181,10 +2272,25 @@
           "t": "Denmark Open – schedule",
           "u": "https://denmarkopen.dk/"
         }
-      ]
+      ],
+      "comp": "BWF Denmark Open (Super 750)"
     }
   ],
   "feed": [
+    {
+      "t": "12:06",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open draw: Sindhu meets world No. 1 An Se-young, Lakshya Sen faces Chou Tien Chen, Satwik/Chirag open v China's He/Ren; play starts Tue 13 Oct in Odense.",
+      "src": [
+        {
+          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
+          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
+        }
+      ],
+      "match": "den-sindhu-an"
+    },
     {
       "t": "23:05",
       "tag": "WIN",
@@ -2326,20 +2432,6 @@
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
         }
       ]
-    },
-    {
-      "t": "15:10",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Shooting",
-      "match": "issf-cai-m10ap",
-      "text": "Udhayveer Sidhu wins men's 10m air pistol gold at the ISSF World Cup in Cairo with 240.6, edging Germany's Christian Reitz (240.1); Italy's Paolo Monna took bronze. Sarabjot Singh (31st) and Ajendra Singh Chauhan (14th) missed the final.",
-      "src": [
-        {
-          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
-          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2358,6 +2450,14 @@
       "meta": "Football · Kolkata",
       "time": "19:15",
       "match": "acl2-eb-shorta"
+    },
+    {
+      "d": "13",
+      "mo": "OCT",
+      "title": "Sindhu v An Se-young, Lakshya v Chou Tien Chen – Denmark Open R1",
+      "meta": "Badminton · Odense",
+      "time": "TBC",
+      "match": "den-sindhu-an"
     },
     {
       "d": "14",
@@ -2414,13 +2514,6 @@
       "meta": "Cricket · Christchurch",
       "time": "12:30",
       "match": "nz-ind-t20-2"
-    },
-    {
-      "d": "27",
-      "mo": "OCT",
-      "title": "India v Bangladesh, Asian Champions Trophy",
-      "meta": "Hockey · Jalandhar",
-      "time": "19:00"
     }
   ],
   "players": [
