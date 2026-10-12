@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T05:04:06+05:30",
+  "lastUpdated": "2026-10-12T08:09:42+05:30",
   "dayLabel": "Mon 12 Oct · India lead WI 2–1 · Ranji Day 2 & Cairo shooting today",
   "featured": "issf-cai-m10ar",
   "matches": [
@@ -1772,6 +1772,69 @@
         {
           "t": "NDTV Sports – India A seal thumping win in 3rd unofficial ODI",
           "u": "https://sports.ndtv.com/cricket/india-a-vs-australia-a-live-score-3rd-unofficial-odi-live-updates-ind-a-vs-aus-a-match-scorecard-ruturaj-gaikwad-devdutt-padikkal-rajat-patidar-12168311"
+        }
+      ]
+    },
+    {
+      "id": "isl-pun-mci",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "MCFC",
+        "Mumbai City FC",
+        "",
+        "#6CABDD"
+      ],
+      "when": "2026-10-19T19:30:00+05:30",
+      "india": true,
+      "venue": "JLN Stadium, Delhi",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "Khel Now – Indian football calendar October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        }
+      ]
+    },
+    {
+      "id": "acgl-goa-fortis",
+      "sport": "Football",
+      "comp": "AFC Challenge League",
+      "round": "Group stage",
+      "st": "upcoming",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#F26522"
+      ],
+      "b": [
+        "FOR",
+        "Fortis FC",
+        "",
+        "#444444"
+      ],
+      "when": "2026-10-20",
+      "india": true,
+      "src": [
+        {
+          "t": "Khel Now – Indian football calendar October 2026",
+          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ]
     }
