@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-12T20:11:00+05:30",
-  "dayLabel": "Mon 12 Oct · India lead WI 2–1 · Ranji Day 2 & Cairo shooting today",
+  "lastUpdated": "2026-10-12T22:05:07+05:30",
+  "dayLabel": "Mon 12 Oct · India lead WI 2–1 · NEU stun Mohun Bagan",
   "featured": "issf-cai-m10ar",
   "matches": [
     {
@@ -1110,24 +1110,28 @@
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Opening weekend",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "NEU",
         "NorthEast United",
-        "",
+        "1",
         "#C8102E"
       ],
       "b": [
         "MBSG",
         "Mohun Bagan SG",
-        "",
+        "0",
         "#7A1F3D"
       ],
       "when": "2026-10-12T19:30:00+05:30",
       "india": true,
       "venue": "Sarusajai Stadium, Guwahati",
-      "note": "Mohun Bagan's season opener, away in Guwahati.",
+      "note": "Substitute Jithin M.S. scored in the 92nd minute on a counterattack as NorthEast United stunned Mohun Bagan, who had 19 attempts (6 on target); GK Gurmeet Singh was key.",
       "src": [
+        {
+          "t": "The Newsmill – Jithin's late strike helps NorthEast United stun Mohun Bagan",
+          "u": "https://thenewsmill.com/2026/10/jithins-late-strike-helps-northeast-united-stun-mohun-bagan-in-guwahati/"
+        },
         {
           "t": "Olympics.com – ISL 2026-27 schedule",
           "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
@@ -1144,7 +1148,11 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "12 Oct",
+      "recent": true,
+      "resultAt": "2026-10-12T22:05:07+05:30"
     },
     {
       "id": "pak-sl-t20-3",
@@ -2314,6 +2322,20 @@
   ],
   "feed": [
     {
+      "t": "22:05",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "ISL",
+      "text": "NorthEast United 1–0 Mohun Bagan: sub Jithin's 92nd-minute counterattack goal wins the Guwahati opener.",
+      "match": "isl-neu-mbsg",
+      "src": [
+        {
+          "t": "The Newsmill – Jithin's late strike helps NorthEast United stun Mohun Bagan",
+          "u": "https://thenewsmill.com/2026/10/jithins-late-strike-helps-northeast-united-stun-mohun-bagan-in-guwahati/"
+        }
+      ]
+    },
+    {
       "t": "19:49",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2452,20 +2474,6 @@
         {
           "t": "Google – India vs West Indies 3rd T20I toss",
           "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
-        }
-      ]
-    },
-    {
-      "t": "17:00",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "match": "ranji-r1-and-kar",
-      "text": "Ranji Trophy stumps, Day 1: Karnataka all out for 274 thanks to Smaran Ravichandran's hundred, Andhra 16/2 in reply; Mumbai 249/5 v Chandigarh at the Wankhede.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy live: Shami picks four; Karan Lamba century",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
         }
       ]
     }
