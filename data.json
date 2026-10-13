@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T11:39:12+05:30",
-  "dayLabel": "Tue 13 Oct · India lead WI 2–1 · EB host Al-Shorta tonight",
-  "featured": "den-sindhu-an",
+  "lastUpdated": "2026-10-13T15:44:02+05:30",
+  "dayLabel": "Tue 13 Oct · Lakshya live in Odense · EB host Al-Shorta tonight",
+  "featured": "den-lakshya-chou",
   "matches": [
     {
       "id": "ind-wi-t20-2",
@@ -456,17 +456,21 @@
       "a": [
         "BEN",
         "Bengal",
-        "417/5"
+        "429"
       ],
       "b": [
         "DEL",
         "Delhi",
-        "240"
+        "240 & 51/2 (31.2)"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 417/5 (106.4 ov) in reply to Delhi's 240 on Day 3 at Kalyani — centuries for Sudip Gharami (122) and Abishek Porel (114); Shami took 4 on Day 1.",
+      "note": "Bengal 429 (112 ov) in reply to Delhi's 240 — centuries for Sudip Gharami (122) and Abishek Porel (114); Delhi 51/2 in their second innings on Day 3 at Kalyani.",
       "src": [
+        {
+          "t": "BCCI – Scorecard, Bengal v Delhi",
+          "u": "https://www.bcci.tv/"
+        },
         {
           "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
           "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
@@ -500,12 +504,12 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 · BEN lead by 177",
-      "scoreAt": "2026-10-13T11:39:12+05:30"
+      "status": "Day 3 · DEL trail by 138",
+      "scoreAt": "2026-10-13T15:30:00+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
@@ -518,12 +522,20 @@
       "b": [
         "CHD",
         "Chandigarh",
-        "78 & 88/3 (f/o)"
+        "78 & 196 (f/o)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "Wankhede Stadium, Mumbai",
-      "note": "Mumbai 429; Chandigarh bowled out for 78 (Tushar Deshpande 5/17 incl. hat-trick) and 88/3 following on, Day 3 at the Wankhede.",
+      "note": "Mumbai beat Chandigarh by an innings and 155 runs on Day 3 at the Wankhede — 429 batting first, then Chandigarh bowled out for 78 (Tushar Deshpande 5/17 incl. hat-trick) and 196.",
       "src": [
+        {
+          "t": "Google – Mumbai vs Chandigarh Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Mumbai+vs+Chandigarh+Ranji+Trophy+score"
+        },
+        {
+          "t": "Sportstar – Ranji Trophy 2026-27: Mumbai beats Chandigarh by an innings and 155 runs",
+          "u": "https://sportstar.thehindu.com/cricket/"
+        },
         {
           "t": "Google – Ranji Trophy Mumbai vs Chandigarh live score",
           "u": "https://www.google.com/search?q=Ranji+Trophy+Mumbai+vs+Chandigarh+live+score"
@@ -557,8 +569,10 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 · CHD trail by 263",
-      "scoreAt": "2026-10-13T11:39:12+05:30"
+      "win": "a",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T15:44:02+05:30"
     },
     {
       "id": "ranji-r1-and-kar",
@@ -575,12 +589,16 @@
       "b": [
         "KAR",
         "Karnataka",
-        "274"
+        "274 & 103/3 (37)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Andhra all out for 418 (121.5 ov) in reply to Karnataka's 274 (Smaran Ravichandran century on Day 1) — lead of 144 on Day 3 at Vijayawada.",
+      "note": "Andhra 418 in reply to Karnataka's 274 (Smaran Ravichandran century); Karnataka 103/3 in their second innings on Day 3 — KL Rahul out for 1 after 4 in the first innings.",
       "src": [
+        {
+          "t": "Google – Andhra vs Karnataka Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Andhra+vs+Karnataka+Ranji+Trophy+score"
+        },
         {
           "t": "Google – Ranji Trophy Andhra vs Karnataka live score",
           "u": "https://www.google.com/search?q=Ranji+Trophy+Andhra+vs+Karnataka+live+score"
@@ -614,8 +632,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 · AND lead by 144",
-      "scoreAt": "2026-10-13T11:39:12+05:30"
+      "status": "Day 3 · KAR trail by 41",
+      "scoreAt": "2026-10-13T15:32:00+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -1870,19 +1888,27 @@
         "#E4572E"
       ],
       "b": [
-        "KOR",
-        "An Se-young (1)",
+        "GER",
+        "Yvonne Li",
         ""
       ],
-      "when": "2026-10-13",
+      "when": "2026-10-13T16:40:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Sindhu drew defending champion and world No. 1 An Se-young in the first round. Order of play TBC. Play starts 12:30 IST; FanCode stream, no TV telecast in India.",
+      "note": "Draw changed after Ratchanok Intanon and Han Yue withdrew: Sindhu now opens against Germany's Yvonne Li (Sindhu leads H2H 3–0) instead of An Se-young, who faces Polina Buhrova. Estimated start 4:30–4:40 pm IST; FanCode / BWF TV.",
       "src": [
         {
-          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
-          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
+          "t": "IndiaSportsHub – Denmark Open draw change: Sindhu v Yvonne Li",
+          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
+        },
+        {
+          "t": "Google – PV Sindhu vs Yvonne Li",
+          "u": "https://www.google.com/search?q=PV+Sindhu+vs+Yvonne+Li"
+        },
+        {
+          "t": "Chosun – An Se-young's Denmark Open opponent withdraws",
+          "u": "https://www.chosun.com/sports-en/"
         },
         {
           "t": "Global Game Guide – Denmark Open 2026: live streams (JioStar rights in India)",
@@ -1902,24 +1928,28 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Men's singles · R32",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "Lakshya Sen",
-        "",
+        "13",
         "#E4572E"
       ],
       "b": [
         "TPE",
         "Chou Tien Chen (3)",
-        ""
+        "13"
       ],
-      "when": "2026-10-13",
+      "when": "2026-10-13T15:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Lakshya Sen opens against third seed Chou Tien Chen. Order of play TBC. Play starts 12:30 IST; FanCode stream, no TV telecast in India.",
+      "note": "Lakshya Sen v third seed Chou Tien Chen, level 13–13 in the first game in Odense. Stream on FanCode / BWF TV.",
       "src": [
+        {
+          "t": "Google – Lakshya Sen Chou Tien Chen",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Chou+Tien+Chen"
+        },
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
           "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
@@ -1935,7 +1965,9 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "status": "1st game",
+      "scoreAt": "2026-10-13T15:41:00+05:30"
     },
     {
       "id": "den-satwik-chirag",
@@ -1958,8 +1990,12 @@
       "india": true,
       "big": false,
       "venue": "Odense, Denmark",
-      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He/Ren in round one. Order of play TBC. Play starts 12:30 IST; FanCode stream, no TV telecast in India.",
+      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He Ji Ting/Ren Xiang Yu in round one (R32 runs 13–14 Oct; day TBC). FanCode stream, no TV telecast in India.",
       "src": [
+        {
+          "t": "IndiaSportsHub – Denmark Open draw change",
+          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
+        },
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
           "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
@@ -1975,43 +2011,6 @@
       ],
       "watch": [
         "FanCode"
-      ]
-    },
-    {
-      "id": "issf-cai-w3p",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Women's 50m rifle 3 positions",
-      "a": [
-        "IND",
-        "Moudgil / Podder / Kaushik",
-        ""
-      ],
-      "b": [
-        "TBC",
-        "Final field",
-        ""
-      ],
-      "when": "2026-10-13T15:30:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Anjum Moudgil, Ayushi Podder and Manini Kaushik for India; final 15:30 IST (qualification earlier in the day).",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Sunday Guardian – ISSF World Cup Cairo: India schedule",
-          "u": "https://sundayguardianlive.com/sports/issf-world-cup-2026-cairo-swapnil-kusale-sarabjot-singh-in-action-full-schedule-indian-shooters-where-to-watch-rifle-pistol-shooting-event-live-302654/"
-        }
       ]
     }
   ],
@@ -2347,16 +2346,71 @@
   ],
   "feed": [
     {
-      "t": "11:39",
+      "t": "15:41",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Denmark Open: Lakshya Sen and third seed Chou Tien Chen level at 13–13 in the first game of their round-one match.",
+      "match": "den-lakshya-chou",
+      "src": [
+        {
+          "t": "Google – Lakshya Sen Chou Tien Chen",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Chou+Tien+Chen"
+        }
+      ]
+    },
+    {
+      "t": "15:30",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Mumbai crush Chandigarh by an innings and 155 runs at the Wankhede inside three days (429 v 78 & 196).",
+      "match": "ranji-r1-mum-chd",
+      "src": [
+        {
+          "t": "Sportstar – Mumbai beats Chandigarh by an innings and 155 runs",
+          "u": "https://sportstar.thehindu.com/cricket/"
+        }
+      ]
+    },
+    {
+      "t": "15:30",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
-      "text": "Ranji Day 3: Bengal 417/5, lead Delhi by 177 (Gharami 122, Porel 114); Andhra all out 418, lead Karnataka by 144; Chandigarh 88/3 following on, trail Mumbai by 263.",
+      "text": "Ranji Day 3: Bengal all out 429, Delhi 51/2 and trail by 138; Karnataka 103/3, still 41 behind Andhra.",
       "match": "ranji-r1-ben-del",
       "src": [
         {
           "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
           "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
+        }
+      ]
+    },
+    {
+      "t": "14:30",
+      "tag": "OUT",
+      "c": "var(--accent)",
+      "m": "Shooting",
+      "text": "ISSF World Cup Cairo: no Indian in the women's 50m rifle 3P final — Anjum Moudgil 27th (584) and Manini Kaushik (581) missed out in qualification.",
+      "src": [
+        {
+          "t": "Google – ISSF World Cup Cairo women's 50m rifle 3 positions final India",
+          "u": "https://www.google.com/search?q=ISSF+World+Cup+Cairo+women's+50m+rifle+3+positions+final+India"
+        }
+      ]
+    },
+    {
+      "t": "13:00",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open draw changed after Ratchanok Intanon and Han Yue withdrew: Sindhu now opens against Germany's Yvonne Li, not An Se-young.",
+      "match": "den-sindhu-an",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Denmark Open draw change",
+          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
         }
       ]
     },
@@ -2400,20 +2454,6 @@
         }
       ],
       "match": "ranji-r1-mum-chd"
-    },
-    {
-      "t": "12:06",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open draw: Sindhu meets world No. 1 An Se-young, Lakshya Sen faces Chou Tien Chen, Satwik/Chirag open v China's He/Ren; play starts Tue 13 Oct in Odense.",
-      "src": [
-        {
-          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
-          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
-        }
-      ],
-      "match": "den-sindhu-an"
     },
     {
       "t": "23:05",
@@ -2482,41 +2522,9 @@
       "m": "Football",
       "text": "ISL: Churchill Brothers beat Mumbai City 2-1 at Fatorda – Bora 57', Gutierrez 86'; Pardo pulled one back in stoppage time.",
       "match": "isl-chu-mcfc"
-    },
-    {
-      "t": "19:31",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "match": "isl-kashi-kbfc",
-      "text": "Kerala Blasters win 2–0 at Inter Kashi in Pune: Vibin Mohanan (18') and Andre Green (90+4') score in their ISL opener."
-    },
-    {
-      "t": "19:25",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "match": "u17w-ind-mas",
-      "text": "AFC U17 Women's Asian Cup qualifier: India lead hosts Malaysia 1–0 at half-time in the Group E decider."
-    },
-    {
-      "t": "19:08",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "match": "ind-rus-w2",
-      "text": "India women trail Russia 0–5 at half-time in the second friendly in Kolkata."
     }
   ],
   "schedule": [
-    {
-      "d": "13",
-      "mo": "OCT",
-      "title": "Women's 50m rifle 3P final – ISSF World Cup Cairo",
-      "meta": "Shooting · Cairo",
-      "time": "15:30",
-      "match": "issf-cai-w3p"
-    },
     {
       "d": "13",
       "mo": "OCT",
@@ -2528,9 +2536,9 @@
     {
       "d": "13",
       "mo": "OCT",
-      "title": "Sindhu v An Se-young, Lakshya v Chou Tien Chen – Denmark Open R1",
+      "title": "Sindhu v Yvonne Li – Denmark Open R1",
       "meta": "Badminton · Odense",
-      "time": "TBC",
+      "time": "16:40",
       "match": "den-sindhu-an"
     },
     {
