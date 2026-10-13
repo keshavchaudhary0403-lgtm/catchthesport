@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T15:44:02+05:30",
-  "dayLabel": "Tue 13 Oct · Lakshya live in Odense · EB host Al-Shorta tonight",
-  "featured": "den-lakshya-chou",
+  "lastUpdated": "2026-10-13T18:06:27+05:30",
+  "dayLabel": "Tue 13 Oct · EB host Al-Shorta tonight · Denmark Open day 1 · Ranji Day 3",
+  "featured": "acl2-eb-shorta",
   "matches": [
     {
       "id": "ind-wi-t20-2",
@@ -1209,7 +1209,7 @@
       "watch": [
         "FanCode"
       ],
-      "note": "East Bengal's home tie against Iraq's Al-Shorta in Group D (with Al Hussein and Al Seeb).",
+      "note": "East Bengal's home tie against Iraq's Al-Shorta in Group D (with Al Hussein and Al Seeb). Live on FanCode (match pass).",
       "src": [
         {
           "t": "FanCode – East Bengal FC vs Al Shorta (13 Oct, 7:15 PM)",
@@ -1218,6 +1218,10 @@
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        },
+        {
+          "t": "FanCode – East Bengal v Al Shorta",
+          "u": "https://www.fancode.com/football/tour/afc-champions-league-two-2026-27-19845218/matches/east-bengal-fc-vs-al-shorta-4248975/live-match-info"
         }
       ]
     },
@@ -1928,23 +1932,23 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Men's singles · R32",
-      "st": "live",
+      "st": "upcoming",
       "a": [
         "IND",
         "Lakshya Sen",
-        "13",
+        "",
         "#E4572E"
       ],
       "b": [
         "TPE",
         "Chou Tien Chen (3)",
-        "13"
+        ""
       ],
       "when": "2026-10-13T15:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Lakshya Sen v third seed Chou Tien Chen, level 13–13 in the first game in Odense. Stream on FanCode / BWF TV.",
+      "note": "Lakshya Sen v third seed Chou Tien Chen in Odense; was level 13–13 in the first game at 15:41 IST. Final score not confirmed yet. Stream on FanCode / BWF TV.",
       "src": [
         {
           "t": "Google – Lakshya Sen Chou Tien Chen",
@@ -1965,9 +1969,7 @@
       ],
       "watch": [
         "FanCode"
-      ],
-      "status": "1st game",
-      "scoreAt": "2026-10-13T15:41:00+05:30"
+      ]
     },
     {
       "id": "den-satwik-chirag",
