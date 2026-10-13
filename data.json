@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T10:06:10+05:30",
+  "lastUpdated": "2026-10-13T11:39:12+05:30",
   "dayLabel": "Tue 13 Oct · India lead WI 2–1 · EB host Al-Shorta tonight",
   "featured": "den-sindhu-an",
   "matches": [
@@ -456,7 +456,7 @@
       "a": [
         "BEN",
         "Bengal",
-        "304/3"
+        "417/5"
       ],
       "b": [
         "DEL",
@@ -465,8 +465,12 @@
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 304/3 in reply to Delhi's 240 (Shami took 4 on Day 1) at Kalyani.",
+      "note": "Bengal 417/5 (106.4 ov) in reply to Delhi's 240 on Day 3 at Kalyani — centuries for Sudip Gharami (122) and Abishek Porel (114); Shami took 4 on Day 1.",
       "src": [
+        {
+          "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
@@ -496,8 +500,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Stumps D2 · BEN lead by 64",
-      "scoreAt": "2026-10-12T20:11:00+05:30"
+      "status": "Day 3 · BEN lead by 177",
+      "scoreAt": "2026-10-13T11:39:12+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -514,12 +518,16 @@
       "b": [
         "CHD",
         "Chandigarh",
-        "78 & 0/1 (f/o)"
+        "78 & 88/3 (f/o)"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "Wankhede Stadium, Mumbai",
-      "note": "Tushar Deshpande 5/17 and Mohit Avasthi 3/9 bowl Chandigarh out for 78 after Mumbai's 429; Mumbai enforce the follow-on.",
+      "note": "Mumbai 429; Chandigarh bowled out for 78 (Tushar Deshpande 5/17 incl. hat-trick) and 88/3 following on, Day 3 at the Wankhede.",
       "src": [
+        {
+          "t": "Google – Ranji Trophy Mumbai vs Chandigarh live score",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+Mumbai+vs+Chandigarh+live+score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
@@ -549,8 +557,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Stumps D2 · follow-on enforced",
-      "scoreAt": "2026-10-12T20:11:00+05:30"
+      "status": "Day 3 · CHD trail by 263",
+      "scoreAt": "2026-10-13T11:39:12+05:30"
     },
     {
       "id": "ranji-r1-and-kar",
@@ -562,7 +570,7 @@
       "a": [
         "AND",
         "Andhra",
-        "331/6"
+        "418"
       ],
       "b": [
         "KAR",
@@ -571,8 +579,12 @@
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Andhra 331/6 against Karnataka's 274 (Smaran Ravichandran century on Day 1) at Vijayawada.",
+      "note": "Andhra all out for 418 (121.5 ov) in reply to Karnataka's 274 (Smaran Ravichandran century on Day 1) — lead of 144 on Day 3 at Vijayawada.",
       "src": [
+        {
+          "t": "Google – Ranji Trophy Andhra vs Karnataka live score",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+Andhra+vs+Karnataka+live+score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
@@ -602,8 +614,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Stumps D2 · AND lead by 57",
-      "scoreAt": "2026-10-12T20:11:00+05:30"
+      "status": "Day 3 · AND lead by 144",
+      "scoreAt": "2026-10-13T11:39:12+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -1067,43 +1079,6 @@
       "day": "11 Oct",
       "recent": true,
       "resultAt": "2026-10-11T23:13:37+05:30"
-    },
-    {
-      "id": "issf-cai-m10ar",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Men's 10m air rifle",
-      "a": [
-        "IND",
-        "Babuta / Dhanush / Makhija",
-        ""
-      ],
-      "b": [
-        "TBC",
-        "Final field",
-        ""
-      ],
-      "when": "2026-10-12T12:45:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Qualification 12:45 & 14:45 IST, final 18:00 IST on 12 Oct. Arjun Babuta, Dhanush Srikanth and Paarth Makhija for India. Final result not yet found in reports.",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ]
     },
     {
       "id": "isl-neu-mbsg",
@@ -2001,6 +1976,43 @@
       "watch": [
         "FanCode"
       ]
+    },
+    {
+      "id": "issf-cai-w3p",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Shooting",
+      "comp": "ISSF World Cup Cairo",
+      "round": "Women's 50m rifle 3 positions",
+      "a": [
+        "IND",
+        "Moudgil / Podder / Kaushik",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "Final field",
+        ""
+      ],
+      "when": "2026-10-13T15:30:00+05:30",
+      "venue": "Cairo, Egypt",
+      "note": "Anjum Moudgil, Ayushi Podder and Manini Kaushik for India; final 15:30 IST (qualification earlier in the day).",
+      "watch": [
+        {
+          "n": "Olympics.com",
+          "u": "https://www.olympics.com/"
+        },
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
+      ],
+      "src": [
+        {
+          "t": "Sunday Guardian – ISSF World Cup Cairo: India schedule",
+          "u": "https://sundayguardianlive.com/sports/issf-world-cup-2026-cairo-swapnil-kusale-sarabjot-singh-in-action-full-schedule-indian-shooters-where-to-watch-rifle-pistol-shooting-event-live-302654/"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -2268,8 +2280,12 @@
       "status": "Live · 10–15 Oct · Cairo",
       "live": true,
       "india": true,
-      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India. 11 Oct: Udhayveer Sidhu won the men's 10m air pistol gold (240.6), India's first medal in Cairo.",
+      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India. 11 Oct: Udhayveer Sidhu won the men's 10m air pistol gold (240.6), India's first medal in Cairo. 12 Oct: Czechia's Jiri Privratsky won the men's 10m air rifle; Arjun Babuta was 18th in qualification (630.0). 13 Oct: women's 50m rifle 3P final 15:30 IST.",
       "src": [
+        {
+          "t": "ISSF – Privratsky comes out on top in a nail-biting final",
+          "u": "https://www.issf-sports.org/news"
+        },
         {
           "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
           "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
@@ -2330,6 +2346,33 @@
     }
   ],
   "feed": [
+    {
+      "t": "11:39",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Day 3: Bengal 417/5, lead Delhi by 177 (Gharami 122, Porel 114); Andhra all out 418, lead Karnataka by 144; Chandigarh 88/3 following on, trail Mumbai by 263.",
+      "match": "ranji-r1-ben-del",
+      "src": [
+        {
+          "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
+        }
+      ]
+    },
+    {
+      "t": "12 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Shooting",
+      "text": "ISSF World Cup Cairo: Czechia's Jiri Privratsky wins the men's 10m air rifle final; Arjun Babuta finished 18th in qualification (630.0). Women's 50m rifle 3P final today at 15:30 IST.",
+      "src": [
+        {
+          "t": "ISSF – Privratsky comes out on top in a nail-biting final",
+          "u": "https://www.issf-sports.org/news"
+        }
+      ]
+    },
     {
       "t": "22:05",
       "tag": "WIN",
@@ -2463,31 +2506,17 @@
       "m": "Football",
       "match": "ind-rus-w2",
       "text": "India women trail Russia 0–5 at half-time in the second friendly in Kolkata."
-    },
-    {
-      "t": "19:20",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Formula 1",
-      "match": "f1-sin-race",
-      "text": "Max Verstappen wins the Singapore GP from pole, 7.3s ahead of Leclerc; Antonelli third, Norris and Piastri next."
-    },
-    {
-      "t": "18:30",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "3rd T20I, Indore: West Indies win the toss and bowl first against India. Series level 1–1.",
-      "match": "ind-wi-t20-3",
-      "src": [
-        {
-          "t": "Google – India vs West Indies 3rd T20I toss",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+3rd+T20I+Indore+toss"
-        }
-      ]
     }
   ],
   "schedule": [
+    {
+      "d": "13",
+      "mo": "OCT",
+      "title": "Women's 50m rifle 3P final – ISSF World Cup Cairo",
+      "meta": "Shooting · Cairo",
+      "time": "15:30",
+      "match": "issf-cai-w3p"
+    },
     {
       "d": "13",
       "mo": "OCT",
