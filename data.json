@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-13T20:05:00+05:30",
-  "dayLabel": "Tue 13 Oct · EB host Al-Shorta tonight · Denmark Open day 1 · Ranji Day 3",
+  "lastUpdated": "2026-10-13T21:16:48+05:30",
+  "dayLabel": "Tue 13 Oct · EB trail Al-Shorta · Denmark Open day 1 · Ranji Day 3",
   "featured": "acl2-eb-shorta",
   "matches": [
     {
@@ -1209,7 +1209,7 @@
       "b": [
         "SHR",
         "Al-Shorta",
-        "1",
+        "3",
         "#1E3A8A"
       ],
       "when": "2026-10-13T19:15:00+05:30",
@@ -1217,15 +1217,19 @@
       "watch": [
         "FanCode"
       ],
-      "note": "David Lalhlansanga 8' and 40' for East Bengal; Ahmed Yahya (15') levelled from a corner for Al-Shorta.",
+      "note": "David Lalhlansanga 8' and 40' for East Bengal; Al-Shorta: Ahmed Yahya (14'), Hussein Ali (51'), Kingsley Fidelis Kuku (53'). Full-time not yet confirmed.",
       "src": [
         {
           "t": "myKhel – David scores for East Bengal v Al Shorta",
           "u": "https://www.mykhel.com/football/video-david-lalhlansanga-scores-an-outrageous-goal-for-east-bengal-in-acl-2-match-against-al-shorta-456295.html"
+        },
+        {
+          "t": "Sporticos – East Bengal 2–3 Al Shorta live",
+          "u": "https://sporticos.com/en-gb/match/east-bengal-club-vs-al-shorta"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-13T20:05:00+05:30"
+      "status": "90' · EB trail",
+      "scoreAt": "2026-10-13T21:16:48+05:30"
     },
     {
       "id": "ind-wi-t20-4",
@@ -2342,6 +2346,14 @@
   ],
   "feed": [
     {
+      "t": "21:15",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ACL Two: East Bengal 2–3 Al-Shorta at 90' in Kolkata — Al-Shorta hit back with Hussein Ali (51') and Kuku (53') after Lalhlansanga's brace.",
+      "match": "acl2-eb-shorta"
+    },
+    {
       "t": "20:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2498,14 +2510,6 @@
       "m": "Football",
       "match": "ind-rus-w2",
       "text": "India women lose 0–8 to Russia in the second Kolkata friendly, after a 0–4 defeat on Thursday."
-    },
-    {
-      "t": "22:05",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "match": "pak-sl-t20-2",
-      "text": "Pakistan beat Sri Lanka by 82 runs in Rawalpindi (215/3 v 133/7) to clinch the T20I series 2–0."
     }
   ],
   "schedule": [
