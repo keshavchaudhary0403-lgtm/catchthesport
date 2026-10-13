@@ -1,451 +1,8 @@
 {
-  "lastUpdated": "2026-10-13T21:16:48+05:30",
-  "dayLabel": "Tue 13 Oct · EB trail Al-Shorta · Denmark Open day 1 · Ranji Day 3",
-  "featured": "acl2-eb-shorta",
+  "lastUpdated": "2026-10-13T22:06:23+05:30",
+  "dayLabel": "Tue 13 Oct · EB lose 2–3 to Al-Shorta · Sindhu, Lakshya out of Denmark Open",
+  "featured": "ind-wi-t20-4",
   "matches": [
-    {
-      "id": "ind-wi-t20-2",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "2nd T20I",
-      "a": [
-        "IND",
-        "India",
-        "249/5 (20)"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "252/4 (18.3)",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-09T19:00:00+05:30",
-      "venue": "JSCA International Stadium, Ranchi",
-      "src": [
-        {
-          "t": "Outlook India – WI beat IND by six wickets",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-2nd-t20i-live-score-updates-wi-tour-2026"
-        },
-        {
-          "t": "Mykhel – India post 249/5 in Ranchi",
-          "u": "https://telugu.mykhel.com/cricket/sanju-samson-and-tilak-varma-shine-as-india-post-mammoth-249-5-against-west-indies-in-2nd-t20i-123777.html"
-        },
-        {
-          "t": "Sunday Guardian – Samson's 21-ball fifty in Ranchi",
-          "u": "https://sundayguardianlive.com/sports/ind-vs-wi-2nd-t20i-live-updates-sanju-samson-roars-back-to-form-with-21-ball-fifty-in-ranchi-watch-video-302337/"
-        },
-        {
-          "t": "ANI – WI win toss, opt to bowl first in Ranchi",
-          "u": "https://www.aninews.in/news/sports/cricket/2nd-t20i-west-indies-win-toss-opt-to-bowl-first-against-india-in-ranchi20261009184447/"
-        },
-        {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        },
-        {
-          "t": "NewsX – IND v WI schedule",
-          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "West Indies chased 250 with 7 balls to spare, Shai Hope hitting a hundred and the winning six. India's Samson 82 (41), Kishan 43 (22), Iyer 40, Tilak Varma 47* (13) in vain. Series level 1–1.",
-      "win": "b",
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T23:05:41+05:30"
-    },
-    {
-      "id": "arctic-sindhu-qf",
-      "sport": "Badminton",
-      "comp": "BWF Arctic Open (Super 500)",
-      "round": "Women's singles · QF",
-      "st": "result",
-      "a": [
-        "IND",
-        "PV Sindhu",
-        "11-21 21-19 18-21",
-        "#E4572E"
-      ],
-      "b": [
-        "THA",
-        "Ratchanok Intanon (1)",
-        "21-11 19-21 21-18"
-      ],
-      "when": "2026-10-09T19:40:00+05:30",
-      "india": true,
-      "venue": "Vantaa, Finland",
-      "note": "Sindhu took the second game 21-19 but lost the decider 18-21 to top seed Intanon in 62 minutes; her Arctic Open run ends at the quarter-finals.",
-      "src": [
-        {
-          "t": "RevSportz – Sindhu pushes Intanon hard before Arctic Open exit",
-          "u": "https://revsportz.in/pv-sindhu-pushes-intanon-hard-before-arctic-open-exit/"
-        },
-        {
-          "t": "Sunday Guardian – Arctic Open 2026 results: Sindhu reaches QFs; Tanvi, Tharun bow out",
-          "u": "https://sundayguardianlive.com/sports/arctic-open-2026-badminton-results-pv-sindhu-reaches-quarterfinals-tanvi-sharma-tharun-mannepalli-bow-out-301388/"
-        },
-        {
-          "t": "BWF – Arctic Open 2026 order of play, 8 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5594/clash-of-clans-arctic-open-2026-powered-by-yonex/results/2026-10-08"
-        },
-        {
-          "t": "Sunday Guardian – Arctic Open 2026 where to watch",
-          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-badminton-live-streaming-pv-sindhu-kidambi-srikanth-tanvi-sharma-in-action-where-to-watch-in-india-300883/"
-        },
-        {
-          "t": "Sunday Guardian – Arctic Open live streaming, women's singles R16",
-          "u": "https://sundayguardianlive.com/sports/bwf-arctic-open-2026-live-streaming-pv-sindhu-tanvi-sharma-in-action-today-check-start-time-where-to-watch-womens-singles-round-of-16-badminton-matches-301278/"
-        }
-      ],
-      "big": true,
-      "win": "b",
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-09T23:05:41+05:30"
-    },
-    {
-      "id": "arctic-garaga-kjaer",
-      "sport": "Badminton",
-      "comp": "BWF Arctic Open (Super 500)",
-      "round": "Men's doubles · QF",
-      "st": "result",
-      "a": [
-        "IND",
-        "Garaga/Roy",
-        "13-21 14-21"
-      ],
-      "b": [
-        "DEN",
-        "Kjær/Kjær",
-        "21-13 21-14"
-      ],
-      "when": "2026-10-09T21:20:00+05:30",
-      "india": true,
-      "venue": "Vantaa, Finland",
-      "note": "Garaga/Roy lost 13-21, 14-21 to Denmark's Christian Faust Kjær/Rasmus Kjær in the quarter-finals; India's Arctic Open campaign is over.",
-      "src": [
-        {
-          "t": "Telangana Today – Sindhu loses to Intanon in Arctic Open QF",
-          "u": "https://telanganatoday.com/p-v-sindhu-loses-to-ratchanok-intanon-in-arctic-open-quarterfinals"
-        },
-        {
-          "t": "BWF – Arctic Open 2026 results, 9 Oct",
-          "u": "https://badmintonworldtour.com/arctic-open-2026-daily-schedule-order-of-play-and-results"
-        }
-      ],
-      "win": "b",
-      "day": "9 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T01:10:00+05:30"
-    },
-    {
-      "id": "f1-sin-sprint",
-      "st": "result",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Sprint",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Winner: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Hamilton",
-        "#334155"
-      ],
-      "when": "2026-10-10T14:30:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Verstappen won the rain-hit 20-lap sprint from pole, 2.5s clear of Hamilton (P2 from sixth); Leclerc third, Antonelli fourth. Russell crashed out of the lead; Norris and Piastri collided on the last lap (Piastri out, Norris 8th, stewards investigating).",
-      "src": [
-        {
-          "t": "PlanetF1 – Singapore GP sprint report",
-          "u": "https://www.planetf1.com/news/singapore-grand-prix-2026-sprint-report"
-        },
-        {
-          "t": "Athlon Sports – Singapore GP sprint (start delayed by rain)",
-          "u": "https://athlonsports.com/racing/f1/singapore-gp-sprint-results-winners-losers-marina-bay-circuit-race-2026"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T16:10:30+05:30"
-    },
-    {
-      "id": "isl-bfc-del",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "BFC",
-        "Bengaluru FC",
-        "3",
-        "#1E3A8A"
-      ],
-      "b": [
-        "DEL",
-        "Sporting Club Delhi",
-        "2",
-        "#B91C1C"
-      ],
-      "when": "2026-10-10T17:00:00+05:30",
-      "note": "Bengaluru came from behind to win the ISL opener: Rodriguinho (26') and a Menno Koch own goal (32') put Delhi 2-1 up; Borja Martínez (22', 75') and Koch's 89th-minute winner turned it round.",
-      "src": [
-        {
-          "t": "India Today – Bengaluru beat SC Delhi 3-2",
-          "u": "https://www.indiatoday.in/sports/football/story/isl-return-bengaluru-fc-beat-sc-delhi-koch-late-winner-youtube-livestream-3014347-2026-10-10"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Wikipedia – 2026-27 Indian Super League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
-        },
-        {
-          "t": "ESPN – ISL to begin 10 October",
-          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "Sree Kanteerava Stadium, Bengaluru",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T20:10:29+05:30",
-      "big": true
-    },
-    {
-      "id": "epl-ars-lee",
-      "st": "result",
-      "sport": "Football",
-      "comp": "Premier League",
-      "round": "",
-      "a": [
-        "ARS",
-        "Arsenal",
-        "2",
-        "#DB0007"
-      ],
-      "b": [
-        "LEE",
-        "Leeds United",
-        "1",
-        "#1D428A"
-      ],
-      "when": "2026-10-10T17:00:00+05:30",
-      "src": [
-        {
-          "t": "NBC Sports – Arsenal 2-1 Leeds live updates",
-          "u": "https://www.nbcsports.com/soccer/live/arsenal-vs-leeds-live-updates-score-goals-highlights-stats-2026-october-10"
-        },
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        },
-        {
-          "t": "Khel Now – where to watch Premier League in India",
-          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T19:10:43+05:30",
-      "venue": "Emirates Stadium, London",
-      "note": "Leeds led through James Justin (56'); Arsenal hit back with Riccardo Calafiori (62') and Bruno Guimarães (70') to win 2–1 and go to 15 points."
-    },
-    {
-      "id": "f1-sin-quali",
-      "st": "result",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Qualifying",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Pole: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Leclerc",
-        "#334155"
-      ],
-      "when": "2026-10-10T18:30:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Verstappen takes his first Singapore pole (back-to-back poles, 250th F1 race); Leclerc and Hamilton make it a Ferrari 2-3, Antonelli fourth, Norris fifth. Race Sunday 17:30 IST.",
-      "src": [
-        {
-          "t": "BBC Sport – Singapore GP qualifying live",
-          "u": "https://www.bbc.com/sport/formula1/live/c9wqlxzvnzvt"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "a",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T20:10:29+05:30"
-    },
-    {
-      "id": "isl-goa-che",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "1",
-        "#EA580C"
-      ],
-      "b": [
-        "CFC",
-        "Chennaiyin FC",
-        "1",
-        "#1D4ED8"
-      ],
-      "when": "2026-10-10T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Google live score / ISL match centre",
-          "u": "https://www.indiansuperleague.com/"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Wikipedia – 2026-27 Indian Super League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
-        },
-        {
-          "t": "ESPN – ISL to begin 10 October",
-          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        },
-        {
-          "t": "ISL – FC Goa v Chennaiyin match centre",
-          "u": "https://www.indiansuperleague.com/matchcentre/194635"
-        }
-      ],
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-10T21:35:27+05:30",
-      "note": "Chennaiyin led through Irfan Yadwad (63') before Chiki equalised for Goa in the 75th minute at Fatorda."
-    },
-    {
-      "id": "epl-mun-tot",
-      "st": "result",
-      "sport": "Football",
-      "comp": "Premier League",
-      "round": "",
-      "a": [
-        "MUN",
-        "Manchester United",
-        "1",
-        "#DA291C"
-      ],
-      "b": [
-        "TOT",
-        "Tottenham Hotspur",
-        "1",
-        "#132257"
-      ],
-      "when": "2026-10-10T22:00:00+05:30",
-      "src": [
-        {
-          "t": "101greatgoals – Man Utd 1-1 Spurs report",
-          "u": "https://www.101greatgoals.com/football/premier-league/manchester-united-tottenham-report-result-goals/"
-        },
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "venue": "Old Trafford",
-      "day": "10 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T00:05:12+05:30",
-      "note": "Mbeumo (73') put United ahead; Solanke equalised in stoppage time (90+2') for 10-man Spurs after Bentancur was sent off."
-    },
     {
       "id": "ranji-r1-ben-del",
       "st": "live",
@@ -1195,7 +752,7 @@
     },
     {
       "id": "acl2-eb-shorta",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "AFC Champions League Two",
@@ -1217,7 +774,7 @@
       "watch": [
         "FanCode"
       ],
-      "note": "David Lalhlansanga 8' and 40' for East Bengal; Al-Shorta: Ahmed Yahya (14'), Hussein Ali (51'), Kingsley Fidelis Kuku (53'). Full-time not yet confirmed.",
+      "note": "East Bengal lose their ACL Two opener 2–3 at home despite a David Lalhlansanga brace (8', 40') — Al-Shorta (Ahmed Yahya, Hussein Ali, Cucu) scored three, two of them early in the second half.",
       "src": [
         {
           "t": "myKhel – David scores for East Bengal v Al Shorta",
@@ -1226,10 +783,16 @@
         {
           "t": "Sporticos – East Bengal 2–3 Al Shorta live",
           "u": "https://sporticos.com/en-gb/match/east-bengal-club-vs-al-shorta"
+        },
+        {
+          "t": "YSScores – Al-Shorta edge East Bengal in AFC Champions League 2",
+          "u": "https://www.ysscores.com/en/news/14069510/al-shorta-edge-east-bengal-in-afc-champions-league-2"
         }
       ],
-      "status": "90' · EB trail",
-      "scoreAt": "2026-10-13T21:16:48+05:30"
+      "win": "b",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T22:06:23+05:30"
     },
     {
       "id": "ind-wi-t20-4",
@@ -1890,48 +1453,40 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's singles · R32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "PV Sindhu",
-        "",
+        "1 game",
         "#E4572E"
       ],
       "b": [
         "GER",
         "Yvonne Li",
-        ""
+        "2 games"
       ],
       "when": "2026-10-13T15:20:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Draw changed after Ratchanok Intanon and Han Yue withdrew: Sindhu now opens against Germany's Yvonne Li (Sindhu leads H2H 3–0) instead of An Se-young, who faces Polina Buhrova. Estimated start 4:30–4:40 pm IST; FanCode / BWF TV.",
+      "note": "Germany's Yvonne Li (world No. 50) beats Sindhu in three games, taking the decider 21-19 after Sindhu led 19-15; Sindhu is out in round one. Li could meet Tanvi Sharma next.",
       "src": [
         {
-          "t": "IndiaSportsHub – Denmark Open draw change: Sindhu v Yvonne Li",
-          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
+          "t": "IndiaSportsHub – Lakshya falls, Sindhu suffers shock defeat; Tanvi, Srikanth advance",
+          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
         },
         {
-          "t": "Google – PV Sindhu vs Yvonne Li",
-          "u": "https://www.google.com/search?q=PV+Sindhu+vs+Yvonne+Li"
-        },
-        {
-          "t": "Chosun – An Se-young's Denmark Open opponent withdraws",
-          "u": "https://www.chosun.com/sports-en/"
-        },
-        {
-          "t": "Global Game Guide – Denmark Open 2026: live streams (JioStar rights in India)",
-          "u": "https://www.globalgameguide.com/article/denmark-open-2026-guide"
-        },
-        {
-          "t": "IANS – Denmark Open preview (FanCode, no TV telecast)",
-          "u": "https://ianslive.in/denmark-open-sindhu-faces-daunting-an-se-young-test-satwik-chirag-set-to-return-preview--20261012175401"
+          "t": "Sunday Guardian – Sindhu crashes out",
+          "u": "https://sundayguardianlive.com/sports/denmark-open-badminton-2026-results-pv-sindhu-crashes-out-as-lakshya-sen-falls-kidambi-srikanth-tanvi-sharma-advance-305014/"
         }
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "b",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T22:06:23+05:30"
     },
     {
       "id": "den-lakshya-chou",
@@ -2011,6 +1566,76 @@
       ],
       "watch": [
         "FanCode"
+      ]
+    },
+    {
+      "id": "den-srikanth-merkle",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Men's singles · R32",
+      "st": "result",
+      "a": [
+        "IND",
+        "Kidambi Srikanth",
+        "22-20 21-19",
+        "#E4572E"
+      ],
+      "b": [
+        "FRA",
+        "Arnaud Merkle",
+        "20-22 19-21"
+      ],
+      "when": "2026-10-13",
+      "india": true,
+      "venue": "Odense, Denmark",
+      "note": "Srikanth wins in straight games in 46 minutes and reaches the round of 16.",
+      "win": "a",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T22:06:23+05:30",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "IndiaSportsHub – Denmark Open day 1",
+          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
+        }
+      ]
+    },
+    {
+      "id": "den-tanvi-nidaira",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's singles · R32",
+      "st": "result",
+      "a": [
+        "IND",
+        "Tanvi Sharma",
+        "21-17 16-21 21-19",
+        "#E4572E"
+      ],
+      "b": [
+        "JPN",
+        "Natsuki Nidaira",
+        "17-21 21-16 19-21"
+      ],
+      "when": "2026-10-13",
+      "india": true,
+      "venue": "Odense, Denmark",
+      "note": "Tanvi Sharma wins a 72-minute thriller and reaches the round of 16; possible next meeting with Yvonne Li.",
+      "win": "a",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T22:06:23+05:30",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "IndiaSportsHub – Denmark Open day 1",
+          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
+        }
       ]
     }
   ],
@@ -2154,7 +1779,7 @@
       "name": "AFC club competitions",
       "status": "From 13 Oct",
       "india": true,
-      "note": "East Bengal v Al-Shorta (AFC Champions League Two, 13 Oct, 7:15 pm, Kolkata); FC Goa v Regar-TadAZ (AFC Challenge League, 17 Oct).",
+      "note": "East Bengal lost 2–3 to Al-Shorta in ACL Two (13 Oct, Kolkata); FC Goa v Regar-TadAZ (AFC Challenge League, 17 Oct).",
       "id": "afc-clubs",
       "src": [
         {
@@ -2326,7 +1951,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. India: Sindhu v An Se-young, Lakshya Sen v Chou Tien Chen, Ayush Shetty v Alwi Farhan, Srikanth v Merkle, Satwik/Chirag v He/Ren, Treesa/Gayatri and the Panda sisters in doubles. Order of play and Indian broadcaster TBC.",
+      "note": "Super 750 in Odense, 13–18 Oct. Day 1: Sindhu (lost to Yvonne Li) and Lakshya (lost to Chou) out; Srikanth and Tanvi Sharma into R16. Satwik/Chirag v He/Ren, Ayush Shetty and doubles pairs to come. FanCode streams; no TV telecast confirmed.",
       "src": [
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
@@ -2345,6 +1970,30 @@
     }
   ],
   "feed": [
+    {
+      "t": "22:06",
+      "tag": "LOSS",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ACL Two: East Bengal lose 2–3 to Al-Shorta in Kolkata — Lalhlansanga's brace not enough.",
+      "match": "acl2-eb-shorta"
+    },
+    {
+      "t": "22:06",
+      "tag": "LOSS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Denmark Open: PV Sindhu loses to Germany's Yvonne Li in three games, 19-21 in the decider after leading 19-15.",
+      "match": "den-sindhu-an"
+    },
+    {
+      "t": "22:06",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Denmark Open: Kidambi Srikanth beats Arnaud Merkle 22-20 21-19 and Tanvi Sharma edges Natsuki Nidaira 21-17 16-21 21-19 to reach the round of 16.",
+      "match": "den-srikanth-merkle"
+    },
     {
       "t": "21:15",
       "tag": "LIVE",
@@ -2480,55 +2129,9 @@
       "m": "Cricket",
       "match": "inda-ausa-odi3",
       "text": "India A beat Australia A by 49 runs in the 3rd unofficial ODI in Puducherry (275 v 226) — Suryansh Shedge 66. Australia A win the series 2–1."
-    },
-    {
-      "t": "22:50",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "match": "epl-liv-mci",
-      "text": "Premier League: Man City beat 10-man Liverpool 3–0 at Anfield — Haaland, Doku and Cherki score after Gravenberch's red card.",
-      "src": [
-        {
-          "t": "Yahoo Sports – Haaland, Doku and Cherki fire City to victory at Liverpool",
-          "u": "https://sports.yahoo.com/articles/haaland-doku-cherki-fire-city-173000604.html"
-        }
-      ]
-    },
-    {
-      "t": "22:15",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "match": "u17w-ind-mas",
-      "text": "India U17 women beat hosts Malaysia 4–0 to top their group and qualify for the 2027 AFC U17 Women's Asian Cup in China."
-    },
-    {
-      "t": "20:00",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "match": "ind-rus-w2",
-      "text": "India women lose 0–8 to Russia in the second Kolkata friendly, after a 0–4 defeat on Thursday."
     }
   ],
   "schedule": [
-    {
-      "d": "13",
-      "mo": "OCT",
-      "title": "East Bengal v Al-Shorta (AFC Champions League Two)",
-      "meta": "Football · Kolkata",
-      "time": "19:15",
-      "match": "acl2-eb-shorta"
-    },
-    {
-      "d": "13",
-      "mo": "OCT",
-      "title": "Sindhu v Yvonne Li – Denmark Open R1",
-      "meta": "Badminton · Odense",
-      "time": "16:40",
-      "match": "den-sindhu-an"
-    },
     {
       "d": "14",
       "mo": "OCT",
