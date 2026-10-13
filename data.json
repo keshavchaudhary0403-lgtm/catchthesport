@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T05:04:46+05:30",
+  "lastUpdated": "2026-10-13T10:06:10+05:30",
   "dayLabel": "Tue 13 Oct · India lead WI 2–1 · EB host Al-Shorta tonight",
-  "featured": "issf-cai-m10ar",
+  "featured": "den-sindhu-an",
   "matches": [
     {
       "id": "ind-wi-t20-2",
@@ -1087,7 +1087,7 @@
       ],
       "when": "2026-10-12T12:45:00+05:30",
       "venue": "Cairo, Egypt",
-      "note": "Qualification 12:45 & 14:45 IST, final 18:00 IST. Arjun Babuta, Dhanush Srikanth and Paarth Makhija for India.",
+      "note": "Qualification 12:45 & 14:45 IST, final 18:00 IST on 12 Oct. Arjun Babuta, Dhanush Srikanth and Paarth Makhija for India. Final result not yet found in reports.",
       "watch": [
         {
           "n": "Olympics.com",
@@ -1903,7 +1903,7 @@
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Sindhu drew defending champion and world No. 1 An Se-young in the first round. Order of play TBC.",
+      "note": "Sindhu drew defending champion and world No. 1 An Se-young in the first round. Order of play TBC. Play starts 12:30 IST; FanCode stream, no TV telecast in India.",
       "src": [
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
@@ -1943,7 +1943,7 @@
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Lakshya Sen opens against third seed Chou Tien Chen. Order of play TBC.",
+      "note": "Lakshya Sen opens against third seed Chou Tien Chen. Order of play TBC. Play starts 12:30 IST; FanCode stream, no TV telecast in India.",
       "src": [
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
@@ -1983,7 +1983,7 @@
       "india": true,
       "big": false,
       "venue": "Odense, Denmark",
-      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He/Ren in round one. Order of play TBC.",
+      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He/Ren in round one. Order of play TBC. Play starts 12:30 IST; FanCode stream, no TV telecast in India.",
       "src": [
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
@@ -2488,14 +2488,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "12",
-      "mo": "OCT",
-      "title": "Men's 10m air rifle, ISSF World Cup Cairo",
-      "meta": "Shooting · Cairo",
-      "time": "12:45",
-      "match": "issf-cai-m10ar"
-    },
     {
       "d": "13",
       "mo": "OCT",
