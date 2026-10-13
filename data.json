@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T22:06:23+05:30",
+  "lastUpdated": "2026-10-13T22:10:14+05:30",
   "dayLabel": "Tue 13 Oct · EB lose 2–3 to Al-Shorta · Sindhu, Lakshya out of Denmark Open",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -717,22 +717,26 @@
       "sport": "Cricket",
       "comp": "Pakistan v Sri Lanka",
       "round": "3rd T20I",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "PAK",
         "Pakistan",
-        ""
+        "168/8 (20)"
       ],
       "b": [
         "SL",
         "Sri Lanka",
-        "",
+        "172/2 (17.1)",
         "#1E3A8A"
       ],
       "when": "2026-10-13T18:30:00+05:30",
-      "note": "3rd of three T20Is in Rawalpindi; start time TBC. Starts 18:30 IST; not telecast in India (PCB Live stream).",
+      "note": "Sri Lanka win by 8 wickets with 17 balls left, chasing 169 after Sahibzada Farhan's 76 lifted Pakistan from 102/6 to 168/8; Pakistan take the series 2–1.",
       "venue": "Rawalpindi",
       "src": [
+        {
+          "t": "Google – Pakistan vs Sri Lanka 3rd T20I result",
+          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+3rd+T20I+result"
+        },
         {
           "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
           "u": "https://www.thepapare.com/?p=2627584"
@@ -748,7 +752,11 @@
       ],
       "watch": [
         "Veto"
-      ]
+      ],
+      "win": "b",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T22:10:14+05:30"
     },
     {
       "id": "acl2-eb-shorta",
@@ -1541,12 +1549,16 @@
         "He Ji Ting/Ren Xiang Yu",
         ""
       ],
-      "when": "2026-10-13",
+      "when": "2026-10-14",
       "india": true,
       "big": false,
       "venue": "Odense, Denmark",
-      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He Ji Ting/Ren Xiang Yu in round one (R32 runs 13–14 Oct; day TBC). FanCode stream, no TV telecast in India.",
+      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He Ji Ting/Ren Xiang Yu in round one on Wed 14 Oct (time TBC). FanCode stream, no TV telecast in India.",
       "src": [
+        {
+          "t": "Google – Denmark Open R32 schedule (Satwik/Chirag tomorrow)",
+          "u": "https://www.google.com/search?q=Denmark+Open+Satwik+Chirag+Wednesday+October+14"
+        },
         {
           "t": "IndiaSportsHub – Denmark Open draw change",
           "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
@@ -1808,7 +1820,7 @@
       "id": "pak-sl",
       "sport": "Cricket",
       "name": "Pakistan v Sri Lanka T20Is",
-      "status": "9–13 Oct · Rawalpindi",
+      "status": "Concluded · Pakistan won 2–1",
       "comp": "Pakistan v Sri Lanka",
       "note": "Three T20Is on 9, 11 and 13 Oct, followed by an ODI tri-series with England from 18 Oct.",
       "src": [
@@ -1971,6 +1983,20 @@
   ],
   "feed": [
     {
+      "t": "22:10",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Sri Lanka beat Pakistan by 8 wickets in the 3rd T20I in Rawalpindi (172/2 in 17.1 overs chasing 168/8); Pakistan win the series 2–1.",
+      "match": "pak-sl-t20-3",
+      "src": [
+        {
+          "t": "Google – Pakistan vs Sri Lanka 3rd T20I result",
+          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+3rd+T20I+result"
+        }
+      ]
+    },
+    {
       "t": "22:06",
       "tag": "LOSS",
       "c": "var(--live-text)",
@@ -2121,14 +2147,6 @@
           "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-3rd-t20i-abhishek-arshdeep-shine-as-india-secure-14-run-win"
         }
       ]
-    },
-    {
-      "t": "16:53",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "match": "inda-ausa-odi3",
-      "text": "India A beat Australia A by 49 runs in the 3rd unofficial ODI in Puducherry (275 v 226) — Suryansh Shedge 66. Australia A win the series 2–1."
     }
   ],
   "schedule": [
@@ -2152,7 +2170,7 @@
       "d": "17",
       "mo": "OCT",
       "title": "India v West Indies, 5th T20I",
-      "meta": "Cricket",
+      "meta": "Cricket · Bengaluru",
       "time": "19:00",
       "match": "ind-wi-t20-5"
     },
