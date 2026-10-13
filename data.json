@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T18:06:27+05:30",
+  "lastUpdated": "2026-10-13T19:11:24+05:30",
   "dayLabel": "Tue 13 Oct · EB host Al-Shorta tonight · Denmark Open day 1 · Ranji Day 3",
   "featured": "acl2-eb-shorta",
   "matches": [
@@ -461,11 +461,11 @@
       "b": [
         "DEL",
         "Delhi",
-        "240 & 51/2 (31.2)"
+        "240 & 101/3"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 429 (112 ov) in reply to Delhi's 240 — centuries for Sudip Gharami (122) and Abishek Porel (114); Delhi 51/2 in their second innings on Day 3 at Kalyani.",
+      "note": "Bengal 429 (Abhishek Porel 149); Mohammed Shami took 4/30 as Delhi were bowled out for 240 and followed on. Wisden's figures for Delhi's second innings differ slightly (86/3 in text, 101/3 in scorecard).",
       "src": [
         {
           "t": "BCCI – Scorecard, Bengal v Delhi",
@@ -498,14 +498,18 @@
         {
           "t": "IANS – Ranji Trophy Day 2 round-up",
           "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
+        },
+        {
+          "t": "Wisden – Ranji Trophy Round 1 Day 3",
+          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-day-three-kl-rahul-falls-cheaply-again-jadeja-follows-century-with-three-for"
         }
       ],
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 · DEL trail by 138",
-      "scoreAt": "2026-10-13T15:30:00+05:30"
+      "status": "Day 3 stumps · DEL trail by 88",
+      "scoreAt": "2026-10-13T19:11:24+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -589,11 +593,11 @@
       "b": [
         "KAR",
         "Karnataka",
-        "274 & 103/3 (37)"
+        "274 & 176/4"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Andhra 418 in reply to Karnataka's 274 (Smaran Ravichandran century); Karnataka 103/3 in their second innings on Day 3 — KL Rahul out for 1 after 4 in the first innings.",
+      "note": "Andhra 418 enforced the follow-on after Karnataka made 274; Karun Nair unbeaten and KL Rahul out for 1 in the second innings.",
       "src": [
         {
           "t": "Google – Andhra vs Karnataka Ranji Trophy score",
@@ -626,14 +630,18 @@
         {
           "t": "IANS – Ranji Trophy Day 2 round-up",
           "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
+        },
+        {
+          "t": "Wisden – Ranji Trophy Round 1 Day 3",
+          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-day-three-kl-rahul-falls-cheaply-again-jadeja-follows-century-with-three-for"
         }
       ],
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 · KAR trail by 41",
-      "scoreAt": "2026-10-13T15:32:00+05:30"
+      "status": "Day 3 stumps · KAR lead by 32",
+      "scoreAt": "2026-10-13T19:11:24+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -1896,7 +1904,7 @@
         "Yvonne Li",
         ""
       ],
-      "when": "2026-10-13T16:40:00+05:30",
+      "when": "2026-10-13T15:20:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
@@ -1932,44 +1940,36 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Men's singles · R32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        "",
+        "18-21 21-13 15-21",
         "#E4572E"
       ],
       "b": [
         "TPE",
         "Chou Tien Chen (3)",
-        ""
+        "21-18 13-21 21-15"
       ],
       "when": "2026-10-13T15:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Lakshya Sen v third seed Chou Tien Chen in Odense; was level 13–13 in the first game at 15:41 IST. Final score not confirmed yet. Stream on FanCode / BWF TV.",
+      "note": "Lakshya Sen takes the second game 21-13 but loses the decider to third seed Chou Tien Chen in 63 minutes and exits in round one.",
       "src": [
         {
-          "t": "Google – Lakshya Sen Chou Tien Chen",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Chou+Tien+Chen"
-        },
-        {
-          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
-          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
-        },
-        {
-          "t": "Global Game Guide – Denmark Open 2026: live streams (JioStar rights in India)",
-          "u": "https://www.globalgameguide.com/article/denmark-open-2026-guide"
-        },
-        {
-          "t": "IANS – Denmark Open preview (FanCode, no TV telecast)",
-          "u": "https://ianslive.in/denmark-open-sindhu-faces-daunting-an-se-young-test-satwik-chirag-set-to-return-preview--20261012175401"
+          "t": "Meghalaya Sports – Lakshya Sen crashes out of Denmark Open",
+          "u": "https://meghalayasports.com/2026/10/13/lakshya-sen-crashes-out-of-denmark-open-after-three-game-defeat/"
         }
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "b",
+      "day": "13 Oct",
+      "recent": true,
+      "resultAt": "2026-10-13T19:11:24+05:30"
     },
     {
       "id": "den-satwik-chirag",
@@ -2348,18 +2348,20 @@
   ],
   "feed": [
     {
-      "t": "15:41",
-      "tag": "LIVE",
+      "t": "19:11",
+      "tag": "LOSS",
       "c": "var(--live-text)",
       "m": "Badminton",
-      "text": "Denmark Open: Lakshya Sen and third seed Chou Tien Chen level at 13–13 in the first game of their round-one match.",
-      "match": "den-lakshya-chou",
-      "src": [
-        {
-          "t": "Google – Lakshya Sen Chou Tien Chen",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Chou+Tien+Chen"
-        }
-      ]
+      "text": "Denmark Open: Lakshya Sen loses 18-21 21-13 15-21 to third seed Chou Tien Chen in round one.",
+      "match": "den-lakshya-chou"
+    },
+    {
+      "t": "19:11",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Day 3 stumps: Bengal 429 v Delhi 240 & 101/3 (Delhi follow on); Karnataka 274 & 176/4 lead Andhra's 418 by 32.",
+      "match": "ranji-r1-ben-del"
     },
     {
       "t": "15:30",
@@ -2372,20 +2374,6 @@
         {
           "t": "Sportstar – Mumbai beats Chandigarh by an innings and 155 runs",
           "u": "https://sportstar.thehindu.com/cricket/"
-        }
-      ]
-    },
-    {
-      "t": "15:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Day 3: Bengal all out 429, Delhi 51/2 and trail by 138; Karnataka 103/3, still 41 behind Andhra.",
-      "match": "ranji-r1-ben-del",
-      "src": [
-        {
-          "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
         }
       ]
     },
