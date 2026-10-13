@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T22:10:14+05:30",
+  "lastUpdated": "2026-10-13T22:35:40+05:30",
   "dayLabel": "Tue 13 Oct · EB lose 2–3 to Al-Shorta · Sindhu, Lakshya out of Denmark Open",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -1465,20 +1465,24 @@
       "a": [
         "IND",
         "PV Sindhu",
-        "1 game",
+        "21-13 23-25 19-21",
         "#E4572E"
       ],
       "b": [
         "GER",
         "Yvonne Li",
-        "2 games"
+        "13-21 25-23 21-19"
       ],
       "when": "2026-10-13T15:20:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Germany's Yvonne Li (world No. 50) beats Sindhu in three games, taking the decider 21-19 after Sindhu led 19-15; Sindhu is out in round one. Li could meet Tanvi Sharma next.",
+      "note": "Germany's Yvonne Li (world No. 50) beats Sindhu 13-21 25-23 21-19 — Sindhu saved five game points in the second and led 19-15 in the decider before Li won six straight points. Li's first win in four meetings; she meets Tanvi Sharma next.",
       "src": [
+        {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        },
         {
           "t": "IndiaSportsHub – Lakshya falls, Sindhu suffers shock defeat; Tanvi, Srikanth advance",
           "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
@@ -1510,15 +1514,19 @@
       ],
       "b": [
         "TPE",
-        "Chou Tien Chen (3)",
+        "Chou Tien Chen",
         "21-18 13-21 21-15"
       ],
       "when": "2026-10-13T15:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Odense, Denmark",
-      "note": "Lakshya Sen takes the second game 21-13 but loses the decider to third seed Chou Tien Chen in 63 minutes and exits in round one.",
+      "note": "Lakshya Sen takes the second game 21-13 but loses the decider to world No. 3 Chou Tien Chen in 63 minutes — his fifth first-round exit in six World Tour events.",
       "src": [
+        {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        },
         {
           "t": "Meghalaya Sports – Lakshya Sen crashes out of Denmark Open",
           "u": "https://meghalayasports.com/2026/10/13/lakshya-sen-crashes-out-of-denmark-open-after-three-game-defeat/"
@@ -1555,6 +1563,10 @@
       "venue": "Odense, Denmark",
       "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He Ji Ting/Ren Xiang Yu in round one on Wed 14 Oct (time TBC). FanCode stream, no TV telecast in India.",
       "src": [
+        {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        },
         {
           "t": "Google – Denmark Open R32 schedule (Satwik/Chirag tomorrow)",
           "u": "https://www.google.com/search?q=Denmark+Open+Satwik+Chirag+Wednesday+October+14"
@@ -1610,6 +1622,10 @@
       ],
       "src": [
         {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        },
+        {
           "t": "IndiaSportsHub – Denmark Open day 1",
           "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
         }
@@ -1644,6 +1660,10 @@
         "FanCode"
       ],
       "src": [
+        {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        },
         {
           "t": "IndiaSportsHub – Denmark Open day 1",
           "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
@@ -1963,8 +1983,12 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Day 1: Sindhu (lost to Yvonne Li) and Lakshya (lost to Chou) out; Srikanth and Tanvi Sharma into R16. Satwik/Chirag v He/Ren, Ayush Shetty and doubles pairs to come. FanCode streams; no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. Day 1: Sindhu (lost to Yvonne Li) and Lakshya (lost to Chou Tien Chen) out; Srikanth and Tanvi Sharma into R16 (Tanvi v Yvonne Li next). Doubles start Wed 14 Oct with Satwik/Chirag and Treesa Jolly/Gayatri Gopichand. Play starts 12:30 IST; FanCode streams, no TV telecast confirmed.",
       "src": [
+        {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        },
         {
           "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
           "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
@@ -2009,8 +2033,14 @@
       "tag": "LOSS",
       "c": "var(--live-text)",
       "m": "Badminton",
-      "text": "Denmark Open: PV Sindhu loses to Germany's Yvonne Li in three games, 19-21 in the decider after leading 19-15.",
-      "match": "den-sindhu-an"
+      "text": "Denmark Open: PV Sindhu loses 21-13 23-25 19-21 to Germany's Yvonne Li in round one after leading 19-15 in the decider.",
+      "match": "den-sindhu-an",
+      "src": [
+        {
+          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
+          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
+        }
+      ]
     },
     {
       "t": "22:06",
