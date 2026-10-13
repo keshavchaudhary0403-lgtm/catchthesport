@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T19:11:24+05:30",
+  "lastUpdated": "2026-10-13T20:05:00+05:30",
   "dayLabel": "Tue 13 Oct · EB host Al-Shorta tonight · Denmark Open day 1 · Ranji Day 3",
   "featured": "acl2-eb-shorta",
   "matches": [
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "acl2-eb-shorta",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "AFC Champions League Two",
@@ -1203,13 +1203,13 @@
       "a": [
         "EBFC",
         "East Bengal FC",
-        "",
+        "2",
         "#C8102E"
       ],
       "b": [
         "SHR",
         "Al-Shorta",
-        "",
+        "1",
         "#1E3A8A"
       ],
       "when": "2026-10-13T19:15:00+05:30",
@@ -1217,21 +1217,15 @@
       "watch": [
         "FanCode"
       ],
-      "note": "East Bengal's home tie against Iraq's Al-Shorta in Group D (with Al Hussein and Al Seeb). Live on FanCode (match pass).",
+      "note": "David Lalhlansanga 8' and 40' for East Bengal; Ahmed Yahya (15') levelled from a corner for Al-Shorta.",
       "src": [
         {
-          "t": "FanCode – East Bengal FC vs Al Shorta (13 Oct, 7:15 PM)",
-          "u": "https://www.fancode.com/football/tour/afc-champions-league-two-2026-27-19845218/matches/east-bengal-fc-vs-al-shorta-4248975/live-match-info"
-        },
-        {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
-        },
-        {
-          "t": "FanCode – East Bengal v Al Shorta",
-          "u": "https://www.fancode.com/football/tour/afc-champions-league-two-2026-27-19845218/matches/east-bengal-fc-vs-al-shorta-4248975/live-match-info"
+          "t": "myKhel – David scores for East Bengal v Al Shorta",
+          "u": "https://www.mykhel.com/football/video-david-lalhlansanga-scores-an-outrageous-goal-for-east-bengal-in-acl-2-match-against-al-shorta-456295.html"
         }
-      ]
+      ],
+      "status": "Half-time",
+      "scoreAt": "2026-10-13T20:05:00+05:30"
     },
     {
       "id": "ind-wi-t20-4",
@@ -2348,6 +2342,14 @@
   ],
   "feed": [
     {
+      "t": "20:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ACL Two: East Bengal lead Al-Shorta 2–1 at half-time in Kolkata — David Lalhlansanga scores twice (8', 40'); Ahmed Yahya equalised for the Iraqi side.",
+      "match": "acl2-eb-shorta"
+    },
+    {
       "t": "19:11",
       "tag": "LOSS",
       "c": "var(--live-text)",
@@ -2504,14 +2506,6 @@
       "m": "Cricket",
       "match": "pak-sl-t20-2",
       "text": "Pakistan beat Sri Lanka by 82 runs in Rawalpindi (215/3 v 133/7) to clinch the T20I series 2–0."
-    },
-    {
-      "t": "22:11",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "ISL: Churchill Brothers beat Mumbai City 2-1 at Fatorda – Bora 57', Gutierrez 86'; Pardo pulled one back in stoppage time.",
-      "match": "isl-chu-mcfc"
     }
   ],
   "schedule": [
