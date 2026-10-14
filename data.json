@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T21:05:23+05:30",
-  "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · ISL: Punjab v Odisha live · Satwik-Chirag out in Odense",
+  "lastUpdated": "2026-10-14T21:36:07+05:30",
+  "dayLabel": "Wed 14 Oct · India chasing 248 v WI in 4th T20I · ISL: Punjab beat Odisha 2–1 · Treesa-Gayatri, Panda sisters in Odense tonight",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
@@ -324,61 +324,6 @@
       "resultAt": "2026-10-11T19:36:05+05:30"
     },
     {
-      "id": "f1-sin-race",
-      "st": "result",
-      "sport": "Formula 1",
-      "comp": "Singapore Grand Prix",
-      "round": "Race",
-      "a": [
-        "F1",
-        "Formula 1",
-        "Winner: Verstappen",
-        "#E10600"
-      ],
-      "b": [
-        "SIN",
-        "Marina Bay",
-        "2nd: Leclerc",
-        "#334155"
-      ],
-      "when": "2026-10-11T17:30:00+05:30",
-      "venue": "Marina Bay Street Circuit, Singapore",
-      "note": "Max Verstappen (Red Bull) won from pole in 1:42:00.785, 7.335s ahead of Charles Leclerc (Ferrari); Kimi Antonelli (Mercedes) third, then Lando Norris and Oscar Piastri (McLaren).",
-      "src": [
-        {
-          "t": "Google – Singapore GP 2026 race result",
-          "u": "https://www.google.com/search?q=Singapore+Grand+Prix+2026+result"
-        },
-        {
-          "t": "RaceFans – 2026 Singapore GP race result",
-          "u": "https://www.racefans.net/2026/10/11/"
-        },
-        {
-          "t": "Google – Singapore GP live leaderboard",
-          "u": "https://www.google.com/search?q=Singapore+Grand+Prix+2026+race"
-        },
-        {
-          "t": "Spike Today – F1 Singapore GP start times (IST)",
-          "u": "https://spiketoday.com/f1-singapore-grand-prix-start-times/"
-        },
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        },
-        {
-          "t": "Outlook India – FanCode extends F1 deal in India to 2028",
-          "u": "https://www.outlookindia.com/sports/formula-1/fancode-extends-f1-broadcast-deal-in-india"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "a",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T19:36:05+05:30"
-    },
-    {
       "id": "ind-rus-w2",
       "st": "result",
       "india": true,
@@ -423,60 +368,6 @@
         }
       ],
       "win": "b",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T22:23:11+05:30"
-    },
-    {
-      "id": "pak-sl-t20-2",
-      "sport": "Cricket",
-      "comp": "Pakistan v Sri Lanka",
-      "round": "2nd T20I",
-      "st": "result",
-      "a": [
-        "PAK",
-        "Pakistan",
-        "215/3 (20)"
-      ],
-      "b": [
-        "SL",
-        "Sri Lanka",
-        "133/7 (20)",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-11T18:30:00+05:30",
-      "note": "Pakistan win by 82 runs after posting 215/3 and restricting Sri Lanka to 133/7; Pakistan take an unbeatable 2–0 lead in the three-match series.",
-      "venue": "Rawalpindi",
-      "src": [
-        {
-          "t": "Google – Pakistan vs Sri Lanka 2nd T20I result",
-          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+result"
-        },
-        {
-          "t": "Google – Pakistan vs Sri Lanka 2nd T20I live score",
-          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+2nd+T20I+Rawalpindi+score"
-        },
-        {
-          "t": "ThePapare – Schedule for Sri Lanka tour of Pakistan 2026",
-          "u": "https://www.thepapare.com/?p=2627584"
-        },
-        {
-          "t": "24 News HD – Pakistan-Sri Lanka T20 series begins Oct 9",
-          "u": "https://www.24newshd.tv/02-Oct-2026/pakistan-sri-lanka-t20-series-begin-oct-9"
-        },
-        {
-          "t": "Wisden – PAK v SL T20Is where to watch",
-          "u": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/pak-vs-sl-t20is-live-streaming-and-tv-channels-where-to-watch-live-and-start-time-for-sri-lanka-tour-of-pakistan"
-        },
-        {
-          "t": "Geo.tv – Pakistan post 215-3 in 2nd T20I",
-          "u": "https://www.geo.tv/latest/686056-second-t20i-sri-lanka-win-toss-opt-to-bowl-first-against-pakistan"
-        }
-      ],
-      "watch": [
-        "Veto"
-      ],
-      "win": "a",
       "day": "11 Oct",
       "recent": true,
       "resultAt": "2026-10-11T22:23:11+05:30"
@@ -639,50 +530,6 @@
       "resultAt": "2026-10-11T22:11:20+05:30"
     },
     {
-      "id": "epl-liv-mci",
-      "st": "result",
-      "big": true,
-      "sport": "Football",
-      "comp": "Premier League",
-      "round": "",
-      "a": [
-        "LIV",
-        "Liverpool",
-        "0",
-        "#C8102E"
-      ],
-      "b": [
-        "MCI",
-        "Manchester City",
-        "3",
-        "#6CABDD"
-      ],
-      "when": "2026-10-11T21:00:00+05:30",
-      "note": "Man City won 3–0 at Anfield after Ryan Gravenberch's second yellow: Erling Haaland 65', Jérémy Doku 67', Rayan Cherki 78'.",
-      "src": [
-        {
-          "t": "Yahoo Sports – Haaland, Doku and Cherki fire City to victory at Liverpool",
-          "u": "https://sports.yahoo.com/articles/haaland-doku-cherki-fire-city-173000604.html"
-        },
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        },
-        {
-          "t": "Khel Now – where to watch Premier League in India",
-          "u": "https://khelnow.com/football/where-how-watch-premier-league-india-202608"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "win": "b",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T23:13:37+05:30"
-    },
-    {
       "id": "isl-neu-mbsg",
       "sport": "Football",
       "comp": "Indian Super League",
@@ -831,7 +678,7 @@
       "a": [
         "IND",
         "India",
-        "Target 248"
+        "80/2 (6)"
       ],
       "b": [
         "WI",
@@ -842,6 +689,14 @@
       "when": "2026-10-14T19:00:00+05:30",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
+        {
+          "t": "Google – India vs West Indies 4th T20I live (IND 80/2, 6 ov)",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
+        },
+        {
+          "t": "Times of India – Keemo Paul ends Sanju Samson's 56 off 23",
+          "u": "https://timesofindia.indiatimes.com/sports/cricket"
+        },
         {
           "t": "Google – India vs West Indies 4th T20I live (WI 218/3, 17.5 ov)",
           "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
@@ -871,13 +726,13 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took West Indies to 247/3 after India chose to field; Prince Yadav 1/36, Arshdeep Singh 1/52.",
-      "status": "Innings break · India chase 248",
-      "scoreAt": "2026-10-14T21:05:23+05:30"
+      "note": "Chasing 248: Sanju Samson made 56 off 23 before Keemo Paul removed him and Ishan Kishan in the same over. Earlier Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took WI to 247/3.",
+      "status": "India need 168 off 84",
+      "scoreAt": "2026-10-14T21:36:07+05:30"
     },
     {
       "id": "isl-pun-odi",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -885,7 +740,7 @@
       "a": [
         "PFC",
         "Punjab FC",
-        "1",
+        "2",
         "#DC2626"
       ],
       "b": [
@@ -896,6 +751,10 @@
       ],
       "when": "2026-10-14T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google – Punjab 2–1 Odisha, full-time (Messi Bouli 1', 90+6')",
+          "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC"
+        },
         {
           "t": "Google – Punjab FC vs Odisha FC live (1–1, 2nd half)",
           "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC"
@@ -922,9 +781,11 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "75' · 1-1",
-      "scoreAt": "2026-10-14T21:05:23+05:30",
-      "note": "Raphaël Messi Bouli put Punjab ahead inside the first minute; Thoiba Singh Moirangthem equalised for Odisha on 15'. Final fixture of ISL gameweek 1."
+      "note": "Raphaël Messi Bouli scored inside the first minute and again in the 6th minute of stoppage time (90+6') to win it 2–1; Thoiba Singh Moirangthem had headed Odisha level on 15'.",
+      "win": "a",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T21:36:07+05:30"
     },
     {
       "id": "issf-cai-m3p",
@@ -1899,11 +1760,15 @@
         "Yan Fei Chen/Hsieh Pei Shan",
         ""
       ],
-      "when": "2026-10-14T21:30:00+05:30",
+      "when": "2026-10-14T22:30:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan in round one; Google lists the match at about 9:30 pm IST.",
       "src": [
+        {
+          "t": "Google – Denmark Open schedule (IST)",
+          "u": "https://www.google.com/search?q=Denmark+Open+2026+Treesa+Jolly+Gayatri+Gopichand"
+        },
         {
           "t": "Google – Treesa Jolly / Gayatri Gopichand, Denmark Open R32 9:30 pm IST",
           "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open"
@@ -1937,11 +1802,15 @@
         "Bao Li Jing/Cao Zi Han (6)",
         ""
       ],
-      "when": "2026-10-14T22:20:00+05:30",
+      "when": "2026-10-14T23:10:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "note": "The Panda sisters face sixth seeds Bao Li Jing and Cao Zi Han of China in round one; Google lists the match at about 10:20 pm IST.",
       "src": [
+        {
+          "t": "Google – Denmark Open schedule (IST)",
+          "u": "https://www.google.com/search?q=Denmark+Open+2026+Treesa+Jolly+Gayatri+Gopichand"
+        },
         {
           "t": "Google – Rutaparna / Swetaparna Panda, Denmark Open R32 10:20 pm IST",
           "u": "https://www.google.com/search?q=Rutaparna+Swetaparna+Panda+Denmark+Open+2026"
@@ -2143,21 +2012,6 @@
       "live": true
     },
     {
-      "sport": "Formula 1",
-      "name": "Singapore Grand Prix",
-      "status": "Concluded · Verstappen won 11 Oct",
-      "id": "f1",
-      "note": "Race on Sunday 11 Oct, 20:00 local (17:30 IST); sprint qualifying Fri, sprint Sat.",
-      "src": [
-        {
-          "t": "Formula1.com – Singapore GP 2026",
-          "u": "https://www.formula1.com/en/latest/article/formula-1-singapore-airlines-singapore-grand-prix-2026.1OXwlTH5jrpTiZX2Dvg7qE"
-        }
-      ],
-      "comp": "Singapore Grand Prix",
-      "live": false
-    },
-    {
       "id": "pak-sl",
       "sport": "Cricket",
       "name": "Pakistan v Sri Lanka T20Is",
@@ -2328,6 +2182,22 @@
   ],
   "feed": [
     {
+      "t": "21:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "match": "ind-wi-t20-4",
+      "text": "India v West Indies, 4th T20I: India 80/2 after 6 overs chasing 248 in Hyderabad — Sanju Samson blasted 56 off 23 before Keemo Paul removed him and Ishan Kishan in one over; 168 needed off 84."
+    },
+    {
+      "t": "21:31",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "match": "isl-pun-odi",
+      "text": "ISL: Punjab FC beat Odisha FC 2–1 in Delhi — Raphaël Messi Bouli scored in the 1st minute and the winner in the 96th; Thoiba Singh had equalised on 15'."
+    },
+    {
       "t": "21:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2336,28 +2206,12 @@
       "match": "ind-wi-t20-4"
     },
     {
-      "t": "21:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ISL: Punjab FC 1–1 Odisha FC in Delhi at 75'; Messi Bouli (1') and Thoiba Singh (20') scored.",
-      "match": "isl-pun-odi"
-    },
-    {
       "t": "20:36",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
       "match": "ind-wi-t20-4",
       "text": "India v West Indies, 4th T20I: West Indies 218/3 after 17.5 overs in Hyderabad — Shai Hope and Sherfane Rutherford take the hosts' bowlers apart at the death."
-    },
-    {
-      "t": "20:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "match": "isl-pun-odi",
-      "text": "ISL: Punjab FC and Odisha FC level 1–1 at half-time in Delhi; second half under way."
     },
     {
       "t": "20:05",
@@ -2374,14 +2228,6 @@
       "m": "Cricket",
       "match": "ind-wi-t20-4",
       "text": "India v West Indies, 4th T20I: West Indies 114/2 after 9.1 overs in Hyderabad — 79 in the powerplay; Prince Yadav removes Hetmyer."
-    },
-    {
-      "t": "19:50",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "match": "isl-pun-odi",
-      "text": "ISL: Punjab FC 1–1 Odisha FC in Delhi — Messi Bouli scored inside a minute, Thoiba Singh levelled on 15'."
     },
     {
       "t": "17:45",
