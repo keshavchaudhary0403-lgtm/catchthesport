@@ -1,477 +1,8 @@
 {
-  "lastUpdated": "2026-10-15T01:04:39+05:30",
-  "dayLabel": "Wed 14 Oct · West Indies beat India by 24 runs to level T20I series 2–2 · Decider Sat in Bengaluru · Indian WD pairs in action in Odense",
+  "lastUpdated": "2026-10-15T05:06:00+05:30",
+  "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo rifle finals",
   "featured": "ind-wi-t20-5",
   "matches": [
-    {
-      "id": "ranji-r1-ben-del",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 1 · Elite C · 4 days",
-      "a": [
-        "BEN",
-        "Bengal",
-        "429 & 89/1"
-      ],
-      "b": [
-        "DEL",
-        "Delhi",
-        "240 & 277"
-      ],
-      "when": "2026-10-11T09:00:00+05:30",
-      "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal beat Delhi by 9 wickets on Day 4 at Kalyani: 429 (Abhishek Porel 149) and 89/1 chasing 89, after bowling Delhi out for 240 (Shami 4/30) and 277 following on (Ayush Badoni 85).",
-      "src": [
-        {
-          "t": "Google – Bengal v Delhi, Ranji Trophy (BEN won by 9 wickets)",
-          "u": "https://www.google.com/search?q=Bengal+vs+Delhi+Ranji+Trophy+live+score+today"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 4 live: Bengal defeat Delhi by nine wickets",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
-        },
-        {
-          "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
-          "u": "https://www.espncricinfo.com/live-cricket-score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 4 live: Bengal need 89 to win",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
-        },
-        {
-          "t": "Google – Ranji Trophy Bengal vs Delhi day 4",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+4"
-        },
-        {
-          "t": "Dainik Jagran English – Ranji Trophy Day 4 live updates",
-          "u": "https://english.dainikjagranmpcg.com/sports/ranji-trophy-day-4-live-updates-and-latest-scores/article-38540"
-        },
-        {
-          "t": "BCCI – Scorecard, Bengal v Delhi",
-          "u": "https://www.bcci.tv/"
-        },
-        {
-          "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
-        }
-      ],
-      "watch": [
-        "JioHotstar",
-        "Star Sports Khel (select matches)"
-      ],
-      "win": "a",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T16:38:01+05:30"
-    },
-    {
-      "id": "ranji-r1-mum-chd",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 1 · Elite D · 4 days",
-      "a": [
-        "MUM",
-        "Mumbai",
-        "429"
-      ],
-      "b": [
-        "CHD",
-        "Chandigarh",
-        "78 & 196 (f/o)"
-      ],
-      "when": "2026-10-11T09:30:00+05:30",
-      "venue": "Wankhede Stadium, Mumbai",
-      "note": "Mumbai beat Chandigarh by an innings and 155 runs on Day 3 at the Wankhede — 429 batting first, then Chandigarh bowled out for 78 (Tushar Deshpande 5/17 incl. hat-trick) and 196.",
-      "src": [
-        {
-          "t": "Google – Mumbai vs Chandigarh Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Mumbai+vs+Chandigarh+Ranji+Trophy+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy 2026-27: Mumbai beats Chandigarh by an innings and 155 runs",
-          "u": "https://sportstar.thehindu.com/cricket/"
-        },
-        {
-          "t": "Google – Ranji Trophy Mumbai vs Chandigarh live score",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+Mumbai+vs+Chandigarh+live+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
-        },
-        {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
-          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round One",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
-        },
-        {
-          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
-          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
-        },
-        {
-          "t": "IANS – Ranji Trophy Day 2 round-up",
-          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
-        }
-      ],
-      "watch": [
-        "JioHotstar",
-        "Star Sports Khel (select matches)"
-      ],
-      "win": "a",
-      "day": "13 Oct",
-      "recent": true,
-      "resultAt": "2026-10-13T15:44:02+05:30"
-    },
-    {
-      "id": "ranji-r1-and-kar",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 1 · Elite B · 4 days",
-      "a": [
-        "AND",
-        "Andhra",
-        "418 & 104/4"
-      ],
-      "b": [
-        "KAR",
-        "Karnataka",
-        "274 & 337/9d"
-      ],
-      "when": "2026-10-11T09:30:00+05:30",
-      "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Match drawn at Mulapadu: Karun Nair's unbeaten 155 helped Karnataka (following on) declare 337/9; Andhra, chasing 194, were 104/4 after 44 overs (Seeram Rahul 35*). Andhra take 3 points on first-innings lead (418 v 274), Karnataka 1.",
-      "src": [
-        {
-          "t": "SportsAdda – Karun Nair's unbeaten 155 saved Karnataka against Andhra (match drawn)",
-          "u": "https://www.sportsadda.asia/cricket/news/karnataka-were-43-for-3-and-still-101-behind-and-karun-nairs-unbeaten-155-saved-them-against-andhra/"
-        },
-        {
-          "t": "Google – Andhra v Karnataka, Ranji Trophy live (82/4, 39.2/45 ov)",
-          "u": "https://www.google.com/search?q=Andhra+vs+Karnataka+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
-          "u": "https://www.espncricinfo.com/live-cricket-score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 4 live: Karnataka declare, Karun 155*",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
-        },
-        {
-          "t": "Google – Ranji Trophy Andhra vs Karnataka day 4 live (BCCI: Andhra need 154, 8 wkts left)",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+Andhra+vs+Karnataka+day+4+live"
-        },
-        {
-          "t": "Google – Andhra vs Karnataka Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Andhra+vs+Karnataka+Ranji+Trophy+score"
-        },
-        {
-          "t": "Google – Ranji Trophy Andhra vs Karnataka live score",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+Andhra+vs+Karnataka+live+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
-        },
-        {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
-          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round One",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
-        },
-        {
-          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
-          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
-        },
-        {
-          "t": "IANS – Ranji Trophy Day 2 round-up",
-          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
-        },
-        {
-          "t": "Wisden – Ranji Trophy Round 1 Day 3",
-          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-day-three-kl-rahul-falls-cheaply-again-jadeja-follows-century-with-three-for"
-        }
-      ],
-      "watch": [
-        "JioHotstar",
-        "Star Sports Khel (select matches)"
-      ],
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T19:07:05+05:30"
-    },
-    {
-      "id": "issf-cai-m10ap",
-      "st": "result",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Men's 10m air pistol",
-      "a": [
-        "IND",
-        "Udhayveer Sidhu",
-        "240.6"
-      ],
-      "b": [
-        "GER",
-        "Christian Reitz",
-        "240.1"
-      ],
-      "when": "2026-10-11T11:45:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Udhayveer Sidhu (24) wins gold with 240.6, ahead of Germany's Christian Reitz (240.1) and Italy's Paolo Monna (219.8, bronze). He qualified 4th with 585-19x. Ajendra Singh Chauhan (14th) and Sarabjot Singh (31st) missed the final; Jonathan Gavin Antony was 2nd in qualification but shooting for ranking points only.",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
-          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
-        },
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ],
-      "win": "a",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T15:36:58+05:30",
-      "gold": true,
-      "big": true
-    },
-    {
-      "id": "ind-rus-w2",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "International friendly",
-      "round": "Women",
-      "a": [
-        "IND",
-        "India",
-        "0"
-      ],
-      "b": [
-        "RUS",
-        "Russia",
-        "8"
-      ],
-      "when": "2026-10-11T18:00:00+05:30",
-      "venue": "Kishore Bharati Krirangan, Kolkata",
-      "note": "Russia win 8–0 in the second friendly in Kolkata (5–0 at half-time), after a 4–0 win in the first — India lose the two-match series 0–12 on aggregate.",
-      "src": [
-        {
-          "t": "Google – India women vs Russia result",
-          "u": "https://www.google.com/search?q=India+women+vs+Russia+football+friendly+Kolkata+result"
-        },
-        {
-          "t": "Google – Khel Now: Halftime India 0-5 Russia",
-          "u": "https://www.google.com/search?q=Blue+Tigresses+Russia+0-5"
-        },
-        {
-          "t": "ANI – India women to face Russia in Kolkata",
-          "u": "https://www.aninews.in/news/sports/football/india-to-make-historic-kolkata-debut-against-russia20260927193449/"
-        },
-        {
-          "t": "AIFF – Blue Tigresses' Kolkata debut brings Russia test",
-          "u": "https://www.the-aiff.com/article/blue-tigresses-kolkata-debut-brings-russia-test-and-chance-for-a-new-generation"
-        }
-      ],
-      "watch": [
-        {
-          "n": "YouTube – Indian Football",
-          "u": "https://www.youtube.com/@IndianFootball"
-        }
-      ],
-      "win": "b",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T22:23:11+05:30"
-    },
-    {
-      "id": "u17w-ind-mas",
-      "sport": "Football",
-      "comp": "AFC U17 Women's Asian Cup qualifiers",
-      "round": "Group E · Matchday 3",
-      "st": "result",
-      "a": [
-        "IND",
-        "India U17 women",
-        "4"
-      ],
-      "b": [
-        "MAS",
-        "Malaysia",
-        "0"
-      ],
-      "when": "2026-10-11T18:30:00+05:30",
-      "india": true,
-      "venue": "MP Selayang Stadium, Selayang, Malaysia",
-      "note": "India beat hosts Malaysia 4–0 to win Group E with three wins from three and qualify for the AFC U17 Women's Asian Cup 2027 in China — their second straight qualification.",
-      "src": [
-        {
-          "t": "Google – India U17 women vs Malaysia result",
-          "u": "https://www.google.com/search?q=India+U17+women+vs+Malaysia+AFC+U17+Women%27s+Asian+Cup+qualifier+result"
-        },
-        {
-          "t": "Google – Khel Now: HT India U17 1-0 Malaysia",
-          "u": "https://www.google.com/search?q=India+U-17+women+Malaysia+half-time"
-        },
-        {
-          "t": "AIFF – India U17 women in AFC U17 Women's Asian Cup 2027 qualifiers",
-          "u": "https://www.the-aiff.com/article/india-to-face-malaysia-syria-iraq-in-afc-u17-womens-asian-cup-2027-qualifiers"
-        },
-        {
-          "t": "Khel Now – India U17 women squad",
-          "u": "https://khelnow.com/football/indian-football-afc-u17-womens-asian-cup-qualifiers-squad"
-        }
-      ],
-      "win": "a",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T22:23:11+05:30",
-      "gold": false
-    },
-    {
-      "id": "ind-wi-t20-3",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "3rd T20I",
-      "a": [
-        "IND",
-        "India",
-        "223 (20)"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "209/7 (20)",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-11T19:00:00+05:30",
-      "venue": "Holkar Stadium, Indore",
-      "src": [
-        {
-          "t": "Tribune India – Abhishek, Arshdeep shine as India secure 14-run win",
-          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-3rd-t20i-abhishek-arshdeep-shine-as-india-secure-14-run-win"
-        },
-        {
-          "t": "Spike Today – IND v WI T20I schedule",
-          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
-        },
-        {
-          "t": "CricInnings – IND v WI 2026 schedule",
-          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
-        },
-        {
-          "t": "Pragativadi – India post 223 in 3rd T20I",
-          "u": "https://pragativadi.com/india-post-223-as-abhishek-sharma-and-ishan-kishan-fire-in-3rd-t20i-against-west-indies/"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "India won by 14 runs to lead the series 2–1. India 223 (20): Abhishek Sharma 69 off 30, Ishan Kishan 37 off 18. WI 209/7: Shimron Hetmyer 43, Pooran 42; Arshdeep Singh 3/44, Naman Dhir 2/39.",
-      "win": "a",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T23:13:37+05:30"
-    },
-    {
-      "id": "isl-chu-mcfc",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Opening weekend",
-      "a": [
-        "CHB",
-        "Churchill Brothers",
-        "2",
-        "#991B1B"
-      ],
-      "b": [
-        "MCFC",
-        "Mumbai City FC",
-        "1",
-        "#0EA5E9"
-      ],
-      "when": "2026-10-11T19:30:00+05:30",
-      "note": "Churchill Brothers 2-1 Mumbai City at Fatorda: Gaurav Bora 57', Sebastian Gutierrez 86'; Sergio Pardo 90+5' for Mumbai.",
-      "src": [
-        {
-          "t": "Google – Churchill Brothers vs Mumbai City live",
-          "u": "https://www.google.com/search?q=Churchill+Brothers+vs+Mumbai+City"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Wikipedia – 2026-27 Indian Super League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
-        },
-        {
-          "t": "ESPN – ISL to begin 10 October",
-          "u": "https://www.espn.com/football/story/_/id/49832841/isl-202627-season-begin-october-10"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        },
-        {
-          "t": "Footballin – Churchill Brothers v Mumbai City",
-          "u": "https://footballin.in/event/churchill-brothers-fc-vs-mumbai-city-fc/"
-        }
-      ],
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "a",
-      "day": "11 Oct",
-      "recent": true,
-      "resultAt": "2026-10-11T22:11:20+05:30"
-    },
     {
       "id": "isl-neu-mbsg",
       "sport": "Football",
@@ -725,9 +256,9 @@
         "Final field",
         ""
       ],
-      "when": "2026-10-15T11:45:00+05:30",
+      "when": "2026-10-15T15:30:00+05:30",
       "venue": "Cairo, Egypt",
-      "note": "Olympic bronze medallist Swapnil Kusale leads; qualification 11:45 IST, final 15:30 IST.",
+      "note": "Swapnil Kusale, Akhil Sheoran and Adriyan Karmakar are India's medal contenders; final at 15:30 IST.",
       "watch": [
         {
           "n": "Olympics.com",
@@ -1644,89 +1175,73 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's doubles · R32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Treesa Jolly/Gayatri Gopichand",
-        "",
+        "Won",
         "#E4572E"
       ],
       "b": [
         "TPE",
         "Yan Fei Chen/Hsieh Pei Shan",
-        ""
+        "Lost"
       ],
       "when": "2026-10-14T23:10:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan in round one; Google lists the match at about 9:30 pm IST.",
+      "note": "Treesa and Gayatri beat Chinese Taipei's Yan Fei Chen/Hsieh Pei Shan and reach the round of 16 (game scores not yet confirmed); they meet fifth seeds Rose/Setianingrum next.",
       "src": [
         {
-          "t": "Google – Denmark Open schedule (WD R32, 11:10 pm IST)",
-          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open"
-        },
-        {
-          "t": "Google – Denmark Open schedule (IST)",
-          "u": "https://www.google.com/search?q=Denmark+Open+2026+Treesa+Jolly+Gayatri+Gopichand"
-        },
-        {
-          "t": "Google – Treesa Jolly / Gayatri Gopichand, Denmark Open R32 9:30 pm IST",
-          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open"
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         },
         {
           "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
           "u": "https://sportstar.thehindu.com/badminton/denmark-open-indians-in-action-draw-matches-where-to-watch-live-streaming/article71573906.ece"
-        },
-        {
-          "t": "ESPN India – Indian Sports LIVE, October 14 (Treesa-Gayatri in action)",
-          "u": "https://www.espn.in/espn/story/_/id/50174743/indians-action-bwf-denmark-open-badminton-archery-pl-tt-nationals-cairo-shooting-world-cup-punjab-odisha-isl-indian-sports-live-october-14"
         }
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "a",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T05:05:00+05:30"
     },
     {
       "id": "den-panda-bao-cao",
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's doubles · R32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Rutaparna Panda/Swetaparna Panda",
-        ""
+        "Lost"
       ],
       "b": [
         "CHN",
         "Bao Li Jing/Cao Zi Han (6)",
-        ""
+        "Won"
       ],
       "when": "2026-10-14T23:10:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "note": "The Panda sisters face sixth seeds Bao Li Jing and Cao Zi Han of China in round one; Google lists the match at about 10:20 pm IST.",
+      "note": "The Panda sisters lose to sixth seeds Bao Li Jing/Cao Zi Han of China and are out; the Chinese pair play again on 15 Oct (game scores not yet confirmed).",
       "src": [
         {
-          "t": "Google – Denmark Open schedule (WD R32, 11:10 pm IST)",
-          "u": "https://www.google.com/search?q=Rutaparna+Panda+Swetaparna+Panda+Denmark+Open"
-        },
-        {
-          "t": "Google – Denmark Open schedule (IST)",
-          "u": "https://www.google.com/search?q=Denmark+Open+2026+Treesa+Jolly+Gayatri+Gopichand"
-        },
-        {
-          "t": "Google – Rutaparna / Swetaparna Panda, Denmark Open R32 10:20 pm IST",
-          "u": "https://www.google.com/search?q=Rutaparna+Swetaparna+Panda+Denmark+Open+2026"
-        },
-        {
-          "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
-          "u": "https://sportstar.thehindu.com/badminton/denmark-open-indians-in-action-draw-matches-where-to-watch-live-streaming/article71573906.ece"
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "b",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T05:05:00+05:30"
     },
     {
       "id": "den-unnati-han",
@@ -2031,8 +1546,12 @@
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Odense",
-      "note": "Chaliha faces World No. 3 Akane Yamaguchi in the round of 16; start time TBC.",
+      "note": "Chaliha faces World No. 3 Akane Yamaguchi in the round of 16: Court 3, match 8 (follows earlier matches; start time TBC).",
       "src": [
+        {
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+        },
         {
           "t": "Sports News Portal – Denmark Open Day 2",
           "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
@@ -2040,6 +1559,136 @@
       ],
       "watch": [
         "FanCode"
+      ]
+    },
+    {
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "st": "upcoming",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+        }
+      ],
+      "id": "den-treesa-rose",
+      "round": "Women's doubles · R16",
+      "a": [
+        "IND",
+        "Treesa Jolly/Gayatri Gopichand",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "INA",
+        "Rachel Allessya Rose/Febi Setianingrum (5)",
+        ""
+      ],
+      "when": "2026-10-15",
+      "note": "Court 2, match 6 (follows earlier matches; start time TBC). Winners reach the quarter-finals."
+    },
+    {
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "st": "upcoming",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+        }
+      ],
+      "id": "den-srikanth-lanier",
+      "round": "Men's singles · R16",
+      "a": [
+        "IND",
+        "Kidambi Srikanth",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "FRA",
+        "Alex Lanier (7)",
+        ""
+      ],
+      "when": "2026-10-15",
+      "note": "Court 1, match 5 (follows earlier matches; start time TBC)."
+    },
+    {
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "st": "upcoming",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "watch": [
+        "FanCode"
+      ],
+      "src": [
+        {
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+        }
+      ],
+      "id": "den-tanvi-li",
+      "round": "Women's singles · R16",
+      "a": [
+        "IND",
+        "Tanvi Sharma",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "GER",
+        "Yvonne Li",
+        ""
+      ],
+      "when": "2026-10-15T21:40:00+05:30",
+      "note": "Court 2, not before 21:40 IST. Li beat PV Sindhu in round one."
+    },
+    {
+      "id": "issf-cai-w10ar",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Shooting",
+      "comp": "ISSF World Cup Cairo",
+      "round": "Women's 10m air rifle",
+      "a": [
+        "IND",
+        "Bhowal / Borse / Chaudhary",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "Final field",
+        ""
+      ],
+      "when": "2026-10-15T18:00:00+05:30",
+      "venue": "Cairo, Egypt",
+      "note": "Ismita Bhowal, Arya Borse and Khyaty Chaudhary are India's medal contenders; final at 18:00 IST.",
+      "watch": [
+        {
+          "n": "Olympics.com",
+          "u": "https://www.olympics.com/"
+        },
+        {
+          "n": "YouTube – ISSF",
+          "u": "https://www.youtube.com/issfchannel"
+        }
+      ],
+      "src": [
+        {
+          "t": "Sunday Guardian – ISSF World Cup Cairo: India schedule",
+          "u": "https://sundayguardianlive.com/sports/issf-world-cup-2026-cairo-swapnil-kusale-sarabjot-singh-in-action-full-schedule-indian-shooters-where-to-watch-rifle-pistol-shooting-event-live-302654/"
+        }
       ]
     }
   ],
@@ -2262,7 +1911,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Day 1: Sindhu (lost to Yvonne Li) and Lakshya (lost to Chou Tien Chen) out; Srikanth and Tanvi Sharma into R16 (Tanvi v Yvonne Li next). Doubles start Wed 14 Oct with Satwik/Chirag and Treesa Jolly/Gayatri Gopichand. Play starts 12:30 IST; FanCode streams, no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. Doubles day: Satwik/Chirag, Ayush, Unnati out; Treesa/Gayatri into R16. Thursday R16: Srikanth v Lanier, Tanvi v Yvonne Li, Ashmita v Yamaguchi, Treesa/Gayatri v Rose/Setianingrum. Play starts 12:30 IST; FanCode streams, no TV telecast confirmed.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2304,6 +1953,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "05:05",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open: Treesa Jolly/Gayatri Gopichand reach the women's doubles last 16 (v Rose/Setianingrum); Rutaparna/Swetaparna Panda are out. Srikanth (v Lanier), Tanvi Sharma (v Yvonne Li) and Ashmita Chaliha (v Yamaguchi) play R16 on Thursday.",
+      "match": "den-treesa-rose",
+      "src": [
+        {
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+        }
+      ]
+    },
     {
       "t": "14:30",
       "tag": "WIN",
@@ -2379,7 +2042,6 @@
       "c": "var(--accent)",
       "m": "Cricket",
       "text": "Ranji Trophy: Andhra v Karnataka drawn at Mulapadu — Andhra 104/4 chasing 194 after Karun Nair's unbeaten 155; Andhra get 3 points, Karnataka 1.",
-      "match": "ranji-r1-and-kar",
       "src": [
         {
           "t": "SportsAdda – Karun Nair's unbeaten 155 saved Karnataka against Andhra (match drawn)",
@@ -2393,7 +2055,6 @@
       "c": "var(--win)",
       "m": "Cricket",
       "text": "Ranji Trophy: Bengal beat Delhi by 9 wickets at Kalyani, chasing 89 on Day 4 (89/1); Andhra 82/4 chasing 194 v Karnataka with a draw looming.",
-      "match": "ranji-r1-ben-del",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 4 live: Bengal defeat Delhi by nine wickets",
@@ -2407,7 +2068,6 @@
       "c": "var(--live-text)",
       "m": "Cricket",
       "text": "Ranji Trophy: Bengal 32/0 after 7 overs chasing 89 v Delhi at Kalyani — 57 to win; Andhra 48/3 chasing 194 v Karnataka.",
-      "match": "ranji-r1-ben-del",
       "src": [
         {
           "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
