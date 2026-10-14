@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T16:38:01+05:30",
-  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Bengal beat Delhi · Satwik-Chirag in Odense",
+  "lastUpdated": "2026-10-14T19:07:05+05:30",
+  "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · Ranji Round 1 done · Satwik-Chirag in Odense",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
@@ -135,7 +135,7 @@
     },
     {
       "id": "ranji-r1-and-kar",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
@@ -143,7 +143,7 @@
       "a": [
         "AND",
         "Andhra",
-        "418 & 82/4 (39.2)"
+        "418 & 104/4"
       ],
       "b": [
         "KAR",
@@ -152,8 +152,12 @@
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Karun Nair's unbeaten 155 helped Karnataka (following on) reach 337/9 declared, setting Andhra 194 in about 45 overs; Andhra are 82/4 late on Day 4 with a draw likely.",
+      "note": "Match drawn at Mulapadu: Karun Nair's unbeaten 155 helped Karnataka (following on) declare 337/9; Andhra, chasing 194, were 104/4 after 44 overs (Seeram Rahul 35*). Andhra take 3 points on first-innings lead (418 v 274), Karnataka 1.",
       "src": [
+        {
+          "t": "SportsAdda – Karun Nair's unbeaten 155 saved Karnataka against Andhra (match drawn)",
+          "u": "https://www.sportsadda.asia/cricket/news/karnataka-were-43-for-3-and-still-101-behind-and-karun-nairs-unbeaten-155-saved-them-against-andhra/"
+        },
         {
           "t": "Google – Andhra v Karnataka, Ranji Trophy live (82/4, 39.2/45 ov)",
           "u": "https://www.google.com/search?q=Andhra+vs+Karnataka+Ranji+Trophy+live+score"
@@ -211,8 +215,9 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "AND need 112 off 34 balls",
-      "scoreAt": "2026-10-14T16:34:00+05:30"
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T19:07:05+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -838,6 +843,14 @@
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
         {
+          "t": "UNI – Fourth T20I toss: India elect to field in Hyderabad",
+          "u": "https://www.uniindia.com/sports/sports-fourth-t20i-toss-india-versus-wi/213788"
+        },
+        {
+          "t": "Daily Jagran – Iyer opts to bowl; playing XIs",
+          "u": "https://www.thedailyjagran.com/cricket/news/shreyas-iyer-opt-to-bowl-against-west-indies-in-4th-t20i-check-playing-xis-live-score-10332731"
+        },
+        {
           "t": "Business Standard – India v West Indies 4th T20I: playing XI, toss time, streaming",
           "u": "https://www.business-standard.com/amp/cricket/news/india-vs-west-indies-4th-t20i-playing-11-live-toss-time-ist-streaming-126101300687_1.html"
         },
@@ -858,7 +871,7 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India lead the 5-match series 2–1. Toss 6:30 pm IST, start 7:00 pm."
+      "note": "India won the toss and chose to bowl first; India lead the 5-match series 2–1. Play started 7:00 pm IST. Live score not yet confirmed."
     },
     {
       "id": "isl-pun-odi",
@@ -2151,8 +2164,8 @@
     {
       "sport": "Cricket",
       "name": "Ranji Trophy 2026-27",
-      "status": "Live · Round 1 till 14 Oct",
-      "live": true,
+      "status": "Round 1 done · next round TBC",
+      "live": false,
       "id": "ranji",
       "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association. Stumps Day 1: Shami took 4/30 as Bengal bowled Delhi out for 240 in Kalyani; Smaran Ravichandran made a hundred on his Karnataka captaincy debut; Punjab v Assam was washed out.",
       "src": [
@@ -2202,6 +2215,38 @@
     }
   ],
   "feed": [
+    {
+      "t": "19:07",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India v West Indies, 4th T20I: Shreyas Iyer wins the toss and India bowl first in Hyderabad; India lead the series 2–1.",
+      "match": "ind-wi-t20-4",
+      "src": [
+        {
+          "t": "UNI – Fourth T20I toss: India elect to field in Hyderabad",
+          "u": "https://www.uniindia.com/sports/sports-fourth-t20i-toss-india-versus-wi/213788"
+        },
+        {
+          "t": "Daily Jagran – Iyer opts to bowl; playing XIs",
+          "u": "https://www.thedailyjagran.com/cricket/news/shreyas-iyer-opt-to-bowl-against-west-indies-in-4th-t20i-check-playing-xis-live-score-10332731"
+        }
+      ]
+    },
+    {
+      "t": "19:07",
+      "tag": "DRAW",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Andhra v Karnataka drawn at Mulapadu — Andhra 104/4 chasing 194 after Karun Nair's unbeaten 155; Andhra get 3 points, Karnataka 1.",
+      "match": "ranji-r1-and-kar",
+      "src": [
+        {
+          "t": "SportsAdda – Karun Nair's unbeaten 155 saved Karnataka against Andhra (match drawn)",
+          "u": "https://www.sportsadda.asia/cricket/news/karnataka-were-43-for-3-and-still-101-behind-and-karun-nairs-unbeaten-155-saved-them-against-andhra/"
+        }
+      ]
+    },
     {
       "t": "16:08",
       "tag": "WIN",
@@ -2347,33 +2392,6 @@
       "m": "Cricket",
       "text": "Ranji Day 3 stumps: Bengal 429 v Delhi 240 & 101/3 (Delhi follow on); Karnataka 274 & 176/4 lead Andhra's 418 by 32.",
       "match": "ranji-r1-ben-del"
-    },
-    {
-      "t": "13 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Mumbai crush Chandigarh by an innings and 155 runs at the Wankhede inside three days (429 v 78 & 196).",
-      "match": "ranji-r1-mum-chd",
-      "src": [
-        {
-          "t": "Sportstar – Mumbai beats Chandigarh by an innings and 155 runs",
-          "u": "https://sportstar.thehindu.com/cricket/"
-        }
-      ]
-    },
-    {
-      "t": "13 Oct",
-      "tag": "OUT",
-      "c": "var(--accent)",
-      "m": "Shooting",
-      "text": "ISSF World Cup Cairo: no Indian in the women's 50m rifle 3P final — Anjum Moudgil 27th (584) and Manini Kaushik (581) missed out in qualification.",
-      "src": [
-        {
-          "t": "Google – ISSF World Cup Cairo women's 50m rifle 3 positions final India",
-          "u": "https://www.google.com/search?q=ISSF+World+Cup+Cairo+women's+50m+rifle+3+positions+final+India"
-        }
-      ]
     }
   ],
   "schedule": [
