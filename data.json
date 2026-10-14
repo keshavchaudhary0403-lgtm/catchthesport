@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T22:36:19+05:30",
-  "dayLabel": "Wed 14 Oct · India 183/5 chasing 248 v WI in 4th T20I · ISL: Punjab beat Odisha 2–1 · Indian WD pairs in Odense at 11:10 pm",
+  "lastUpdated": "2026-10-14T23:05:03+05:30",
+  "dayLabel": "Wed 14 Oct · India 212/8 chasing 248 v WI in 4th T20I · ISL: Punjab beat Odisha 2–1 · Indian WD pairs in Odense at 11:10 pm",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
@@ -621,7 +621,7 @@
       "a": [
         "IND",
         "India",
-        "183/5 (15.5)"
+        "212/8 (18.3)"
       ],
       "b": [
         "WI",
@@ -633,53 +633,17 @@
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
         {
-          "t": "Google – India vs West Indies 4th T20I live (IND 183/5, 15.5 ov; need 65 off 25)",
-          "u": "https://www.google.com/search?q=West+Indies+vs+India+live"
-        },
-        {
-          "t": "Times of India – Abhishek, Naman Dhir fall to Motie as West Indies tighten their grip",
-          "u": "https://timesofindia.indiatimes.com/sports/cricket"
-        },
-        {
-          "t": "Google – India vs West Indies 4th T20I live (IND 80/2, 6 ov)",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
-        },
-        {
-          "t": "Times of India – Keemo Paul ends Sanju Samson's 56 off 23",
-          "u": "https://timesofindia.indiatimes.com/sports/cricket"
-        },
-        {
-          "t": "Google – India vs West Indies 4th T20I live (WI 218/3, 17.5 ov)",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
-        },
-        {
-          "t": "Indian Express – IND v WI 4th T20I live: Prince Yadav sends back Hetmyer",
-          "u": "https://indianexpress.com/section/sports/cricket/"
-        },
-        {
-          "t": "Outlook India – WI smash 79 in powerplay despite losing Andrew",
-          "u": "https://www.outlookindia.com/sports/cricket"
-        },
-        {
-          "t": "UNI – Fourth T20I toss: India elect to field in Hyderabad",
-          "u": "https://www.uniindia.com/sports/sports-fourth-t20i-toss-india-versus-wi/213788"
-        },
-        {
-          "t": "Daily Jagran – Iyer opts to bowl; playing XIs",
-          "u": "https://www.thedailyjagran.com/cricket/news/shreyas-iyer-opt-to-bowl-against-west-indies-in-4th-t20i-check-playing-xis-live-score-10332731"
-        },
-        {
-          "t": "Business Standard – India v West Indies 4th T20I: playing XI, toss time, streaming",
-          "u": "https://www.business-standard.com/amp/cricket/news/india-vs-west-indies-4th-t20i-playing-11-live-toss-time-ist-streaming-126101300687_1.html"
+          "t": "Outlook India – 4th T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-4th-t20i-live-score-hyderabad-latest-updates"
         }
       ],
       "watch": [
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "Chasing 248: Sanju Samson made 56 off 23 before Keemo Paul removed him and Ishan Kishan in the same over; Gudakesh Motie then removed Abhishek Sharma and Naman Dhir, leaving Tilak Varma and Nitish Kumar Reddy to chase. Earlier Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took WI to 247/3.",
-      "status": "India need 65 off 25",
-      "scoreAt": "2026-10-14T22:36:19+05:30"
+      "note": "Chasing 248: Sanju Samson made 56 off 23 before Keemo Paul removed him and Ishan Kishan in the same over; Gudakesh Motie then removed Abhishek Sharma and Naman Dhir, Keemo Paul then took a five-wicket haul, including Nitish Kumar Reddy (41 off 20) and a golden duck for Prince Yadav; Axar Patel and Arshdeep Singh were left to bat. Earlier Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took WI to 247/3.",
+      "status": "India need 36 off 9",
+      "scoreAt": "2026-10-14T22:54:00+05:30"
     },
     {
       "id": "isl-pun-odi",
@@ -2267,6 +2231,20 @@
   ],
   "feed": [
     {
+      "t": "22:54",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "match": "ind-wi-t20-4",
+      "text": "India v West Indies, 4th T20I: India 212/8 after 18.3 overs chasing 248 — Keemo Paul takes a fifer and West Indies close in on victory. Final result not yet confirmed.",
+      "src": [
+        {
+          "t": "Outlook India – 4th T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-4th-t20i-live-score-hyderabad-latest-updates"
+        }
+      ]
+    },
+    {
       "t": "22:36",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2424,20 +2402,6 @@
         {
           "t": "Google – Ayush Shetty v Alwi Farhan, Denmark Open (final result)",
           "u": "https://www.google.com/search?q=Ayush+Shetty+Alwi+Farhan+Denmark+Open"
-        }
-      ]
-    },
-    {
-      "t": "14:26",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Delhi all out for 277 in their follow-on at Kalyani — Bengal need 89 to win in the final session.",
-      "match": "ranji-r1-ben-del",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Day 4 live",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
         }
       ]
     }
