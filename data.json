@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-14T15:36:24+05:30",
-  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Bengal chasing 89 · Satwik-Chirag 4:40 pm",
+  "lastUpdated": "2026-10-14T16:38:01+05:30",
+  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Bengal beat Delhi · Satwik-Chirag in Odense",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
       "id": "ranji-r1-ben-del",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
@@ -13,7 +13,7 @@
       "a": [
         "BEN",
         "Bengal",
-        "429 & 32/0 (7)"
+        "429 & 89/1"
       ],
       "b": [
         "DEL",
@@ -22,8 +22,16 @@
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 429 (Abhishek Porel 149); Delhi 240 (followed on; Shami 4/30) and 277 (Ayush Badoni 85) — Bengal chasing 89 in the final session.",
+      "note": "Bengal beat Delhi by 9 wickets on Day 4 at Kalyani: 429 (Abhishek Porel 149) and 89/1 chasing 89, after bowling Delhi out for 240 (Shami 4/30) and 277 following on (Ayush Badoni 85).",
       "src": [
+        {
+          "t": "Google – Bengal v Delhi, Ranji Trophy (BEN won by 9 wickets)",
+          "u": "https://www.google.com/search?q=Bengal+vs+Delhi+Ranji+Trophy+live+score+today"
+        },
+        {
+          "t": "Sportstar – Ranji Trophy Day 4 live: Bengal defeat Delhi by nine wickets",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
+        },
         {
           "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
           "u": "https://www.espncricinfo.com/live-cricket-score"
@@ -47,42 +55,16 @@
         {
           "t": "Google – Ranji Trophy Bengal vs Delhi day 3 score",
           "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+3+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
-        },
-        {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "Khel Now – Ranji Trophy 2026-27 schedule, Round 1",
-          "u": "https://khelnow.com/cricket/ranji-trophy-2026-27-schedule-squads-202610"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round One",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-live-updates-kl-rahul-ravindra-jadeja-yashasvi-jaiswal-among-india-test-regulars-in-action"
-        },
-        {
-          "t": "Rajasthan Royals – Ranji 2026-27 where to watch",
-          "u": "https://www.rajasthanroyals.com/latest-news/ranji-trophy-2026-27-cricket-schedule-where-to-watch-live"
-        },
-        {
-          "t": "IANS – Ranji Trophy Day 2 round-up",
-          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
-        },
-        {
-          "t": "Wisden – Ranji Trophy Round 1 Day 3",
-          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-one-day-three-kl-rahul-falls-cheaply-again-jadeja-follows-century-with-three-for"
         }
       ],
       "watch": [
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D4 · BEN need 57 · 10 wkts left",
-      "scoreAt": "2026-10-14T15:34:00+05:30"
+      "win": "a",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T16:38:01+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -161,7 +143,7 @@
       "a": [
         "AND",
         "Andhra",
-        "418 & 48/3 (21)"
+        "418 & 82/4 (39.2)"
       ],
       "b": [
         "KAR",
@@ -170,8 +152,12 @@
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Karun Nair's unbeaten 155 helped Karnataka (following on) reach 337/9 declared, setting Andhra 194 to win in about 45 overs; Andhra lost two early wickets including Shaik Rasheed.",
+      "note": "Karun Nair's unbeaten 155 helped Karnataka (following on) reach 337/9 declared, setting Andhra 194 in about 45 overs; Andhra are 82/4 late on Day 4 with a draw likely.",
       "src": [
+        {
+          "t": "Google – Andhra v Karnataka, Ranji Trophy live (82/4, 39.2/45 ov)",
+          "u": "https://www.google.com/search?q=Andhra+vs+Karnataka+Ranji+Trophy+live+score"
+        },
         {
           "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
           "u": "https://www.espncricinfo.com/live-cricket-score"
@@ -225,8 +211,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D4 · AND need 146 · 7 wkts left",
-      "scoreAt": "2026-10-14T15:34:00+05:30"
+      "status": "AND need 112 off 34 balls",
+      "scoreAt": "2026-10-14T16:34:00+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -1844,6 +1830,41 @@
       "day": "14 Oct",
       "recent": true,
       "resultAt": "2026-10-14T15:36:00+05:30"
+    },
+    {
+      "id": "den-treesa-gayatri",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's doubles · R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Treesa Jolly/Gayatri Gopichand",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "TPE",
+        "Yan Fei Chen/Hsieh Pei Shan",
+        ""
+      ],
+      "when": "2026-10-14",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan; exact court time not confirmed.",
+      "src": [
+        {
+          "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
+          "u": "https://sportstar.thehindu.com/badminton/denmark-open-indians-in-action-draw-matches-where-to-watch-live-streaming/article71573906.ece"
+        },
+        {
+          "t": "ESPN India – Indian Sports LIVE, October 14 (Treesa-Gayatri in action)",
+          "u": "https://www.espn.in/espn/story/_/id/50174743/indians-action-bwf-denmark-open-badminton-archery-pl-tt-nationals-cairo-shooting-world-cup-punjab-odisha-isl-indian-sports-live-october-14"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ]
     }
   ],
   "competitions": [
@@ -2182,6 +2203,20 @@
   ],
   "feed": [
     {
+      "t": "16:08",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Bengal beat Delhi by 9 wickets at Kalyani, chasing 89 on Day 4 (89/1); Andhra 82/4 chasing 194 v Karnataka with a draw looming.",
+      "match": "ranji-r1-ben-del",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 4 live: Bengal defeat Delhi by nine wickets",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
+        }
+      ]
+    },
+    {
       "t": "15:34",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2337,20 +2372,6 @@
         {
           "t": "Google – ISSF World Cup Cairo women's 50m rifle 3 positions final India",
           "u": "https://www.google.com/search?q=ISSF+World+Cup+Cairo+women's+50m+rifle+3+positions+final+India"
-        }
-      ]
-    },
-    {
-      "t": "13 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open draw changed after Ratchanok Intanon and Han Yue withdrew: Sindhu now opens against Germany's Yvonne Li, not An Se-young.",
-      "match": "den-sindhu-an",
-      "src": [
-        {
-          "t": "IndiaSportsHub – Denmark Open draw change",
-          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
         }
       ]
     }
