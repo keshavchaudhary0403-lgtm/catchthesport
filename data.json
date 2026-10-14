@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T15:06:18+05:30",
-  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Ranji final session · Satwik-Chirag 4:40 pm",
+  "lastUpdated": "2026-10-14T15:36:24+05:30",
+  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Bengal chasing 89 · Satwik-Chirag 4:40 pm",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
@@ -13,7 +13,7 @@
       "a": [
         "BEN",
         "Bengal",
-        "429"
+        "429 & 32/0 (7)"
       ],
       "b": [
         "DEL",
@@ -22,8 +22,12 @@
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 429 (Abhishek Porel 149); Delhi 240 (followed on; Shami 4/30) and 277 all out in 106.2 overs in the second innings — Bengal need 89 in the final session.",
+      "note": "Bengal 429 (Abhishek Porel 149); Delhi 240 (followed on; Shami 4/30) and 277 (Ayush Badoni 85) — Bengal chasing 89 in the final session.",
       "src": [
+        {
+          "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
+          "u": "https://www.espncricinfo.com/live-cricket-score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 4 live: Bengal need 89 to win",
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
@@ -77,8 +81,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D4 tea · BEN need 89 to win",
-      "scoreAt": "2026-10-14T14:26:00+05:30"
+      "status": "D4 · BEN need 57 · 10 wkts left",
+      "scoreAt": "2026-10-14T15:34:00+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -157,7 +161,7 @@
       "a": [
         "AND",
         "Andhra",
-        "418 & 40/2"
+        "418 & 48/3 (21)"
       ],
       "b": [
         "KAR",
@@ -168,6 +172,10 @@
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
       "note": "Karun Nair's unbeaten 155 helped Karnataka (following on) reach 337/9 declared, setting Andhra 194 to win in about 45 overs; Andhra lost two early wickets including Shaik Rasheed.",
       "src": [
+        {
+          "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
+          "u": "https://www.espncricinfo.com/live-cricket-score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 4 live: Karnataka declare, Karun 155*",
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
@@ -217,8 +225,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D4 · AND need 154 · 8 wkts left",
-      "scoreAt": "2026-10-14T15:00:00+05:30"
+      "status": "D4 · AND need 146 · 7 wkts left",
+      "scoreAt": "2026-10-14T15:34:00+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -1794,27 +1802,31 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Men's singles · R32",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "Ayush Shetty",
-        "11 17",
+        "11-21 21-13 10-21",
         "#E4572E"
       ],
       "b": [
         "INA",
         "Alwi Farhan",
-        "21 12"
+        "21-11 13-21 21-10"
       ],
       "when": "2026-10-14T14:10:00+05:30",
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Court 1, Odense",
-      "note": "Ayush Shetty lost the first game 11-21 to Indonesia's Alwi Farhan and leads the second 17-12 on Court 1 in Odense.",
+      "note": "Ayush Shetty levels the match by taking the second game 21-13 but loses the decider 10-21 to Indonesia's Alwi Farhan in round one.",
       "src": [
         {
-          "t": "Google – Ayush Shetty vs Alwi Farhan live score",
-          "u": "https://www.google.com/search?q=Ayush+Shetty+vs+Alwi+Farhan+score"
+          "t": "Google – Ayush Shetty v Alwi Farhan, Denmark Open (final result)",
+          "u": "https://www.google.com/search?q=Ayush+Shetty+Alwi+Farhan+Denmark+Open"
+        },
+        {
+          "t": "Flashscore – Alwi Farhan v Ayush Shetty",
+          "u": "https://www.flashscore.in/"
         },
         {
           "t": "Sportstar – Ayush Shetty v Alwi Farhan: when and where to watch",
@@ -1828,8 +1840,10 @@
       "watch": [
         "FanCode"
       ],
-      "status": "2nd game",
-      "scoreAt": "2026-10-14T15:05:00+05:30"
+      "win": "b",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T15:36:00+05:30"
     }
   ],
   "competitions": [
@@ -2168,16 +2182,30 @@
   ],
   "feed": [
     {
-      "t": "15:05",
+      "t": "15:34",
       "tag": "LIVE",
       "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Bengal 32/0 after 7 overs chasing 89 v Delhi at Kalyani — 57 to win; Andhra 48/3 chasing 194 v Karnataka.",
+      "match": "ranji-r1-ben-del",
+      "src": [
+        {
+          "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
+          "u": "https://www.espncricinfo.com/live-cricket-score"
+        }
+      ]
+    },
+    {
+      "t": "15:20",
+      "tag": "LOSS",
+      "c": "var(--accent)",
       "m": "Badminton",
-      "text": "Denmark Open: Ayush Shetty fights back after losing the first game 11-21 to Alwi Farhan — leads the second 17-12.",
+      "text": "Denmark Open: Ayush Shetty loses 11-21 21-13 10-21 to Alwi Farhan in round one — Indonesia's player runs away with the decider.",
       "match": "den-ayush-farhan",
       "src": [
         {
-          "t": "Google – Ayush Shetty vs Alwi Farhan live score",
-          "u": "https://www.google.com/search?q=Ayush+Shetty+vs+Alwi+Farhan+score"
+          "t": "Google – Ayush Shetty v Alwi Farhan, Denmark Open (final result)",
+          "u": "https://www.google.com/search?q=Ayush+Shetty+Alwi+Farhan+Denmark+Open"
         }
       ]
     },
@@ -2323,19 +2351,6 @@
         {
           "t": "IndiaSportsHub – Denmark Open draw change",
           "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
-        }
-      ]
-    },
-    {
-      "t": "12 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Shooting",
-      "text": "ISSF World Cup Cairo: Czechia's Jiri Privratsky wins the men's 10m air rifle final; Arjun Babuta finished 18th in qualification (630.0). Women's 50m rifle 3P final today at 15:30 IST.",
-      "src": [
-        {
-          "t": "ISSF – Privratsky comes out on top in a nail-biting final",
-          "u": "https://www.issf-sports.org/news"
         }
       ]
     }
