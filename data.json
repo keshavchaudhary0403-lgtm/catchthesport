@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T14:06:00+05:30",
-  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Ranji final day · Satwik-Chirag open at Denmark Open",
+  "lastUpdated": "2026-10-14T15:06:18+05:30",
+  "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Ranji final session · Satwik-Chirag 4:40 pm",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
@@ -18,12 +18,20 @@
       "b": [
         "DEL",
         "Delhi",
-        "240 & 199/5"
+        "240 & 277"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 429 (Abhishek Porel 149); Delhi 240 (followed on; Shami 4/30), then 199/5 in the second innings on day 4 — a 10-run lead.",
+      "note": "Bengal 429 (Abhishek Porel 149); Delhi 240 (followed on; Shami 4/30) and 277 all out in 106.2 overs in the second innings — Bengal need 89 in the final session.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 4 live: Bengal need 89 to win",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
+        },
+        {
+          "t": "Google – Ranji Trophy Bengal vs Delhi day 4",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+Bengal+vs+Delhi+day+4"
+        },
         {
           "t": "Dainik Jagran English – Ranji Trophy Day 4 live updates",
           "u": "https://english.dainikjagranmpcg.com/sports/ranji-trophy-day-4-live-updates-and-latest-scores/article-38540"
@@ -69,8 +77,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D4 · DEL lead by 10 · 5 down",
-      "scoreAt": "2026-10-14T14:06:00+05:30"
+      "status": "D4 tea · BEN need 89 to win",
+      "scoreAt": "2026-10-14T14:26:00+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -149,17 +157,25 @@
       "a": [
         "AND",
         "Andhra",
-        "418"
+        "418 & 40/2"
       ],
       "b": [
         "KAR",
         "Karnataka",
-        "274 & 176/4"
+        "274 & 337/9d"
       ],
       "when": "2026-10-11T09:30:00+05:30",
       "venue": "ACA Ground, Mulapadu (Vijayawada)",
-      "note": "Andhra 418 enforced the follow-on after Karnataka made 274; Karun Nair unbeaten and KL Rahul out for 1 in the second innings.",
+      "note": "Karun Nair's unbeaten 155 helped Karnataka (following on) reach 337/9 declared, setting Andhra 194 to win in about 45 overs; Andhra lost two early wickets including Shaik Rasheed.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 4 live: Karnataka declare, Karun 155*",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
+        },
+        {
+          "t": "Google – Ranji Trophy Andhra vs Karnataka day 4 live (BCCI: Andhra need 154, 8 wkts left)",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+Andhra+vs+Karnataka+day+4+live"
+        },
         {
           "t": "Google – Andhra vs Karnataka Ranji Trophy score",
           "u": "https://www.google.com/search?q=Andhra+vs+Karnataka+Ranji+Trophy+score"
@@ -201,8 +217,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D3 stumps · KAR lead by 32 · D4 on",
-      "scoreAt": "2026-10-13T19:11:24+05:30"
+      "status": "D4 · AND need 154 · 8 wkts left",
+      "scoreAt": "2026-10-14T15:00:00+05:30"
     },
     {
       "id": "issf-cai-m10ap",
@@ -1566,12 +1582,16 @@
         "He Ji Ting/Ren Xiang Yu",
         ""
       ],
-      "when": "2026-10-14",
+      "when": "2026-10-14T16:40:00+05:30",
       "india": true,
       "big": false,
-      "venue": "Odense, Denmark",
-      "note": "Fifth seeds Satwiksairaj Rankireddy/Chirag Shetty face China's He Ji Ting/Ren Xiang Yu in round one on Wed 14 Oct (time TBC). FanCode stream, no TV telecast in India.",
+      "venue": "SJF Bank Arena, Court 1, Odense",
+      "note": "Fifth seeds Satwik/Chirag face China's He Ji Ting/Ren Xiang Yu in round one at about 4:40 pm IST on Court 1; they have won all three previous meetings, most recently the 2026 China Masters final. FanCode and BWF TV stream.",
       "src": [
+        {
+          "t": "Sportstar – Satwik-Chirag v He-Ren: when and where to watch",
+          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-vs-he-ren-live-streaming-denmark-open-2026/article71582621.ece"
+        },
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
           "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
@@ -1774,24 +1794,32 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Men's singles · R32",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "Ayush Shetty",
-        "",
+        "11 17",
         "#E4572E"
       ],
       "b": [
         "INA",
         "Alwi Farhan",
-        ""
+        "21 12"
       ],
       "when": "2026-10-14T14:10:00+05:30",
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Court 1, Odense",
-      "note": "Ayush Shetty meets Indonesia's Alwi Farhan in round one; start time about 2:10 pm IST (estimate, order of play may change). FanCode stream.",
+      "note": "Ayush Shetty lost the first game 11-21 to Indonesia's Alwi Farhan and leads the second 17-12 on Court 1 in Odense.",
       "src": [
+        {
+          "t": "Google – Ayush Shetty vs Alwi Farhan live score",
+          "u": "https://www.google.com/search?q=Ayush+Shetty+vs+Alwi+Farhan+score"
+        },
+        {
+          "t": "Sportstar – Ayush Shetty v Alwi Farhan: when and where to watch",
+          "u": "https://sportstar.thehindu.com/badminton/"
+        },
         {
           "t": "Sunday Guardian – Ayush Shetty v Alwi Farhan: when and where to watch",
           "u": "https://sundayguardianlive.com/sports/ayush-shetty-vs-alwi-farhan-live-streaming-when-and-where-to-watch-denmark-open-badminton-2026-in-india-305404/"
@@ -1799,7 +1827,9 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "status": "2nd game",
+      "scoreAt": "2026-10-14T15:05:00+05:30"
     }
   ],
   "competitions": [
@@ -2138,7 +2168,49 @@
   ],
   "feed": [
     {
-      "t": "22:10",
+      "t": "15:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Denmark Open: Ayush Shetty fights back after losing the first game 11-21 to Alwi Farhan — leads the second 17-12.",
+      "match": "den-ayush-farhan",
+      "src": [
+        {
+          "t": "Google – Ayush Shetty vs Alwi Farhan live score",
+          "u": "https://www.google.com/search?q=Ayush+Shetty+vs+Alwi+Farhan+score"
+        }
+      ]
+    },
+    {
+      "t": "14:26",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Delhi all out for 277 in their follow-on at Kalyani — Bengal need 89 to win in the final session.",
+      "match": "ranji-r1-ben-del",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Day 4 live",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
+        }
+      ]
+    },
+    {
+      "t": "13:34",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Karun Nair's unbeaten 155 lets Karnataka declare on 337/9 after following on; Andhra chase 194.",
+      "match": "ranji-r1-and-kar",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Day 4 live",
+          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
+        }
+      ]
+    },
+    {
+      "t": "13 Oct",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Cricket",
@@ -2152,7 +2224,7 @@
       ]
     },
     {
-      "t": "22:06",
+      "t": "13 Oct",
       "tag": "LOSS",
       "c": "var(--live-text)",
       "m": "Football",
@@ -2160,7 +2232,7 @@
       "match": "acl2-eb-shorta"
     },
     {
-      "t": "22:06",
+      "t": "13 Oct",
       "tag": "LOSS",
       "c": "var(--live-text)",
       "m": "Badminton",
@@ -2174,7 +2246,7 @@
       ]
     },
     {
-      "t": "22:06",
+      "t": "13 Oct",
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Badminton",
@@ -2182,7 +2254,7 @@
       "match": "den-srikanth-merkle"
     },
     {
-      "t": "21:15",
+      "t": "13 Oct",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Football",
@@ -2190,7 +2262,7 @@
       "match": "acl2-eb-shorta"
     },
     {
-      "t": "20:05",
+      "t": "13 Oct",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Football",
@@ -2198,7 +2270,7 @@
       "match": "acl2-eb-shorta"
     },
     {
-      "t": "19:11",
+      "t": "13 Oct",
       "tag": "LOSS",
       "c": "var(--live-text)",
       "m": "Badminton",
@@ -2206,7 +2278,7 @@
       "match": "den-lakshya-chou"
     },
     {
-      "t": "19:11",
+      "t": "13 Oct",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
@@ -2214,7 +2286,7 @@
       "match": "ranji-r1-ben-del"
     },
     {
-      "t": "15:30",
+      "t": "13 Oct",
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Cricket",
@@ -2228,7 +2300,7 @@
       ]
     },
     {
-      "t": "14:30",
+      "t": "13 Oct",
       "tag": "OUT",
       "c": "var(--accent)",
       "m": "Shooting",
@@ -2241,7 +2313,7 @@
       ]
     },
     {
-      "t": "13:00",
+      "t": "13 Oct",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Badminton",
@@ -2264,48 +2336,6 @@
         {
           "t": "ISSF – Privratsky comes out on top in a nail-biting final",
           "u": "https://www.issf-sports.org/news"
-        }
-      ]
-    },
-    {
-      "t": "22:05",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "ISL",
-      "text": "NorthEast United 1–0 Mohun Bagan: sub Jithin's 92nd-minute counterattack goal wins the Guwahati opener.",
-      "match": "isl-neu-mbsg",
-      "src": [
-        {
-          "t": "The Newsmill – Jithin's late strike helps NorthEast United stun Mohun Bagan",
-          "u": "https://thenewsmill.com/2026/10/jithins-late-strike-helps-northeast-united-stun-mohun-bagan-in-guwahati/"
-        }
-      ]
-    },
-    {
-      "t": "19:49",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Ranji Trophy",
-      "text": "Day 2 stumps: Mumbai bowl Chandigarh out for 78 (Deshpande 5/17) after 429 and enforce the follow-on; Bengal 304/3 lead Delhi by 64; Andhra 331/6 lead Karnataka by 57.",
-      "src": [
-        {
-          "t": "IANS – Ranji Trophy Day 2 round-up",
-          "u": "https://ianslive.in/ranji-trophy-deshpandes-hat-trick-wrecks-chandigarh-jadeja-slams-century-for-saurashtra--20261012194939"
-        }
-      ],
-      "match": "ranji-r1-mum-chd"
-    },
-    {
-      "t": "23:05",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-3",
-      "text": "India beat West Indies by 14 runs in Indore (223 v 209/7) to lead the T20I series 2–1 — Abhishek Sharma 69 off 30, Arshdeep Singh 3/44.",
-      "src": [
-        {
-          "t": "Tribune India – Abhishek, Arshdeep shine as India secure 14-run win",
-          "u": "https://www.tribuneindia.com/news/sports/ind-vs-wi-3rd-t20i-abhishek-arshdeep-shine-as-india-secure-14-run-win"
         }
       ]
     }
