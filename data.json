@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T08:05:01+05:30",
+  "lastUpdated": "2026-10-14T13:06:06+05:30",
   "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Ranji final day · Satwik-Chirag open at Denmark Open",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -65,7 +65,7 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 stumps · DEL trail by 88",
+      "status": "D3 stumps · DEL trail by 88 · D4 on",
       "scoreAt": "2026-10-13T19:11:24+05:30"
     },
     {
@@ -197,7 +197,7 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "Day 3 stumps · KAR lead by 32",
+      "status": "D3 stumps · KAR lead by 32 · D4 on",
       "scoreAt": "2026-10-13T19:11:24+05:30"
     },
     {
@@ -1669,6 +1669,96 @@
           "u": "https://www.indiasportshub.com/articles/denmark-open-2026-lakshya-sen-falls-to-chou-tien-chen-pv-sindhu-suffers-shock-defeat-tanvi-sharma-and-kidambi-srikanth-advance"
         }
       ]
+    },
+    {
+      "id": "indw-zimw-odi-1",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "1st ODI",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-23T19:00:00+05:30",
+      "india": true,
+      "venue": "Kotambi Stadium, Vadodara",
+      "src": [
+        {
+          "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
+          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "indw-zimw-odi-2",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "2nd ODI",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-25T19:00:00+05:30",
+      "india": true,
+      "venue": "Kotambi Stadium, Vadodara",
+      "src": [
+        {
+          "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
+          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "indw-zimw-odi-3",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "3rd ODI",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        ""
+      ],
+      "when": "2026-10-28T19:00:00+05:30",
+      "india": true,
+      "venue": "Kotambi Stadium, Vadodara",
+      "src": [
+        {
+          "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
+          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
     }
   ],
   "competitions": [
@@ -2219,6 +2309,14 @@
       "meta": "Cricket",
       "time": "19:00",
       "match": "indw-zimw-t20-3"
+    },
+    {
+      "d": "23",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 1st ODI",
+      "meta": "Cricket · Vadodara",
+      "time": "19:00",
+      "match": "indw-zimw-odi-1"
     },
     {
       "d": "22",
