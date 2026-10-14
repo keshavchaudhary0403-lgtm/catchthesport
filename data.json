@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:10:27+05:30",
+  "lastUpdated": "2026-10-14T20:36:03+05:30",
   "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · ISL: Punjab v Odisha live · Satwik-Chirag out in Odense",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -836,14 +836,14 @@
       "b": [
         "WI",
         "West Indies",
-        "114/2 (9.1)",
+        "218/3 (17.5)",
         "#7B1E3A"
       ],
       "when": "2026-10-14T19:00:00+05:30",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
         {
-          "t": "Google – India vs West Indies 4th T20I live (WI 114/2, 9.1 ov)",
+          "t": "Google – India vs West Indies 4th T20I live (WI 218/3, 17.5 ov)",
           "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
         },
         {
@@ -871,9 +871,9 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India won the toss and bowled first in Hyderabad; India lead the 5-match series 2–1. West Indies scored 79 in the powerplay (Jewel Andrew lbw for 21); Prince Yadav dismissed Hetmyer.",
+      "note": "India won the toss and bowled first in Hyderabad; India lead the 5-match series 2–1. West Indies scored 79 in the powerplay; Shai Hope and Sherfane Rutherford pushed them past 200 in the 17th over.",
       "status": "WI batting · 1st innings",
-      "scoreAt": "2026-10-14T19:50:23+05:30"
+      "scoreAt": "2026-10-14T20:36:03+05:30"
     },
     {
       "id": "isl-pun-odi",
@@ -897,8 +897,8 @@
       "when": "2026-10-14T19:30:00+05:30",
       "src": [
         {
-          "t": "Google – Punjab FC vs Odisha FC live (1–1)",
-          "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC+ISL"
+          "t": "Google – Punjab FC vs Odisha FC live (1–1, 2nd half)",
+          "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC"
         },
         {
           "t": "ISL – Punjab FC v Odisha FC match centre",
@@ -922,8 +922,8 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "18' · 1st half",
-      "scoreAt": "2026-10-14T19:50:23+05:30",
+      "status": "2nd half",
+      "scoreAt": "2026-10-14T20:36:03+05:30",
       "note": "Raphaël Messi Bouli put Punjab ahead inside the first minute; Thoiba Singh Moirangthem equalised for Odisha on 15'. Final fixture of ISL gameweek 1."
     },
     {
@@ -1057,9 +1057,13 @@
         "",
         "#B91C1C"
       ],
-      "when": "2026-10-17",
-      "note": "Kick-off time and venue not yet confirmed — listings disagree.",
+      "when": "2026-10-17T18:55:00+05:30",
+      "note": "FC Goa's first AFC Challenge League group match; the club lists kick-off at 6:55 pm IST.",
       "src": [
+        {
+          "t": "FC Goa – AFC Challenge League fixtures (17 Oct v Regar-TadAZ, 20 Oct v Fortis, 6:55 pm IST)",
+          "u": "https://www.google.com/search?q=FC+Goa+AFC+Challenge+League+2026-27+fixtures+Fortis+Regar-TadAZ+6:55+PM"
+        },
         {
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
@@ -1492,14 +1496,19 @@
         "",
         "#444444"
       ],
-      "when": "2026-10-20",
+      "when": "2026-10-20T18:55:00+05:30",
       "india": true,
       "src": [
+        {
+          "t": "FC Goa – AFC Challenge League fixtures (17 Oct v Regar-TadAZ, 20 Oct v Fortis, 6:55 pm IST)",
+          "u": "https://www.google.com/search?q=FC+Goa+AFC+Challenge+League+2026-27+fixtures+Fortis+Regar-TadAZ+6:55+PM"
+        },
         {
           "t": "Khel Now – Indian football calendar October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
-      ]
+      ],
+      "note": "FC Goa's second AFC Challenge League group match; the club lists kick-off at 6:55 pm IST."
     },
     {
       "id": "den-sindhu-an",
@@ -1890,14 +1899,14 @@
         "Yan Fei Chen/Hsieh Pei Shan",
         ""
       ],
-      "when": "2026-10-14T21:20:00+05:30",
+      "when": "2026-10-14T21:30:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan in round one; Google lists the match at about 9:20 pm IST.",
+      "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan in round one; Google lists the match at about 9:30 pm IST.",
       "src": [
         {
-          "t": "Google – Treesa Jolly / Gayatri Gopichand, Denmark Open R32 9:20 pm IST",
-          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open+2026"
+          "t": "Google – Treesa Jolly / Gayatri Gopichand, Denmark Open R32 9:30 pm IST",
+          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open"
         },
         {
           "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
@@ -1906,6 +1915,40 @@
         {
           "t": "ESPN India – Indian Sports LIVE, October 14 (Treesa-Gayatri in action)",
           "u": "https://www.espn.in/espn/story/_/id/50174743/indians-action-bwf-denmark-open-badminton-archery-pl-tt-nationals-cairo-shooting-world-cup-punjab-odisha-isl-indian-sports-live-october-14"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ]
+    },
+    {
+      "id": "den-panda-bao-cao",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's doubles · R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Rutaparna Panda/Swetaparna Panda",
+        ""
+      ],
+      "b": [
+        "CHN",
+        "Bao Li Jing/Cao Zi Han (6)",
+        ""
+      ],
+      "when": "2026-10-14T22:20:00+05:30",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "note": "The Panda sisters face sixth seeds Bao Li Jing and Cao Zi Han of China in round one; Google lists the match at about 10:20 pm IST.",
+      "src": [
+        {
+          "t": "Google – Rutaparna / Swetaparna Panda, Denmark Open R32 10:20 pm IST",
+          "u": "https://www.google.com/search?q=Rutaparna+Swetaparna+Panda+Denmark+Open+2026"
+        },
+        {
+          "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
+          "u": "https://sportstar.thehindu.com/badminton/denmark-open-indians-in-action-draw-matches-where-to-watch-live-streaming/article71573906.ece"
         }
       ],
       "watch": [
@@ -2285,6 +2328,22 @@
   ],
   "feed": [
     {
+      "t": "20:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "match": "ind-wi-t20-4",
+      "text": "India v West Indies, 4th T20I: West Indies 218/3 after 17.5 overs in Hyderabad — Shai Hope and Sherfane Rutherford take the hosts' bowlers apart at the death."
+    },
+    {
+      "t": "20:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "match": "isl-pun-odi",
+      "text": "ISL: Punjab FC and Odisha FC level 1–1 at half-time in Delhi; second half under way."
+    },
+    {
       "t": "20:05",
       "tag": "LOSS",
       "c": "var(--accent)",
@@ -2439,28 +2498,6 @@
       "m": "Football",
       "text": "ACL Two: East Bengal lose 2–3 to Al-Shorta in Kolkata — Lalhlansanga's brace not enough.",
       "match": "acl2-eb-shorta"
-    },
-    {
-      "t": "13 Oct",
-      "tag": "LOSS",
-      "c": "var(--live-text)",
-      "m": "Badminton",
-      "text": "Denmark Open: PV Sindhu loses 21-13 23-25 19-21 to Germany's Yvonne Li in round one after leading 19-15 in the decider.",
-      "match": "den-sindhu-an",
-      "src": [
-        {
-          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
-          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
-        }
-      ]
-    },
-    {
-      "t": "13 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Denmark Open: Kidambi Srikanth beats Arnaud Merkle 22-20 21-19 and Tanvi Sharma edges Natsuki Nidaira 21-17 16-21 21-19 to reach the round of 16.",
-      "match": "den-srikanth-merkle"
     }
   ],
   "schedule": [
@@ -2505,20 +2542,20 @@
       "match": "indw-zimw-t20-3"
     },
     {
-      "d": "23",
-      "mo": "OCT",
-      "title": "India Women v Zimbabwe, 1st ODI",
-      "meta": "Cricket · Vadodara",
-      "time": "19:00",
-      "match": "indw-zimw-odi-1"
-    },
-    {
       "d": "22",
       "mo": "OCT",
       "title": "New Zealand v India, 1st T20I",
       "meta": "Cricket · Christchurch",
       "time": "12:30",
       "match": "nz-ind-t20-1"
+    },
+    {
+      "d": "23",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 1st ODI",
+      "meta": "Cricket · Vadodara",
+      "time": "19:00",
+      "match": "indw-zimw-odi-1"
     },
     {
       "d": "24",
