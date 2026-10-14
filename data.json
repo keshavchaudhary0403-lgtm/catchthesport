@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-14T23:05:03+05:30",
-  "dayLabel": "Wed 14 Oct · India 212/8 chasing 248 v WI in 4th T20I · ISL: Punjab beat Odisha 2–1 · Indian WD pairs in Odense at 11:10 pm",
-  "featured": "ind-wi-t20-4",
+  "lastUpdated": "2026-10-14T23:36:08+05:30",
+  "dayLabel": "Wed 14 Oct · West Indies beat India by 24 runs to level T20I series 2–2 · Decider Sat in Bengaluru · Indian WD pairs in action in Odense",
+  "featured": "ind-wi-t20-5",
   "matches": [
     {
       "id": "ranji-r1-ben-del",
@@ -613,7 +613,7 @@
     },
     {
       "id": "ind-wi-t20-4",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -621,7 +621,7 @@
       "a": [
         "IND",
         "India",
-        "212/8 (18.3)"
+        "223 (19.3)"
       ],
       "b": [
         "WI",
@@ -633,6 +633,10 @@
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
         {
+          "t": "UNI – Hope century, Paul five-for give WI 24-run win",
+          "u": "https://www.uniindia.com/sports/sports-foruth-t20i-windies-victorious/214203"
+        },
+        {
           "t": "Outlook India – 4th T20I live",
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-4th-t20i-live-score-hyderabad-latest-updates"
         }
@@ -641,9 +645,11 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "Chasing 248: Sanju Samson made 56 off 23 before Keemo Paul removed him and Ishan Kishan in the same over; Gudakesh Motie then removed Abhishek Sharma and Naman Dhir, Keemo Paul then took a five-wicket haul, including Nitish Kumar Reddy (41 off 20) and a golden duck for Prince Yadav; Axar Patel and Arshdeep Singh were left to bat. Earlier Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took WI to 247/3.",
-      "status": "India need 36 off 9",
-      "scoreAt": "2026-10-14T22:54:00+05:30"
+      "note": "West Indies won by 24 runs to level the series 2–2. Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took WI to 247/3; Sanju Samson 56 (23) led India's chase but Keemo Paul's 5/41 bowled India out for 223 (Arshdeep Singh retired hurt). Decider in Bengaluru on 17 Oct.",
+      "win": "b",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T23:36:08+05:30"
     },
     {
       "id": "isl-pun-odi",
@@ -927,7 +933,9 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "big": true,
+      "note": "Series decider — level at 2–2 after West Indies won the 4th T20I in Hyderabad."
     },
     {
       "id": "isl-bfc-che",
@@ -1976,7 +1984,7 @@
       "status": "Live series · till 17 Oct",
       "live": true,
       "india": true,
-      "note": "India lead the five-match T20I series 2–1 after a 14-run win in Indore; 4th T20I live in Hyderabad (WI 247/3), 5th in Bengaluru on 17 Oct.",
+      "note": "Five-match T20I series level 2–2 after West Indies won the 4th T20I in Hyderabad by 24 runs; decider at the M. Chinnaswamy Stadium, Bengaluru on 17 Oct.",
       "id": "ind-wi",
       "src": [
         {
@@ -2231,40 +2239,18 @@
   ],
   "feed": [
     {
-      "t": "22:54",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "22:59",
+      "tag": "LOSS",
+      "c": "var(--accent)",
       "m": "Cricket",
       "match": "ind-wi-t20-4",
-      "text": "India v West Indies, 4th T20I: India 212/8 after 18.3 overs chasing 248 — Keemo Paul takes a fifer and West Indies close in on victory. Final result not yet confirmed.",
+      "text": "India lose the 4th T20I to West Indies by 24 runs in Hyderabad — bowled out for 223 chasing 248 as Keemo Paul takes 5/41 after Shai Hope's 102*. Series level 2–2; decider in Bengaluru on Saturday.",
       "src": [
         {
-          "t": "Outlook India – 4th T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-4th-t20i-live-score-hyderabad-latest-updates"
+          "t": "UNI – Hope century, Paul five-for give WI 24-run win",
+          "u": "https://www.uniindia.com/sports/sports-foruth-t20i-windies-victorious/214203"
         }
       ]
-    },
-    {
-      "t": "22:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-4",
-      "text": "India v West Indies, 4th T20I: India 183/5 after 15.5 overs chasing 248 — need 65 off 25 balls. Gudakesh Motie removed Abhishek Sharma and Naman Dhir; Tilak Varma and Nitish Kumar Reddy at the crease.",
-      "src": [
-        {
-          "t": "Google – India vs West Indies 4th T20I live",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
-        }
-      ]
-    },
-    {
-      "t": "21:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-4",
-      "text": "India v West Indies, 4th T20I: India 80/2 after 6 overs chasing 248 in Hyderabad — Sanju Samson blasted 56 off 23 before Keemo Paul removed him and Ishan Kishan in one over; 168 needed off 84."
     },
     {
       "t": "15:13",
@@ -2292,22 +2278,6 @@
       "text": "ISL: Punjab FC beat Odisha FC 2–1 in Delhi — Raphaël Messi Bouli scored in the 1st minute and the winner in the 96th; Thoiba Singh had equalised on 15'."
     },
     {
-      "t": "21:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India v West Indies, 4th T20I: West Indies finish on 247/3 in Hyderabad — Shai Hope 102* off 50 balls, Sherfane Rutherford 49* off 26; India need 248.",
-      "match": "ind-wi-t20-4"
-    },
-    {
-      "t": "20:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-4",
-      "text": "India v West Indies, 4th T20I: West Indies 218/3 after 17.5 overs in Hyderabad — Shai Hope and Sherfane Rutherford take the hosts' bowlers apart at the death."
-    },
-    {
       "t": "20:05",
       "tag": "LOSS",
       "c": "var(--accent)",
@@ -2316,38 +2286,12 @@
       "match": "den-unnati-han"
     },
     {
-      "t": "19:50",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-4",
-      "text": "India v West Indies, 4th T20I: West Indies 114/2 after 9.1 overs in Hyderabad — 79 in the powerplay; Prince Yadav removes Hetmyer."
-    },
-    {
       "t": "17:45",
       "tag": "LOSS",
       "c": "var(--accent)",
       "m": "Badminton",
       "match": "den-satwik-chirag",
       "text": "Denmark Open: Satwik-Chirag lose 21-12 15-21 19-21 to China's He Ji Ting/Ren Xiang Yu in round one — their first defeat to the pair."
-    },
-    {
-      "t": "19:07",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India v West Indies, 4th T20I: Shreyas Iyer wins the toss and India bowl first in Hyderabad; India lead the series 2–1.",
-      "match": "ind-wi-t20-4",
-      "src": [
-        {
-          "t": "UNI – Fourth T20I toss: India elect to field in Hyderabad",
-          "u": "https://www.uniindia.com/sports/sports-fourth-t20i-toss-india-versus-wi/213788"
-        },
-        {
-          "t": "Daily Jagran – Iyer opts to bowl; playing XIs",
-          "u": "https://www.thedailyjagran.com/cricket/news/shreyas-iyer-opt-to-bowl-against-west-indies-in-4th-t20i-check-playing-xis-live-score-10332731"
-        }
-      ]
     },
     {
       "t": "19:07",
@@ -2408,14 +2352,6 @@
   ],
   "schedule": [
     {
-      "d": "14",
-      "mo": "OCT",
-      "title": "India v West Indies, 4th T20I",
-      "meta": "Cricket · Hyderabad",
-      "time": "19:00",
-      "match": "ind-wi-t20-4"
-    },
-    {
       "d": "16",
       "mo": "OCT",
       "title": "India Women v Zimbabwe, 1st T20I",
@@ -2426,7 +2362,7 @@
     {
       "d": "17",
       "mo": "OCT",
-      "title": "India v West Indies, 5th T20I",
+      "title": "India v West Indies, 5th T20I (decider)",
       "meta": "Cricket · Bengaluru",
       "time": "19:00",
       "match": "ind-wi-t20-5"
