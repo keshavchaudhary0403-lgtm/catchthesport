@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-14T19:07:05+05:30",
-  "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · Ranji Round 1 done · Satwik-Chirag in Odense",
+  "lastUpdated": "2026-10-14T19:50:23+05:30",
+  "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · ISL: Punjab v Odisha live · Satwik-Chirag out in Odense",
   "featured": "ind-wi-t20-4",
   "matches": [
     {
@@ -823,7 +823,7 @@
     },
     {
       "id": "ind-wi-t20-4",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -831,17 +831,29 @@
       "a": [
         "IND",
         "India",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "WI",
         "West Indies",
-        "",
+        "114/2 (9.1)",
         "#7B1E3A"
       ],
       "when": "2026-10-14T19:00:00+05:30",
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
+        {
+          "t": "Google – India vs West Indies 4th T20I live (WI 114/2, 9.1 ov)",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+4th+T20I+live+score"
+        },
+        {
+          "t": "Indian Express – IND v WI 4th T20I live: Prince Yadav sends back Hetmyer",
+          "u": "https://indianexpress.com/section/sports/cricket/"
+        },
+        {
+          "t": "Outlook India – WI smash 79 in powerplay despite losing Andrew",
+          "u": "https://www.outlookindia.com/sports/cricket"
+        },
         {
           "t": "UNI – Fourth T20I toss: India elect to field in Hyderabad",
           "u": "https://www.uniindia.com/sports/sports-fourth-t20i-toss-india-versus-wi/213788"
@@ -853,47 +865,45 @@
         {
           "t": "Business Standard – India v West Indies 4th T20I: playing XI, toss time, streaming",
           "u": "https://www.business-standard.com/amp/cricket/news/india-vs-west-indies-4th-t20i-playing-11-live-toss-time-ist-streaming-126101300687_1.html"
-        },
-        {
-          "t": "Spike Today – IND v WI T20I schedule",
-          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
-        },
-        {
-          "t": "CricInnings – IND v WI 2026 schedule",
-          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
       "watch": [
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India won the toss and chose to bowl first; India lead the 5-match series 2–1. Play started 7:00 pm IST. Live score not yet confirmed."
+      "note": "India won the toss and bowled first in Hyderabad; India lead the 5-match series 2–1. West Indies scored 79 in the powerplay (Jewel Andrew lbw for 21); Prince Yadav dismissed Hetmyer.",
+      "status": "WI batting · 1st innings",
+      "scoreAt": "2026-10-14T19:50:23+05:30"
     },
     {
       "id": "isl-pun-odi",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
-      "round": "Matchweek 2",
+      "round": "Matchweek 1",
       "a": [
         "PFC",
         "Punjab FC",
-        "",
+        "1",
         "#DC2626"
       ],
       "b": [
         "ODI",
         "Odisha FC",
-        "",
+        "1",
         "#7C3AED"
       ],
       "when": "2026-10-14T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google – Punjab FC vs Odisha FC live (1–1)",
+          "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC+ISL"
+        },
+        {
+          "t": "ISL – Punjab FC v Odisha FC match centre",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
@@ -911,7 +921,10 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "status": "18' · 1st half",
+      "scoreAt": "2026-10-14T19:50:23+05:30",
+      "note": "Raphaël Messi Bouli put Punjab ahead inside the first minute; Thoiba Singh Moirangthem equalised for Odisha on 15'. Final fixture of ISL gameweek 1."
     },
     {
       "id": "issf-cai-m3p",
@@ -1577,24 +1590,36 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Men's doubles · R32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Satwik/Chirag (5)",
-        "",
+        "21-12 15-21 19-21",
         "#E4572E"
       ],
       "b": [
         "CHN",
         "He Ji Ting/Ren Xiang Yu",
-        ""
+        "12-21 21-15 21-19"
       ],
       "when": "2026-10-14T16:40:00+05:30",
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Court 1, Odense",
-      "note": "Fifth seeds Satwik/Chirag face China's He Ji Ting/Ren Xiang Yu in round one at about 4:40 pm IST on Court 1; they have won all three previous meetings, most recently the 2026 China Masters final. FanCode and BWF TV stream.",
+      "note": "Fifth seeds Satwik/Chirag lose their opener after taking the first game 21-12 — China's He Ji Ting/Ren Xiang Yu win 12-21 21-15 21-19 for their first win over the Indians in four meetings.",
       "src": [
+        {
+          "t": "Badmintoncn (中羽在线) – He/Ren beat Rankireddy/Shetty 12-21 21-15 21-19",
+          "u": "https://www.badmintoncn.com/"
+        },
+        {
+          "t": "Google – 丹麦公开赛 何济霆 任翔宇 兰基雷迪 (163.com, Sohu reports)",
+          "u": "https://www.google.com/search?q=%E4%B8%B9%E9%BA%A6%E5%85%AC%E5%BC%80%E8%B5%9B+%E4%BD%95%E6%B5%8E%E9%9C%86+%E4%BB%BB%E7%BF%94%E5%AE%87+%E5%85%B0%E5%9F%BA%E9%9B%B7%E8%BF%AA"
+        },
+        {
+          "t": "Olympics.com – Denmark Open 2026: Satwik-Chirag, Ayush Shetty crash out in first round",
+          "u": "https://www.olympics.com/en/news"
+        },
         {
           "t": "Sportstar – Satwik-Chirag v He-Ren: when and where to watch",
           "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-vs-he-ren-live-streaming-denmark-open-2026/article71582621.ece"
@@ -1626,7 +1651,11 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "win": "b",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T19:50:23+05:30"
     },
     {
       "id": "den-srikanth-merkle",
@@ -1861,11 +1890,15 @@
         "Yan Fei Chen/Hsieh Pei Shan",
         ""
       ],
-      "when": "2026-10-14",
+      "when": "2026-10-14T21:20:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan; exact court time not confirmed.",
+      "note": "World Championships bronze medallists Treesa and Gayatri open against Chinese Taipei's Yan Fei Chen and Hsieh Pei Shan in round one; Google lists the match at about 9:20 pm IST.",
       "src": [
+        {
+          "t": "Google – Treesa Jolly / Gayatri Gopichand, Denmark Open R32 9:20 pm IST",
+          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open+2026"
+        },
         {
           "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
           "u": "https://sportstar.thehindu.com/badminton/denmark-open-indians-in-action-draw-matches-where-to-watch-live-streaming/article71573906.ece"
@@ -2216,6 +2249,30 @@
   ],
   "feed": [
     {
+      "t": "19:50",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "match": "ind-wi-t20-4",
+      "text": "India v West Indies, 4th T20I: West Indies 114/2 after 9.1 overs in Hyderabad — 79 in the powerplay; Prince Yadav removes Hetmyer."
+    },
+    {
+      "t": "19:50",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "match": "isl-pun-odi",
+      "text": "ISL: Punjab FC 1–1 Odisha FC in Delhi — Messi Bouli scored inside a minute, Thoiba Singh levelled on 15'."
+    },
+    {
+      "t": "17:45",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "match": "den-satwik-chirag",
+      "text": "Denmark Open: Satwik-Chirag lose 21-12 15-21 19-21 to China's He Ji Ting/Ren Xiang Yu in round one — their first defeat to the pair."
+    },
+    {
       "t": "19:07",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2368,30 +2425,6 @@
       "m": "Football",
       "text": "ACL Two: East Bengal 2–3 Al-Shorta at 90' in Kolkata — Al-Shorta hit back with Hussein Ali (51') and Kuku (53') after Lalhlansanga's brace.",
       "match": "acl2-eb-shorta"
-    },
-    {
-      "t": "13 Oct",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ACL Two: East Bengal lead Al-Shorta 2–1 at half-time in Kolkata — David Lalhlansanga scores twice (8', 40'); Ahmed Yahya equalised for the Iraqi side.",
-      "match": "acl2-eb-shorta"
-    },
-    {
-      "t": "13 Oct",
-      "tag": "LOSS",
-      "c": "var(--live-text)",
-      "m": "Badminton",
-      "text": "Denmark Open: Lakshya Sen loses 18-21 21-13 15-21 to third seed Chou Tien Chen in round one.",
-      "match": "den-lakshya-chou"
-    },
-    {
-      "t": "13 Oct",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Day 3 stumps: Bengal 429 v Delhi 240 & 101/3 (Delhi follow on); Karnataka 274 & 176/4 lead Andhra's 418 by 32.",
-      "match": "ranji-r1-ben-del"
     }
   ],
   "schedule": [
