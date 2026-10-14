@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T19:50:23+05:30",
+  "lastUpdated": "2026-10-14T20:10:27+05:30",
   "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · ISL: Punjab v Odisha live · Satwik-Chirag out in Odense",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -1911,6 +1911,42 @@
       "watch": [
         "FanCode"
       ]
+    },
+    {
+      "id": "den-unnati-han",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's singles · R32",
+      "st": "result",
+      "a": [
+        "IND",
+        "Unnati Hooda",
+        "21-23 21-16 16-21",
+        "#E4572E"
+      ],
+      "b": [
+        "CHN",
+        "Han Qian Xi",
+        "23-21 16-21 21-16"
+      ],
+      "when": "2026-10-14T15:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "SJF Bank Arena, Odense",
+      "note": "Unnati Hooda takes the second game 21-16 but loses the decider 16-21 to China's Han Qian Xi in round one.",
+      "src": [
+        {
+          "t": "Sunday Guardian – Denmark Open 2026 results",
+          "u": "https://sundayguardianlive.com/sports/badminton-bwf-denmark-open-2026-results-satwik-chirag-ayush-shetty-unnati-hooda-crash-out-in-first-round-305669/"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ],
+      "win": "b",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-14T20:10:27+05:30"
     }
   ],
   "competitions": [
@@ -2249,6 +2285,14 @@
   ],
   "feed": [
     {
+      "t": "20:05",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open: Unnati Hooda loses 21-23 21-16 16-21 to China's Han Qian Xi in round one; Srikanth and Tanvi Sharma are into round two.",
+      "match": "den-unnati-han"
+    },
+    {
       "t": "19:50",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2417,14 +2461,6 @@
       "m": "Badminton",
       "text": "Denmark Open: Kidambi Srikanth beats Arnaud Merkle 22-20 21-19 and Tanvi Sharma edges Natsuki Nidaira 21-17 16-21 21-19 to reach the round of 16.",
       "match": "den-srikanth-merkle"
-    },
-    {
-      "t": "13 Oct",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ACL Two: East Bengal 2–3 Al-Shorta at 90' in Kolkata — Al-Shorta hit back with Hussein Ali (51') and Kuku (53') after Lalhlansanga's brace.",
-      "match": "acl2-eb-shorta"
     }
   ],
   "schedule": [
