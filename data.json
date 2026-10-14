@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T20:36:03+05:30",
+  "lastUpdated": "2026-10-14T21:05:23+05:30",
   "dayLabel": "Wed 14 Oct · India v WI 4th T20I live · ISL: Punjab v Odisha live · Satwik-Chirag out in Odense",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -831,12 +831,12 @@
       "a": [
         "IND",
         "India",
-        "Yet to bat"
+        "Target 248"
       ],
       "b": [
         "WI",
         "West Indies",
-        "218/3 (17.5)",
+        "247/3 (20)",
         "#7B1E3A"
       ],
       "when": "2026-10-14T19:00:00+05:30",
@@ -871,9 +871,9 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "India won the toss and bowled first in Hyderabad; India lead the 5-match series 2–1. West Indies scored 79 in the powerplay; Shai Hope and Sherfane Rutherford pushed them past 200 in the 17th over.",
-      "status": "WI batting · 1st innings",
-      "scoreAt": "2026-10-14T20:36:03+05:30"
+      "note": "Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took West Indies to 247/3 after India chose to field; Prince Yadav 1/36, Arshdeep Singh 1/52.",
+      "status": "Innings break · India chase 248",
+      "scoreAt": "2026-10-14T21:05:23+05:30"
     },
     {
       "id": "isl-pun-odi",
@@ -922,8 +922,8 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "2nd half",
-      "scoreAt": "2026-10-14T20:36:03+05:30",
+      "status": "75' · 1-1",
+      "scoreAt": "2026-10-14T21:05:23+05:30",
       "note": "Raphaël Messi Bouli put Punjab ahead inside the first minute; Thoiba Singh Moirangthem equalised for Odisha on 15'. Final fixture of ISL gameweek 1."
     },
     {
@@ -2328,6 +2328,22 @@
   ],
   "feed": [
     {
+      "t": "21:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India v West Indies, 4th T20I: West Indies finish on 247/3 in Hyderabad — Shai Hope 102* off 50 balls, Sherfane Rutherford 49* off 26; India need 248.",
+      "match": "ind-wi-t20-4"
+    },
+    {
+      "t": "21:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL: Punjab FC 1–1 Odisha FC in Delhi at 75'; Messi Bouli (1') and Thoiba Singh (20') scored.",
+      "match": "isl-pun-odi"
+    },
+    {
       "t": "20:36",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2476,28 +2492,6 @@
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
         }
       ]
-    },
-    {
-      "t": "13 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Sri Lanka beat Pakistan by 8 wickets in the 3rd T20I in Rawalpindi (172/2 in 17.1 overs chasing 168/8); Pakistan win the series 2–1.",
-      "match": "pak-sl-t20-3",
-      "src": [
-        {
-          "t": "Google – Pakistan vs Sri Lanka 3rd T20I result",
-          "u": "https://www.google.com/search?q=Pakistan+vs+Sri+Lanka+3rd+T20I+result"
-        }
-      ]
-    },
-    {
-      "t": "13 Oct",
-      "tag": "LOSS",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ACL Two: East Bengal lose 2–3 to Al-Shorta in Kolkata — Lalhlansanga's brace not enough.",
-      "match": "acl2-eb-shorta"
     }
   ],
   "schedule": [
