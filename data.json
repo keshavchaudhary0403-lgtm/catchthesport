@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T23:36:08+05:30",
+  "lastUpdated": "2026-10-15T01:04:39+05:30",
   "dayLabel": "Wed 14 Oct · West Indies beat India by 24 runs to level T20I series 2–2 · Decider Sat in Bengaluru · Indian WD pairs in action in Odense",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -1975,6 +1975,72 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
+    },
+    {
+      "id": "den-ashmita-nalb",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's singles · R32",
+      "st": "result",
+      "a": [
+        "IND",
+        "Ashmita Chaliha",
+        "21-18 22-20"
+      ],
+      "b": [
+        "BUL",
+        "Kaloyana Nalbantova",
+        "18-21 20-22"
+      ],
+      "when": "2026-10-14T14:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "SJF Bank Arena, Odense",
+      "note": "Ashmita Chaliha beat Bulgaria's Kaloyana Nalbantova in straight games to reach the round of 16.",
+      "src": [
+        {
+          "t": "Sports News Portal – Denmark Open Day 2",
+          "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ],
+      "win": "a",
+      "day": "14 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T01:04:39+05:30"
+    },
+    {
+      "id": "den-ashmita-yamaguchi",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's singles · R16",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Ashmita Chaliha",
+        ""
+      ],
+      "b": [
+        "JPN",
+        "Akane Yamaguchi (3)",
+        ""
+      ],
+      "when": "2026-10-15",
+      "india": true,
+      "big": false,
+      "venue": "SJF Bank Arena, Odense",
+      "note": "Chaliha faces World No. 3 Akane Yamaguchi in the round of 16; start time TBC.",
+      "src": [
+        {
+          "t": "Sports News Portal – Denmark Open Day 2",
+          "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
+        }
+      ],
+      "watch": [
+        "FanCode"
+      ]
     }
   ],
   "competitions": [
@@ -2238,6 +2304,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "14:30",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Denmark Open: Ashmita Chaliha beats Bulgaria's Kaloyana Nalbantova 21-18 22-20 to reach the last 16; she meets Japan's Akane Yamaguchi next.",
+      "match": "den-ashmita-nalb",
+      "src": [
+        {
+          "t": "Sports News Portal – Denmark Open Day 2",
+          "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
+        }
+      ]
+    },
     {
       "t": "22:59",
       "tag": "LOSS",
