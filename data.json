@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T13:06:06+05:30",
+  "lastUpdated": "2026-10-14T14:06:00+05:30",
   "dayLabel": "Wed 14 Oct · India v WI 4th T20I tonight · Ranji final day · Satwik-Chirag open at Denmark Open",
   "featured": "ind-wi-t20-4",
   "matches": [
@@ -18,12 +18,16 @@
       "b": [
         "DEL",
         "Delhi",
-        "240 & 101/3"
+        "240 & 199/5"
       ],
       "when": "2026-10-11T09:00:00+05:30",
       "venue": "Bengal Cricket Academy Ground, Kalyani",
-      "note": "Bengal 429 (Abhishek Porel 149); Mohammed Shami took 4/30 as Delhi were bowled out for 240 and followed on. Wisden's figures for Delhi's second innings differ slightly (86/3 in text, 101/3 in scorecard).",
+      "note": "Bengal 429 (Abhishek Porel 149); Delhi 240 (followed on; Shami 4/30), then 199/5 in the second innings on day 4 — a 10-run lead.",
       "src": [
+        {
+          "t": "Dainik Jagran English – Ranji Trophy Day 4 live updates",
+          "u": "https://english.dainikjagranmpcg.com/sports/ranji-trophy-day-4-live-updates-and-latest-scores/article-38540"
+        },
         {
           "t": "BCCI – Scorecard, Bengal v Delhi",
           "u": "https://www.bcci.tv/"
@@ -65,8 +69,8 @@
         "JioHotstar",
         "Star Sports Khel (select matches)"
       ],
-      "status": "D3 stumps · DEL trail by 88 · D4 on",
-      "scoreAt": "2026-10-13T19:11:24+05:30"
+      "status": "D4 · DEL lead by 10 · 5 down",
+      "scoreAt": "2026-10-14T14:06:00+05:30"
     },
     {
       "id": "ranji-r1-mum-chd",
@@ -824,6 +828,10 @@
       "venue": "Rajiv Gandhi International Stadium, Hyderabad",
       "src": [
         {
+          "t": "Business Standard – India v West Indies 4th T20I: playing XI, toss time, streaming",
+          "u": "https://www.business-standard.com/amp/cricket/news/india-vs-west-indies-4th-t20i-playing-11-live-toss-time-ist-streaming-126101300687_1.html"
+        },
+        {
           "t": "Spike Today – IND v WI T20I schedule",
           "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
         },
@@ -839,7 +847,8 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": "India lead the 5-match series 2–1. Toss 6:30 pm IST, start 7:00 pm."
     },
     {
       "id": "isl-pun-odi",
@@ -1758,6 +1767,38 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
+      ]
+    },
+    {
+      "id": "den-ayush-farhan",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Men's singles · R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Ayush Shetty",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "INA",
+        "Alwi Farhan",
+        ""
+      ],
+      "when": "2026-10-14T14:10:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "SJF Bank Arena, Court 1, Odense",
+      "note": "Ayush Shetty meets Indonesia's Alwi Farhan in round one; start time about 2:10 pm IST (estimate, order of play may change). FanCode stream.",
+      "src": [
+        {
+          "t": "Sunday Guardian – Ayush Shetty v Alwi Farhan: when and where to watch",
+          "u": "https://sundayguardianlive.com/sports/ayush-shetty-vs-alwi-farhan-live-streaming-when-and-where-to-watch-denmark-open-badminton-2026-in-india-305404/"
+        }
+      ],
+      "watch": [
+        "FanCode"
       ]
     }
   ],
