@@ -1,8 +1,42 @@
 {
-  "lastUpdated": "2026-10-15T12:05:37+05:30",
+  "lastUpdated": "2026-10-15T13:28:51+05:30",
   "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo rifle finals",
   "featured": "ind-wi-t20-5",
   "matches": [
+    {
+      "id": "dpwic-r1",
+      "sport": "Golf",
+      "comp": "DP World India Championship",
+      "round": "Round 1",
+      "st": "live",
+      "india": true,
+      "big": true,
+      "a": [
+        "IND",
+        "Om Prakash Chouhan",
+        "-3 (thru 13)"
+      ],
+      "b": [
+        "TBC",
+        "Leaders: McKibbin / Lopez-Chacarra",
+        "-5"
+      ],
+      "when": "2026-10-15",
+      "status": "Round 1 in progress",
+      "scoreAt": "2026-10-15T13:28:51+05:30",
+      "venue": "Delhi Golf Club, New Delhi",
+      "note": "Om Prakash Chouhan is the best-placed Indian (T7, −3 thru 13); Saptak Talwar and Yuvraj Sandhu −1. Tom McKibbin and Eugenio Lopez-Chacarra lead at −5; Rory McIlroy −2, Tommy Fleetwood −3.",
+      "src": [
+        {
+          "t": "BBC Sport – DP World Tour leaderboard",
+          "u": "https://www.bbc.com/sport/golf/leaderboard"
+        },
+        {
+          "t": "RTÉ – McIlroy and McKibbin well placed on opening day in India",
+          "u": "https://www.rte.ie/sport/golf/"
+        }
+      ]
+    },
     {
       "id": "isl-neu-mbsg",
       "sport": "Football",
@@ -1542,12 +1576,16 @@
         "Akane Yamaguchi (3)",
         ""
       ],
-      "when": "2026-10-15",
+      "when": "2026-10-15T18:05:00+05:30",
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Odense",
-      "note": "Chaliha faces World No. 3 Akane Yamaguchi in the round of 16: Court 3, match 8 (follows earlier matches; start time TBC).",
+      "note": "Chaliha (World No. 40) faces third seed Akane Yamaguchi; expected start 18:05 IST on Court 3.",
       "src": [
+        {
+          "t": "Sportscape – India's Denmark Open R16 schedule",
+          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
+        },
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
@@ -1572,6 +1610,10 @@
       ],
       "src": [
         {
+          "t": "Sportscape – India's Denmark Open R16 schedule",
+          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
+        },
+        {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
@@ -1589,8 +1631,8 @@
         "Rachel Allessya Rose/Febi Setianingrum (5)",
         ""
       ],
-      "when": "2026-10-15",
-      "note": "Court 2, match 6 (follows earlier matches; start time TBC). Winners reach the quarter-finals."
+      "when": "2026-10-15T16:40:00+05:30",
+      "note": "Expected start 16:40 IST (Court 2). Winners reach the quarter-finals."
     },
     {
       "sport": "Badminton",
@@ -1602,6 +1644,10 @@
         "FanCode"
       ],
       "src": [
+        {
+          "t": "Sportscape – India's Denmark Open R16 schedule",
+          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
+        },
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
@@ -1620,8 +1666,8 @@
         "Alex Lanier (7)",
         ""
       ],
-      "when": "2026-10-15",
-      "note": "Court 1, match 5 (follows earlier matches; start time TBC)."
+      "when": "2026-10-15T15:50:00+05:30",
+      "note": "Expected start 15:50 IST (Court 1). Winner reaches the quarter-finals."
     },
     {
       "sport": "Badminton",
@@ -1633,6 +1679,10 @@
         "FanCode"
       ],
       "src": [
+        {
+          "t": "Sportscape – India's Denmark Open R16 schedule",
+          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
+        },
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
@@ -1940,10 +1990,10 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "15–18 Oct · Delhi Golf Club",
+      "status": "Live · Round 1 · till 18 Oct",
       "live": true,
       "india": true,
-      "note": "DP World Tour event at Delhi Golf Club, New Delhi, with a US$4 million prize fund; Round 1 on Thu 15 Oct.",
+      "note": "DP World Tour event at Delhi Golf Club, New Delhi, with a US$4 million prize fund; Round 1 on Thu 15 Oct. Om Prakash Chouhan the best Indian early in Round 1 (−3).",
       "src": [
         {
           "t": "Olympics.com – DP World India Championship 2026: schedule and where to watch",
@@ -1953,10 +2003,19 @@
           "t": "DP World Tour – DP World India Championship, 15–18 Oct 2026",
           "u": "https://www.europeantour.com/dpworld-tour/"
         }
-      ]
+      ],
+      "comp": "DP World India Championship"
     }
   ],
   "feed": [
+    {
+      "t": "13:25",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Golf",
+      "match": "dpwic-r1",
+      "text": "DP World India Championship, Round 1: Om Prakash Chouhan is −3 through 13 holes, two off the lead of Tom McKibbin and Eugenio Lopez-Chacarra (−5) at Delhi Golf Club; McIlroy −2."
+    },
     {
       "t": "05:05",
       "tag": "NEWS",
@@ -2096,6 +2155,38 @@
   ],
   "schedule": [
     {
+      "d": "15",
+      "mo": "OCT",
+      "title": "Denmark Open R16: Srikanth v Lanier",
+      "meta": "Badminton · Odense",
+      "time": "15:50",
+      "match": "den-srikanth-lanier"
+    },
+    {
+      "d": "15",
+      "mo": "OCT",
+      "title": "Denmark Open R16: Treesa/Gayatri v Rose/Setianingrum",
+      "meta": "Badminton · Odense",
+      "time": "16:40",
+      "match": "den-treesa-rose"
+    },
+    {
+      "d": "15",
+      "mo": "OCT",
+      "title": "Denmark Open R16: Ashmita Chaliha v Yamaguchi",
+      "meta": "Badminton · Odense",
+      "time": "18:05",
+      "match": "den-ashmita-yamaguchi"
+    },
+    {
+      "d": "15",
+      "mo": "OCT",
+      "title": "Denmark Open R16: Tanvi Sharma v Yvonne Li",
+      "meta": "Badminton · Odense",
+      "time": "21:40",
+      "match": "den-tanvi-li"
+    },
+    {
       "d": "16",
       "mo": "OCT",
       "title": "India Women v Zimbabwe, 1st T20I",
@@ -2142,14 +2233,6 @@
       "meta": "Cricket · Vadodara",
       "time": "19:00",
       "match": "indw-zimw-odi-1"
-    },
-    {
-      "d": "24",
-      "mo": "OCT",
-      "title": "New Zealand v India, 2nd T20I",
-      "meta": "Cricket · Christchurch",
-      "time": "12:30",
-      "match": "nz-ind-t20-2"
     }
   ],
   "players": [
