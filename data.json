@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-15T23:35:09+05:30",
-  "dayLabel": "Thu 15 Oct · Jagsher assures World Juniors medal · Tanvi v Li ~23:40",
-  "featured": "den-tanvi-li",
+  "lastUpdated": "2026-10-16T00:36:46+05:30",
+  "dayLabel": "Fri 16 Oct · Tanvi & Treesa/Gayatri in Denmark Open QFs · IND-W v ZIM 7 pm",
+  "featured": "den-treesa-qf",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -1732,13 +1732,17 @@
     {
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
         "FanCode"
       ],
       "src": [
+        {
+          "t": "Google Sports results – Tanvi Sharma v Yvonne Li (final: 21-17 21-19)",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
+        },
         {
           "t": "BWF – Denmark Open 2026, results 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
@@ -1749,16 +1753,52 @@
       "a": [
         "IND",
         "Tanvi Sharma",
-        "",
+        "21-17 21-19",
         "#E4572E"
       ],
       "b": [
         "GER",
         "Yvonne Li",
-        ""
+        "17-21 19-21"
       ],
       "when": "2026-10-15T23:40:00+05:30",
-      "note": "Court 2. BWF's order of play said not before 23:05 IST; Google's live listing now shows about 11:40 pm IST as earlier matches run late. Li beat PV Sindhu in round one."
+      "note": "Tanvi Sharma beats Germany's Yvonne Li — who knocked out PV Sindhu in round one — 21-17 21-19 in a late-night match on Court 2 to reach the Denmark Open quarter-finals.",
+      "win": "a",
+      "day": "15 Oct",
+      "recent": true,
+      "resultAt": "2026-10-16T00:36:46+05:30",
+      "big": true
+    },
+    {
+      "id": "den-tanvi-qf",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's singles · QF",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Tanvi Sharma",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-10-16",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "watch": [
+        "FanCode"
+      ],
+      "note": "Friday quarter-final after beating Yvonne Li; opponent and court time not confirmed yet.",
+      "src": [
+        {
+          "t": "Google Sports results – Tanvi Sharma v Yvonne Li (final: 21-17 21-19)",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
+        }
+      ]
     },
     {
       "id": "den-treesa-qf",
@@ -2207,7 +2247,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Thursday R16: Treesa/Gayatri beat fifth seeds Rose/Setianingrum 21-16 21-17 to reach the QF, where they meet second seeds Pearly Tan/Thinaah Muralitharan on Friday; Srikanth (v Lanier) and Ashmita (v Yamaguchi) lost; Tanvi v Yvonne Li not before 23:05 IST. FanCode streams, no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. India have two quarter-finalists on Friday: Tanvi Sharma (beat Yvonne Li 21-17 21-19) and Treesa Jolly/Gayatri Gopichand (v second seeds Pearly Tan/Thinaah Muralitharan). Srikanth (v Lanier) and Ashmita (v Yamaguchi) lost in the R16. FanCode streams, no TV telecast confirmed.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2289,6 +2329,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "00:36",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Denmark Open R16: Tanvi Sharma beats Germany's Yvonne Li 21-17 21-19 to reach the quarter-finals — Li had knocked out PV Sindhu in round one.",
+      "match": "den-tanvi-li",
+      "src": [
+        {
+          "t": "Google Sports results – Tanvi Sharma v Yvonne Li (final: 21-17 21-19)",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
+        }
+      ]
+    },
     {
       "t": "21:30",
       "tag": "NEWS",
@@ -2483,33 +2537,9 @@
       "m": "Football",
       "match": "isl-pun-odi",
       "text": "ISL: Punjab FC beat Odisha FC 2–1 in Delhi — Raphaël Messi Bouli scored in the 1st minute and the winner in the 96th; Thoiba Singh had equalised on 15'."
-    },
-    {
-      "t": "20:05",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open: Unnati Hooda loses 21-23 21-16 16-21 to China's Han Qian Xi in round one; Srikanth and Tanvi Sharma are into round two.",
-      "match": "den-unnati-han"
-    },
-    {
-      "t": "17:45",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "match": "den-satwik-chirag",
-      "text": "Denmark Open: Satwik-Chirag lose 21-12 15-21 19-21 to China's He Ji Ting/Ren Xiang Yu in round one — their first defeat to the pair."
     }
   ],
   "schedule": [
-    {
-      "d": "15",
-      "mo": "OCT",
-      "title": "Denmark Open R16: Tanvi Sharma v Yvonne Li",
-      "meta": "Badminton · Odense",
-      "time": "23:40",
-      "match": "den-tanvi-li"
-    },
     {
       "d": "16",
       "mo": "OCT",
@@ -2517,6 +2547,14 @@
       "meta": "Badminton · Odense",
       "time": "TBC",
       "match": "den-treesa-qf"
+    },
+    {
+      "d": "16",
+      "mo": "OCT",
+      "title": "Denmark Open QF: Tanvi Sharma v TBC",
+      "meta": "Badminton · Odense",
+      "time": "TBC",
+      "match": "den-tanvi-qf"
     },
     {
       "d": "16",
