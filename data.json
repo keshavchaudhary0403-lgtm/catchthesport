@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-15T15:37:19+05:30",
-  "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo air rifle final 18:00",
-  "featured": "ind-wi-t20-5",
+  "lastUpdated": "2026-10-15T16:40:14+05:30",
+  "dayLabel": "Thu 15 Oct · Srikanth leads Lanier in Denmark Open R16 · India v WI T20I decider Sat · DP World India Ch. R1 resumed",
+  "featured": "den-srikanth-lanier",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -14,19 +14,23 @@
       "a": [
         "IND",
         "Om Prakash Chouhan",
-        "-3 (thru 13)"
+        "-4 (thru 15)"
       ],
       "b": [
         "TBC",
-        "Leaders: McKibbin / Lopez-Chacarra",
-        "-5"
+        "Leader: Eugenio Lopez-Chacarra",
+        "-6 (thru 17)"
       ],
       "when": "2026-10-15",
-      "status": "Suspended · not before 15:45",
-      "scoreAt": "2026-10-15T15:37:19+05:30",
+      "status": "Round 1 resumed",
+      "scoreAt": "2026-10-15T16:40:14+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Round 1 suspended at 11:04 IST because of thunder and lightning in Delhi; the DP World Tour says play will not resume before 15:45 IST. Om Prakash Chouhan is the best-placed Indian (−3 thru 13); Saptak Talwar and Yuvraj Sandhu −1. Tom McKibbin (thru 16) and Eugenio Lopez-Chacarra (thru 15) lead at −5; MacIntyre −4, Fleetwood −3, McIlroy −2.",
+      "note": "Play resumed after a weather suspension (thunder and lightning from 11:04 IST). Om Prakash Chouhan is the best-placed Indian at −4 thru 15 (T5). Lopez-Chacarra leads at −6 thru 17; McKibbin, Detry and Nørgaard −5; MacIntyre −4, Fleetwood −3, McIlroy −2. Saptak Talwar finished on −1; Yuvraj Sandhu −1 thru 13.",
       "src": [
+        {
+          "t": "DP World Tour – DP World India Championship leaderboard",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+        },
         {
           "t": "DP World Tour on X – round one will not resume before 15:45",
           "u": "https://x.com/DPWorldTour"
@@ -38,14 +42,6 @@
         {
           "t": "The42 – McKibbin joint leader as play suspended due to bad weather in India",
           "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
-        },
-        {
-          "t": "BBC Sport – DP World Tour leaderboard",
-          "u": "https://www.bbc.com/sport/golf/leaderboard"
-        },
-        {
-          "t": "RTÉ – McIlroy and McKibbin well placed on opening day in India",
-          "u": "https://www.rte.ie/sport/golf/"
         }
       ]
     },
@@ -1596,7 +1592,7 @@
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Odense",
-      "note": "Chaliha (World No. 40) faces third seed Akane Yamaguchi; expected start 18:05 IST on Court 3.",
+      "note": "Chaliha (World No. 40) faces third seed Akane Yamaguchi — 8th match on Court 3 (expected about 18:05 IST, may run late).",
       "src": [
         {
           "t": "Sportscape – India's Denmark Open R16 schedule",
@@ -1626,12 +1622,12 @@
       ],
       "src": [
         {
-          "t": "Sportscape – India's Denmark Open R16 schedule",
-          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
-        },
-        {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+        },
+        {
+          "t": "Sportscape – India's Denmark Open R16 schedule",
+          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
         }
       ],
       "id": "den-treesa-rose",
@@ -1648,12 +1644,12 @@
         ""
       ],
       "when": "2026-10-15T16:40:00+05:30",
-      "note": "Expected start 16:40 IST (Court 2). Winners reach the quarter-finals."
+      "note": "Sixth match on Court 2 (schedule running late; listed 16:40 IST). Winners reach the quarter-finals."
     },
     {
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
@@ -1661,8 +1657,8 @@
       ],
       "src": [
         {
-          "t": "Sportscape – India's Denmark Open R16 schedule",
-          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
+          "t": "BWF – Denmark Open 2026 live scores",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/live"
         },
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
@@ -1674,16 +1670,18 @@
       "a": [
         "IND",
         "Kidambi Srikanth",
-        "",
+        "21-11 1-0",
         "#E4572E"
       ],
       "b": [
         "FRA",
         "Alex Lanier (7)",
-        ""
+        "11-21 0-1"
       ],
       "when": "2026-10-15T15:50:00+05:30",
-      "note": "Expected start 15:50 IST (Court 1). Winner reaches the quarter-finals."
+      "note": "Srikanth (World No. 31) took the first game 21-11 against seventh seed Lanier, who beat him 21-16 21-18 at the Thomas Cup in May. Winner reaches the quarter-finals.",
+      "status": "2nd game",
+      "scoreAt": "2026-10-15T16:40:14+05:30"
     },
     {
       "sport": "Badminton",
@@ -1695,10 +1693,6 @@
         "FanCode"
       ],
       "src": [
-        {
-          "t": "Sportscape – India's Denmark Open R16 schedule",
-          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
-        },
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
@@ -1717,47 +1711,62 @@
         "Yvonne Li",
         ""
       ],
-      "when": "2026-10-15T21:40:00+05:30",
-      "note": "Court 2, not before 21:40 IST. Li beat PV Sindhu in round one."
+      "when": "2026-10-15T22:05:00+05:30",
+      "note": "Court 2, not before 22:05 IST (18:35 local). Li beat PV Sindhu in round one."
     },
     {
-      "id": "issf-cai-w10ar",
+      "id": "act-ind-ban",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 1",
       "st": "upcoming",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Women's 10m air rifle",
       "a": [
         "IND",
-        "Bhowal / Borse / Chaudhary",
+        "India",
         ""
       ],
       "b": [
-        "TBC",
-        "Final field",
+        "BAN",
+        "Bangladesh",
         ""
       ],
-      "when": "2026-10-15T18:00:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Qualification (two relays from 12:45 and 14:45 IST) under way; top 8 reach the 18:00 IST final. India: Ismita Bhowal, Arya Borse, Khyaty Chaudhary (Shruti and Meghana Sajjanar shoot for ranking points only).",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
+      "when": "2026-10-27T19:00:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "India's title-defence opener, right after the opening ceremony. All league matches in Jalandhar.",
       "src": [
         {
-          "t": "ISSF – Cairo World Cup, 10m air rifle women qualification",
-          "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b4152573b303b513b493b313b303b30"
-        },
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        }
+      ]
+    },
+    {
+      "id": "act-ind-chn",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 2",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "CHN",
+        "China",
+        ""
+      ],
+      "when": "2026-10-29T19:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "Second of India's five round-robin matches; top four reach the semi-finals in Mohali.",
+      "src": [
         {
-          "t": "Sunday Guardian – ISSF World Cup Cairo: India schedule",
-          "u": "https://sundayguardianlive.com/sports/issf-world-cup-2026-cairo-swapnil-kusale-sarabjot-singh-in-action-full-schedule-indian-shooters-where-to-watch-rifle-pistol-shooting-event-live-302654/"
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
         }
       ]
     }
@@ -1847,10 +1856,15 @@
       "note": "India (holders) open v Bangladesh on 27 Oct, then China 29 Oct, Japan 30 Oct, Malaysia 1 Nov, South Korea 2 Nov — all 7 pm IST. Pakistan withdrew; Bangladesh replace them.",
       "src": [
         {
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        },
+        {
           "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
           "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
         }
-      ]
+      ],
+      "comp": "Asian Champions Trophy 2026"
     },
     {
       "sport": "Football",
@@ -2029,16 +2043,43 @@
   ],
   "feed": [
     {
-      "t": "11:04",
+      "t": "16:40",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Denmark Open R16: Kidambi Srikanth takes the first game 21-11 against seventh seed Alex Lanier of France.",
+      "match": "den-srikanth-lanier",
+      "src": [
+        {
+          "t": "BWF – Denmark Open 2026 live scores",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/live"
+        }
+      ]
+    },
+    {
+      "t": "16:40",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Golf",
+      "text": "DP World India Championship: Round 1 back under way in Delhi after the weather delay — Om Prakash Chouhan −4 thru 15, two behind leader Eugenio Lopez-Chacarra.",
       "match": "dpwic-r1",
-      "text": "DP World India Championship: Round 1 suspended at Delhi Golf Club due to thunder and lightning — no restart before 15:45 IST. Om Prakash Chouhan −3 thru 13, two off joint leaders McKibbin and Lopez-Chacarra (−5).",
       "src": [
         {
-          "t": "The42 – play suspended due to bad weather in India",
-          "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
+          "t": "DP World Tour – DP World India Championship leaderboard",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+        }
+      ]
+    },
+    {
+      "t": "15:00",
+      "tag": "OUT",
+      "c": "var(--accent)",
+      "m": "Shooting",
+      "text": "ISSF World Cup Cairo: no Indian in the women's 10m air rifle final — Arya Borse 12th (630.7, cut-off 631.1), Khyaty Chaudhary 32nd (627.9), Ismita Bhowal 69th (622.9).",
+      "src": [
+        {
+          "t": "ISSF – Cairo World Cup, 10m air rifle women qualification",
+          "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b4152573b303b513b493b313b303b30"
         }
       ]
     },
@@ -2222,7 +2263,7 @@
       "mo": "OCT",
       "title": "Denmark Open R16: Tanvi Sharma v Yvonne Li",
       "meta": "Badminton · Odense",
-      "time": "21:40",
+      "time": "22:05",
       "match": "den-tanvi-li"
     },
     {
@@ -2272,6 +2313,14 @@
       "meta": "Cricket · Vadodara",
       "time": "19:00",
       "match": "indw-zimw-odi-1"
+    },
+    {
+      "d": "27",
+      "mo": "OCT",
+      "title": "India v Bangladesh, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
+      "time": "19:00",
+      "match": "act-ind-ban"
     }
   ],
   "players": [
