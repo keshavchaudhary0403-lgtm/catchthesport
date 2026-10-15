@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-15T18:38:13+05:30",
-  "dayLabel": "Thu 15 Oct · Ashmita v Yamaguchi live · Srikanth out in Odense · India v WI T20I decider Sat",
-  "featured": "den-ashmita-yamaguchi",
+  "lastUpdated": "2026-10-15T19:36:15+05:30",
+  "dayLabel": "Thu 15 Oct · Treesa/Gayatri into Denmark Open QF · Tanvi v Li 23:05",
+  "featured": "den-tanvi-li",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -1176,19 +1176,23 @@
       "a": [
         "IND",
         "Treesa Jolly/Gayatri Gopichand",
-        "Won",
+        "22-20 21-14",
         "#E4572E"
       ],
       "b": [
         "TPE",
         "Yan Fei Chen/Hsieh Pei Shan",
-        "Lost"
+        "20-22 14-21"
       ],
       "when": "2026-10-14T23:10:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "note": "Treesa and Gayatri beat Chinese Taipei's Yan Fei Chen/Hsieh Pei Shan and reach the round of 16 (game scores not yet confirmed); they meet fifth seeds Rose/Setianingrum next.",
+      "note": "Treesa and Gayatri beat Chinese Taipei's Yan Fei Chen/Hsieh Pei Shan 22-20 21-14 in 38 minutes to reach the round of 16.",
       "src": [
+        {
+          "t": "Sportstar – Treesa-Gayatri pair advances to round of 16 (via Google)",
+          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open+round+of+16+result"
+        },
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
@@ -1569,23 +1573,27 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's singles · R16",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "Ashmita Chaliha",
-        "9"
+        "18-21 10-21"
       ],
       "b": [
         "JPN",
         "Akane Yamaguchi (3)",
-        "4"
+        "21-18 21-10"
       ],
       "when": "2026-10-15T18:05:00+05:30",
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Odense",
-      "note": "Chaliha (World No. 40) v third seed Akane Yamaguchi on Court 3 — Chaliha led 9-4 in the current game when last checked (game scores not yet confirmed).",
+      "note": "Ashmita Chaliha loses 18-21 10-21 to third seed Akane Yamaguchi in the round of 16.",
       "src": [
+        {
+          "t": "Google Sports results – Chaliha v Yamaguchi (final)",
+          "u": "https://www.google.com/search?q=Ashmita+Chaliha+Yamaguchi+Denmark+Open"
+        },
         {
           "t": "Sportscape – India's Denmark Open R16 schedule",
           "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
@@ -1593,22 +1601,20 @@
         {
           "t": "BWF – Denmark Open 2026, order of play 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        },
-        {
-          "t": "Sports News Portal – Denmark Open Day 2",
-          "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
         }
       ],
       "watch": [
         "FanCode"
       ],
-      "status": "Current game (points)",
-      "scoreAt": "2026-10-15T18:38:13+05:30"
+      "win": "b",
+      "day": "15 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T19:36:15+05:30"
     },
     {
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
@@ -1616,12 +1622,16 @@
       ],
       "src": [
         {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+          "t": "Tribunnews – Rachel/Febi lose 16-21 17-21 to Jolly/Gayatri (via Google)",
+          "u": "https://www.google.com/search?q=Rachel+Allessya+Febi+Setianingrum+kalah+Treesa+Gayatri+Denmark+Open+2026"
         },
         {
-          "t": "Sportscape – India's Denmark Open R16 schedule",
-          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
+          "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
+          "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
+        },
+        {
+          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
       ],
       "id": "den-treesa-rose",
@@ -1629,16 +1639,20 @@
       "a": [
         "IND",
         "Treesa Jolly/Gayatri Gopichand",
-        "",
+        "21-16 21-17",
         "#E4572E"
       ],
       "b": [
         "INA",
         "Rachel Allessya Rose/Febi Setianingrum (5)",
-        ""
+        "16-21 17-21"
       ],
       "when": "2026-10-15T16:40:00+05:30",
-      "note": "Under way on Court 2 (BWF lists it live); score not confirmed yet. Winners reach the quarter-finals."
+      "note": "Treesa Jolly/Gayatri Gopichand beat fifth seeds Rachel Allessya Rose/Febi Setianingrum 21-16 21-17 to reach the quarter-finals; Indonesia's last women's doubles pair is out.",
+      "win": "a",
+      "day": "15 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T19:36:15+05:30"
     },
     {
       "sport": "Badminton",
@@ -1709,6 +1723,37 @@
       ],
       "when": "2026-10-15T23:05:00+05:30",
       "note": "Court 2, not before 23:05 IST (19:35 local) per BWF's order of play. Li beat PV Sindhu in round one."
+    },
+    {
+      "id": "den-treesa-qf",
+      "sport": "Badminton",
+      "comp": "BWF Denmark Open (Super 750)",
+      "round": "Women's doubles · QF",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Treesa Jolly/Gayatri Gopichand",
+        "",
+        "#E4572E"
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-10-16",
+      "india": true,
+      "venue": "SJF Bank Arena, Odense",
+      "watch": [
+        "FanCode"
+      ],
+      "note": "Quarter-final on Friday; opponent and court time not confirmed yet.",
+      "src": [
+        {
+          "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
+          "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
+        }
+      ]
     },
     {
       "id": "act-ind-ban",
@@ -2028,7 +2073,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Thursday R16: Srikanth lost to Lanier in three games; Ashmita v Yamaguchi and Treesa/Gayatri v Rose/Setianingrum under way; Tanvi v Yvonne Li not before 23:05 IST. FanCode streams, no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. Thursday R16: Treesa/Gayatri beat fifth seeds Rose/Setianingrum 21-16 21-17 to reach the QF; Srikanth (v Lanier) and Ashmita (v Yamaguchi) lost; Tanvi v Yvonne Li not before 23:05 IST. FanCode streams, no TV telecast confirmed.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2076,16 +2121,34 @@
   ],
   "feed": [
     {
-      "t": "18:38",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "19:35",
+      "tag": "LOSS",
+      "c": "var(--accent)",
       "m": "Badminton",
-      "text": "Denmark Open R16: Ashmita Chaliha leads third seed Akane Yamaguchi 9-4 in the current game; Treesa Jolly/Gayatri Gopichand also under way v Rose/Setianingrum.",
+      "text": "Denmark Open R16: Ashmita Chaliha loses 18-21 10-21 to third seed Akane Yamaguchi.",
       "match": "den-ashmita-yamaguchi",
       "src": [
         {
-          "t": "BWF – Denmark Open 2026, results 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
+          "t": "Google Sports results – Chaliha v Yamaguchi (final)",
+          "u": "https://www.google.com/search?q=Ashmita+Chaliha+Yamaguchi+Denmark+Open"
+        }
+      ]
+    },
+    {
+      "t": "19:33",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Denmark Open: Treesa Jolly/Gayatri Gopichand stun fifth seeds Rose/Setianingrum of Indonesia 21-16 21-17 to reach the quarter-finals — India's last pair standing in Odense.",
+      "match": "den-treesa-rose",
+      "src": [
+        {
+          "t": "Tribunnews – Rachel/Febi lose 16-21 17-21 to Jolly/Gayatri (via Google)",
+          "u": "https://www.google.com/search?q=Rachel+Allessya+Febi+Setianingrum+kalah+Treesa+Gayatri+Denmark+Open+2026"
+        },
+        {
+          "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
+          "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
         }
       ]
     },
@@ -2251,38 +2314,9 @@
           "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
         }
       ]
-    },
-    {
-      "t": "15:34",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Bengal 32/0 after 7 overs chasing 89 v Delhi at Kalyani — 57 to win; Andhra 48/3 chasing 194 v Karnataka.",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Live cricket scores (Ranji Trophy)",
-          "u": "https://www.espncricinfo.com/live-cricket-score"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "15",
-      "mo": "OCT",
-      "title": "Denmark Open R16: Treesa/Gayatri v Rose/Setianingrum",
-      "meta": "Badminton · Odense",
-      "time": "16:40",
-      "match": "den-treesa-rose"
-    },
-    {
-      "d": "15",
-      "mo": "OCT",
-      "title": "Denmark Open R16: Ashmita Chaliha v Yamaguchi",
-      "meta": "Badminton · Odense",
-      "time": "18:05",
-      "match": "den-ashmita-yamaguchi"
-    },
     {
       "d": "15",
       "mo": "OCT",
@@ -2290,6 +2324,14 @@
       "meta": "Badminton · Odense",
       "time": "23:05",
       "match": "den-tanvi-li"
+    },
+    {
+      "d": "16",
+      "mo": "OCT",
+      "title": "Denmark Open QF: Treesa/Gayatri v TBC",
+      "meta": "Badminton · Odense",
+      "time": "TBC",
+      "match": "den-treesa-qf"
     },
     {
       "d": "16",
