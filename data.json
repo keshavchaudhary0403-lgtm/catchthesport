@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T13:28:51+05:30",
+  "lastUpdated": "2026-10-15T13:35:07+05:30",
   "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo rifle finals",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -1508,12 +1508,16 @@
         "",
         "#1D4ED8"
       ],
-      "when": "2026-10-26",
+      "when": "2026-10-26T19:30:00+05:30",
       "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
       "src": [
         {
           "t": "ISL – official fixtures & results",
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Sportstar – Mohun Bagan SG ISL 2026-27 schedule",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
         }
       ],
       "watch": [
@@ -1522,6 +1526,43 @@
         {
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "note": "Mohun Bagan's first home match of the season."
+    },
+    {
+      "id": "isl-goa-del",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#F97316"
+      ],
+      "b": [
+        "DEL",
+        "Sporting Club Delhi",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-10-28T19:30:00+05:30",
+      "venue": "Fatorda Stadium, Goa",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
         }
       ]
     },
