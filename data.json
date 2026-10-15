@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-15T16:40:14+05:30",
-  "dayLabel": "Thu 15 Oct · Srikanth leads Lanier in Denmark Open R16 · India v WI T20I decider Sat · DP World India Ch. R1 resumed",
-  "featured": "den-srikanth-lanier",
+  "lastUpdated": "2026-10-15T18:38:13+05:30",
+  "dayLabel": "Thu 15 Oct · Ashmita v Yamaguchi live · Srikanth out in Odense · India v WI T20I decider Sat",
+  "featured": "den-ashmita-yamaguchi",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -14,34 +14,26 @@
       "a": [
         "IND",
         "Om Prakash Chouhan",
-        "-4 (thru 15)"
+        "-4 (68)"
       ],
       "b": [
         "TBC",
-        "Leader: Eugenio Lopez-Chacarra",
-        "-6 (thru 17)"
+        "Clubhouse leader: Niklas Nørgaard",
+        "-6 (66)"
       ],
       "when": "2026-10-15",
-      "status": "Round 1 resumed",
-      "scoreAt": "2026-10-15T16:40:14+05:30",
+      "status": "Play halted for the day",
+      "scoreAt": "2026-10-15T18:38:13+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Play resumed after a weather suspension (thunder and lightning from 11:04 IST). Om Prakash Chouhan is the best-placed Indian at −4 thru 15 (T5). Lopez-Chacarra leads at −6 thru 17; McKibbin, Detry and Nørgaard −5; MacIntyre −4, Fleetwood −3, McIlroy −2. Saptak Talwar finished on −1; Yuvraj Sandhu −1 thru 13.",
+      "note": "Rain-hit Day 1: a 5½-hour stoppage, then play called off for the day with many groups yet to finish Round 1. Om Prakash Chouhan (68, six birdies, two bogeys) is the best Indian at −4. Nørgaard leads the clubhouse on −6; Chacarra, McKibbin and Detry −5. Round 1 resumes Friday morning.",
       "src": [
+        {
+          "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
+          "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
+        },
         {
           "t": "DP World Tour – DP World India Championship leaderboard",
           "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
-        },
-        {
-          "t": "DP World Tour on X – round one will not resume before 15:45",
-          "u": "https://x.com/DPWorldTour"
-        },
-        {
-          "t": "Golf Channel – DP World India Championship live scores",
-          "u": "https://www.golfchannel.com/"
-        },
-        {
-          "t": "The42 – McKibbin joint leader as play suspended due to bad weather in India",
-          "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
         }
       ]
     },
@@ -1577,22 +1569,22 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's singles · R16",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "Ashmita Chaliha",
-        ""
+        "9"
       ],
       "b": [
         "JPN",
         "Akane Yamaguchi (3)",
-        ""
+        "4"
       ],
       "when": "2026-10-15T18:05:00+05:30",
       "india": true,
       "big": false,
       "venue": "SJF Bank Arena, Odense",
-      "note": "Chaliha (World No. 40) faces third seed Akane Yamaguchi — 8th match on Court 3 (expected about 18:05 IST, may run late).",
+      "note": "Chaliha (World No. 40) v third seed Akane Yamaguchi on Court 3 — Chaliha led 9-4 in the current game when last checked (game scores not yet confirmed).",
       "src": [
         {
           "t": "Sportscape – India's Denmark Open R16 schedule",
@@ -1609,7 +1601,9 @@
       ],
       "watch": [
         "FanCode"
-      ]
+      ],
+      "status": "Current game (points)",
+      "scoreAt": "2026-10-15T18:38:13+05:30"
     },
     {
       "sport": "Badminton",
@@ -1644,12 +1638,12 @@
         ""
       ],
       "when": "2026-10-15T16:40:00+05:30",
-      "note": "Sixth match on Court 2 (schedule running late; listed 16:40 IST). Winners reach the quarter-finals."
+      "note": "Under way on Court 2 (BWF lists it live); score not confirmed yet. Winners reach the quarter-finals."
     },
     {
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
-      "st": "live",
+      "st": "result",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
@@ -1657,11 +1651,11 @@
       ],
       "src": [
         {
-          "t": "BWF – Denmark Open 2026 live scores",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/live"
+          "t": "Sportstar – Srikanth goes down to World Champion Lanier in Denmark Open 2026",
+          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-ashmitha-tanvi-kidambi-srikanth-match-report-news/article71588004.ece"
         },
         {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "t": "BWF – Denmark Open 2026, results 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
       ],
@@ -1670,18 +1664,20 @@
       "a": [
         "IND",
         "Kidambi Srikanth",
-        "21-11 1-0",
+        "21-11 15-21 15-21",
         "#E4572E"
       ],
       "b": [
         "FRA",
         "Alex Lanier (7)",
-        "11-21 0-1"
+        "11-21 21-15 21-15"
       ],
       "when": "2026-10-15T15:50:00+05:30",
-      "note": "Srikanth (World No. 31) took the first game 21-11 against seventh seed Lanier, who beat him 21-16 21-18 at the Thomas Cup in May. Winner reaches the quarter-finals.",
-      "status": "2nd game",
-      "scoreAt": "2026-10-15T16:40:14+05:30"
+      "note": "Srikanth (World No. 31) won the first game 21-11 but world champion Lanier came back to win 11-21 21-15 21-15 in 66 minutes; Srikanth exits in the last 16.",
+      "win": "b",
+      "day": "15 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T18:38:13+05:30"
     },
     {
       "sport": "Badminton",
@@ -1694,7 +1690,7 @@
       ],
       "src": [
         {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
+          "t": "BWF – Denmark Open 2026, results 15 Oct",
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
       ],
@@ -1711,8 +1707,8 @@
         "Yvonne Li",
         ""
       ],
-      "when": "2026-10-15T22:05:00+05:30",
-      "note": "Court 2, not before 22:05 IST (18:35 local). Li beat PV Sindhu in round one."
+      "when": "2026-10-15T23:05:00+05:30",
+      "note": "Court 2, not before 23:05 IST (19:35 local) per BWF's order of play. Li beat PV Sindhu in round one."
     },
     {
       "id": "act-ind-ban",
@@ -1767,6 +1763,39 @@
         {
           "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
           "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        }
+      ]
+    },
+    {
+      "id": "acl2-alseeb-eb",
+      "sport": "Football",
+      "comp": "AFC Champions League Two",
+      "round": "Group D · Matchday 3",
+      "st": "upcoming",
+      "india": true,
+      "a": [
+        "SEEB",
+        "Al-Seeb",
+        "",
+        "#1E3A8A"
+      ],
+      "b": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#C8102E"
+      ],
+      "when": "2026-10-27T21:30:00+05:30",
+      "venue": "Oman",
+      "note": "East Bengal (0 pts after losing 2–3 to Al-Shorta) travel to Oman's Al-Seeb; return leg on 3 Nov.",
+      "src": [
+        {
+          "t": "Olympics.com – East Bengal lose 3-2 to Al-Shorta; Al-Seeb next on 27 Oct",
+          "u": "https://www.olympics.com/en/news/"
+        },
+        {
+          "t": "ESPN – SC East Bengal fixtures",
+          "u": "https://www.espn.co.uk/football/team/fixtures/_/name/sc-east-bengal"
         }
       ]
     }
@@ -1916,7 +1945,7 @@
       "name": "AFC club competitions",
       "status": "From 13 Oct",
       "india": true,
-      "note": "East Bengal lost 2–3 to Al-Shorta in ACL Two (13 Oct, Kolkata); FC Goa v Regar-TadAZ (AFC Challenge League, 17 Oct).",
+      "note": "East Bengal lost 2–3 to Al-Shorta in ACL Two (13 Oct, Kolkata) and visit Al-Seeb on 27 Oct; FC Goa v Regar-TadAZ (AFC Challenge League, 17 Oct).",
       "id": "afc-clubs",
       "src": [
         {
@@ -1999,7 +2028,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Doubles day: Satwik/Chirag, Ayush, Unnati out; Treesa/Gayatri into R16. Thursday R16: Srikanth v Lanier, Tanvi v Yvonne Li, Ashmita v Yamaguchi, Treesa/Gayatri v Rose/Setianingrum. Play starts 12:30 IST; FanCode streams, no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. Thursday R16: Srikanth lost to Lanier in three games; Ashmita v Yamaguchi and Treesa/Gayatri v Rose/Setianingrum under way; Tanvi v Yvonne Li not before 23:05 IST. FanCode streams, no TV telecast confirmed.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2024,11 +2053,15 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "Live · Round 1 suspended (weather) · till 18 Oct",
+      "status": "Live · Round 1 to finish Fri · till 18 Oct",
       "live": true,
       "india": true,
-      "note": "DP World Tour event at Delhi Golf Club, New Delhi, with a US$4 million prize fund; Round 1 on Thu 15 Oct. Om Prakash Chouhan the best Indian early in Round 1 (−3).",
+      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Rain-hit Round 1 halted for the day; Om Prakash Chouhan best Indian on −4 (68), Nørgaard leads the clubhouse on −6.",
       "src": [
+        {
+          "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
+          "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
+        },
         {
           "t": "Olympics.com – DP World India Championship 2026: schedule and where to watch",
           "u": "https://www.olympics.com/en/news/"
@@ -2043,30 +2076,44 @@
   ],
   "feed": [
     {
-      "t": "16:40",
+      "t": "18:38",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Badminton",
-      "text": "Denmark Open R16: Kidambi Srikanth takes the first game 21-11 against seventh seed Alex Lanier of France.",
-      "match": "den-srikanth-lanier",
+      "text": "Denmark Open R16: Ashmita Chaliha leads third seed Akane Yamaguchi 9-4 in the current game; Treesa Jolly/Gayatri Gopichand also under way v Rose/Setianingrum.",
+      "match": "den-ashmita-yamaguchi",
       "src": [
         {
-          "t": "BWF – Denmark Open 2026 live scores",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/live"
+          "t": "BWF – Denmark Open 2026, results 15 Oct",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
       ]
     },
     {
-      "t": "16:40",
+      "t": "18:27",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Golf",
-      "text": "DP World India Championship: Round 1 back under way in Delhi after the weather delay — Om Prakash Chouhan −4 thru 15, two behind leader Eugenio Lopez-Chacarra.",
+      "text": "DP World India Championship: play called off for the day after a rain-hit Round 1 — Om Prakash Chouhan the best Indian with a 68 (−4); Niklas Nørgaard leads the clubhouse on −6.",
       "match": "dpwic-r1",
       "src": [
         {
-          "t": "DP World Tour – DP World India Championship leaderboard",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+          "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
+          "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
+        }
+      ]
+    },
+    {
+      "t": "17:44",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open R16: Kidambi Srikanth loses 21-11 15-21 15-21 to world champion Alex Lanier after winning the first game.",
+      "match": "den-srikanth-lanier",
+      "src": [
+        {
+          "t": "Sportstar – Srikanth goes down to World Champion Lanier in Denmark Open 2026",
+          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-ashmitha-tanvi-kidambi-srikanth-match-report-news/article71588004.ece"
         }
       ]
     },
@@ -2217,31 +2264,9 @@
           "u": "https://www.espncricinfo.com/live-cricket-score"
         }
       ]
-    },
-    {
-      "t": "15:20",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open: Ayush Shetty loses 11-21 21-13 10-21 to Alwi Farhan in round one — Indonesia's player runs away with the decider.",
-      "match": "den-ayush-farhan",
-      "src": [
-        {
-          "t": "Google – Ayush Shetty v Alwi Farhan, Denmark Open (final result)",
-          "u": "https://www.google.com/search?q=Ayush+Shetty+Alwi+Farhan+Denmark+Open"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "15",
-      "mo": "OCT",
-      "title": "Denmark Open R16: Srikanth v Lanier",
-      "meta": "Badminton · Odense",
-      "time": "15:50",
-      "match": "den-srikanth-lanier"
-    },
     {
       "d": "15",
       "mo": "OCT",
@@ -2263,7 +2288,7 @@
       "mo": "OCT",
       "title": "Denmark Open R16: Tanvi Sharma v Yvonne Li",
       "meta": "Badminton · Odense",
-      "time": "22:05",
+      "time": "23:05",
       "match": "den-tanvi-li"
     },
     {
