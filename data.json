@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T19:36:15+05:30",
-  "dayLabel": "Thu 15 Oct · Treesa/Gayatri into Denmark Open QF · Tanvi v Li 23:05",
+  "lastUpdated": "2026-10-15T20:36:28+05:30",
+  "dayLabel": "Thu 15 Oct · Jagsher assures World Juniors medal · Tanvi v Li 23:05",
   "featured": "den-tanvi-li",
   "matches": [
     {
@@ -1747,8 +1747,12 @@
       "watch": [
         "FanCode"
       ],
-      "note": "Quarter-final on Friday; opponent and court time not confirmed yet.",
+      "note": "Friday quarter-final against the winner of Pearly Tan/Thinaah Muralitharan (MAS) v Yeung Nga Ting/Yeung Pui Lam (HKG); court time not confirmed yet.",
       "src": [
+        {
+          "t": "Sportstar – Treesa-Gayatri beat fifth seeds to reach quarterfinals",
+          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-treesa-jolly-gayatri-gopichand-beat-fifth-seeds-to-reach-quarterfinals/article71588340.ece"
+        },
         {
           "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
           "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
@@ -1841,6 +1845,66 @@
         {
           "t": "ESPN – SC East Bengal fixtures",
           "u": "https://www.espn.co.uk/football/team/fixtures/_/name/sc-east-bengal"
+        }
+      ]
+    },
+    {
+      "id": "wjc-jagsher-jhuang",
+      "sport": "Badminton",
+      "comp": "BWF World Junior Championships",
+      "round": "Boys' singles · QF",
+      "st": "result",
+      "a": [
+        "IND",
+        "Jagsher Singh Khangurra (14)",
+        "6-15 17-15 15-12"
+      ],
+      "b": [
+        "TPE",
+        "Yuan-Syue Jhuang",
+        "15-6 15-17 12-15"
+      ],
+      "when": "2026-10-15",
+      "win": "a",
+      "day": "15 Oct",
+      "recent": true,
+      "resultAt": "2026-10-15T20:36:28+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Cairo, Egypt",
+      "note": "Jagsher comes from a game down to win in 48 minutes and reach the semi-finals, assuring India a medal; Shaina Manimuthu lost her girls' singles QF 5-15 8-15 to China's Yi Qing Yin.",
+      "src": [
+        {
+          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
+          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
+        }
+      ]
+    },
+    {
+      "id": "wjc-jagsher-sf",
+      "sport": "Badminton",
+      "comp": "BWF World Junior Championships",
+      "round": "Boys' singles · SF",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Jagsher Singh Khangurra (14)",
+        ""
+      ],
+      "b": [
+        "INA",
+        "Radithya Bayu Wardhana (31)",
+        ""
+      ],
+      "when": "2026-10-17",
+      "india": true,
+      "big": false,
+      "venue": "Cairo, Egypt",
+      "note": "Medal already assured; India's only boys' singles gold at the World Juniors is still awaited (Saina Nehwal won the girls' title in 2008). Time TBC.",
+      "src": [
+        {
+          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
+          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
         }
       ]
     }
@@ -2019,11 +2083,15 @@
       "comp": "ISSF World Cup Cairo",
       "sport": "Shooting",
       "name": "ISSF World Cup (Rifle/Pistol), Cairo",
-      "status": "Live · 10–15 Oct · Cairo",
-      "live": true,
+      "status": "Concluded · India 1 gold",
+      "live": false,
       "india": true,
-      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India. 11 Oct: Udhayveer Sidhu won the men's 10m air pistol gold (240.6), India's first medal in Cairo. 12 Oct: Czechia's Jiri Privratsky won the men's 10m air rifle; Arjun Babuta was 18th in qualification (630.0). 13 Oct: women's 50m rifle 3P final 15:30 IST.",
+      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India. 11 Oct: Udhayveer Sidhu won the men's 10m air pistol gold (240.6), India's first medal in Cairo. India's campaign ended on 15 Oct with that single medal.",
       "src": [
+        {
+          "t": "News On AIR – Udhayveer Sidhu wins gold in men's 10m air pistol",
+          "u": "https://newsonair.gov.in/"
+        },
         {
           "t": "ISSF – Privratsky comes out on top in a nail-biting final",
           "u": "https://www.issf-sports.org/news"
@@ -2117,9 +2185,53 @@
         }
       ],
       "comp": "DP World India Championship"
+    },
+    {
+      "id": "bwf-wjc",
+      "comp": "BWF World Junior Championships",
+      "sport": "Badminton",
+      "name": "BWF World Junior Championships, Cairo",
+      "status": "Live · individual events this week",
+      "live": true,
+      "india": true,
+      "note": "15 Oct: Jagsher Singh Khangurra reached the boys' singles semi-finals (medal assured); semi-final v Indonesia's Radithya Bayu Wardhana on Saturday. Shaina Manimuthu lost in the girls' singles QF.",
+      "src": [
+        {
+          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
+          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
+        }
+      ]
     }
   ],
   "feed": [
+    {
+      "t": "20:08",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "World Junior Championships: Jagsher Singh Khangurra beats Chinese Taipei's Yuan-Syue Jhuang 6-15 17-15 15-12 to reach the boys' singles semi-finals — a medal assured for India.",
+      "match": "wjc-jagsher-jhuang",
+      "src": [
+        {
+          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
+          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
+        }
+      ]
+    },
+    {
+      "t": "20:36",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Denmark Open: Treesa/Gayatri will meet the winner of Malaysia's Pearly Tan/Thinaah Muralitharan v Hong Kong's Yeung Nga Ting/Yeung Pui Lam in Friday's quarter-final.",
+      "match": "den-treesa-qf",
+      "src": [
+        {
+          "t": "Sportstar – Treesa-Gayatri beat fifth seeds to reach quarterfinals",
+          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-treesa-jolly-gayatri-gopichand-beat-fifth-seeds-to-reach-quarterfinals/article71588340.ece"
+        }
+      ]
+    },
     {
       "t": "19:35",
       "tag": "LOSS",
@@ -2288,32 +2400,6 @@
       "m": "Badminton",
       "match": "den-satwik-chirag",
       "text": "Denmark Open: Satwik-Chirag lose 21-12 15-21 19-21 to China's He Ji Ting/Ren Xiang Yu in round one — their first defeat to the pair."
-    },
-    {
-      "t": "19:07",
-      "tag": "DRAW",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Andhra v Karnataka drawn at Mulapadu — Andhra 104/4 chasing 194 after Karun Nair's unbeaten 155; Andhra get 3 points, Karnataka 1.",
-      "src": [
-        {
-          "t": "SportsAdda – Karun Nair's unbeaten 155 saved Karnataka against Andhra (match drawn)",
-          "u": "https://www.sportsadda.asia/cricket/news/karnataka-were-43-for-3-and-still-101-behind-and-karun-nairs-unbeaten-155-saved-them-against-andhra/"
-        }
-      ]
-    },
-    {
-      "t": "16:08",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Bengal beat Delhi by 9 wickets at Kalyani, chasing 89 on Day 4 (89/1); Andhra 82/4 chasing 194 v Karnataka with a draw looming.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 4 live: Bengal defeat Delhi by nine wickets",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2340,6 +2426,14 @@
       "meta": "Cricket · Raipur",
       "time": "19:00",
       "match": "indw-zimw-t20-1"
+    },
+    {
+      "d": "17",
+      "mo": "OCT",
+      "title": "World Juniors SF: Jagsher Khangurra v Radithya Bayu Wardhana",
+      "meta": "Badminton · Cairo",
+      "time": "TBC",
+      "match": "wjc-jagsher-sf"
     },
     {
       "d": "17",
