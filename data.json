@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T05:06:00+05:30",
+  "lastUpdated": "2026-10-15T12:05:37+05:30",
   "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo rifle finals",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -1883,7 +1883,7 @@
     {
       "sport": "Cricket",
       "name": "Ranji Trophy 2026-27",
-      "status": "Round 1 done · next round TBC",
+      "status": "Round 1 done · Round 2 from 18 Oct",
       "live": false,
       "id": "ranji",
       "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association. Stumps Day 1: Shami took 4/30 as Bengal bowled Delhi out for 240 in Kalyani; Smaran Ravichandran made a hundred on his Karnataka captaincy debut; Punjab v Assam was washed out.",
@@ -1899,6 +1899,10 @@
         {
           "t": "ESPNcricinfo – Duleep Trophy to kick off Indian domestic season; Ranji from Oct 11",
           "u": "https://africa.espn.com/cricket/story/_/id/48833167/duleep-trophy-kick-indian-domestic-season-two-phase-ranji-trophy-starts-october-11"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026-27 schedule",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
         }
       ],
       "india": true,
