@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T13:35:07+05:30",
+  "lastUpdated": "2026-10-15T14:36:44+05:30",
   "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo rifle finals",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -22,11 +22,15 @@
         "-5"
       ],
       "when": "2026-10-15",
-      "status": "Round 1 in progress",
-      "scoreAt": "2026-10-15T13:28:51+05:30",
+      "status": "Suspended · thunder & lightning",
+      "scoreAt": "2026-10-15T14:36:44+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Om Prakash Chouhan is the best-placed Indian (T7, −3 thru 13); Saptak Talwar and Yuvraj Sandhu −1. Tom McKibbin and Eugenio Lopez-Chacarra lead at −5; Rory McIlroy −2, Tommy Fleetwood −3.",
+      "note": "Round 1 suspended around 12:30 IST because of thunder and lightning in Delhi. Om Prakash Chouhan is the best-placed Indian (T7, −3 thru 13); Saptak Talwar and Yuvraj Sandhu −1. Tom McKibbin (thru 16) and Eugenio Lopez-Chacarra (thru 15) lead at −5; Fleetwood −3, McIlroy −2.",
       "src": [
+        {
+          "t": "The42 – McKibbin joint leader as play suspended due to bad weather in India",
+          "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
+        },
         {
           "t": "BBC Sport – DP World Tour leaderboard",
           "u": "https://www.bbc.com/sport/golf/leaderboard"
@@ -2031,7 +2035,7 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "Live · Round 1 · till 18 Oct",
+      "status": "Live · Round 1 suspended (weather) · till 18 Oct",
       "live": true,
       "india": true,
       "note": "DP World Tour event at Delhi Golf Club, New Delhi, with a US$4 million prize fund; Round 1 on Thu 15 Oct. Om Prakash Chouhan the best Indian early in Round 1 (−3).",
@@ -2050,12 +2054,18 @@
   ],
   "feed": [
     {
-      "t": "13:25",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "12:32",
+      "tag": "NEWS",
+      "c": "var(--accent)",
       "m": "Golf",
       "match": "dpwic-r1",
-      "text": "DP World India Championship, Round 1: Om Prakash Chouhan is −3 through 13 holes, two off the lead of Tom McKibbin and Eugenio Lopez-Chacarra (−5) at Delhi Golf Club; McIlroy −2."
+      "text": "DP World India Championship: Round 1 suspended at Delhi Golf Club due to thunder and lightning — Om Prakash Chouhan −3 thru 13, two off joint leaders McKibbin and Lopez-Chacarra (−5).",
+      "src": [
+        {
+          "t": "The42 – play suspended due to bad weather in India",
+          "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
+        }
+      ]
     },
     {
       "t": "05:05",
