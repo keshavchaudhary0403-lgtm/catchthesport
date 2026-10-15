@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T21:04:50+05:30",
+  "lastUpdated": "2026-10-15T21:35:57+05:30",
   "dayLabel": "Thu 15 Oct · Jagsher assures World Juniors medal · Tanvi v Li 23:05",
   "featured": "den-tanvi-li",
   "matches": [
@@ -1737,8 +1737,8 @@
         "#E4572E"
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "MAS",
+        "Pearly Tan/Thinaah Muralitharan (2)",
         ""
       ],
       "when": "2026-10-16",
@@ -1747,8 +1747,12 @@
       "watch": [
         "FanCode"
       ],
-      "note": "Friday quarter-final against the winner of Pearly Tan/Thinaah Muralitharan (MAS) v Yeung Nga Ting/Yeung Pui Lam (HKG); court time not confirmed yet.",
+      "note": "Friday quarter-final against Malaysia's second seeds Pearly Tan/Thinaah Muralitharan, who beat Hong Kong's Yeung Nga Ting/Yeung Pui Lam in the R16; court time not confirmed yet.",
       "src": [
+        {
+          "t": "New Indian Express – Treesa-Gayatri march into Denmark Open quarterfinals (to meet No. 2 seeds Pearly Tan/Thinaah)",
+          "u": "https://www.google.com/search?q=Treesa-Gayatri+march+into+Denmark+Open+quarterfinals+New+Indian+Express"
+        },
         {
           "t": "Sportstar – Treesa-Gayatri beat fifth seeds to reach quarterfinals",
           "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-treesa-jolly-gayatri-gopichand-beat-fifth-seeds-to-reach-quarterfinals/article71588340.ece"
@@ -1918,11 +1922,19 @@
       "india": true,
       "big": false,
       "venue": "Cairo, Egypt",
-      "note": "Medal already assured; India's only boys' singles gold at the World Juniors is still awaited (Saina Nehwal won the girls' title in 2008). Time TBC.",
+      "note": "Medal already assured. Reports differ on the day (most say Saturday 17 Oct, some Friday 16 Oct); time TBC. India's only boys' singles gold at the World Juniors is still awaited (Saina Nehwal won the girls' title in 2008).",
       "src": [
         {
           "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
           "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
+        },
+        {
+          "t": "New Indian Express – Jagsher assured of medal after reaching semis (SF on Saturday)",
+          "u": "https://www.newindianexpress.com/sport/other/"
+        },
+        {
+          "t": "India Today – Meet Jagsher Khangurra (SF on Friday)",
+          "u": "https://www.indiatoday.in/sports/badminton"
         }
       ]
     }
@@ -2159,7 +2171,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Thursday R16: Treesa/Gayatri beat fifth seeds Rose/Setianingrum 21-16 21-17 to reach the QF; Srikanth (v Lanier) and Ashmita (v Yamaguchi) lost; Tanvi v Yvonne Li not before 23:05 IST. FanCode streams, no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. Thursday R16: Treesa/Gayatri beat fifth seeds Rose/Setianingrum 21-16 21-17 to reach the QF, where they meet second seeds Pearly Tan/Thinaah Muralitharan on Friday; Srikanth (v Lanier) and Ashmita (v Yamaguchi) lost; Tanvi v Yvonne Li not before 23:05 IST. FanCode streams, no TV telecast confirmed.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2219,9 +2231,42 @@
           "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
         }
       ]
+    },
+    {
+      "id": "apg-2026",
+      "sport": "Multi-sport",
+      "name": "Asian Para Games 2026, Aichi-Nagoya",
+      "status": "18–24 Oct · Japan",
+      "live": false,
+      "india": true,
+      "note": "5th Asian Para Games: 492 events in 18 sports, opening 18 Oct at Paloma Mizuho Stadium, Nagoya. India have named 168 athletes; at Hangzhou 2022 India won 111 medals (29 gold) — their best haul.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Asian Para Games",
+          "u": "https://en.wikipedia.org/wiki/2026_Asian_Para_Games"
+        },
+        {
+          "t": "Sportstar – India at Para Asian Games 2026: full list of athletes",
+          "u": "https://sportstar.thehindu.com/asian-games-2026/"
+        }
+      ]
     }
   ],
   "feed": [
+    {
+      "t": "21:30",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Denmark Open: Treesa Jolly/Gayatri Gopichand will face Malaysia's second seeds Pearly Tan/Thinaah Muralitharan in Friday's quarter-final.",
+      "match": "den-treesa-qf",
+      "src": [
+        {
+          "t": "New Indian Express – Treesa-Gayatri march into Denmark Open quarterfinals (to meet No. 2 seeds Pearly Tan/Thinaah)",
+          "u": "https://www.google.com/search?q=Treesa-Gayatri+march+into+Denmark+Open+quarterfinals+New+Indian+Express"
+        }
+      ]
+    },
     {
       "t": "20:08",
       "tag": "WIN",
@@ -2432,7 +2477,7 @@
     {
       "d": "16",
       "mo": "OCT",
-      "title": "Denmark Open QF: Treesa/Gayatri v TBC",
+      "title": "Denmark Open QF: Treesa/Gayatri v Pearly Tan/Thinaah",
       "meta": "Badminton · Odense",
       "time": "TBC",
       "match": "den-treesa-qf"
