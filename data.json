@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T22:35:13+05:30",
-  "dayLabel": "Thu 15 Oct · Jagsher assures World Juniors medal · Tanvi v Li ~23:25",
+  "lastUpdated": "2026-10-15T23:35:09+05:30",
+  "dayLabel": "Thu 15 Oct · Jagsher assures World Juniors medal · Tanvi v Li ~23:40",
   "featured": "den-tanvi-li",
   "matches": [
     {
@@ -720,6 +720,42 @@
         {
           "t": "Esquire India – India v New Zealand T20I series: schedule and live streaming",
           "u": "https://www.esquireindia.co.in/culture/sports/india-vs-new-zealand-t20i-series-2026-squad-announced-check-full-players-list-scheudle-match-timings-live-streaming-sonylive-sony-sports"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
+    },
+    {
+      "id": "nz-ind-t20-3",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "New Zealand v India",
+      "round": "3rd T20I",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-10-27T12:30:00+05:30",
+      "venue": "Hnry Stadium (Sky Stadium), Wellington",
+      "note": "3rd of five T20Is (day-night, 8 pm local).",
+      "src": [
+        {
+          "t": "BCCI – NZL v IND, 3rd T20I, 27 Oct match centre",
+          "u": "https://www.bcci.tv/matches/new-zealand-vs-india"
+        },
+        {
+          "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
         }
       ],
       "watch": [
@@ -1721,8 +1757,8 @@
         "Yvonne Li",
         ""
       ],
-      "when": "2026-10-15T23:25:00+05:30",
-      "note": "Court 2. BWF's order of play said not before 23:05 IST; Google's live listing now shows about 11:25 pm IST as earlier matches run late. Li beat PV Sindhu in round one."
+      "when": "2026-10-15T23:40:00+05:30",
+      "note": "Court 2. BWF's order of play said not before 23:05 IST; Google's live listing now shows about 11:40 pm IST as earlier matches run late. Li beat PV Sindhu in round one."
     },
     {
       "id": "den-treesa-qf",
@@ -2471,7 +2507,7 @@
       "mo": "OCT",
       "title": "Denmark Open R16: Tanvi Sharma v Yvonne Li",
       "meta": "Badminton · Odense",
-      "time": "23:25",
+      "time": "23:40",
       "match": "den-tanvi-li"
     },
     {
