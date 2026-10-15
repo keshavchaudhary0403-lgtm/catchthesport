@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-15T14:36:44+05:30",
-  "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo rifle finals",
+  "lastUpdated": "2026-10-15T15:37:19+05:30",
+  "dayLabel": "Thu 15 Oct · India v WI T20I decider Sat in Bengaluru · Four Indians in Denmark Open R16 · Cairo air rifle final 18:00",
   "featured": "ind-wi-t20-5",
   "matches": [
     {
@@ -22,11 +22,19 @@
         "-5"
       ],
       "when": "2026-10-15",
-      "status": "Suspended · thunder & lightning",
-      "scoreAt": "2026-10-15T14:36:44+05:30",
+      "status": "Suspended · not before 15:45",
+      "scoreAt": "2026-10-15T15:37:19+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Round 1 suspended around 12:30 IST because of thunder and lightning in Delhi. Om Prakash Chouhan is the best-placed Indian (T7, −3 thru 13); Saptak Talwar and Yuvraj Sandhu −1. Tom McKibbin (thru 16) and Eugenio Lopez-Chacarra (thru 15) lead at −5; Fleetwood −3, McIlroy −2.",
+      "note": "Round 1 suspended at 11:04 IST because of thunder and lightning in Delhi; the DP World Tour says play will not resume before 15:45 IST. Om Prakash Chouhan is the best-placed Indian (−3 thru 13); Saptak Talwar and Yuvraj Sandhu −1. Tom McKibbin (thru 16) and Eugenio Lopez-Chacarra (thru 15) lead at −5; MacIntyre −4, Fleetwood −3, McIlroy −2.",
       "src": [
+        {
+          "t": "DP World Tour on X – round one will not resume before 15:45",
+          "u": "https://x.com/DPWorldTour"
+        },
+        {
+          "t": "Golf Channel – DP World India Championship live scores",
+          "u": "https://www.golfchannel.com/"
+        },
         {
           "t": "The42 – McKibbin joint leader as play suspended due to bad weather in India",
           "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
@@ -276,43 +284,6 @@
       "day": "14 Oct",
       "recent": true,
       "resultAt": "2026-10-14T21:36:07+05:30"
-    },
-    {
-      "id": "issf-cai-m3p",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Shooting",
-      "comp": "ISSF World Cup Cairo",
-      "round": "Men's 50m rifle 3 positions",
-      "a": [
-        "IND",
-        "Kusale / Sheoran / Karmakar",
-        ""
-      ],
-      "b": [
-        "TBC",
-        "Final field",
-        ""
-      ],
-      "when": "2026-10-15T15:30:00+05:30",
-      "venue": "Cairo, Egypt",
-      "note": "Swapnil Kusale, Akhil Sheoran and Adriyan Karmakar are India's medal contenders; final at 15:30 IST.",
-      "watch": [
-        {
-          "n": "Olympics.com",
-          "u": "https://www.olympics.com/"
-        },
-        {
-          "n": "YouTube – ISSF",
-          "u": "https://www.youtube.com/issfchannel"
-        }
-      ],
-      "src": [
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ]
     },
     {
       "id": "indw-zimw-t20-1",
@@ -1768,7 +1739,7 @@
       ],
       "when": "2026-10-15T18:00:00+05:30",
       "venue": "Cairo, Egypt",
-      "note": "Ismita Bhowal, Arya Borse and Khyaty Chaudhary are India's medal contenders; final at 18:00 IST.",
+      "note": "Qualification (two relays from 12:45 and 14:45 IST) under way; top 8 reach the 18:00 IST final. India: Ismita Bhowal, Arya Borse, Khyaty Chaudhary (Shruti and Meghana Sajjanar shoot for ranking points only).",
       "watch": [
         {
           "n": "Olympics.com",
@@ -1780,6 +1751,10 @@
         }
       ],
       "src": [
+        {
+          "t": "ISSF – Cairo World Cup, 10m air rifle women qualification",
+          "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b4152573b303b513b493b313b303b30"
+        },
         {
           "t": "Sunday Guardian – ISSF World Cup Cairo: India schedule",
           "u": "https://sundayguardianlive.com/sports/issf-world-cup-2026-cairo-swapnil-kusale-sarabjot-singh-in-action-full-schedule-indian-shooters-where-to-watch-rifle-pistol-shooting-event-live-302654/"
@@ -2054,16 +2029,29 @@
   ],
   "feed": [
     {
-      "t": "12:32",
+      "t": "11:04",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Golf",
       "match": "dpwic-r1",
-      "text": "DP World India Championship: Round 1 suspended at Delhi Golf Club due to thunder and lightning — Om Prakash Chouhan −3 thru 13, two off joint leaders McKibbin and Lopez-Chacarra (−5).",
+      "text": "DP World India Championship: Round 1 suspended at Delhi Golf Club due to thunder and lightning — no restart before 15:45 IST. Om Prakash Chouhan −3 thru 13, two off joint leaders McKibbin and Lopez-Chacarra (−5).",
       "src": [
         {
           "t": "The42 – play suspended due to bad weather in India",
           "u": "https://www.the42.ie/tom-mckibbin-rory-mcilroy-golf-india-7193831-Oct2026/"
+        }
+      ]
+    },
+    {
+      "t": "11:00",
+      "tag": "OUT",
+      "c": "var(--accent)",
+      "m": "Shooting",
+      "text": "ISSF World Cup Cairo: no Indian in the men's 50m rifle 3 positions final — Akhil Sheoran 23rd (587) and Swapnil Kusale 39th (584) in qualification; Adriyan Karmakar went out in the elimination relay.",
+      "src": [
+        {
+          "t": "ISSF – Cairo World Cup, 50m rifle 3 positions men qualification",
+          "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b5233504d3b313b513b493b313b303b30"
         }
       ]
     },
