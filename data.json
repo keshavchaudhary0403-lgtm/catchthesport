@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T18:51:34+05:30",
-  "dayLabel": "Fri 16 Oct · IND-W v ZIM 7 pm · Tanvi v An Se Young ~7:40 pm · ISL 7:30 pm",
+  "lastUpdated": "2026-10-16T19:37:35+05:30",
+  "dayLabel": "Fri 16 Oct · IND-W v ZIM live · ISL live · Tanvi v An Se Young ~8:20 pm",
   "featured": "indw-zimw-t20-1",
   "matches": [
     {
@@ -278,22 +278,26 @@
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "1st T20I",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "India Women",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        ""
+        "44/1 (7.2)"
       ],
       "when": "2026-10-16T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
       "note": "India won the toss and chose to bowl — Smriti Mandhana's first match as full-time captain. Zimbabwe Women's first tour of India.",
       "src": [
+        {
+          "t": "Google sports – IND-W v ZIM-W 1st T20I live score",
+          "u": "https://www.google.com/search?q=INDW+vs+ZIMW+live+score"
+        },
         {
           "t": "Google – IND-W v ZIM-W 1st T20I: India won the toss, chose to bowl (NDTV, Cricinfo)",
           "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+1st+T20I+Raipur+toss"
@@ -314,11 +318,13 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "status": "Zimbabwe batting",
+      "scoreAt": "2026-10-16T19:37:35+05:30"
     },
     {
       "id": "isl-del-mbsg",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -326,17 +332,21 @@
       "a": [
         "DEL",
         "Sporting Club Delhi",
-        "",
+        "0",
         "#B91C1C"
       ],
       "b": [
         "MBSG",
         "Mohun Bagan SG",
-        "",
+        "0",
         "#166534"
       ],
       "when": "2026-10-16T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google sports – SC Delhi v Mohun Bagan live (0–0, 6')",
+          "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan+ISL+live"
+        },
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
@@ -354,7 +364,9 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "status": "Early minutes",
+      "scoreAt": "2026-10-16T19:37:00+05:30"
     },
     {
       "id": "acgl-goa-regar",
@@ -1794,17 +1806,17 @@
         "An Se Young (1)",
         ""
       ],
-      "when": "2026-10-16T19:40:00+05:30",
+      "when": "2026-10-16T20:20:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
         "FanCode"
       ],
-      "note": "Quarter-final against world No. 1 and top seed An Se Young of South Korea after beating Yvonne Li 21-17 21-19. Google lists 7:40 pm IST; Sportstar expects around 8:20 pm (eighth match on court, so it may slip).",
+      "note": "Quarter-final against world No. 1 and top seed An Se Young of South Korea after beating Yvonne Li 21-17 21-19. Google and Sportstar now list an expected start of about 8:20 pm IST (order of play may slip).",
       "src": [
         {
-          "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 7:40 pm IST",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+vs+An+Se+Young+Denmark+Open+quarterfinal"
+          "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 8:20 pm IST",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarterfinal"
         },
         {
           "t": "Sportstar – Tanvi Sharma vs An Se-young: where to watch the quarterfinal in India",
@@ -2332,6 +2344,22 @@
   ],
   "feed": [
     {
+      "t": "19:00",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women v Zimbabwe, 1st T20I in Raipur under way — Zimbabwe 44/1 after 7.2 overs.",
+      "match": "indw-zimw-t20-1"
+    },
+    {
+      "t": "19:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL: Sporting Club Delhi v Mohun Bagan SG under way at JLN Stadium, Delhi — live on SonyLIV and the ISL YouTube channel.",
+      "match": "isl-del-mbsg"
+    },
+    {
       "t": "18:35",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2515,33 +2543,6 @@
           "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b4152573b303b513b493b313b303b30"
         }
       ]
-    },
-    {
-      "t": "11:00",
-      "tag": "OUT",
-      "c": "var(--accent)",
-      "m": "Shooting",
-      "text": "ISSF World Cup Cairo: no Indian in the men's 50m rifle 3 positions final — Akhil Sheoran 23rd (587) and Swapnil Kusale 39th (584) in qualification; Adriyan Karmakar went out in the elimination relay.",
-      "src": [
-        {
-          "t": "ISSF – Cairo World Cup, 50m rifle 3 positions men qualification",
-          "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b5233504d3b313b513b493b313b303b30"
-        }
-      ]
-    },
-    {
-      "t": "05:05",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open: Treesa Jolly/Gayatri Gopichand reach the women's doubles last 16 (v Rose/Setianingrum); Rutaparna/Swetaparna Panda are out. Srikanth (v Lanier), Tanvi Sharma (v Yvonne Li) and Ashmita Chaliha (v Yamaguchi) play R16 on Thursday.",
-      "match": "den-treesa-rose",
-      "src": [
-        {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2558,7 +2559,7 @@
       "mo": "OCT",
       "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
       "meta": "Badminton · Odense",
-      "time": "19:40",
+      "time": "20:20",
       "match": "den-tanvi-qf"
     },
     {
