@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T20:04:29+05:30",
-  "dayLabel": "Fri 16 Oct · IND-W v ZIM live · ISL live · Tanvi v An Se Young ~8:20 pm",
+  "lastUpdated": "2026-10-16T20:35:19+05:30",
+  "dayLabel": "Fri 16 Oct · IND-W v ZIM live · ISL: Delhi 1-0 MB (HT) · Tanvi v An Se Young ~9 pm",
   "featured": "indw-zimw-t20-1",
   "matches": [
     {
@@ -287,13 +287,17 @@
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        "44/1 (7.2)"
+        "113/4 (19.4)"
       ],
       "when": "2026-10-16T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
       "note": "India won the toss and chose to bowl — Smriti Mandhana's first match as full-time captain. Zimbabwe Women's first tour of India.",
       "src": [
+        {
+          "t": "Google sports – IND-W v ZIM-W 1st T20I live (ZIM 113/4, 19.4 ov)",
+          "u": "https://www.google.com/search?q=INDW+vs+ZIMW+live+score"
+        },
         {
           "t": "Google sports – IND-W v ZIM-W 1st T20I live score",
           "u": "https://www.google.com/search?q=INDW+vs+ZIMW+live+score"
@@ -319,8 +323,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "Zimbabwe batting",
-      "scoreAt": "2026-10-16T19:37:35+05:30"
+      "status": "Last over of ZIM innings",
+      "scoreAt": "2026-10-16T20:35:19+05:30"
     },
     {
       "id": "isl-del-mbsg",
@@ -343,6 +347,10 @@
       ],
       "when": "2026-10-16T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google sports – SC Delhi 1–0 Mohun Bagan, half-time (Hnamte 23')",
+          "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan"
+        },
         {
           "t": "Google sports – SC Delhi v Mohun Bagan live (0–0, 6')",
           "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan+ISL+live"
@@ -369,8 +377,9 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "35' · Delhi lead",
-      "scoreAt": "2026-10-16T20:04:29+05:30"
+      "status": "Half-time",
+      "scoreAt": "2026-10-16T20:35:19+05:30",
+      "note": "Lalrinliana Hnamte scored in the 23rd minute to give SC Delhi a 1-0 half-time lead."
     },
     {
       "id": "acgl-goa-regar",
@@ -1810,7 +1819,7 @@
         "An Se Young (1)",
         ""
       ],
-      "when": "2026-10-16T20:20:00+05:30",
+      "when": "2026-10-16T21:00:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
@@ -1818,6 +1827,10 @@
       ],
       "note": "Quarter-final against world No. 1 and top seed An Se Young of South Korea after beating Yvonne Li 21-17 21-19. Google and Sportstar now list an expected start of about 8:20 pm IST (order of play may slip).",
       "src": [
+        {
+          "t": "Google sports – Denmark Open QF An Se Young v Tanvi Sharma, 9:00 pm IST",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarter+final"
+        },
         {
           "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 8:20 pm IST",
           "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarterfinal"
@@ -2348,20 +2361,20 @@
   ],
   "feed": [
     {
+      "t": "20:34",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL half-time: Sporting Club Delhi 1-0 Mohun Bagan SG — Lalrinliana Hnamte scored on 23' at JLN Stadium, Delhi; live on Sony & YouTube",
+      "match": "isl-del-mbsg"
+    },
+    {
       "t": "19:00",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
-      "text": "India Women v Zimbabwe, 1st T20I in Raipur under way — Zimbabwe 44/1 after 7.2 overs.",
+      "text": "India Women v Zimbabwe, 1st T20I in Raipur: Zimbabwe 113/4 after 19.4 overs — India need around 114 to win.",
       "match": "indw-zimw-t20-1"
-    },
-    {
-      "t": "20:04",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ISL: Sporting Club Delhi lead Mohun Bagan SG 1-0 at JLN Stadium, Delhi (Hnamte reported scorer) — live on SonyLIV.",
-      "match": "isl-del-mbsg"
     },
     {
       "t": "18:35",
@@ -2563,7 +2576,7 @@
       "mo": "OCT",
       "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
       "meta": "Badminton · Odense",
-      "time": "20:20",
+      "time": "21:00",
       "match": "den-tanvi-qf"
     },
     {
