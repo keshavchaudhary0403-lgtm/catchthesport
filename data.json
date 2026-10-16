@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T20:35:19+05:30",
-  "dayLabel": "Fri 16 Oct · IND-W v ZIM live · ISL: Delhi 1-0 MB (HT) · Tanvi v An Se Young ~9 pm",
+  "lastUpdated": "2026-10-16T21:36:24+05:30",
+  "dayLabel": "Fri 16 Oct · IND-W chasing 115 v ZIM · ISL: MB beat Delhi 2-1 · Tanvi v An Se Young ~9:35 pm",
   "featured": "indw-zimw-t20-1",
   "matches": [
     {
@@ -282,25 +282,25 @@
       "a": [
         "IND",
         "India Women",
-        "Yet to bat"
+        "60/4 (9.1)"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        "113/4 (19.4)"
+        "114/5 (20)"
       ],
       "when": "2026-10-16T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "India won the toss and chose to bowl — Smriti Mandhana's first match as full-time captain. Zimbabwe Women's first tour of India.",
+      "note": "Zimbabwe made 114/5 after India chose to bowl in Raipur; India slipped to 27/4 in the chase before Deepti Sharma and Niki Prasad steadied it. Smriti Mandhana's first match as full-time captain.",
       "src": [
         {
-          "t": "Google sports – IND-W v ZIM-W 1st T20I live (ZIM 113/4, 19.4 ov)",
+          "t": "Google – INDW v ZIMW live score",
           "u": "https://www.google.com/search?q=INDW+vs+ZIMW+live+score"
         },
         {
-          "t": "Google sports – IND-W v ZIM-W 1st T20I live score",
-          "u": "https://www.google.com/search?q=INDW+vs+ZIMW+live+score"
+          "t": "Outlook India – IND-W v ZIM-W live, 1st T20I",
+          "u": "https://www.outlookindia.com/sports/cricket"
         },
         {
           "t": "Google – IND-W v ZIM-W 1st T20I: India won the toss, chose to bowl (NDTV, Cricinfo)",
@@ -323,12 +323,12 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "Last over of ZIM innings",
-      "scoreAt": "2026-10-16T20:35:19+05:30"
+      "status": "India need 55 off 65",
+      "scoreAt": "2026-10-16T21:36:24+05:30"
     },
     {
       "id": "isl-del-mbsg",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -342,11 +342,19 @@
       "b": [
         "MBSG",
         "Mohun Bagan SG",
-        "0",
+        "2",
         "#166534"
       ],
       "when": "2026-10-16T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google – SC Delhi v Mohun Bagan (full-time)",
+          "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan+ISL+score"
+        },
+        {
+          "t": "Sportstar – Mohun Bagan vs SC Delhi live",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
+        },
         {
           "t": "Google sports – SC Delhi 1–0 Mohun Bagan, half-time (Hnamte 23')",
           "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan"
@@ -377,9 +385,11 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-16T20:35:19+05:30",
-      "note": "Lalrinliana Hnamte scored in the 23rd minute to give SC Delhi a 1-0 half-time lead."
+      "note": "Lalrinliana Hnamte put Delhi ahead on 23' and they led at half-time; Mohun Bagan came back to win 2-1 (Google lists Lee Erwin and Miguel Figueira as scorers).",
+      "win": "b",
+      "day": "16 Oct",
+      "recent": true,
+      "resultAt": "2026-10-16T21:36:24+05:30"
     },
     {
       "id": "acgl-goa-regar",
@@ -1819,7 +1829,7 @@
         "An Se Young (1)",
         ""
       ],
-      "when": "2026-10-16T21:00:00+05:30",
+      "when": "2026-10-16T21:35:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
@@ -2361,34 +2371,28 @@
   ],
   "feed": [
     {
-      "t": "20:34",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ISL half-time: Sporting Club Delhi 1-0 Mohun Bagan SG — Lalrinliana Hnamte scored on 23' at JLN Stadium, Delhi; live on Sony & YouTube",
-      "match": "isl-del-mbsg"
-    },
-    {
-      "t": "19:00",
+      "t": "21:36",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
-      "text": "India Women v Zimbabwe, 1st T20I in Raipur: Zimbabwe 113/4 after 19.4 overs — India need around 114 to win.",
+      "text": "India Women v Zimbabwe, 1st T20I: India 60/4 after 9.1 overs chasing 115 — Deepti Sharma and Niki Prasad rebuilding after a 27/4 collapse.",
       "match": "indw-zimw-t20-1"
     },
     {
-      "t": "18:35",
+      "t": "21:20",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "ISL: Mohun Bagan SG come from behind to beat Sporting Club Delhi 2-1 in Delhi after Lalrinliana Hnamte's 23rd-minute opener.",
+      "match": "isl-del-mbsg"
+    },
+    {
+      "t": "20:55",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Cricket",
-      "text": "India Women win the toss and bowl first against Zimbabwe in the 1st T20I in Raipur — Smriti Mandhana's first match as full-time captain.",
-      "match": "indw-zimw-t20-1",
-      "src": [
-        {
-          "t": "Google – IND-W v ZIM-W toss (NDTV, Cricinfo)",
-          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+1st+T20I+Raipur+toss"
-        }
-      ]
+      "text": "Zimbabwe Women post 114/5 in 20 overs in Raipur — India need 115 to win the 1st T20I.",
+      "match": "indw-zimw-t20-1"
     },
     {
       "t": "17:54",
@@ -2576,7 +2580,7 @@
       "mo": "OCT",
       "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
       "meta": "Badminton · Odense",
-      "time": "21:00",
+      "time": "21:35",
       "match": "den-tanvi-qf"
     },
     {
