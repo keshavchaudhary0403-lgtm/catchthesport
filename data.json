@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T19:37:35+05:30",
+  "lastUpdated": "2026-10-16T20:04:29+05:30",
   "dayLabel": "Fri 16 Oct · IND-W v ZIM live · ISL live · Tanvi v An Se Young ~8:20 pm",
   "featured": "indw-zimw-t20-1",
   "matches": [
@@ -332,7 +332,7 @@
       "a": [
         "DEL",
         "Sporting Club Delhi",
-        "0",
+        "1",
         "#B91C1C"
       ],
       "b": [
@@ -354,6 +354,10 @@
         {
           "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        },
+        {
+          "t": "SportyTrader – SC Delhi v Mohun Bagan live",
+          "u": "https://www.sportytrader.com/en/results-live/sc-delhi-atk-mohun-bagan-8861418/"
         }
       ],
       "venue": "JLN Stadium, Delhi",
@@ -365,8 +369,8 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "Early minutes",
-      "scoreAt": "2026-10-16T19:37:00+05:30"
+      "status": "35' · Delhi lead",
+      "scoreAt": "2026-10-16T20:04:29+05:30"
     },
     {
       "id": "acgl-goa-regar",
@@ -2352,11 +2356,11 @@
       "match": "indw-zimw-t20-1"
     },
     {
-      "t": "19:30",
+      "t": "20:04",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Football",
-      "text": "ISL: Sporting Club Delhi v Mohun Bagan SG under way at JLN Stadium, Delhi — live on SonyLIV and the ISL YouTube channel.",
+      "text": "ISL: Sporting Club Delhi lead Mohun Bagan SG 1-0 at JLN Stadium, Delhi (Hnamte reported scorer) — live on SonyLIV.",
       "match": "isl-del-mbsg"
     },
     {
