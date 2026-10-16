@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-10-16T09:36:04+05:30",
-  "dayLabel": "Fri 16 Oct · Treesa/Gayatri 3:45 pm, Tanvi v An Se Young 5:25 pm · IND-W v ZIM 7 pm",
-  "featured": "den-treesa-qf",
+  "lastUpdated": "2026-10-16T18:51:34+05:30",
+  "dayLabel": "Fri 16 Oct · IND-W v ZIM 7 pm · Tanvi v An Se Young ~7:40 pm · ISL 7:30 pm",
+  "featured": "indw-zimw-t20-1",
   "matches": [
     {
       "id": "dpwic-r1",
       "sport": "Golf",
       "comp": "DP World India Championship",
-      "round": "Round 1",
+      "round": "Round 2",
       "st": "live",
       "india": true,
       "big": true,
       "a": [
         "IND",
         "Om Prakash Chouhan",
-        "-4 (68)"
+        "-4 (R2: E thru 2)"
       ],
       "b": [
         "TBC",
-        "Leader: Niklas Nørgaard",
-        "-6 (66)"
+        "Leaders: Hidalgo, Meronk, Luiten, Detry",
+        "-8"
       ],
       "when": "2026-10-15",
-      "status": "Round 1 resumed · in progress",
-      "scoreAt": "2026-10-16T09:36:04+05:30",
+      "status": "R2 suspended (darkness) · restarts 06:45 Sat",
+      "scoreAt": "2026-10-16T18:51:34+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Rain-hit Round 1 resumed at 6:45 am IST Friday after Thursday's lightning stoppage. Om Prakash Chouhan (68) is the best Indian, tied 5th on −4; Nørgaard leads on −6 from McKibbin, Detry and Chacarra (−5). Saptak Talwar −1 (71); Anirban Lahiri −1 through 15.",
+      "note": "Round 1 finished Friday morning: Om Prakash Chouhan 68 (T8). Round 2 was suspended for darkness at 5:54 pm IST and restarts 6:45 am Saturday. Chouhan (−4, level par through 2) is T17. Angel Hidalgo, Adrian Meronk and Joost Luiten are in at −8; Thomas Detry also −8 through 6. Anirban Lahiri −1 (done), Saptak Talwar −1 through 7; Nørgaard −5 through 2, McIlroy −4 through 4.",
       "src": [
         {
-          "t": "DP World Tour – DP World India Championship leaderboard (Round 1, live)",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+          "t": "DP World Tour – DP World India Championship leaderboard (Round 2)",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
         },
         {
-          "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
-          "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
+          "t": "ESPN – DP World Tour leaderboard (Round 1 final scores)",
+          "u": "https://www.espn.com/golf/leaderboard/_/tour/eur"
         }
       ]
     },
@@ -292,8 +292,12 @@
       "when": "2026-10-16T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "Smriti Mandhana's first series as full-time captain (Shafali Verma vice-captain); Harmanpreet Kaur stays in the squad. Zimbabwe Women's first tour of India.",
+      "note": "India won the toss and chose to bowl — Smriti Mandhana's first match as full-time captain. Zimbabwe Women's first tour of India.",
       "src": [
+        {
+          "t": "Google – IND-W v ZIM-W 1st T20I: India won the toss, chose to bowl (NDTV, Cricinfo)",
+          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+1st+T20I+Raipur+toss"
+        },
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
           "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
@@ -1790,25 +1794,21 @@
         "An Se Young (1)",
         ""
       ],
-      "when": "2026-10-16T17:25:00+05:30",
+      "when": "2026-10-16T19:40:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
         "FanCode"
       ],
-      "note": "Friday quarter-final after beating Yvonne Li 21-17 21-19; faces world No. 1 and top seed An Se Young of South Korea. Listed for 5:25 pm IST (11:55 UTC).",
+      "note": "Quarter-final against world No. 1 and top seed An Se Young of South Korea after beating Yvonne Li 21-17 21-19. Google lists 7:40 pm IST; Sportstar expects around 8:20 pm (eighth match on court, so it may slip).",
       "src": [
         {
-          "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 5:25 pm IST",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open"
+          "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 7:40 pm IST",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+vs+An+Se+Young+Denmark+Open+quarterfinal"
         },
         {
-          "t": "RevSportz – Treesa-Gayatri and Tanvi reach Denmark Open quarterfinals",
-          "u": "https://revsportz.in/denmark-open-2026-treesa-gayatri-and-tanvi-reach-quarterfinals-as-srikanth-bows-out/"
-        },
-        {
-          "t": "The Bridge – Treesa-Gayatri, Tanvi Sharma advance to quarterfinals",
-          "u": "https://thebridge.in/badminton/"
+          "t": "Sportstar – Tanvi Sharma vs An Se-young: where to watch the quarterfinal in India",
+          "u": "https://sportstar.thehindu.com/badminton/tanvi-sharma-vs-an-se-young-live-streaming-denmark-open-2026-where-to-watch-india/article71591340.ece"
         }
       ]
     },
@@ -1817,43 +1817,36 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's doubles · QF",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Treesa Jolly/Gayatri Gopichand",
-        "",
+        "21-14 17-21 11-21",
         "#E4572E"
       ],
       "b": [
         "MAS",
         "Pearly Tan/Thinaah Muralitharan (2)",
-        ""
+        "14-21 21-17 21-11"
       ],
       "when": "2026-10-16T15:45:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "watch": [
-        "FanCode"
-      ],
-      "note": "Friday quarter-final against Malaysia's second seeds Pearly Tan/Thinaah Muralitharan, who beat Hong Kong's Yeung Nga Ting/Yeung Pui Lam 21-12 21-19 in the R16. Listed for 3:45 pm IST.",
+      "note": "Won the first game but lost in three (about 55 minutes) to Malaysia's second seeds and world No. 5 Pearly Tan/Thinaah Muralitharan, who reach the semi-finals.",
       "src": [
         {
-          "t": "Google sports – Denmark Open QF: Treesa/Gayatri v Pearly Tan/Thinaah, 3:45 pm IST",
-          "u": "https://www.google.com/search?q=Pearly+Tan+Thinaah+Denmark+Open+today"
+          "t": "Sportstar – Treesa-Gayatri bow out of Denmark Open after losing to Pearly-Thinaah in quarterfinal",
+          "u": "https://sportstar.thehindu.com/badminton/treesa-jolly-gayatri-pullela-loses-in-denmark-open-after-losing-to-malayasias-duo-quarterfinals/article71592224.ece"
         },
         {
-          "t": "New Indian Express – Treesa-Gayatri march into Denmark Open quarterfinals (to meet No. 2 seeds Pearly Tan/Thinaah)",
-          "u": "https://www.google.com/search?q=Treesa-Gayatri+march+into+Denmark+Open+quarterfinals+New+Indian+Express"
-        },
-        {
-          "t": "Sportstar – Treesa-Gayatri beat fifth seeds to reach quarterfinals",
-          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-treesa-jolly-gayatri-gopichand-beat-fifth-seeds-to-reach-quarterfinals/article71588340.ece"
-        },
-        {
-          "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
-          "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
+          "t": "The Star / Free Malaysia Today – Pearly-Thinaah fight back to reach semis (via Google)",
+          "u": "https://www.google.com/search?q=Pearly-Thinaah+fight+back+to+reach+semis+in+Odense"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "16 Oct",
+      "recent": true,
+      "resultAt": "2026-10-16T18:51:34+05:30"
     },
     {
       "id": "act-ind-ban",
@@ -1999,36 +1992,33 @@
       "sport": "Badminton",
       "comp": "BWF World Junior Championships",
       "round": "Boys' singles · SF",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Jagsher Singh Khangurra (14)",
-        ""
+        "6-15 15-13 3-15"
       ],
       "b": [
         "INA",
         "Radithya Bayu Wardhana (31)",
-        ""
+        "15-6 13-15 15-3"
       ],
-      "when": "2026-10-17",
+      "when": "2026-10-16",
       "india": true,
       "big": false,
       "venue": "Cairo, Egypt",
-      "note": "Medal already assured. Reports differ on the day (most say Saturday 17 Oct, some Friday 16 Oct); time TBC. India's only boys' singles gold at the World Juniors is still awaited (Saina Nehwal won the girls' title in 2008).",
+      "note": "Bronze for the 15-year-old: lost the semi-final in three games (49 min) to Indonesia's Radithya Bayu Wardhana after winning the second. India's seventh individual bronze in Cairo (13 medals overall: 1 gold, 5 silver, 7 bronze).",
       "src": [
         {
-          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
-          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
-        },
-        {
-          "t": "New Indian Express – Jagsher assured of medal after reaching semis (SF on Saturday)",
-          "u": "https://www.newindianexpress.com/sport/other/"
-        },
-        {
-          "t": "India Today – Meet Jagsher Khangurra (SF on Friday)",
-          "u": "https://www.indiatoday.in/sports/badminton"
+          "t": "Sportstar – Jagsher Khangurra settles for bronze at BWF World Junior Championships",
+          "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "16 Oct",
+      "recent": true,
+      "resultAt": "2026-10-16T18:51:34+05:30",
+      "gold": false
     }
   ],
   "competitions": [
@@ -2056,8 +2046,8 @@
       "id": "indw-zimw",
       "sport": "Cricket",
       "name": "India Women v Zimbabwe Women",
-      "status": "Starts 16 Oct · Raipur",
-      "live": false,
+      "status": "Live · T20Is till 20 Oct · Raipur",
+      "live": true,
       "india": true,
       "comp": "India Women v Zimbabwe Women",
       "note": "Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
@@ -2263,7 +2253,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. India have two quarter-finalists on Friday: Tanvi Sharma (beat Yvonne Li 21-17 21-19) and Treesa Jolly/Gayatri Gopichand (v second seeds Pearly Tan/Thinaah Muralitharan). Srikanth (v Lanier) and Ashmita (v Yamaguchi) lost in the R16. FanCode streams, no TV telecast confirmed.",
+      "note": "Super 750 in Odense, 13–18 Oct. Tanvi Sharma plays world No. 1 An Se Young in Friday's QF (~7:40 pm IST). Treesa Jolly/Gayatri Gopichand lost their QF 21-14 17-21 11-21 to second seeds Pearly Tan/Thinaah. FanCode streams.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2288,22 +2278,14 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "Live · Round 1 finishing Fri · till 18 Oct",
+      "status": "Live · R2 resumes Sat 06:45 · till 18 Oct",
       "live": true,
       "india": true,
-      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Round 1 resumed Friday 6:45 am IST after Thursday's weather delays; Om Prakash Chouhan best Indian, T5 on −4. Nørgaard leads on −6.",
+      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Round 2 suspended for darkness Friday; Om Prakash Chouhan best Indian, T17 on −4. Hidalgo, Meronk, Luiten and Detry lead on −8.",
       "src": [
         {
-          "t": "DP World Tour – DP World India Championship leaderboard (Round 1, live)",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
-        },
-        {
-          "t": "Olympics.com – DP World India Championship 2026: schedule and where to watch",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "DP World Tour – DP World India Championship, 15–18 Oct 2026",
-          "u": "https://www.europeantour.com/dpworld-tour/"
+          "t": "DP World Tour – leaderboard (Round 2)",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
         }
       ],
       "comp": "DP World India Championship"
@@ -2316,11 +2298,11 @@
       "status": "Live · individual events this week",
       "live": true,
       "india": true,
-      "note": "15 Oct: Jagsher Singh Khangurra reached the boys' singles semi-finals (medal assured); semi-final v Indonesia's Radithya Bayu Wardhana on Saturday. Shaina Manimuthu lost in the girls' singles QF.",
+      "note": "Jagsher Singh Khangurra won boys' singles bronze (lost SF 6-15 15-13 3-15 to Radithya Bayu Wardhana on 16 Oct). Shaina Manimuthu lost in the girls' singles QF.",
       "src": [
         {
-          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
-          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
+          "t": "Sportstar – Jagsher settles for bronze",
+          "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
         }
       ]
     },
@@ -2350,16 +2332,58 @@
   ],
   "feed": [
     {
-      "t": "06:45",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "18:35",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "India Women win the toss and bowl first against Zimbabwe in the 1st T20I in Raipur — Smriti Mandhana's first match as full-time captain.",
+      "match": "indw-zimw-t20-1",
+      "src": [
+        {
+          "t": "Google – IND-W v ZIM-W toss (NDTV, Cricinfo)",
+          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+1st+T20I+Raipur+toss"
+        }
+      ]
+    },
+    {
+      "t": "17:54",
+      "tag": "NEWS",
+      "c": "var(--accent)",
       "m": "Golf",
-      "text": "DP World India Championship: Round 1 resumes at Delhi Golf Club after Thursday's lightning delay — Om Prakash Chouhan tied 5th on −4, two behind leader Niklas Nørgaard.",
+      "text": "DP World India Championship: Round 2 suspended for darkness, resumes 6:45 am Saturday — Om Prakash Chouhan T17 on −4; Hidalgo, Meronk, Luiten and Detry lead on −8.",
       "match": "dpwic-r1",
       "src": [
         {
-          "t": "DP World Tour – DP World India Championship leaderboard (Round 1, live)",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+          "t": "DP World Tour – leaderboard (Round 2)",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
+        }
+      ]
+    },
+    {
+      "t": "17:50",
+      "tag": "BRONZE",
+      "c": "var(--bronze)",
+      "m": "Badminton",
+      "text": "World Junior Championships: Jagsher Singh Khangurra takes bronze after losing his boys' singles semi-final 6-15 15-13 3-15 to Indonesia's Radithya Bayu Wardhana.",
+      "match": "wjc-jagsher-sf",
+      "src": [
+        {
+          "t": "Sportstar – Jagsher settles for bronze",
+          "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
+        }
+      ]
+    },
+    {
+      "t": "17:45",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open QF: Treesa Jolly/Gayatri Gopichand lose 21-14 17-21 11-21 to Malaysia's second seeds Pearly Tan/Thinaah Muralitharan after taking the first game.",
+      "match": "den-treesa-qf",
+      "src": [
+        {
+          "t": "Sportstar – Treesa-Gayatri bow out of Denmark Open",
+          "u": "https://sportstar.thehindu.com/badminton/treesa-jolly-gayatri-pullela-loses-in-denmark-open-after-losing-to-malayasias-duo-quarterfinals/article71592224.ece"
         }
       ]
     },
@@ -2518,70 +2542,9 @@
           "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
         }
       ]
-    },
-    {
-      "t": "14:30",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Denmark Open: Ashmita Chaliha beats Bulgaria's Kaloyana Nalbantova 21-18 22-20 to reach the last 16; she meets Japan's Akane Yamaguchi next.",
-      "match": "den-ashmita-nalb",
-      "src": [
-        {
-          "t": "Sports News Portal – Denmark Open Day 2",
-          "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
-        }
-      ]
-    },
-    {
-      "t": "22:59",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-4",
-      "text": "India lose the 4th T20I to West Indies by 24 runs in Hyderabad — bowled out for 223 chasing 248 as Keemo Paul takes 5/41 after Shai Hope's 102*. Series level 2–2; decider in Bengaluru on Saturday.",
-      "src": [
-        {
-          "t": "UNI – Hope century, Paul five-for give WI 24-run win",
-          "u": "https://www.uniindia.com/sports/sports-foruth-t20i-windies-victorious/214203"
-        }
-      ]
-    },
-    {
-      "t": "15:13",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Asian Games",
-      "text": "PM Narendra Modi will meet India's Asian Games 2026 contingent (85 medals: 21 gold, 27 silver, 37 bronze) at Major Dhyan Chand National Stadium, New Delhi, on Thu 15 Oct around 4:30 pm.",
-      "src": [
-        {
-          "t": "PIB – PM to interact with Asian Games 2026 contingent on 15 October",
-          "u": "https://www.pib.gov.in/"
-        },
-        {
-          "t": "NDTV Sports – PM Modi to honour India's Asian Games stars on 15 Oct",
-          "u": "https://sports.ndtv.com/"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "16",
-      "mo": "OCT",
-      "title": "Denmark Open QF: Treesa/Gayatri v Pearly Tan/Thinaah",
-      "meta": "Badminton · Odense",
-      "time": "15:45",
-      "match": "den-treesa-qf"
-    },
-    {
-      "d": "16",
-      "mo": "OCT",
-      "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
-      "meta": "Badminton · Odense",
-      "time": "17:25",
-      "match": "den-tanvi-qf"
-    },
     {
       "d": "16",
       "mo": "OCT",
@@ -2591,20 +2554,20 @@
       "match": "indw-zimw-t20-1"
     },
     {
+      "d": "16",
+      "mo": "OCT",
+      "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
+      "meta": "Badminton · Odense",
+      "time": "19:40",
+      "match": "den-tanvi-qf"
+    },
+    {
       "d": "17",
       "mo": "OCT",
       "title": "India v West Indies, 5th T20I (decider)",
       "meta": "Cricket · Bengaluru",
       "time": "19:00",
       "match": "ind-wi-t20-5"
-    },
-    {
-      "d": "17",
-      "mo": "OCT",
-      "title": "World Juniors SF: Jagsher Khangurra v Radithya Bayu Wardhana",
-      "meta": "Badminton · Cairo",
-      "time": "TBC",
-      "match": "wjc-jagsher-sf"
     },
     {
       "d": "18",
@@ -2637,6 +2600,22 @@
       "meta": "Cricket · Vadodara",
       "time": "19:00",
       "match": "indw-zimw-odi-1"
+    },
+    {
+      "d": "24",
+      "mo": "OCT",
+      "title": "New Zealand v India, 2nd T20I",
+      "meta": "Cricket · Hagley Oval, Christchurch",
+      "time": "12:30",
+      "match": "nz-ind-t20-2"
+    },
+    {
+      "d": "25",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 2nd ODI",
+      "meta": "Cricket · Kotambi Stadium, Vadodara",
+      "time": "19:00",
+      "match": "indw-zimw-odi-2"
     },
     {
       "d": "27",
