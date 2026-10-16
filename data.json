@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T00:36:46+05:30",
-  "dayLabel": "Fri 16 Oct · Tanvi & Treesa/Gayatri in Denmark Open QFs · IND-W v ZIM 7 pm",
+  "lastUpdated": "2026-10-16T08:05:13+05:30",
+  "dayLabel": "Fri 16 Oct · Tanvi v An Se Young, Treesa/Gayatri in Denmark Open QFs · IND-W v ZIM 7 pm",
   "featured": "den-treesa-qf",
   "matches": [
     {
@@ -301,6 +301,10 @@
         {
           "t": "Wisden – IND-W v ZIM-W T20Is live-streaming details",
           "u": "https://www.wisden.com/cricket-news/ind-w-vs-zim-w-t20is-all-you-need-to-know-full-schedule-squads-venues-and-live-streaming-details"
+        },
+        {
+          "t": "CricTracker – IND-W v ZIM-W broadcasters (7 pm IST, JioStar/JioHotstar)",
+          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
         }
       ],
       "watch": [
@@ -1782,8 +1786,8 @@
         "#E4572E"
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "KOR",
+        "An Se Young (1)",
         ""
       ],
       "when": "2026-10-16",
@@ -1792,11 +1796,11 @@
       "watch": [
         "FanCode"
       ],
-      "note": "Friday quarter-final after beating Yvonne Li; opponent and court time not confirmed yet.",
+      "note": "Friday quarter-final after beating Yvonne Li; faces world No. 1 An Se Young of South Korea. Court time not confirmed yet.",
       "src": [
         {
-          "t": "Google Sports results – Tanvi Sharma v Yvonne Li (final: 21-17 21-19)",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
+          "t": "RevSportz – Treesa-Gayatri and Tanvi reach Denmark Open quarterfinals",
+          "u": "https://revsportz.in/denmark-open-2026-treesa-gayatri-and-tanvi-reach-quarterfinals-as-srikanth-bows-out/"
         }
       ]
     },
@@ -2551,7 +2555,7 @@
     {
       "d": "16",
       "mo": "OCT",
-      "title": "Denmark Open QF: Tanvi Sharma v TBC",
+      "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
       "meta": "Badminton · Odense",
       "time": "TBC",
       "match": "den-tanvi-qf"
