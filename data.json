@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-16T21:36:24+05:30",
-  "dayLabel": "Fri 16 Oct · IND-W chasing 115 v ZIM · ISL: MB beat Delhi 2-1 · Tanvi v An Se Young ~9:35 pm",
-  "featured": "indw-zimw-t20-1",
+  "lastUpdated": "2026-10-16T22:37:06+05:30",
+  "dayLabel": "Fri 16 Oct · IND-W beat ZIM by 4 wkts · Tanvi out to An Se Young · India v WI T20I decider Sat 7 pm",
+  "featured": "ind-wi-t20-5",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -278,11 +278,11 @@
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "1st T20I",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "India Women",
-        "60/4 (9.1)"
+        "116/6 (15.4)"
       ],
       "b": [
         "ZIM",
@@ -292,19 +292,15 @@
       "when": "2026-10-16T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "Zimbabwe made 114/5 after India chose to bowl in Raipur; India slipped to 27/4 in the chase before Deepti Sharma and Niki Prasad steadied it. Smriti Mandhana's first match as full-time captain.",
+      "note": "India won by 4 wickets with 26 balls to spare to lead the series 1-0. From 19/4 (Nyasha Gwanzura 3-18), Deepti Sharma (49) and debutant Niki Prasad (39*) added 82; earlier Sharne Mayers 43* and Ndhlovu 42 for Zimbabwe, Nandni Sharma 2-11. Mandhana's first match as full-time captain.",
       "src": [
         {
-          "t": "Google – INDW v ZIMW live score",
-          "u": "https://www.google.com/search?q=INDW+vs+ZIMW+live+score"
+          "t": "ESPNcricinfo – Deepti Sharma and Niki Prasad seal nervy chase of 115 for India",
+          "u": "https://www.espncricinfo.com/series/zimbabwe-women-in-india-2026-27-1535648/india-women-vs-zimbabwe-women-1st-t20i-1535652/match-report"
         },
         {
-          "t": "Outlook India – IND-W v ZIM-W live, 1st T20I",
-          "u": "https://www.outlookindia.com/sports/cricket"
-        },
-        {
-          "t": "Google – IND-W v ZIM-W 1st T20I: India won the toss, chose to bowl (NDTV, Cricinfo)",
-          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+1st+T20I+Raipur+toss"
+          "t": "Google – IND-W v ZIM-W 1st T20I result (India Today, Hindustan Times)",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+T20I+result"
         },
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
@@ -323,8 +319,10 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "India need 55 off 65",
-      "scoreAt": "2026-10-16T21:36:24+05:30"
+      "win": "a",
+      "day": "16 Oct",
+      "recent": true,
+      "resultAt": "2026-10-16T22:37:06+05:30"
     },
     {
       "id": "isl-del-mbsg",
@@ -1817,39 +1815,40 @@
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
       "round": "Women's singles · QF",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Tanvi Sharma",
-        "",
+        "15-21 13-21",
         "#E4572E"
       ],
       "b": [
         "KOR",
         "An Se Young (1)",
-        ""
+        "21-15 21-13"
       ],
       "when": "2026-10-16T21:35:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
-      "watch": [
-        "FanCode"
-      ],
-      "note": "Quarter-final against world No. 1 and top seed An Se Young of South Korea after beating Yvonne Li 21-17 21-19. Google and Sportstar now list an expected start of about 8:20 pm IST (order of play may slip).",
+      "note": "World No. 1 and top seed An Se Young won in straight games to reach the semi-finals; India's last player in Odense goes out. Tanvi had beaten Natsuki Nidaira and Yvonne Li to make her first Super 750 quarter-final.",
       "src": [
         {
-          "t": "Google sports – Denmark Open QF An Se Young v Tanvi Sharma, 9:00 pm IST",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarter+final"
+          "t": "Google sports – Denmark Open QF final result: An Se Young 21-15 21-13 Tanvi Sharma",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarterfinal"
         },
         {
-          "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 8:20 pm IST",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarterfinal"
+          "t": "Google News (Korean) – OSEN/Xports News: 안세영, 1게임 21-15 (An Se Young takes game 1)",
+          "u": "https://www.google.com/search?q=%EC%95%88%EC%84%B8%EC%98%81+%EC%83%A4%EB%A5%B4%EB%A7%88+%EB%8D%B4%EB%A7%88%ED%81%AC%EC%98%A4%ED%94%88+4%EA%B0%95&tbm=nws"
         },
         {
           "t": "Sportstar – Tanvi Sharma vs An Se-young: where to watch the quarterfinal in India",
           "u": "https://sportstar.thehindu.com/badminton/tanvi-sharma-vs-an-se-young-live-streaming-denmark-open-2026-where-to-watch-india/article71591340.ece"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "16 Oct",
+      "recent": true,
+      "resultAt": "2026-10-16T22:37:06+05:30"
     },
     {
       "id": "den-treesa-qf",
@@ -2089,7 +2088,7 @@
       "live": true,
       "india": true,
       "comp": "India Women v Zimbabwe Women",
-      "note": "Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
+      "note": "India lead 1-0 after a 4-wicket win in the 1st T20I. Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
       "src": [
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
@@ -2292,7 +2291,7 @@
       "status": "13–18 Oct · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. Tanvi Sharma plays world No. 1 An Se Young in Friday's QF (~7:40 pm IST). Treesa Jolly/Gayatri Gopichand lost their QF 21-14 17-21 11-21 to second seeds Pearly Tan/Thinaah. FanCode streams.",
+      "note": "Super 750 in Odense, 13–18 Oct. India's campaign is over: Tanvi Sharma lost her QF 15-21 13-21 to world No. 1 An Se Young, and Treesa Jolly/Gayatri Gopichand lost theirs to second seeds Pearly Tan/Thinaah. FanCode streams.",
       "src": [
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
@@ -2371,11 +2370,19 @@
   ],
   "feed": [
     {
-      "t": "21:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "22:36",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Denmark Open QF: Tanvi Sharma loses 15-21 13-21 to world No. 1 An Se Young — no Indians left in Odense.",
+      "match": "den-tanvi-qf"
+    },
+    {
+      "t": "22:10",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Cricket",
-      "text": "India Women v Zimbabwe, 1st T20I: India 60/4 after 9.1 overs chasing 115 — Deepti Sharma and Niki Prasad rebuilding after a 27/4 collapse.",
+      "text": "India Women beat Zimbabwe by 4 wickets (116/6 in 15.4 ov chasing 115) in the 1st T20I in Raipur — Deepti Sharma 49 and debutant Niki Prasad 39* rescue India from 19/4. India lead 1-0.",
       "match": "indw-zimw-t20-1"
     },
     {
@@ -2385,14 +2392,6 @@
       "m": "Football",
       "text": "ISL: Mohun Bagan SG come from behind to beat Sporting Club Delhi 2-1 in Delhi after Lalrinliana Hnamte's 23rd-minute opener.",
       "match": "isl-del-mbsg"
-    },
-    {
-      "t": "20:55",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Zimbabwe Women post 114/5 in 20 overs in Raipur — India need 115 to win the 1st T20I.",
-      "match": "indw-zimw-t20-1"
     },
     {
       "t": "17:54",
@@ -2551,38 +2550,9 @@
           "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-ashmitha-tanvi-kidambi-srikanth-match-report-news/article71588004.ece"
         }
       ]
-    },
-    {
-      "t": "15:00",
-      "tag": "OUT",
-      "c": "var(--accent)",
-      "m": "Shooting",
-      "text": "ISSF World Cup Cairo: no Indian in the women's 10m air rifle final — Arya Borse 12th (630.7, cut-off 631.1), Khyaty Chaudhary 32nd (627.9), Ismita Bhowal 69th (622.9).",
-      "src": [
-        {
-          "t": "ISSF – Cairo World Cup, 10m air rifle women qualification",
-          "u": "https://www.issf-sports.org/competitions/3289/results/3b3b303b4152573b303b513b493b313b303b30"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "16",
-      "mo": "OCT",
-      "title": "India Women v Zimbabwe, 1st T20I",
-      "meta": "Cricket · Raipur",
-      "time": "19:00",
-      "match": "indw-zimw-t20-1"
-    },
-    {
-      "d": "16",
-      "mo": "OCT",
-      "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
-      "meta": "Badminton · Odense",
-      "time": "21:35",
-      "match": "den-tanvi-qf"
-    },
     {
       "d": "17",
       "mo": "OCT",
@@ -2642,10 +2612,26 @@
     {
       "d": "27",
       "mo": "OCT",
+      "title": "New Zealand v India, 3rd T20I",
+      "meta": "Cricket · Hnry Stadium (Sky Stadium), Wellington",
+      "time": "12:30",
+      "match": "nz-ind-t20-3"
+    },
+    {
+      "d": "27",
+      "mo": "OCT",
       "title": "India v Bangladesh, Asian Champions Trophy",
-      "meta": "Hockey · Jalandhar",
+      "meta": "Cricket · Olympian Surjit Singh Hockey Stadium, Jalandhar",
       "time": "19:00",
       "match": "act-ind-ban"
+    },
+    {
+      "d": "28",
+      "mo": "OCT",
+      "title": "India Women v Zimbabwe, 3rd ODI",
+      "meta": "Cricket · Kotambi Stadium, Vadodara",
+      "time": "19:00",
+      "match": "indw-zimw-odi-3"
     }
   ],
   "players": [
