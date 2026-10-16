@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-16T08:05:13+05:30",
-  "dayLabel": "Fri 16 Oct · Tanvi v An Se Young, Treesa/Gayatri in Denmark Open QFs · IND-W v ZIM 7 pm",
+  "lastUpdated": "2026-10-16T08:35:26+05:30",
+  "dayLabel": "Fri 16 Oct · Treesa/Gayatri 3:45 pm, Tanvi v An Se Young 5:25 pm · IND-W v ZIM 7 pm",
   "featured": "den-treesa-qf",
   "matches": [
     {
@@ -1790,17 +1790,25 @@
         "An Se Young (1)",
         ""
       ],
-      "when": "2026-10-16",
+      "when": "2026-10-16T17:25:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
         "FanCode"
       ],
-      "note": "Friday quarter-final after beating Yvonne Li; faces world No. 1 An Se Young of South Korea. Court time not confirmed yet.",
+      "note": "Friday quarter-final after beating Yvonne Li 21-17 21-19; faces world No. 1 and top seed An Se Young of South Korea. Listed for 5:25 pm IST (11:55 UTC).",
       "src": [
+        {
+          "t": "Google sports – Denmark Open QF: An Se Young v Tanvi Sharma, 5:25 pm IST",
+          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open"
+        },
         {
           "t": "RevSportz – Treesa-Gayatri and Tanvi reach Denmark Open quarterfinals",
           "u": "https://revsportz.in/denmark-open-2026-treesa-gayatri-and-tanvi-reach-quarterfinals-as-srikanth-bows-out/"
+        },
+        {
+          "t": "The Bridge – Treesa-Gayatri, Tanvi Sharma advance to quarterfinals",
+          "u": "https://thebridge.in/badminton/"
         }
       ]
     },
@@ -1821,14 +1829,18 @@
         "Pearly Tan/Thinaah Muralitharan (2)",
         ""
       ],
-      "when": "2026-10-16",
+      "when": "2026-10-16T15:45:00+05:30",
       "india": true,
       "venue": "SJF Bank Arena, Odense",
       "watch": [
         "FanCode"
       ],
-      "note": "Friday quarter-final against Malaysia's second seeds Pearly Tan/Thinaah Muralitharan, who beat Hong Kong's Yeung Nga Ting/Yeung Pui Lam in the R16; court time not confirmed yet.",
+      "note": "Friday quarter-final against Malaysia's second seeds Pearly Tan/Thinaah Muralitharan, who beat Hong Kong's Yeung Nga Ting/Yeung Pui Lam 21-12 21-19 in the R16. Listed for 3:45 pm IST.",
       "src": [
+        {
+          "t": "Google sports – Denmark Open QF: Treesa/Gayatri v Pearly Tan/Thinaah, 3:45 pm IST",
+          "u": "https://www.google.com/search?q=Pearly+Tan+Thinaah+Denmark+Open+today"
+        },
         {
           "t": "New Indian Express – Treesa-Gayatri march into Denmark Open quarterfinals (to meet No. 2 seeds Pearly Tan/Thinaah)",
           "u": "https://www.google.com/search?q=Treesa-Gayatri+march+into+Denmark+Open+quarterfinals+New+Indian+Express"
@@ -2316,11 +2328,15 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "18–24 Oct · Japan",
-      "live": false,
+      "status": "Early events under way · opens 18 Oct, till 24 Oct",
+      "live": true,
       "india": true,
-      "note": "5th Asian Para Games: 492 events in 18 sports, opening 18 Oct at Paloma Mizuho Stadium, Nagoya. India have named 168 athletes; at Hangzhou 2022 India won 111 medals (29 gold) — their best haul.",
+      "note": "5th Asian Para Games: 492 events, opening ceremony 18 Oct in Nagoya; some sports (badminton, table tennis) began on 16 Oct — Prem Kumar won India's badminton opener. India have named 168 athletes; at Hangzhou 2022 India won 111 medals (29 gold) — their best haul.",
       "src": [
+        {
+          "t": "Outlook India – Asian Para Games 2026 live updates: Prem Kumar wins badminton opener",
+          "u": "https://www.google.com/search?q=Outlook+India+Asian+Para+Games+2026+live+updates+Prem+Kumar"
+        },
         {
           "t": "Wikipedia – 2026 Asian Para Games",
           "u": "https://en.wikipedia.org/wiki/2026_Asian_Para_Games"
@@ -2549,7 +2565,7 @@
       "mo": "OCT",
       "title": "Denmark Open QF: Treesa/Gayatri v Pearly Tan/Thinaah",
       "meta": "Badminton · Odense",
-      "time": "TBC",
+      "time": "15:45",
       "match": "den-treesa-qf"
     },
     {
@@ -2557,7 +2573,7 @@
       "mo": "OCT",
       "title": "Denmark Open QF: Tanvi Sharma v An Se Young",
       "meta": "Badminton · Odense",
-      "time": "TBC",
+      "time": "17:25",
       "match": "den-tanvi-qf"
     },
     {
@@ -2571,18 +2587,18 @@
     {
       "d": "17",
       "mo": "OCT",
-      "title": "World Juniors SF: Jagsher Khangurra v Radithya Bayu Wardhana",
-      "meta": "Badminton · Cairo",
-      "time": "TBC",
-      "match": "wjc-jagsher-sf"
-    },
-    {
-      "d": "17",
-      "mo": "OCT",
       "title": "India v West Indies, 5th T20I (decider)",
       "meta": "Cricket · Bengaluru",
       "time": "19:00",
       "match": "ind-wi-t20-5"
+    },
+    {
+      "d": "17",
+      "mo": "OCT",
+      "title": "World Juniors SF: Jagsher Khangurra v Radithya Bayu Wardhana",
+      "meta": "Badminton · Cairo",
+      "time": "TBC",
+      "match": "wjc-jagsher-sf"
     },
     {
       "d": "18",
