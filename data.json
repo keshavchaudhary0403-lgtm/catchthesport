@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T08:35:26+05:30",
+  "lastUpdated": "2026-10-16T09:36:04+05:30",
   "dayLabel": "Fri 16 Oct · Treesa/Gayatri 3:45 pm, Tanvi v An Se Young 5:25 pm · IND-W v ZIM 7 pm",
   "featured": "den-treesa-qf",
   "matches": [
@@ -18,22 +18,22 @@
       ],
       "b": [
         "TBC",
-        "Clubhouse leader: Niklas Nørgaard",
+        "Leader: Niklas Nørgaard",
         "-6 (66)"
       ],
       "when": "2026-10-15",
-      "status": "Play halted for the day",
-      "scoreAt": "2026-10-15T18:38:13+05:30",
+      "status": "Round 1 resumed · in progress",
+      "scoreAt": "2026-10-16T09:36:04+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Rain-hit Day 1: a 5½-hour stoppage, then play called off for the day with many groups yet to finish Round 1. Om Prakash Chouhan (68, six birdies, two bogeys) is the best Indian at −4. Nørgaard leads the clubhouse on −6; Chacarra, McKibbin and Detry −5. Round 1 resumes Friday morning.",
+      "note": "Rain-hit Round 1 resumed at 6:45 am IST Friday after Thursday's lightning stoppage. Om Prakash Chouhan (68) is the best Indian, tied 5th on −4; Nørgaard leads on −6 from McKibbin, Detry and Chacarra (−5). Saptak Talwar −1 (71); Anirban Lahiri −1 through 15.",
       "src": [
+        {
+          "t": "DP World Tour – DP World India Championship leaderboard (Round 1, live)",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+        },
         {
           "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
           "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
-        },
-        {
-          "t": "DP World Tour – DP World India Championship leaderboard",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
         }
       ]
     },
@@ -2288,14 +2288,14 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "Live · Round 1 to finish Fri · till 18 Oct",
+      "status": "Live · Round 1 finishing Fri · till 18 Oct",
       "live": true,
       "india": true,
-      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Rain-hit Round 1 halted for the day; Om Prakash Chouhan best Indian on −4 (68), Nørgaard leads the clubhouse on −6.",
+      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Round 1 resumed Friday 6:45 am IST after Thursday's weather delays; Om Prakash Chouhan best Indian, T5 on −4. Nørgaard leads on −6.",
       "src": [
         {
-          "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
-          "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
+          "t": "DP World Tour – DP World India Championship leaderboard (Round 1, live)",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
         },
         {
           "t": "Olympics.com – DP World India Championship 2026: schedule and where to watch",
@@ -2349,6 +2349,20 @@
     }
   ],
   "feed": [
+    {
+      "t": "06:45",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Golf",
+      "text": "DP World India Championship: Round 1 resumes at Delhi Golf Club after Thursday's lightning delay — Om Prakash Chouhan tied 5th on −4, two behind leader Niklas Nørgaard.",
+      "match": "dpwic-r1",
+      "src": [
+        {
+          "t": "DP World Tour – DP World India Championship leaderboard (Round 1, live)",
+          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard"
+        }
+      ]
+    },
     {
       "t": "00:36",
       "tag": "WIN",
@@ -2549,14 +2563,6 @@
           "u": "https://sports.ndtv.com/"
         }
       ]
-    },
-    {
-      "t": "21:31",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "match": "isl-pun-odi",
-      "text": "ISL: Punjab FC beat Odisha FC 2–1 in Delhi — Raphaël Messi Bouli scored in the 1st minute and the winner in the 96th; Thoiba Singh had equalised on 15'."
     }
   ],
   "schedule": [
