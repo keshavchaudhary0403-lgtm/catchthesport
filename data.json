@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T00:35:55+05:30",
+  "lastUpdated": "2026-10-18T01:35:21+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -1655,6 +1655,39 @@
         "DD Sports",
         "SonyLIV"
       ]
+    },
+    {
+      "id": "u23w-amruta-final",
+      "sport": "Wrestling",
+      "comp": "U23 World Wrestling Championships",
+      "round": "Women's 72kg · Final",
+      "st": "result",
+      "a": [
+        "IND",
+        "Amruta Pujari",
+        "0 · pinned"
+      ],
+      "b": [
+        "UKR",
+        "Iryna Zablotska",
+        "6 · won by fall"
+      ],
+      "when": "2026-10-17",
+      "india": true,
+      "big": false,
+      "gold": true,
+      "venue": "Las Vegas, USA",
+      "note": "Silver for Amruta: trailing 0-6 in the 72kg final, she was pinned by Ukraine's Iryna Zablotska. India's third medal in Las Vegas after Vishvajit More (Greco-Roman 55kg silver) and Komal (59kg bronze); Sweety lost the 53kg bronze bout.",
+      "src": [
+        {
+          "t": "Hindustan Times – U-23 Worlds: Amruta Pujari wins silver, India women end with two medals",
+          "u": "https://www.hindustantimes.com/sports/others/u23-world-wrestling-championships-amruta-pujari-wins-silver-india-women-end-campaign-with-two-medals-101792240217034.html"
+        }
+      ],
+      "win": "b",
+      "day": "17 Oct",
+      "recent": true,
+      "resultAt": "2026-10-17T18:27:00+05:30"
     }
   ],
   "competitions": [
@@ -2018,6 +2051,20 @@
       "match": "dpwic-r1"
     },
     {
+      "t": "17 Oct",
+      "tag": "SILVER",
+      "c": "var(--silver)",
+      "m": "Wrestling",
+      "text": "U23 Worlds: Amruta Pujari takes silver in women's 72kg after being pinned by Ukraine's Iryna Zablotska in the final. India finish with 3 medals in Las Vegas (2 silver, 1 bronze).",
+      "match": "u23w-amruta-final",
+      "src": [
+        {
+          "t": "Hindustan Times – U-23 Worlds: Amruta Pujari wins silver, India women end with two medals",
+          "u": "https://www.hindustantimes.com/sports/others/u23-world-wrestling-championships-amruta-pujari-wins-silver-india-women-end-campaign-with-two-medals-101792240217034.html"
+        }
+      ]
+    },
+    {
       "t": "19:00",
       "tag": "DRAW",
       "c": "var(--accent)",
@@ -2096,20 +2143,6 @@
         {
           "t": "Sportstar – Treesa-Gayatri bow out of Denmark Open",
           "u": "https://sportstar.thehindu.com/badminton/treesa-jolly-gayatri-pullela-loses-in-denmark-open-after-losing-to-malayasias-duo-quarterfinals/article71592224.ece"
-        }
-      ]
-    },
-    {
-      "t": "00:36",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Denmark Open R16: Tanvi Sharma beats Germany's Yvonne Li 21-17 21-19 to reach the quarter-finals — Li had knocked out PV Sindhu in round one.",
-      "match": "den-tanvi-li",
-      "src": [
-        {
-          "t": "Google Sports results – Tanvi Sharma v Yvonne Li (final: 21-17 21-19)",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
         }
       ]
     }
