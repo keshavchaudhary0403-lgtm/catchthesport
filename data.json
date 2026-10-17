@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-17T22:05:04+05:30",
-  "dayLabel": "Sat 17 Oct · IND v WI decider live (9 overs) · ISL: BFC 2-0 Chennaiyin · ACGL: Goa 1-2 Regar-TadAZ",
-  "featured": "ind-wi-t20-5",
+  "lastUpdated": "2026-10-17T22:35:18+05:30",
+  "dayLabel": "Sat 17 Oct · IND v WI decider washed out, series 2–2 · ISL: BFC 2-0 Chennaiyin · Next: IND W v ZIM W Sun 7 pm",
+  "featured": "indw-zimw-t20-2",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -393,7 +393,7 @@
     },
     {
       "id": "ind-wi-t20-5",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "India v West Indies",
@@ -401,32 +401,24 @@
       "a": [
         "IND",
         "India",
-        "118/4 (7.3)"
+        "118/5 (7.4)"
       ],
       "b": [
         "WI",
         "West Indies",
-        "Yet to bat",
+        "Did not bat",
         "#7B1E3A"
       ],
       "when": "2026-10-17T19:00:00+05:30",
       "venue": "M. Chinnaswamy Stadium, Bengaluru",
       "src": [
         {
-          "t": "Google – live score: IND 45/2 (2.3/9), WI chose to bowl",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
+          "t": "ANI – 5th T20I called off due to rain; series ends 2–2",
+          "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
         },
         {
-          "t": "Google – India Today / Times of India: WI bowl in nine-over shootout, Bhuvneshwar returns",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
-        },
-        {
-          "t": "Google – Indian Express: IND v WI live, rain delays toss",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
-        },
-        {
-          "t": "Google – Hindustan Times: rain persists in Bengaluru",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
+          "t": "Google – sports result: IND 118/5 (7.4/9) v WI, No result",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+result"
         },
         {
           "t": "Outlook India – IND v WI 5th T20I live",
@@ -435,10 +427,6 @@
         {
           "t": "Telangana Today – Bengaluru awaits rain clearance for series decider",
           "u": "https://telanganatoday.com/bengaluru-awaits-rain-clearance-for-series-decider"
-        },
-        {
-          "t": "Spike Today – IND v WI T20I schedule",
-          "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
         }
       ],
       "watch": [
@@ -446,9 +434,10 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "9 overs a side after rain; West Indies chose to bowl. Shreyas Iyer out for 22 (Keemo Paul); Naman Dhir hit 24 off 6 early. Series 2–2.",
-      "status": "India batting · 9-over decider",
-      "scoreAt": "2026-10-17T22:05:04+05:30"
+      "note": "No result — rain ended the 9-over decider after India reached 118/5 in 7.4 overs (Ishan Kishan 30 off 10, Naman Dhir 24* off 6; Springer and Keemo Paul 2 wickets each). Series shared 2–2.",
+      "day": "17 Oct",
+      "recent": true,
+      "resultAt": "2026-10-17T22:35:18+05:30"
     },
     {
       "id": "isl-bfc-che",
@@ -1873,12 +1862,16 @@
     {
       "sport": "Cricket",
       "name": "India v West Indies",
-      "status": "Live series · till 17 Oct",
-      "live": true,
+      "status": "Concluded · T20I series drawn 2–2",
+      "live": false,
       "india": true,
-      "note": "Five-match T20I series level 2–2 after West Indies won the 4th T20I in Hyderabad by 24 runs; decider at the M. Chinnaswamy Stadium, Bengaluru on 17 Oct.",
+      "note": "Five-match T20I series shared 2–2 after the Bengaluru decider on 17 Oct was washed out with India 118/5 in 7.4 overs.",
       "id": "ind-wi",
       "src": [
+        {
+          "t": "ANI – 5th T20I called off due to rain; series ends 2–2",
+          "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
+        },
         {
           "t": "Wikipedia – West Indies in India 2026-27",
           "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
@@ -2166,6 +2159,20 @@
   ],
   "feed": [
     {
+      "t": "22:29",
+      "tag": "DRAW",
+      "c": "var(--silver)",
+      "m": "Cricket",
+      "text": "India v West Indies 5th T20I called off due to rain with India 118/5 in 7.4 of 9 overs in Bengaluru — no result, and the T20I series is shared 2–2.",
+      "match": "ind-wi-t20-5",
+      "src": [
+        {
+          "t": "ANI – 5th T20I called off due to rain; series ends 2–2",
+          "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
+        }
+      ]
+    },
+    {
       "t": "22:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2306,31 +2313,9 @@
           "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
         }
       ]
-    },
-    {
-      "t": "21:30",
-      "tag": "NEWS",
-      "c": "var(--live-text)",
-      "m": "Badminton",
-      "text": "Denmark Open: Treesa Jolly/Gayatri Gopichand will face Malaysia's second seeds Pearly Tan/Thinaah Muralitharan in Friday's quarter-final.",
-      "match": "den-treesa-qf",
-      "src": [
-        {
-          "t": "New Indian Express – Treesa-Gayatri march into Denmark Open quarterfinals (to meet No. 2 seeds Pearly Tan/Thinaah)",
-          "u": "https://www.google.com/search?q=Treesa-Gayatri+march+into+Denmark+Open+quarterfinals+New+Indian+Express"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "17",
-      "mo": "OCT",
-      "title": "India v West Indies, 5th T20I (decider)",
-      "meta": "Cricket · Bengaluru",
-      "time": "19:00",
-      "match": "ind-wi-t20-5"
-    },
     {
       "d": "18",
       "mo": "OCT",
