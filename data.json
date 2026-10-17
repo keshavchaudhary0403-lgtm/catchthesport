@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T19:05:27+05:30",
-  "dayLabel": "Sat 17 Oct · India v WI T20I decider (toss delayed by rain) · Goa, Kashi, BFC in ISL/AFC action",
+  "lastUpdated": "2026-10-17T20:05:57+05:30",
+  "dayLabel": "Sat 17 Oct · India v WI T20I decider (toss delayed by rain) · ISL: Kashi 1-1 Odisha, BFC v Chennaiyin",
   "featured": "ind-wi-t20-5",
   "matches": [
     {
@@ -14,19 +14,23 @@
       "a": [
         "IND",
         "Om Prakash Chouhan",
-        "-6 (R3: -1 thru 3)"
+        "-5"
       ],
       "b": [
         "TBC",
-        "Leaders: Chacarra -10, Jamieson -9",
-        "-10"
+        "Leader: Chacarra -14 · Hidalgo, Luiten -12",
+        "-14"
       ],
       "when": "2026-10-15",
-      "status": "R3 under way · 36-hole cut at E",
-      "scoreAt": "2026-10-17T14:04:58+05:30",
+      "status": "R3 suspended (dark) · resumes Sun",
+      "scoreAt": "2026-10-17T18:46:00+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Round 2 finished Saturday morning: Eugenio Chacarra (a) leads at −10 from Scott Jamieson −9; Hidalgo, Meronk, Luiten, Detry and Girrbach −8. Om Prakash Chouhan (68-72, −5) was T26 and 1 under through 3 holes of round 3. Other Indians through the cut at level par or better: Yuvraj Sandhu T50 (−1), Anirban Lahiri, Saptak Talwar, Shiv Kapur, Karandeep Kochhar (T61, E). Shubhankar Sharma (+4) and Sachin Baisoya (+1) missed the cut.",
+      "note": "Round 3 suspended for darkness at 5:44 pm; Eugenio Chacarra leads on −14 (7 holes left), two clear of Hidalgo and Luiten (−12); Fleetwood −9, McIlroy −4. Om Prakash Chouhan finished round 3 on −5 overall (T30). Anirban Lahiri −2 (T48), Yuvraj Sandhu E, Shiv Kapur, Karandeep Kochhar and Saptak Talwar E, still playing. Round 3 resumes 6:35 am Sunday, then the final round.",
       "src": [
+        {
+          "t": "ThePrint/PTI – Chacarra opens up two-shot lead as darkness halts third round",
+          "u": "https://theprint.in/sport/chacarra-opens-up-two-shot-lead-as-darkness-halts-third-round-long-sunday-awaits/3074765/"
+        },
         {
           "t": "Golfpost – DP World India Championship leaderboard (Round 3)",
           "u": "https://www.golfpost.de/tournaments/dp-world-tour-dp-world-india-championship-2026/leaderboard/"
@@ -333,7 +337,7 @@
     },
     {
       "id": "isl-kashi-odi",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -341,18 +345,22 @@
       "a": [
         "IKFC",
         "Inter Kashi",
-        "",
+        "1",
         "#F59E0B"
       ],
       "b": [
         "ODI",
         "Odisha FC",
-        "",
+        "1",
         "#7C3AED"
       ],
       "when": "2026-10-17T17:00:00+05:30",
       "venue": "Balewadi, Pune",
       "src": [
+        {
+          "t": "NE India Broadcast – Thoi Singh's late equaliser earns Inter Kashi a point",
+          "u": "https://neindiabroadcast.com/2026/10/17/thoi-singhs-late-equaliser-earns-inter-kashi-a-point-against-odisha-fc/"
+        },
         {
           "t": "ISL – official fixtures & results",
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
@@ -374,7 +382,10 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "note": "Kicked off 5 pm IST. Last report seen: Odisha FC 1-0 up in the second half (goal 57'-59'); final score not yet confirmed."
+      "note": "Inter Kashi 1–1 Odisha FC at Balewadi, Pune: Odisha went ahead through an own goal by Inter Kashi's Pratik Chaudhari (56'); Thoi Singh equalised late in the second half.",
+      "day": "17 Oct",
+      "recent": true,
+      "resultAt": "2026-10-17T20:05:57+05:30"
     },
     {
       "id": "ind-wi-t20-5",
@@ -398,6 +409,14 @@
       "venue": "M. Chinnaswamy Stadium, Bengaluru",
       "src": [
         {
+          "t": "Outlook India – IND v WI 5th T20I live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-5th-t20i-live-score-today-cricket-latest-updates"
+        },
+        {
+          "t": "Telangana Today – Bengaluru awaits rain clearance for series decider",
+          "u": "https://telanganatoday.com/bengaluru-awaits-rain-clearance-for-series-decider"
+        },
+        {
           "t": "Spike Today – IND v WI T20I schedule",
           "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
         },
@@ -415,7 +434,7 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "Series decider at the Chinnaswamy Stadium, Bengaluru. Toss delayed by rain at 7 pm IST; play can start by 7:35 pm with no overs lost."
+      "note": "Series level 2–2; decider at the Chinnaswamy Stadium, Bengaluru. Heavy rain has delayed the toss (scheduled 6:30 pm IST); no play reported as of ~7 pm. India squad led by Shreyas Iyer; Bhuvneshwar Kumar added after Arshdeep Singh's shoulder injury."
     },
     {
       "id": "isl-bfc-che",
@@ -2058,10 +2077,10 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "Live · R2 resumes Sat 06:45 · till 18 Oct",
+      "status": "Live · R3 resumes Sun 06:35 · till 18 Oct",
       "live": true,
       "india": true,
-      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Round 2 suspended for darkness Friday; Om Prakash Chouhan best Indian, T17 on −4. Hidalgo, Meronk, Luiten and Detry lead on −8.",
+      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Chacarra leads on −14 with 7 holes of round 3 left; Om Prakash Chouhan best Indian at −5 (T30); six Indians made the cut.",
       "src": [
         {
           "t": "DP World Tour – leaderboard (Round 2)",
@@ -2111,6 +2130,22 @@
     }
   ],
   "feed": [
+    {
+      "t": "18:46",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Golf",
+      "text": "DP World India Championship: round 3 halted by darkness; Chacarra leads on −14, Om Prakash Chouhan best Indian at −5 (T30). Play resumes 6:35 am Sunday.",
+      "match": "dpwic-r1"
+    },
+    {
+      "t": "19:00",
+      "tag": "DRAW",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "ISL: Inter Kashi 1–1 Odisha FC in Pune — Odisha led through a Pratik Chaudhari own goal (56'); Thoi Singh equalised late.",
+      "match": "isl-kashi-odi"
+    },
     {
       "t": "19:00",
       "tag": "NEWS",
@@ -2270,34 +2305,6 @@
         {
           "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
           "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
-        }
-      ]
-    },
-    {
-      "t": "18:27",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Golf",
-      "text": "DP World India Championship: play called off for the day after a rain-hit Round 1 — Om Prakash Chouhan the best Indian with a 68 (−4); Niklas Nørgaard leads the clubhouse on −6.",
-      "match": "dpwic-r1",
-      "src": [
-        {
-          "t": "Hindustan Times – Norgaard pips Chacarra to take clubhouse lead on rain-hit Day 1",
-          "u": "https://www.hindustantimes.com/sports/others/dp-world-india-c-ship-norgaard-pips-chacarra-to-take-clubhouse-lead-on-rain-hit-day-1-101792068290624.html"
-        }
-      ]
-    },
-    {
-      "t": "17:44",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open R16: Kidambi Srikanth loses 21-11 15-21 15-21 to world champion Alex Lanier after winning the first game.",
-      "match": "den-srikanth-lanier",
-      "src": [
-        {
-          "t": "Sportstar – Srikanth goes down to World Champion Lanier in Denmark Open 2026",
-          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-ashmitha-tanvi-kidambi-srikanth-match-report-news/article71588004.ece"
         }
       ]
     }
