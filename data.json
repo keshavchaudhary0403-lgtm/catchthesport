@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T23:34:51+05:30",
-  "dayLabel": "Sat 17 Oct · IND v WI decider washed out, series 2–2 · ISL: BFC 2-0 Chennaiyin · Next: IND W v ZIM W Sun 7 pm",
+  "lastUpdated": "2026-10-18T00:35:55+05:30",
+  "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
     {
@@ -1483,6 +1483,178 @@
       "recent": true,
       "resultAt": "2026-10-16T18:51:34+05:30",
       "gold": false
+    },
+    {
+      "id": "isl-neu-bfc",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "BFC",
+        "Bengaluru FC",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-10-30T19:30:00+05:30",
+      "venue": "Guwahati",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Khel Now – NorthEast United Phase 1 fixtures",
+          "u": "https://khelnow.com/football"
+        }
+      ]
+    },
+    {
+      "id": "isl-che-kbfc",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "CFC",
+        "Chennaiyin FC",
+        "",
+        "#1D4ED8"
+      ],
+      "b": [
+        "KBFC",
+        "Kerala Blasters",
+        "",
+        "#FACC15"
+      ],
+      "when": "2026-10-31T17:00:00+05:30",
+      "venue": "Jawaharlal Nehru Stadium, Chennai",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Livemint – ISL 2026-27 full Phase 1 schedule",
+          "u": "https://www.livemint.com/sports/football-news"
+        }
+      ]
+    },
+    {
+      "id": "isl-mbsg-pun",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "",
+        "#166534"
+      ],
+      "b": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#DC2626"
+      ],
+      "when": "2026-10-31",
+      "venue": "VYBK, Kolkata",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "Livemint – ISL 2026-27 full Phase 1 schedule",
+          "u": "https://www.livemint.com/sports/football-news"
+        }
+      ]
+    },
+    {
+      "id": "act-jpn-ind",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 3",
+      "st": "upcoming",
+      "a": [
+        "JPN",
+        "Japan",
+        ""
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-10-30T19:00:00+05:30",
+      "india": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "Third of India's five round-robin matches.",
+      "src": [
+        {
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        },
+        {
+          "t": "Sportsdigest – Asian Champions Trophy 2026 schedule & where to watch",
+          "u": "https://sportsdigest.in/?p=226507"
+        },
+        {
+          "t": "Sportstar – Asian Champions Trophy 2026 schedule announced",
+          "u": "https://sportstar.thehindu.com/hockey/"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "DD Sports",
+        "SonyLIV"
+      ]
     }
   ],
   "competitions": [
@@ -2022,6 +2194,14 @@
       "meta": "Cricket · Eden Park, Auckland",
       "time": "12:30",
       "match": "nz-ind-t20-4"
+    },
+    {
+      "d": "30",
+      "mo": "OCT",
+      "title": "Japan v India, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
+      "time": "19:00",
+      "match": "act-jpn-ind"
     }
   ],
   "players": [
