@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T14:04:58+05:30",
-  "dayLabel": "Sat 17 Oct · India v WI T20I decider 7 pm · Goa, Kashi, BFC in ISL/AFC action · DP World R3 under way",
+  "lastUpdated": "2026-10-17T19:05:27+05:30",
+  "dayLabel": "Sat 17 Oct · India v WI T20I decider (toss delayed by rain) · Goa, Kashi, BFC in ISL/AFC action",
   "featured": "ind-wi-t20-5",
   "matches": [
     {
@@ -351,7 +351,7 @@
         "#7C3AED"
       ],
       "when": "2026-10-17T17:00:00+05:30",
-      "venue": "Shree Shivchhatrapati Sports Complex, Pune",
+      "venue": "Balewadi, Pune",
       "src": [
         {
           "t": "ISL – official fixtures & results",
@@ -373,7 +373,8 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "note": "Kicked off 5 pm IST. Last report seen: Odisha FC 1-0 up in the second half (goal 57'-59'); final score not yet confirmed."
     },
     {
       "id": "ind-wi-t20-5",
@@ -414,7 +415,7 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "Series decider — level at 2–2 after West Indies won the 4th T20I in Hyderabad."
+      "note": "Series decider at the Chinnaswamy Stadium, Bengaluru. Toss delayed by rain at 7 pm IST; play can start by 7:35 pm with no overs lost."
     },
     {
       "id": "isl-bfc-che",
@@ -2110,6 +2111,14 @@
     }
   ],
   "feed": [
+    {
+      "t": "19:00",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "India v West Indies 5th T20I decider in Bengaluru: toss delayed by rain at 7 pm IST; play can start by 7:35 pm without losing overs.",
+      "match": "ind-wi-t20-5"
+    },
     {
       "t": "22:36",
       "tag": "LOSS",
