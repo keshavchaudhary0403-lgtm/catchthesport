@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T05:04:34+05:30",
+  "lastUpdated": "2026-10-17T06:04:01+05:30",
   "dayLabel": "Sat 17 Oct · India v WI T20I decider 7 pm · Goa, Kashi, BFC in ISL/AFC action · DP World R2 resumes 6:45 am",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -317,6 +317,10 @@
       "note": "FC Goa's first AFC Challenge League group match; the club lists kick-off at 6:55 pm IST.",
       "src": [
         {
+          "t": "Khel Now – FC Goa v Regar-TadAZ preview",
+          "u": "https://khelnow.com/football/indian-football-afc-challenge-league-2026-27-fc-goa-vs-fc-regar-tadaz-preview"
+        },
+        {
           "t": "FC Goa – AFC Challenge League fixtures (17 Oct v Regar-TadAZ, 20 Oct v Fortis, 6:55 pm IST)",
           "u": "https://www.google.com/search?q=FC+Goa+AFC+Challenge+League+2026-27+fixtures+Fortis+Regar-TadAZ+6:55+PM"
         },
@@ -324,7 +328,8 @@
           "t": "Khel Now – Indian football calendar, October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
-      ]
+      ],
+      "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait"
     },
     {
       "id": "isl-kashi-odi",
