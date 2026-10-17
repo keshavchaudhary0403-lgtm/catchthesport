@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-10-17T06:04:01+05:30",
-  "dayLabel": "Sat 17 Oct · India v WI T20I decider 7 pm · Goa, Kashi, BFC in ISL/AFC action · DP World R2 resumes 6:45 am",
+  "lastUpdated": "2026-10-17T14:04:58+05:30",
+  "dayLabel": "Sat 17 Oct · India v WI T20I decider 7 pm · Goa, Kashi, BFC in ISL/AFC action · DP World R3 under way",
   "featured": "ind-wi-t20-5",
   "matches": [
     {
       "id": "dpwic-r1",
       "sport": "Golf",
       "comp": "DP World India Championship",
-      "round": "Round 2",
+      "round": "Round 3",
       "st": "live",
       "india": true,
       "big": true,
       "a": [
         "IND",
         "Om Prakash Chouhan",
-        "-4 (R2: E thru 2)"
+        "-6 (R3: -1 thru 3)"
       ],
       "b": [
         "TBC",
-        "Leaders: Hidalgo, Meronk, Luiten, Detry",
-        "-8"
+        "Leaders: Chacarra -10, Jamieson -9",
+        "-10"
       ],
       "when": "2026-10-15",
-      "status": "R2 suspended (darkness) · restarts 06:45 Sat",
-      "scoreAt": "2026-10-16T18:51:34+05:30",
+      "status": "R3 under way · 36-hole cut at E",
+      "scoreAt": "2026-10-17T14:04:58+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Round 1 finished Friday morning: Om Prakash Chouhan 68 (T8). Round 2 was suspended for darkness at 5:54 pm IST and restarts 6:45 am Saturday. Chouhan (−4, level par through 2) is T17. Angel Hidalgo, Adrian Meronk and Joost Luiten are in at −8; Thomas Detry also −8 through 6. Anirban Lahiri −1 (done), Saptak Talwar −1 through 7; Nørgaard −5 through 2, McIlroy −4 through 4.",
+      "note": "Round 2 finished Saturday morning: Eugenio Chacarra (a) leads at −10 from Scott Jamieson −9; Hidalgo, Meronk, Luiten, Detry and Girrbach −8. Om Prakash Chouhan (68-72, −5) was T26 and 1 under through 3 holes of round 3. Other Indians through the cut at level par or better: Yuvraj Sandhu T50 (−1), Anirban Lahiri, Saptak Talwar, Shiv Kapur, Karandeep Kochhar (T61, E). Shubhankar Sharma (+4) and Sachin Baisoya (+1) missed the cut.",
       "src": [
         {
-          "t": "DP World Tour – DP World India Championship leaderboard (Round 2)",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
+          "t": "Golfpost – DP World India Championship leaderboard (Round 3)",
+          "u": "https://www.golfpost.de/tournaments/dp-world-tour-dp-world-india-championship-2026/leaderboard/"
         },
         {
-          "t": "ESPN – DP World Tour leaderboard (Round 1 final scores)",
-          "u": "https://www.espn.com/golf/leaderboard/_/tour/eur"
+          "t": "DP World Tour – Round 2 report",
+          "u": "https://www.europeantour.com/dpworld-tour/news/articles/detail/angel-hidalgo-joost-luiten-and-adrian-meronk-top-stacked-leaderboard-in-india-dp-world-india-championship/"
         }
       ]
     },
