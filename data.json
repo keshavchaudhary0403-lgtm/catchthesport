@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T20:05:57+05:30",
-  "dayLabel": "Sat 17 Oct · India v WI T20I decider (toss delayed by rain) · ISL: Kashi 1-1 Odisha, BFC v Chennaiyin",
+  "lastUpdated": "2026-10-17T20:28:07+05:30",
+  "dayLabel": "Sat 17 Oct · IND v WI decider: no toss yet (rain) · ISL: BFC 1-0 Chennaiyin (HT) · ACGL: Goa 1-0 (HT)",
   "featured": "ind-wi-t20-5",
   "matches": [
     {
@@ -300,7 +300,7 @@
     },
     {
       "id": "acgl-goa-regar",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "AFC Challenge League",
@@ -308,32 +308,34 @@
       "a": [
         "FCG",
         "FC Goa",
-        "",
+        "1",
         "#F97316"
       ],
       "b": [
         "REG",
         "Regar-TadAZ",
-        "",
+        "0",
         "#B91C1C"
       ],
       "when": "2026-10-17T18:55:00+05:30",
-      "note": "FC Goa's first AFC Challenge League group match; the club lists kick-off at 6:55 pm IST.",
+      "note": "FC Goa's first AFC Challenge League group match. Chiki scored in the 8th minute; Goa led 1-0 at half-time.",
       "src": [
+        {
+          "t": "Google – Khel Now: HT FC Goa 1-0 FC Regar-TadAZ (Chiki 8')",
+          "u": "https://www.google.com/search?q=FC+Goa+vs+Regar-TadAZ+AFC+Challenge+League"
+        },
+        {
+          "t": "Google – Sofascore: FC Goa v Regar-TadAZ at Fatorda Stadium",
+          "u": "https://www.google.com/search?q=FC+Goa+vs+Regar-TadAZ+AFC+Challenge+League"
+        },
         {
           "t": "Khel Now – FC Goa v Regar-TadAZ preview",
           "u": "https://khelnow.com/football/indian-football-afc-challenge-league-2026-27-fc-goa-vs-fc-regar-tadaz-preview"
-        },
-        {
-          "t": "FC Goa – AFC Challenge League fixtures (17 Oct v Regar-TadAZ, 20 Oct v Fortis, 6:55 pm IST)",
-          "u": "https://www.google.com/search?q=FC+Goa+AFC+Challenge+League+2026-27+fixtures+Fortis+Regar-TadAZ+6:55+PM"
-        },
-        {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ],
-      "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait"
+      "venue": "Fatorda Stadium, Margao",
+      "status": "2nd half",
+      "scoreAt": "2026-10-17T19:46:00+05:30"
     },
     {
       "id": "isl-kashi-odi",
@@ -409,6 +411,14 @@
       "venue": "M. Chinnaswamy Stadium, Bengaluru",
       "src": [
         {
+          "t": "Google – Indian Express: IND v WI live, rain delays toss",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
+        },
+        {
+          "t": "Google – Hindustan Times: rain persists in Bengaluru",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
+        },
+        {
           "t": "Outlook India – IND v WI 5th T20I live",
           "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-5th-t20i-live-score-today-cricket-latest-updates"
         },
@@ -419,14 +429,6 @@
         {
           "t": "Spike Today – IND v WI T20I schedule",
           "u": "https://spiketoday.com/india-vs-west-indies-t20i-schedule-and-start-times/"
-        },
-        {
-          "t": "CricInnings – IND v WI 2026 schedule",
-          "u": "https://cricinnings.in/news/india-vs-west-indies-2026-schedule-full-dates-venues-timings-live-streaming-odi-t20i-series"
-        },
-        {
-          "t": "Outlook India – IND v WI T20I schedule, venues, broadcast",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-t20i-series-full-schedule-2026-27-live-streaming-venues-all-you-need-to-know"
         }
       ],
       "watch": [
@@ -434,11 +436,11 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "Series level 2–2; decider at the Chinnaswamy Stadium, Bengaluru. Heavy rain has delayed the toss (scheduled 6:30 pm IST); no play reported as of ~7 pm. India squad led by Shreyas Iyer; Bhuvneshwar Kumar added after Arshdeep Singh's shoulder injury."
+      "note": "Series level 2–2; decider at the Chinnaswamy Stadium, Bengaluru. Persistent rain has delayed the toss (scheduled 6:30 pm IST); still no toss as of 8:25 pm. India squad led by Shreyas Iyer; Bhuvneshwar Kumar added after Arshdeep Singh's shoulder injury."
     },
     {
       "id": "isl-bfc-che",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -446,17 +448,25 @@
       "a": [
         "BFC",
         "Bengaluru FC",
-        "",
+        "1",
         "#1E3A8A"
       ],
       "b": [
         "CFC",
         "Chennaiyin FC",
-        "",
+        "0",
         "#1D4ED8"
       ],
       "when": "2026-10-17T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google – Outlook India: Bengaluru v Chennaiyin live, ISL 2026-27",
+          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+score"
+        },
+        {
+          "t": "Google – Sportstar: BFC 1-0 CFC, Williams opens scoring",
+          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+score"
+        },
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
@@ -474,7 +484,10 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "status": "Half-time",
+      "scoreAt": "2026-10-17T20:28:07+05:30",
+      "note": "Ryan Williams put Bengaluru ahead in the 24th minute."
     },
     {
       "id": "isl-chu-eb",
@@ -2131,6 +2144,30 @@
   ],
   "feed": [
     {
+      "t": "20:25",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "India v West Indies 5th T20I: still no toss in Bengaluru at 8:25 pm IST as rain persists; overs will be cut if the delay continues.",
+      "match": "ind-wi-t20-5"
+    },
+    {
+      "t": "20:20",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL half-time: Bengaluru FC 1–0 Chennaiyin FC — Ryan Williams scored in the 24th minute.",
+      "match": "isl-bfc-che"
+    },
+    {
+      "t": "19:46",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "AFC Challenge League half-time: FC Goa 1–0 FC Regar-TadAZ at Fatorda — Chiki scored in the 8th minute.",
+      "match": "acgl-goa-regar"
+    },
+    {
       "t": "18:46",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2259,52 +2296,6 @@
         {
           "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
           "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
-        }
-      ]
-    },
-    {
-      "t": "20:36",
-      "tag": "NEWS",
-      "c": "var(--live-text)",
-      "m": "Badminton",
-      "text": "Denmark Open: Treesa/Gayatri will meet the winner of Malaysia's Pearly Tan/Thinaah Muralitharan v Hong Kong's Yeung Nga Ting/Yeung Pui Lam in Friday's quarter-final.",
-      "match": "den-treesa-qf",
-      "src": [
-        {
-          "t": "Sportstar – Treesa-Gayatri beat fifth seeds to reach quarterfinals",
-          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-treesa-jolly-gayatri-gopichand-beat-fifth-seeds-to-reach-quarterfinals/article71588340.ece"
-        }
-      ]
-    },
-    {
-      "t": "19:35",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open R16: Ashmita Chaliha loses 18-21 10-21 to third seed Akane Yamaguchi.",
-      "match": "den-ashmita-yamaguchi",
-      "src": [
-        {
-          "t": "Google Sports results – Chaliha v Yamaguchi (final)",
-          "u": "https://www.google.com/search?q=Ashmita+Chaliha+Yamaguchi+Denmark+Open"
-        }
-      ]
-    },
-    {
-      "t": "19:33",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Denmark Open: Treesa Jolly/Gayatri Gopichand stun fifth seeds Rose/Setianingrum of Indonesia 21-16 21-17 to reach the quarter-finals — India's last pair standing in Odense.",
-      "match": "den-treesa-rose",
-      "src": [
-        {
-          "t": "Tribunnews – Rachel/Febi lose 16-21 17-21 to Jolly/Gayatri (via Google)",
-          "u": "https://www.google.com/search?q=Rachel+Allessya+Febi+Setianingrum+kalah+Treesa+Gayatri+Denmark+Open+2026"
-        },
-        {
-          "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
-          "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
         }
       ]
     }
