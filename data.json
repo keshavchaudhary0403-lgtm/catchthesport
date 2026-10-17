@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T22:35:18+05:30",
+  "lastUpdated": "2026-10-17T23:34:51+05:30",
   "dayLabel": "Sat 17 Oct · IND v WI decider washed out, series 2–2 · ISL: BFC 2-0 Chennaiyin · Next: IND W v ZIM W Sun 7 pm",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -40,147 +40,6 @@
           "u": "https://www.europeantour.com/dpworld-tour/news/articles/detail/angel-hidalgo-joost-luiten-and-adrian-meronk-top-stacked-leaderboard-in-india-dp-world-india-championship/"
         }
       ]
-    },
-    {
-      "id": "acl2-eb-shorta",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "AFC Champions League Two",
-      "round": "Group D",
-      "a": [
-        "EBFC",
-        "East Bengal FC",
-        "2",
-        "#C8102E"
-      ],
-      "b": [
-        "SHR",
-        "Al-Shorta",
-        "3",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-13T19:15:00+05:30",
-      "venue": "Salt Lake Stadium, Kolkata",
-      "watch": [
-        "FanCode"
-      ],
-      "note": "East Bengal lose their ACL Two opener 2–3 at home despite a David Lalhlansanga brace (8', 40') — Al-Shorta (Ahmed Yahya, Hussein Ali, Cucu) scored three, two of them early in the second half.",
-      "src": [
-        {
-          "t": "myKhel – David scores for East Bengal v Al Shorta",
-          "u": "https://www.mykhel.com/football/video-david-lalhlansanga-scores-an-outrageous-goal-for-east-bengal-in-acl-2-match-against-al-shorta-456295.html"
-        },
-        {
-          "t": "Sporticos – East Bengal 2–3 Al Shorta live",
-          "u": "https://sporticos.com/en-gb/match/east-bengal-club-vs-al-shorta"
-        },
-        {
-          "t": "YSScores – Al-Shorta edge East Bengal in AFC Champions League 2",
-          "u": "https://www.ysscores.com/en/news/14069510/al-shorta-edge-east-bengal-in-afc-champions-league-2"
-        }
-      ],
-      "win": "b",
-      "day": "13 Oct",
-      "recent": true,
-      "resultAt": "2026-10-13T22:06:23+05:30"
-    },
-    {
-      "id": "ind-wi-t20-4",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "4th T20I",
-      "a": [
-        "IND",
-        "India",
-        "223 (19.3)"
-      ],
-      "b": [
-        "WI",
-        "West Indies",
-        "247/3 (20)",
-        "#7B1E3A"
-      ],
-      "when": "2026-10-14T19:00:00+05:30",
-      "venue": "Rajiv Gandhi International Stadium, Hyderabad",
-      "src": [
-        {
-          "t": "UNI – Hope century, Paul five-for give WI 24-run win",
-          "u": "https://www.uniindia.com/sports/sports-foruth-t20i-windies-victorious/214203"
-        },
-        {
-          "t": "Outlook India – 4th T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-4th-t20i-live-score-hyderabad-latest-updates"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "West Indies won by 24 runs to level the series 2–2. Shai Hope 102* (50) and Sherfane Rutherford 49* (26) took WI to 247/3; Sanju Samson 56 (23) led India's chase but Keemo Paul's 5/41 bowled India out for 223 (Arshdeep Singh retired hurt). Decider in Bengaluru on 17 Oct.",
-      "win": "b",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T23:36:08+05:30"
-    },
-    {
-      "id": "isl-pun-odi",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 1",
-      "a": [
-        "PFC",
-        "Punjab FC",
-        "2",
-        "#DC2626"
-      ],
-      "b": [
-        "ODI",
-        "Odisha FC",
-        "1",
-        "#7C3AED"
-      ],
-      "when": "2026-10-14T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Google – Punjab 2–1 Odisha, full-time (Messi Bouli 1', 90+6')",
-          "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC"
-        },
-        {
-          "t": "Google – Punjab FC vs Odisha FC live (1–1, 2nd half)",
-          "u": "https://www.google.com/search?q=Punjab+FC+vs+Odisha+FC"
-        },
-        {
-          "t": "ISL – Punjab FC v Odisha FC match centre",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "JLN Stadium, Delhi",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "Raphaël Messi Bouli scored inside the first minute and again in the 6th minute of stoppage time (90+6') to win it 2–1; Thoiba Singh Moirangthem had headed Odisha level on 15'.",
-      "win": "a",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T21:36:07+05:30"
     },
     {
       "id": "indw-zimw-t20-1",
@@ -759,6 +618,42 @@
       ]
     },
     {
+      "id": "nz-ind-t20-4",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "New Zealand v India",
+      "round": "4th T20I",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-10-30T12:30:00+05:30",
+      "venue": "Eden Park, Auckland",
+      "note": "4th of five T20Is (day-night, 8 pm local).",
+      "src": [
+        {
+          "t": "BCCI – NZL v IND, 4th T20I, 30 Oct match centre",
+          "u": "https://www.bcci.tv/matches/new-zealand-vs-india"
+        },
+        {
+          "t": "Cricbuzz – NZ vs IND, 4th T20I match facts",
+          "u": "https://www.cricbuzz.com/cricket-match-facts"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
+    },
+    {
       "id": "isl-pun-mci",
       "sport": "Football",
       "comp": "Indian Super League",
@@ -825,78 +720,6 @@
         }
       ],
       "note": "FC Goa's second AFC Challenge League group match; the club lists kick-off at 6:55 pm IST."
-    },
-    {
-      "id": "den-satwik-chirag",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Men's doubles · R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Satwik/Chirag (5)",
-        "21-12 15-21 19-21",
-        "#E4572E"
-      ],
-      "b": [
-        "CHN",
-        "He Ji Ting/Ren Xiang Yu",
-        "12-21 21-15 21-19"
-      ],
-      "when": "2026-10-14T16:40:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "SJF Bank Arena, Court 1, Odense",
-      "note": "Fifth seeds Satwik/Chirag lose their opener after taking the first game 21-12 — China's He Ji Ting/Ren Xiang Yu win 12-21 21-15 21-19 for their first win over the Indians in four meetings.",
-      "src": [
-        {
-          "t": "Badmintoncn (中羽在线) – He/Ren beat Rankireddy/Shetty 12-21 21-15 21-19",
-          "u": "https://www.badmintoncn.com/"
-        },
-        {
-          "t": "Google – 丹麦公开赛 何济霆 任翔宇 兰基雷迪 (163.com, Sohu reports)",
-          "u": "https://www.google.com/search?q=%E4%B8%B9%E9%BA%A6%E5%85%AC%E5%BC%80%E8%B5%9B+%E4%BD%95%E6%B5%8E%E9%9C%86+%E4%BB%BB%E7%BF%94%E5%AE%87+%E5%85%B0%E5%9F%BA%E9%9B%B7%E8%BF%AA"
-        },
-        {
-          "t": "Olympics.com – Denmark Open 2026: Satwik-Chirag, Ayush Shetty crash out in first round",
-          "u": "https://www.olympics.com/en/news"
-        },
-        {
-          "t": "Sportstar – Satwik-Chirag v He-Ren: when and where to watch",
-          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-vs-he-ren-live-streaming-denmark-open-2026/article71582621.ece"
-        },
-        {
-          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
-          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
-        },
-        {
-          "t": "Google – Denmark Open R32 schedule (Satwik/Chirag tomorrow)",
-          "u": "https://www.google.com/search?q=Denmark+Open+Satwik+Chirag+Wednesday+October+14"
-        },
-        {
-          "t": "IndiaSportsHub – Denmark Open draw change",
-          "u": "https://www.indiasportshub.com/articles/denmark-open-2026-draw-change-opens-door-for-pv-sindhu-vs-tanvi-sharma-clash-in-second-round"
-        },
-        {
-          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
-          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
-        },
-        {
-          "t": "Global Game Guide – Denmark Open 2026: live streams (JioStar rights in India)",
-          "u": "https://www.globalgameguide.com/article/denmark-open-2026-guide"
-        },
-        {
-          "t": "IANS – Denmark Open preview (FanCode, no TV telecast)",
-          "u": "https://ianslive.in/denmark-open-sindhu-faces-daunting-an-se-young-test-satwik-chirag-set-to-return-preview--20261012175401"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "b",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T19:50:23+05:30"
     },
     {
       "id": "indw-zimw-odi-1",
@@ -987,167 +810,6 @@
         "Star Sports Network",
         "JioHotstar"
       ]
-    },
-    {
-      "id": "den-ayush-farhan",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Men's singles · R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Ayush Shetty",
-        "11-21 21-13 10-21",
-        "#E4572E"
-      ],
-      "b": [
-        "INA",
-        "Alwi Farhan",
-        "21-11 13-21 21-10"
-      ],
-      "when": "2026-10-14T14:10:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "SJF Bank Arena, Court 1, Odense",
-      "note": "Ayush Shetty levels the match by taking the second game 21-13 but loses the decider 10-21 to Indonesia's Alwi Farhan in round one.",
-      "src": [
-        {
-          "t": "Google – Ayush Shetty v Alwi Farhan, Denmark Open (final result)",
-          "u": "https://www.google.com/search?q=Ayush+Shetty+Alwi+Farhan+Denmark+Open"
-        },
-        {
-          "t": "Flashscore – Alwi Farhan v Ayush Shetty",
-          "u": "https://www.flashscore.in/"
-        },
-        {
-          "t": "Sportstar – Ayush Shetty v Alwi Farhan: when and where to watch",
-          "u": "https://sportstar.thehindu.com/badminton/"
-        },
-        {
-          "t": "Sunday Guardian – Ayush Shetty v Alwi Farhan: when and where to watch",
-          "u": "https://sundayguardianlive.com/sports/ayush-shetty-vs-alwi-farhan-live-streaming-when-and-where-to-watch-denmark-open-badminton-2026-in-india-305404/"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "b",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T15:36:00+05:30"
-    },
-    {
-      "id": "den-treesa-gayatri",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's doubles · R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Treesa Jolly/Gayatri Gopichand",
-        "22-20 21-14",
-        "#E4572E"
-      ],
-      "b": [
-        "TPE",
-        "Yan Fei Chen/Hsieh Pei Shan",
-        "20-22 14-21"
-      ],
-      "when": "2026-10-14T23:10:00+05:30",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "Treesa and Gayatri beat Chinese Taipei's Yan Fei Chen/Hsieh Pei Shan 22-20 21-14 in 38 minutes to reach the round of 16.",
-      "src": [
-        {
-          "t": "Sportstar – Treesa-Gayatri pair advances to round of 16 (via Google)",
-          "u": "https://www.google.com/search?q=Treesa+Jolly+Gayatri+Gopichand+Denmark+Open+round+of+16+result"
-        },
-        {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        },
-        {
-          "t": "Sportstar – Denmark Open 2026: India's full draw, schedule and where to watch",
-          "u": "https://sportstar.thehindu.com/badminton/denmark-open-indians-in-action-draw-matches-where-to-watch-live-streaming/article71573906.ece"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "a",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T05:05:00+05:30"
-    },
-    {
-      "id": "den-panda-bao-cao",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's doubles · R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Rutaparna Panda/Swetaparna Panda",
-        "Lost"
-      ],
-      "b": [
-        "CHN",
-        "Bao Li Jing/Cao Zi Han (6)",
-        "Won"
-      ],
-      "when": "2026-10-14T23:10:00+05:30",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "The Panda sisters lose to sixth seeds Bao Li Jing/Cao Zi Han of China and are out; the Chinese pair play again on 15 Oct (game scores not yet confirmed).",
-      "src": [
-        {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "b",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T05:05:00+05:30"
-    },
-    {
-      "id": "den-unnati-han",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's singles · R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Unnati Hooda",
-        "21-23 21-16 16-21",
-        "#E4572E"
-      ],
-      "b": [
-        "CHN",
-        "Han Qian Xi",
-        "23-21 16-21 21-16"
-      ],
-      "when": "2026-10-14T15:00:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "Unnati Hooda takes the second game 21-16 but loses the decider 16-21 to China's Han Qian Xi in round one.",
-      "src": [
-        {
-          "t": "Sunday Guardian – Denmark Open 2026 results",
-          "u": "https://sundayguardianlive.com/sports/badminton-bwf-denmark-open-2026-results-satwik-chirag-ayush-shetty-unnati-hooda-crash-out-in-first-round-305669/"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "b",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-14T20:10:27+05:30"
     },
     {
       "id": "isl-kashi-eb",
@@ -1401,41 +1063,6 @@
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
         }
       ]
-    },
-    {
-      "id": "den-ashmita-nalb",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's singles · R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Ashmita Chaliha",
-        "21-18 22-20"
-      ],
-      "b": [
-        "BUL",
-        "Kaloyana Nalbantova",
-        "18-21 20-22"
-      ],
-      "when": "2026-10-14T14:30:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "Ashmita Chaliha beat Bulgaria's Kaloyana Nalbantova in straight games to reach the round of 16.",
-      "src": [
-        {
-          "t": "Sports News Portal – Denmark Open Day 2",
-          "u": "https://revsportz.in/denmark-open-2026-satwik-chirag-suffer-shock-exit-as-indias-struggles-continue-on-day-2/"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "a",
-      "day": "14 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T01:04:39+05:30"
     },
     {
       "id": "den-ashmita-yamaguchi",
@@ -2387,6 +2014,14 @@
       "meta": "Cricket · Kotambi Stadium, Vadodara",
       "time": "19:00",
       "match": "indw-zimw-odi-3"
+    },
+    {
+      "d": "30",
+      "mo": "OCT",
+      "title": "New Zealand v India, 4th T20I",
+      "meta": "Cricket · Eden Park, Auckland",
+      "time": "12:30",
+      "match": "nz-ind-t20-4"
     }
   ],
   "players": [
