@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T21:35:28+05:30",
+  "lastUpdated": "2026-10-17T22:05:04+05:30",
   "dayLabel": "Sat 17 Oct · IND v WI decider live (9 overs) · ISL: BFC 2-0 Chennaiyin · ACGL: Goa 1-2 Regar-TadAZ",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -401,7 +401,7 @@
       "a": [
         "IND",
         "India",
-        "45/2 (2.3)"
+        "118/4 (7.3)"
       ],
       "b": [
         "WI",
@@ -446,9 +446,9 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "Rain delayed the decider at the Chinnaswamy by over two hours; reduced to 9 overs a side. West Indies won the toss and bowled; Bhuvneshwar Kumar returns for India. Series 2-2.",
+      "note": "9 overs a side after rain; West Indies chose to bowl. Shreyas Iyer out for 22 (Keemo Paul); Naman Dhir hit 24 off 6 early. Series 2–2.",
       "status": "India batting · 9-over decider",
-      "scoreAt": "2026-10-17T21:34:00+05:30"
+      "scoreAt": "2026-10-17T22:05:04+05:30"
     },
     {
       "id": "isl-bfc-che",
@@ -2166,6 +2166,14 @@
   ],
   "feed": [
     {
+      "t": "22:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India v West Indies 5th T20I decider: India 118/4 after 7.3 of 9 overs in Bengaluru; Iyer out for 22, Naman Dhir blasts 24 off 6.",
+      "match": "ind-wi-t20-5"
+    },
+    {
       "t": "21:34",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2310,20 +2318,6 @@
         {
           "t": "New Indian Express – Treesa-Gayatri march into Denmark Open quarterfinals (to meet No. 2 seeds Pearly Tan/Thinaah)",
           "u": "https://www.google.com/search?q=Treesa-Gayatri+march+into+Denmark+Open+quarterfinals+New+Indian+Express"
-        }
-      ]
-    },
-    {
-      "t": "20:08",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "World Junior Championships: Jagsher Singh Khangurra beats Chinese Taipei's Yuan-Syue Jhuang 6-15 17-15 15-12 to reach the boys' singles semi-finals — a medal assured for India.",
-      "match": "wjc-jagsher-jhuang",
-      "src": [
-        {
-          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
-          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
         }
       ]
     }
