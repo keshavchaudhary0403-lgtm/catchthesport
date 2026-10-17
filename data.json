@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T01:35:21+05:30",
+  "lastUpdated": "2026-10-18T04:04:34+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -358,6 +358,134 @@
       "day": "17 Oct",
       "recent": true,
       "resultAt": "2026-10-17T21:24:00+05:30"
+    },
+    {
+      "id": "ranji-r2-hp-mum",
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 2 · Group D · 4-day",
+      "st": "upcoming",
+      "a": [
+        "HP",
+        "Himachal Pradesh",
+        ""
+      ],
+      "b": [
+        "MUM",
+        "Mumbai",
+        ""
+      ],
+      "when": "2026-10-18T09:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "HPCA Stadium, Dharamsala",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "src": [
+        {
+          "t": "Wisden – Ranji Trophy 2026-27 schedule",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+        }
+      ]
+    },
+    {
+      "id": "ranji-r2-kar-sau",
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 2 · Group B · 4-day",
+      "st": "upcoming",
+      "a": [
+        "KAR",
+        "Karnataka",
+        ""
+      ],
+      "b": [
+        "SAU",
+        "Saurashtra",
+        ""
+      ],
+      "when": "2026-10-18T09:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "KSCA Cricket Ground, Alur",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "src": [
+        {
+          "t": "Wisden – Ranji Trophy 2026-27 schedule",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+        }
+      ]
+    },
+    {
+      "id": "ranji-r2-tn-utk",
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 2 · Group D · 4-day",
+      "st": "upcoming",
+      "a": [
+        "TN",
+        "Tamil Nadu",
+        ""
+      ],
+      "b": [
+        "UTK",
+        "Uttarakhand",
+        ""
+      ],
+      "when": "2026-10-18T09:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "MA Chidambaram Stadium, Chennai",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "src": [
+        {
+          "t": "Wisden – Ranji Trophy 2026-27 schedule",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+        }
+      ]
+    },
+    {
+      "id": "ranji-r2-del-guj",
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 2 · Group C · 4-day",
+      "st": "upcoming",
+      "a": [
+        "DEL",
+        "Delhi",
+        ""
+      ],
+      "b": [
+        "GUJ",
+        "Gujarat",
+        ""
+      ],
+      "when": "2026-10-18T09:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Palam B Stadium, Delhi",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "src": [
+        {
+          "t": "Wisden – Ranji Trophy 2026-27 schedule",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+        }
+      ]
     },
     {
       "id": "isl-chu-eb",
@@ -1880,23 +2008,11 @@
     {
       "sport": "Cricket",
       "name": "Ranji Trophy 2026-27",
-      "status": "Round 1 done · Round 2 from 18 Oct",
-      "live": false,
+      "status": "Live today · Round 2 from 18 Oct",
+      "live": true,
       "id": "ranji",
       "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association. Stumps Day 1: Shami took 4/30 as Bengal bowled Delhi out for 240 in Kalyani; Smaran Ravichandran made a hundred on his Karnataka captaincy debut; Punjab v Assam was washed out.",
       "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 1 live: Shami picks four for Bengal",
-          "u": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-1-live-score-today-karnataka-mumbai-jammu-and-kashmir-tamil-nadu-highlights-updates/article71570592.ece"
-        },
-        {
-          "t": "Indian Express – India Test batters flop on opening day of Ranji Trophy",
-          "u": "https://indianexpress.com/article/sports/cricket/india-test-batters-rahul-jaiswal-flop-ranji-trophy-2026-season-opener-10916354/"
-        },
-        {
-          "t": "ESPNcricinfo – Duleep Trophy to kick off Indian domestic season; Ranji from Oct 11",
-          "u": "https://africa.espn.com/cricket/story/_/id/48833167/duleep-trophy-kick-indian-domestic-season-two-phase-ranji-trophy-starts-october-11"
-        },
         {
           "t": "Wisden – Ranji Trophy 2026-27 schedule",
           "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
@@ -1969,7 +2085,7 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Early events under way · opens 18 Oct, till 24 Oct",
+      "status": "Opens 18 Oct · till 24 Oct, Aichi-Nagoya",
       "live": true,
       "india": true,
       "note": "5th Asian Para Games: 492 events, opening ceremony 18 Oct in Nagoya; some sports (badminton, table tennis) began on 16 Oct — Prem Kumar won India's badminton opener. India have named 168 athletes; at Hangzhou 2022 India won 111 medals (29 gold) — their best haul.",
@@ -1990,6 +2106,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "04:04",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Round 2 starts today at 9:30 am IST across 16 venues — Himachal v Mumbai in Dharamsala, Karnataka v Saurashtra at Alur, Tamil Nadu v Uttarakhand in Chennai.",
+      "src": [
+        {
+          "t": "Wisden – Ranji Trophy 2026-27 schedule",
+          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+        }
+      ]
+    },
     {
       "t": "22:29",
       "tag": "DRAW",
@@ -2129,20 +2258,6 @@
         {
           "t": "Sportstar – Jagsher settles for bronze",
           "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
-        }
-      ]
-    },
-    {
-      "t": "17:45",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open QF: Treesa Jolly/Gayatri Gopichand lose 21-14 17-21 11-21 to Malaysia's second seeds Pearly Tan/Thinaah Muralitharan after taking the first game.",
-      "match": "den-treesa-qf",
-      "src": [
-        {
-          "t": "Sportstar – Treesa-Gayatri bow out of Denmark Open",
-          "u": "https://sportstar.thehindu.com/badminton/treesa-jolly-gayatri-pullela-loses-in-denmark-open-after-losing-to-malayasias-duo-quarterfinals/article71592224.ece"
         }
       ]
     }
