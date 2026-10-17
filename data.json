@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T20:28:07+05:30",
+  "lastUpdated": "2026-10-17T20:34:54+05:30",
   "dayLabel": "Sat 17 Oct · IND v WI decider: no toss yet (rain) · ISL: BFC 1-0 Chennaiyin (HT) · ACGL: Goa 1-0 (HT)",
   "featured": "ind-wi-t20-5",
   "matches": [
@@ -318,22 +318,18 @@
         "#B91C1C"
       ],
       "when": "2026-10-17T18:55:00+05:30",
-      "note": "FC Goa's first AFC Challenge League group match. Chiki scored in the 8th minute; Goa led 1-0 at half-time.",
+      "note": "FC Goa's first AFC Challenge League group match, played at a centralised venue in Kuwait. Chiki scored in the 8th minute; Goa led 1-0 at half-time.",
       "src": [
         {
           "t": "Google – Khel Now: HT FC Goa 1-0 FC Regar-TadAZ (Chiki 8')",
           "u": "https://www.google.com/search?q=FC+Goa+vs+Regar-TadAZ+AFC+Challenge+League"
         },
         {
-          "t": "Google – Sofascore: FC Goa v Regar-TadAZ at Fatorda Stadium",
-          "u": "https://www.google.com/search?q=FC+Goa+vs+Regar-TadAZ+AFC+Challenge+League"
-        },
-        {
-          "t": "Khel Now – FC Goa v Regar-TadAZ preview",
+          "t": "Khel Now – FC Goa v Regar-TadAZ preview (Mohammed Al-Hamad Stadium, Kuwait)",
           "u": "https://khelnow.com/football/indian-football-afc-challenge-league-2026-27-fc-goa-vs-fc-regar-tadaz-preview"
         }
       ],
-      "venue": "Fatorda Stadium, Margao",
+      "venue": "Mohammed Al-Hamad Stadium, Hawalli (Kuwait)",
       "status": "2nd half",
       "scoreAt": "2026-10-17T19:46:00+05:30"
     },
@@ -436,7 +432,7 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "Series level 2–2; decider at the Chinnaswamy Stadium, Bengaluru. Persistent rain has delayed the toss (scheduled 6:30 pm IST); still no toss as of 8:25 pm. India squad led by Shreyas Iyer; Bhuvneshwar Kumar added after Arshdeep Singh's shoulder injury."
+      "note": "Series level 2–2; decider at the Chinnaswamy Stadium, Bengaluru. Persistent rain has delayed the toss (scheduled 6:30 pm IST); still no toss as of 8:34 pm. India squad led by Shreyas Iyer; Bhuvneshwar Kumar added after Arshdeep Singh's shoulder injury."
     },
     {
       "id": "isl-bfc-che",
@@ -459,6 +455,10 @@
       ],
       "when": "2026-10-17T19:30:00+05:30",
       "src": [
+        {
+          "t": "Google – live score: BFC 1-0 CFC half-time (Ryan Williams 24')",
+          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+FC"
+        },
         {
           "t": "Google – Outlook India: Bengaluru v Chennaiyin live, ISL 2026-27",
           "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+score"
@@ -486,7 +486,7 @@
         }
       ],
       "status": "Half-time",
-      "scoreAt": "2026-10-17T20:28:07+05:30",
+      "scoreAt": "2026-10-17T20:34:00+05:30",
       "note": "Ryan Williams put Bengaluru ahead in the 24th minute."
     },
     {
@@ -2144,12 +2144,18 @@
   ],
   "feed": [
     {
-      "t": "20:25",
+      "t": "20:34",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Cricket",
-      "text": "India v West Indies 5th T20I: still no toss in Bengaluru at 8:25 pm IST as rain persists; overs will be cut if the delay continues.",
-      "match": "ind-wi-t20-5"
+      "match": "ind-wi-t20-5",
+      "text": "India v West Indies 5th T20I: covers still on at the Chinnaswamy at 8:34 pm IST — no toss yet; series level 2–2.",
+      "src": [
+        {
+          "t": "Google – Indian Express / NDTV Sports: rain delays toss in Bengaluru",
+          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+Bengaluru+live+score"
+        }
+      ]
     },
     {
       "t": "20:20",
@@ -2164,7 +2170,7 @@
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Football",
-      "text": "AFC Challenge League half-time: FC Goa 1–0 FC Regar-TadAZ at Fatorda — Chiki scored in the 8th minute.",
+      "text": "AFC Challenge League half-time: FC Goa 1–0 FC Regar-TadAZ in Kuwait — Chiki scored in the 8th minute.",
       "match": "acgl-goa-regar"
     },
     {
