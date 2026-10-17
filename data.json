@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-17T20:34:54+05:30",
-  "dayLabel": "Sat 17 Oct · IND v WI decider: no toss yet (rain) · ISL: BFC 1-0 Chennaiyin (HT) · ACGL: Goa 1-0 (HT)",
+  "lastUpdated": "2026-10-17T21:05:27+05:30",
+  "dayLabel": "Sat 17 Oct · IND v WI decider cut to 9 overs, ~9:15 pm · ISL: BFC 2-0 Chennaiyin (58') · ACGL: Goa 1-0",
   "featured": "ind-wi-t20-5",
   "matches": [
     {
@@ -432,7 +432,9 @@
         "JioHotstar"
       ],
       "big": true,
-      "note": "Series level 2–2; decider at the Chinnaswamy Stadium, Bengaluru. Persistent rain has delayed the toss (scheduled 6:30 pm IST); still no toss as of 8:34 pm. India squad led by Shreyas Iyer; Bhuvneshwar Kumar added after Arshdeep Singh's shoulder injury."
+      "note": "Rain delayed the decider at the Chinnaswamy for over two hours; reduced to 9 overs per side with a 2.4-over powerplay, restart ~9:15 pm IST. West Indies reportedly won the toss and chose to bowl. Series 2-2.",
+      "status": "Delayed · 9 overs a side, start ~9:15 pm",
+      "scoreAt": "2026-10-17T21:03:00+05:30"
     },
     {
       "id": "isl-bfc-che",
@@ -444,7 +446,7 @@
       "a": [
         "BFC",
         "Bengaluru FC",
-        "1",
+        "2",
         "#1E3A8A"
       ],
       "b": [
@@ -485,9 +487,9 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-17T20:34:00+05:30",
-      "note": "Ryan Williams put Bengaluru ahead in the 24th minute."
+      "status": "58' · BFC lead",
+      "scoreAt": "2026-10-17T20:45:00+05:30",
+      "note": "Ryan Williams (24') and Mihailo Perovic (52') scored for Bengaluru FC. Last confirmed score; full-time result not yet found."
     },
     {
       "id": "isl-chu-eb",
