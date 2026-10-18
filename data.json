@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T12:05:48+05:30",
+  "lastUpdated": "2026-10-18T13:04:51+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -364,7 +364,7 @@
       "a": [
         "HP",
         "Himachal Pradesh",
-        "75/3 (17.3)"
+        "95/7 (29)"
       ],
       "b": [
         "MUM",
@@ -378,20 +378,12 @@
       "note": "Round 2 Group D (18–21 Oct). Mumbai won the toss and bowled; Pukhraj Mann 33* and Vaibhav Kalta 22* at the crease for Himachal. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Ranji-Trophy.com.in – HP v MUM live score",
-          "u": "https://ranji-trophy.com.in/score-details/him-vs-mum-group-d/98844/"
-        },
-        {
-          "t": "ESPNcricinfo – HP v MUM, Group D, Bilaspur",
-          "u": "https://www.cricinfo.com/series/ranji-trophy-2026-27-1546521/himachal-pradesh-vs-mumbai-elite-group-d-1546556/live-cricket-score"
-        },
-        {
-          "t": "Wisden – Ranji Trophy 2026-27 schedule",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
       ],
-      "status": "Day 1 · Mumbai chose to bowl",
-      "scoreAt": "2026-10-18T11:10:18+05:30"
+      "status": "Day 1 · lunch · Mumbai 7 up",
+      "scoreAt": "2026-10-18T12:28:00+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -411,7 +403,7 @@
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "status": "Day 1 · lunch · Punjab bat",
-      "scoreAt": "2026-10-18T12:01:00+05:30",
+      "scoreAt": "2026-10-18T12:22:00+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
@@ -488,16 +480,16 @@
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
       "round": "Round 2 · Group C · 4-day",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "DEL",
         "Delhi",
-        ""
+        "58/0 (16)"
       ],
       "b": [
         "GUJ",
         "Gujarat",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -506,10 +498,12 @@
       "note": "Round 2 of the Ranji Trophy begins (18–21 Oct). Broadcast for this match not confirmed; Delhi v Gujarat is reported to have no stream.",
       "src": [
         {
-          "t": "Wisden – Ranji Trophy 2026-27 schedule",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
-      ]
+      ],
+      "status": "Day 1 · Delhi bat first",
+      "scoreAt": "2026-10-18T10:55:00+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -2135,6 +2129,20 @@
   ],
   "feed": [
     {
+      "t": "12:28",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Round 2: Mumbai take seven wickets in the first session — Himachal Pradesh 95/7 at lunch. Delhi were 58/0 after 16 overs against Gujarat (10:55 am).",
+      "match": "ranji-r2-hp-mum",
+      "src": [
+        {
+          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
+        }
+      ]
+    },
+    {
       "t": "12:05",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2279,14 +2287,6 @@
       "m": "Football",
       "text": "ISL: Inter Kashi 1–1 Odisha FC in Pune — Odisha led through a Pratik Chaudhari own goal (56'); Thoi Singh equalised late.",
       "match": "isl-kashi-odi"
-    },
-    {
-      "t": "19:00",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "India v West Indies 5th T20I decider in Bengaluru: toss delayed by rain at 7 pm IST; play can start by 7:35 pm without losing overs.",
-      "match": "ind-wi-t20-5"
     }
   ],
   "schedule": [
