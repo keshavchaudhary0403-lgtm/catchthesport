@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T08:04:50+05:30",
+  "lastUpdated": "2026-10-18T11:10:18+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -364,28 +364,38 @@
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
       "round": "Round 2 · Group D · 4-day",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "HP",
         "Himachal Pradesh",
-        ""
+        "75/3 (17.3)"
       ],
       "b": [
         "MUM",
         "Mumbai",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": true,
-      "venue": "HPCA Stadium, Dharamsala",
-      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct); JioStar/JioHotstar cover selected matches only — this one not confirmed.",
+      "venue": "Luhnu Cricket Ground, Bilaspur",
+      "note": "Round 2 Group D (18–21 Oct). Mumbai won the toss and bowled; Pukhraj Mann 33* and Vaibhav Kalta 22* at the crease for Himachal. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "Ranji-Trophy.com.in – HP v MUM live score",
+          "u": "https://ranji-trophy.com.in/score-details/him-vs-mum-group-d/98844/"
+        },
+        {
+          "t": "ESPNcricinfo – HP v MUM, Group D, Bilaspur",
+          "u": "https://www.cricinfo.com/series/ranji-trophy-2026-27-1546521/himachal-pradesh-vs-mumbai-elite-group-d-1546556/live-cricket-score"
+        },
         {
           "t": "Wisden – Ranji Trophy 2026-27 schedule",
           "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
         }
-      ]
+      ],
+      "status": "Day 1 · Mumbai chose to bowl",
+      "scoreAt": "2026-10-18T11:10:18+05:30"
     },
     {
       "id": "ranji-r2-kar-sau",
@@ -2095,6 +2105,14 @@
   ],
   "feed": [
     {
+      "t": "11:10",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Round 2: Mumbai win the toss and bowl at Bilaspur; Himachal Pradesh 75/3 after 17.3 overs (Pukhraj Mann 33*, Vaibhav Kalta 22*).",
+      "match": "ranji-r2-hp-mum"
+    },
+    {
       "t": "08:05",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2239,14 +2257,6 @@
       "m": "Cricket",
       "text": "India Women beat Zimbabwe by 4 wickets (116/6 in 15.4 ov chasing 115) in the 1st T20I in Raipur — Deepti Sharma 49 and debutant Niki Prasad 39* rescue India from 19/4. India lead 1-0.",
       "match": "indw-zimw-t20-1"
-    },
-    {
-      "t": "21:20",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "ISL: Mohun Bagan SG come from behind to beat Sporting Club Delhi 2-1 in Delhi after Lalrinliana Hnamte's 23rd-minute opener.",
-      "match": "isl-del-mbsg"
     }
   ],
   "schedule": [
