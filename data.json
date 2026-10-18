@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T20:05:58+05:30",
-  "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: East Bengal beat Churchill 4–0, NEU v Kerala 7:30 pm · Ranji R2 day 1",
+  "lastUpdated": "2026-10-18T20:37:35+05:30",
+  "dayLabel": "Sun 18 Oct · LIVE: IND W v ZIM W 2nd T20I (Zim 101/7) · ISL: NEU 2–0 Kerala at HT · Ranji R2 day 1 done",
   "featured": "indw-zimw-t20-2",
   "matches": [
     {
@@ -565,43 +565,45 @@
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "2nd T20I",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "India Women",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        ""
+        "101/7 (19.5)"
       ],
       "when": "2026-10-18T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "2nd of three T20Is in Raipur. Zimbabwe won the toss and chose to bat; both sides unchanged. Live score not confirmed at the time of this update.",
+      "note": "2nd of three T20Is in Raipur; India lead 1–0. Zimbabwe chose to bat and were held to 101/7 — Kranti Gaud, Deepti Sharma and Nandani Sharma among the wicket-takers; Mupachikwa run out for 9.",
       "src": [
+        {
+          "t": "Google – live score card (IND-W v ZIM-W)",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+2nd+T20I+live+score"
+        },
+        {
+          "t": "Outlook India – ZIM-W v IND-W live, 2nd T20I",
+          "u": "https://www.outlookindia.com/sports/cricket"
+        },
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
           "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        },
-        {
-          "t": "Wisden – IND-W v ZIM-W T20Is live-streaming details",
-          "u": "https://www.wisden.com/cricket-news/ind-w-vs-zim-w-t20is-all-you-need-to-know-full-schedule-squads-venues-and-live-streaming-details"
-        },
-        {
-          "t": "Sportstak – IND-W v ZIM-W 2nd T20I live",
-          "u": "https://thesportstak.com/cricket/match/ind-w-vs-zim-w-2nd-t20i-zimbabwe-women-tour-of-india-18-october-2026-270970/live"
         }
       ],
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "status": "Zimbabwe innings ending",
+      "scoreAt": "2026-10-18T20:36:00+05:30"
     },
     {
       "id": "isl-neu-kbfc",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -609,18 +611,26 @@
       "a": [
         "NEU",
         "NorthEast United",
-        "",
+        "2",
         "#C8102E"
       ],
       "b": [
         "KBFC",
         "Kerala Blasters",
-        "",
+        "0",
         "#FACC15"
       ],
       "when": "2026-10-18T19:30:00+05:30",
       "venue": "Indira Gandhi Athletic Stadium, Guwahati",
       "src": [
+        {
+          "t": "Google – live score card (NEU v KBFC)",
+          "u": "https://www.google.com/search?q=NorthEast+United+vs+Kerala+Blasters+live+score+ISL"
+        },
+        {
+          "t": "Sportstar – NEU v KBFC live",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
+        },
         {
           "t": "ISL – official fixtures & results",
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
@@ -637,7 +647,10 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "status": "Half-time",
+      "scoreAt": "2026-10-18T20:36:00+05:30",
+      "note": "Alaaeddine Ajaraie (15') and Antonio Moyano (45+4') put NorthEast 2–0 up against league leaders Kerala Blasters at half-time in Guwahati."
     },
     {
       "id": "indw-zimw-t20-3",
@@ -902,10 +915,18 @@
         "Zimbabwe Women",
         ""
       ],
-      "when": "2026-10-23T19:00:00+05:30",
+      "when": "2026-10-23T14:00:00+05:30",
       "india": true,
       "venue": "Kotambi Stadium, Vadodara",
       "src": [
+        {
+          "t": "BCCI – IND v ZIM match centre",
+          "u": "https://www.bcci.tv/"
+        },
+        {
+          "t": "Google – IND-W v ZIM-W ODI times",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+ODI+23+October+time+venue"
+        },
         {
           "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
           "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
@@ -914,7 +935,8 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": "Day-night ODI at Kotambi Stadium, Vadodara; 2:00 pm IST start per BCCI and ESPNcricinfo."
     },
     {
       "id": "indw-zimw-odi-2",
@@ -932,10 +954,18 @@
         "Zimbabwe Women",
         ""
       ],
-      "when": "2026-10-25T19:00:00+05:30",
+      "when": "2026-10-25T14:00:00+05:30",
       "india": true,
       "venue": "Kotambi Stadium, Vadodara",
       "src": [
+        {
+          "t": "BCCI – IND v ZIM match centre",
+          "u": "https://www.bcci.tv/"
+        },
+        {
+          "t": "Google – IND-W v ZIM-W ODI times",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+ODI+23+October+time+venue"
+        },
         {
           "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
           "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
@@ -944,7 +974,8 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": "Day-night ODI at Kotambi Stadium, Vadodara; 2:00 pm IST start per BCCI and ESPNcricinfo."
     },
     {
       "id": "indw-zimw-odi-3",
@@ -962,10 +993,18 @@
         "Zimbabwe Women",
         ""
       ],
-      "when": "2026-10-28T19:00:00+05:30",
+      "when": "2026-10-28T14:00:00+05:30",
       "india": true,
       "venue": "Kotambi Stadium, Vadodara",
       "src": [
+        {
+          "t": "BCCI – IND v ZIM match centre",
+          "u": "https://www.bcci.tv/"
+        },
+        {
+          "t": "Google – IND-W v ZIM-W ODI times",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+ODI+23+October+time+venue"
+        },
         {
           "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
           "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
@@ -974,7 +1013,8 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": "Day-night ODI at Kotambi Stadium, Vadodara; 2:00 pm IST start per BCCI and ESPNcricinfo."
     },
     {
       "id": "isl-kashi-eb",
@@ -2000,33 +2040,38 @@
     {
       "sport": "Tennis",
       "name": "ATP Shanghai Masters",
-      "status": "Live · qualifying 5–6 Oct, main draw 7–18 Oct",
-      "live": true,
+      "status": "Concluded · Davidovich Fokina won",
+      "live": false,
       "id": "shanghai",
-      "note": "ATP Masters 1000. Zverev top seed; Alcaraz, Djokovic and Medvedev in the field; Sinner withdrew with a knee injury. No Indian in the field per the preview. Round of 128 under way on 7 Oct (Berrettini, Halys, Machac, Hanfmann, Kecmanovic among the winners). Day 1 results: Altmaier d. Rune 1-6 7-6(5) 6-4, Wu Yibing d. Zheng 6-3 7-6(6), Zhou Yi d. Bellucci 6-4 3-6 7-6(4), Fery d. Cilic 7-6(2) 6-1. Next: Zverev v Wu, Musetti v Zhou, Shelton v Altmaier, Khachanov v Fery.",
+      "note": "ATP Masters 1000. Final (18 Oct): Alejandro Davidovich Fokina beat Rafael Jódar 1-6 7-6(5) 6-4 in an all-Spanish final for his first Masters 1000 title. No Indian in the singles draw.",
       "src": [
         {
-          "t": "Tennisnerd – Guide to the 2026 ATP Shanghai Masters",
-          "u": "https://www.tennisnerd.net/news/guide-to-the-2026-atp-shanghai-masters-players-prize-money-schedule/69792"
+          "t": "ATP Tour – Davidovich Fokina stops Jodar for Shanghai title",
+          "u": "https://www.atptour.com/en/news"
         },
         {
-          "t": "ATP Tour – Altmaier escapes Rune, sets Shelton showdown",
-          "u": "https://www.atptour.com/en/news/rune-altmaier-shanghai-2026-wednesday"
+          "t": "Google – Shanghai Masters 2026 final",
+          "u": "https://www.google.com/search?q=Shanghai+Masters+2026+final+result"
         }
       ]
     },
     {
       "sport": "Tennis",
       "name": "WTA Wuhan Open",
-      "status": "12–18 Oct",
+      "status": "Concluded · Chwalińska won",
       "id": "wuhan",
-      "note": "WTA 1000 with the full top 10; Rybakina (world No. 1) and Sabalenka headline.",
+      "note": "WTA 1000. Final (18 Oct): Maja Chwalińska beat Sonay Kartal 2-6 6-4 6-2.",
       "src": [
         {
-          "t": "The Peninsula – Rybakina, Sabalenka headline Wuhan field",
-          "u": "https://thepeninsulaqatar.com/article/18/09/2026/rybakina-sabalenka-headline-wuhan-field"
+          "t": "Olympics.com – Wuhan Open 2026: Chwalińska wins title",
+          "u": "https://www.olympics.com/en/news"
+        },
+        {
+          "t": "Google – Wuhan Open 2026 final",
+          "u": "https://www.google.com/search?q=Wuhan+Open+2026+final"
         }
-      ]
+      ],
+      "live": false
     },
     {
       "sport": "Football",
@@ -2091,11 +2136,15 @@
       "id": "denmark-open",
       "sport": "Badminton",
       "name": "BWF Denmark Open (Super 750)",
-      "status": "13–18 Oct · Odense",
+      "status": "Finals today · Odense",
       "live": true,
       "india": true,
-      "note": "Super 750 in Odense, 13–18 Oct. India's campaign is over: Tanvi Sharma lost her QF 15-21 13-21 to world No. 1 An Se Young, and Treesa Jolly/Gayatri Gopichand lost theirs to second seeds Pearly Tan/Thinaah. FanCode streams.",
+      "note": "Super 750 in Odense. Finals day 18 Oct: An Se Young beat Akane Yamaguchi 21-23 21-14 21-18 to defend the women's singles title; Fajar/Fikri beat Aaron Chia/Soh Wooi Yik in men's doubles; Lanier v Antonsen men's singles final under way. India's campaign ended in the quarter-finals (Tanvi Sharma, Treesa/Gayatri).",
       "src": [
+        {
+          "t": "Google – Denmark Open 2026 finals",
+          "u": "https://www.google.com/search?q=Denmark+Open+2026+final+results"
+        },
         {
           "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
           "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
@@ -2151,18 +2200,18 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Opens today 18 Oct · medals from 19 Oct · till 24 Oct",
+      "status": "Live · till 24 Oct · medals from 19 Oct",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya: opening ceremony today (~4 pm IST, Pramod Bhagat and Simran Sharma India's flag-bearers); para badminton and table tennis group matches under way, first medals on 19 Oct. India named 168 athletes aiming to beat their 111-medal Hangzhou 2022 haul. Opening ceremony on Sony Sports Network, SonyLIV and DD Sports; group matches on the SonyLIV hub.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). Opened 18 Oct; India's medal events begin 19 Oct — para archery from 4:30 am IST, Jaspreet Kaur in the powerlifting women's 45kg final at 1 pm. India target their 111-medal Hangzhou 2022 haul. Sony Sports Network, SonyLIV and DD Sports.",
       "src": [
         {
-          "t": "Yahoo Sports – Asian Para Games 2026 Day One live",
-          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-182038264.html"
+          "t": "ESPN – India at Asian Para Games 2026: schedule for 19 Oct",
+          "u": "https://www.espn.com/espn/story"
         },
         {
-          "t": "Outlook India – Asian Para Games 2026 live updates: Prem Kumar wins badminton opener",
-          "u": "https://www.google.com/search?q=Outlook+India+Asian+Para+Games+2026+live+updates+Prem+Kumar"
+          "t": "Google – India Asian Para Games 19 Oct schedule",
+          "u": "https://www.google.com/search?q=Asian+Para+Games+2026+India+19+October+schedule"
         },
         {
           "t": "Wikipedia – 2026 Asian Para Games",
@@ -2173,9 +2222,66 @@
           "u": "https://sportstar.thehindu.com/asian-games-2026/"
         }
       ]
+    },
+    {
+      "id": "french-open-bwf",
+      "sport": "Badminton",
+      "name": "BWF French Open (Super 750)",
+      "status": "20–25 Oct · Paris",
+      "live": false,
+      "india": true,
+      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v An Se Young, Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 on 20–21 Oct; times TBA.",
+      "src": [
+        {
+          "t": "Sports Digest – French Open 2026 draw: Lakshya, Sindhu, Satwik-Chirag",
+          "u": "https://sportsdigest.in/french-open-2026-draw-full-schedule/226698/"
+        },
+        {
+          "t": "Yonex IFB – Official draw and opening matchups",
+          "u": "https://www.yonexifb.com/"
+        }
+      ]
     }
   ],
   "feed": [
+    {
+      "t": "20:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women v Zimbabwe, 2nd T20I in Raipur: India's bowlers hold Zimbabwe to 101/7 with one ball left in their innings; India lead the series 1–0.",
+      "match": "indw-zimw-t20-2"
+    },
+    {
+      "t": "20:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL half-time: NorthEast United 2–0 Kerala Blasters in Guwahati — Ajaraie (15') and Moyano (45+4').",
+      "match": "isl-neu-kbfc"
+    },
+    {
+      "t": "20:36",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "India Women v Zimbabwe ODIs in Vadodara (23, 25, 28 Oct) start at 2:00 pm IST, per BCCI and ESPNcricinfo.",
+      "match": "indw-zimw-odi-1"
+    },
+    {
+      "t": "18 Oct",
+      "tag": "FINAL",
+      "c": "var(--gold)",
+      "m": "Badminton",
+      "text": "Denmark Open: An Se Young beats Akane Yamaguchi 21-23 21-14 21-18 to defend her title. Next up for Indians: French Open, Paris, from 20 Oct (Sindhu v An Se Young in R32)."
+    },
+    {
+      "t": "18 Oct",
+      "tag": "FINAL",
+      "c": "var(--gold)",
+      "m": "Tennis",
+      "text": "Shanghai Masters: Alejandro Davidovich Fokina beats Rafael Jódar 1-6 7-6(5) 6-4 for his first Masters 1000 title; Maja Chwalińska wins WTA Wuhan, beating Sonay Kartal 2-6 6-4 6-2."
+    },
     {
       "t": "20:05",
       "tag": "WIN",
@@ -2266,68 +2372,6 @@
       "m": "Cricket",
       "text": "Ranji Trophy: Shubman Gill out for 1 off 5 balls on his Punjab comeback; Punjab 89/3 at lunch against Chhattisgarh in New Chandigarh after choosing to bat.",
       "match": "ranji-r2-pun-chg"
-    },
-    {
-      "t": "11:10",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 2: Mumbai win the toss and bowl at Bilaspur; Himachal Pradesh 75/3 after 17.3 overs (Pukhraj Mann 33*, Vaibhav Kalta 22*).",
-      "match": "ranji-r2-hp-mum"
-    },
-    {
-      "t": "08:05",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Para Games",
-      "text": "Asian Para Games open in Nagoya today (ceremony ~4 pm IST, Pramod Bhagat and Simran Sharma carry India's flag); first medals Monday 19 Oct. Watch on Sony Sports Network, SonyLIV, DD Sports.",
-      "src": [
-        {
-          "t": "Yahoo Sports – Asian Para Games 2026 Day One",
-          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-182038264.html"
-        }
-      ]
-    },
-    {
-      "t": "07:04",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Golf",
-      "text": "DP World India Championship: round 3 resumed at 6:35 am in Delhi with Chacarra on −14; final round follows later today. Om Prakash Chouhan is the best Indian at −5.",
-      "match": "dpwic-r1",
-      "src": [
-        {
-          "t": "Telangana Today – Chouhan leads Indian golfers",
-          "u": "https://telanganatoday.com/chouhan-stays-steady-to-lead-indian-golfers-at-dp-world-india-championship"
-        }
-      ]
-    },
-    {
-      "t": "04:04",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 2 starts today at 9:30 am IST across 16 venues — Himachal v Mumbai in Dharamsala, Karnataka v Saurashtra at Alur, Tamil Nadu v Uttarakhand in Chennai.",
-      "src": [
-        {
-          "t": "Wisden – Ranji Trophy 2026-27 schedule",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
-        }
-      ]
-    },
-    {
-      "t": "22:29",
-      "tag": "DRAW",
-      "c": "var(--silver)",
-      "m": "Cricket",
-      "text": "India v West Indies 5th T20I called off due to rain with India 118/5 in 7.4 of 9 overs in Bengaluru — no result, and the T20I series is shared 2–2.",
-      "match": "ind-wi-t20-5",
-      "src": [
-        {
-          "t": "ANI – 5th T20I called off due to rain; series ends 2–2",
-          "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2338,6 +2382,13 @@
       "meta": "Cricket",
       "time": "19:00",
       "match": "indw-zimw-t20-2"
+    },
+    {
+      "d": "19",
+      "mo": "OCT",
+      "title": "Asian Para Games: Jaspreet Kaur, powerlifting women's 45kg final",
+      "meta": "Para powerlifting · Aichi-Nagoya",
+      "time": "13:00"
     },
     {
       "d": "20",
@@ -2360,7 +2411,7 @@
       "mo": "OCT",
       "title": "India Women v Zimbabwe, 1st ODI",
       "meta": "Cricket · Vadodara",
-      "time": "19:00",
+      "time": "14:00",
       "match": "indw-zimw-odi-1"
     },
     {
@@ -2376,7 +2427,7 @@
       "mo": "OCT",
       "title": "India Women v Zimbabwe, 2nd ODI",
       "meta": "Cricket · Kotambi Stadium, Vadodara",
-      "time": "19:00",
+      "time": "14:00",
       "match": "indw-zimw-odi-2"
     },
     {
@@ -2400,7 +2451,7 @@
       "mo": "OCT",
       "title": "India Women v Zimbabwe, 3rd ODI",
       "meta": "Cricket · Kotambi Stadium, Vadodara",
-      "time": "19:00",
+      "time": "14:00",
       "match": "indw-zimw-odi-3"
     },
     {
