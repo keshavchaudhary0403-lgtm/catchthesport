@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T04:04:34+05:30",
+  "lastUpdated": "2026-10-18T07:04:37+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -22,10 +22,10 @@
         "-14"
       ],
       "when": "2026-10-15",
-      "status": "R3 suspended (dark) · resumes Sun",
+      "status": "R3 resumed 6:35 am · R4 to follow",
       "scoreAt": "2026-10-17T18:46:00+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Round 3 suspended for darkness at 5:44 pm; Eugenio Chacarra leads on −14 (7 holes left), two clear of Hidalgo and Luiten (−12); Fleetwood −9, McIlroy −4. Om Prakash Chouhan finished round 3 on −5 overall (T30). Anirban Lahiri −2 (T48), Yuvraj Sandhu E, Shiv Kapur, Karandeep Kochhar and Saptak Talwar E, still playing. Round 3 resumes 6:35 am Sunday, then the final round.",
+      "note": "Round 3 suspended for darkness at 5:44 pm; Eugenio Chacarra leads on −14 (7 holes left), two clear of Hidalgo and Luiten (−12); Fleetwood −9, McIlroy −4. Om Prakash Chouhan finished round 3 on −5 overall (T30). Anirban Lahiri −2 (T48), Yuvraj Sandhu E, Shiv Kapur, Karandeep Kochhar and Saptak Talwar E, still playing. Round 3 resumed 6:35 am Sunday (scores below as of Saturday's suspension), then the final round in a two-tee start from about 9:15 am. Lahiri was −1 through 16 holes of round 3 per Telangana Today.",
       "src": [
         {
           "t": "ThePrint/PTI – Chacarra opens up two-shot lead as darkness halts third round",
@@ -379,11 +379,7 @@
       "india": true,
       "big": true,
       "venue": "HPCA Stadium, Dharamsala",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct); JioStar/JioHotstar cover selected matches only — this one not confirmed.",
       "src": [
         {
           "t": "Wisden – Ranji Trophy 2026-27 schedule",
@@ -411,11 +407,7 @@
       "india": true,
       "big": false,
       "venue": "KSCA Cricket Ground, Alur",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct); JioStar/JioHotstar cover selected matches only — this one not confirmed.",
       "src": [
         {
           "t": "Wisden – Ranji Trophy 2026-27 schedule",
@@ -443,11 +435,7 @@
       "india": true,
       "big": false,
       "venue": "MA Chidambaram Stadium, Chennai",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct); JioStar/JioHotstar cover selected matches only — this one not confirmed.",
       "src": [
         {
           "t": "Wisden – Ranji Trophy 2026-27 schedule",
@@ -475,11 +463,7 @@
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Round 2 of the Ranji Trophy begins; 16 matches across four groups.",
+      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct). Broadcast for this match not confirmed; Delhi v Gujarat is reported to have no stream.",
       "src": [
         {
           "t": "Wisden – Ranji Trophy 2026-27 schedule",
@@ -2107,6 +2091,20 @@
   ],
   "feed": [
     {
+      "t": "07:04",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Golf",
+      "text": "DP World India Championship: round 3 resumed at 6:35 am in Delhi with Chacarra on −14; final round follows later today. Om Prakash Chouhan is the best Indian at −5.",
+      "match": "dpwic-r1",
+      "src": [
+        {
+          "t": "Telangana Today – Chouhan leads Indian golfers",
+          "u": "https://telanganatoday.com/chouhan-stays-steady-to-lead-indian-golfers-at-dp-world-india-championship"
+        }
+      ]
+    },
+    {
       "t": "04:04",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2244,20 +2242,6 @@
         {
           "t": "DP World Tour – leaderboard (Round 2)",
           "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
-        }
-      ]
-    },
-    {
-      "t": "17:50",
-      "tag": "BRONZE",
-      "c": "var(--bronze)",
-      "m": "Badminton",
-      "text": "World Junior Championships: Jagsher Singh Khangurra takes bronze after losing his boys' singles semi-final 6-15 15-13 3-15 to Indonesia's Radithya Bayu Wardhana.",
-      "match": "wjc-jagsher-sf",
-      "src": [
-        {
-          "t": "Sportstar – Jagsher settles for bronze",
-          "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
         }
       ]
     }
