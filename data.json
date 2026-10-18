@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-18T21:05:05+05:30",
-  "dayLabel": "Sun 18 Oct · LIVE: IND W v ZIM W 2nd T20I (Zim 101/7) · ISL: NEU 2–0 Kerala at HT · Ranji R2 day 1 done",
-  "featured": "indw-zimw-t20-2",
+  "lastUpdated": "2026-10-18T21:35:50+05:30",
+  "dayLabel": "Sun 18 Oct · India Women beat Zimbabwe by 9 wkts, win series 2–0 · ISL: NEU 4–1 Kerala",
+  "featured": "nz-ind-t20-1",
   "matches": [
     {
       "id": "dpwic-r1",
@@ -565,11 +565,11 @@
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "2nd T20I",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "India Women",
-        "Chasing 103"
+        "104/1 (8.5)"
       ],
       "b": [
         "ZIM",
@@ -579,15 +579,15 @@
       "when": "2026-10-18T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "Zimbabwe Women made 102/8 after winning the toss and batting; India need 103. Shafali Verma and Smriti Mandhana opened.",
+      "note": "India Women chase 103 in 8.5 overs to win by 9 wickets and clinch the series 2–0 with a game to spare: Shafali Verma 55 off 25 (6 fours, 4 sixes), Smriti Mandhana 47* off 25; Beloved Biza took the only wicket. Zimbabwe had made 102/8.",
       "src": [
         {
-          "t": "Google – live score card (IND-W v ZIM-W)",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+2nd+T20I+live+score"
+          "t": "Pragativadi – Shafali, Mandhana power India Women to 9-wicket win over Zimbabwe",
+          "u": "https://pragativadi.com/shafali-mandhana-power-india-women-to-crushing-9-wicket-win-over-zimbabwe/"
         },
         {
-          "t": "Outlook India – ZIM-W v IND-W live, 2nd T20I",
-          "u": "https://www.outlookindia.com/sports/cricket"
+          "t": "Google – IND-W v ZIM-W 2nd T20I result card",
+          "u": "https://www.google.com/search?q=INDW+vs+ZIMW+2nd+T20I+India+won+by+wickets"
         },
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
@@ -598,12 +598,14 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "India chase 103",
-      "scoreAt": "2026-10-18T20:57:00+05:30"
+      "win": "a",
+      "day": "18 Oct",
+      "recent": true,
+      "resultAt": "2026-10-18T21:35:50+05:30"
     },
     {
       "id": "isl-neu-kbfc",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -611,25 +613,21 @@
       "a": [
         "NEU",
         "NorthEast United",
-        "2",
+        "4",
         "#C8102E"
       ],
       "b": [
         "KBFC",
         "Kerala Blasters",
-        "0",
+        "1",
         "#FACC15"
       ],
       "when": "2026-10-18T19:30:00+05:30",
       "venue": "Indira Gandhi Athletic Stadium, Guwahati",
       "src": [
         {
-          "t": "Google – live score card (NEU v KBFC)",
-          "u": "https://www.google.com/search?q=NorthEast+United+vs+Kerala+Blasters+live+score+ISL"
-        },
-        {
-          "t": "Sportstar – NEU v KBFC live",
-          "u": "https://sportstar.thehindu.com/football/indian-football/"
+          "t": "Google – NEU v KBFC full-time card",
+          "u": "https://www.google.com/search?q=NorthEast+United+vs+Kerala+Blasters+ISL+result"
         },
         {
           "t": "ISL – official fixtures & results",
@@ -648,9 +646,11 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "Half-time",
-      "scoreAt": "2026-10-18T20:36:00+05:30",
-      "note": "Alaaeddine Ajaraie (15') and Antonio Moyano (45+4') put NorthEast 2–0 up against league leaders Kerala Blasters at half-time in Guwahati."
+      "note": "NorthEast United beat league leaders Kerala Blasters 4–1 in Guwahati: Alaaeddine Ajaraie (15', 70'), Antonio Moyano (45+4') and Aman C.K. (82'); Momo Yansané (60') scored for Kerala.",
+      "win": "a",
+      "day": "18 Oct",
+      "recent": true,
+      "resultAt": "2026-10-18T21:35:50+05:30"
     },
     {
       "id": "indw-zimw-t20-3",
@@ -1953,11 +1953,11 @@
       "id": "indw-zimw",
       "sport": "Cricket",
       "name": "India Women v Zimbabwe Women",
-      "status": "Live · T20Is till 20 Oct · Raipur",
+      "status": "Live · India win T20Is 2–0 · 3rd T20I 20 Oct",
       "live": true,
       "india": true,
       "comp": "India Women v Zimbabwe Women",
-      "note": "India lead 1-0 after a 4-wicket win in the 1st T20I. Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
+      "note": "India won the 1st T20I by 4 wickets and the 2nd by 9 wickets to take the series 2–0. Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
       "src": [
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
@@ -1968,7 +1968,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · Phase 1 till 18 Oct",
+      "status": "Live · next: Punjab v Mumbai City, 19 Oct",
       "india": true,
       "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title. Phase 1 fixtures run to 18 Oct.",
       "id": "isl",
@@ -2245,19 +2245,19 @@
   ],
   "feed": [
     {
-      "t": "20:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "21:35",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Cricket",
-      "text": "India Women v Zimbabwe, 2nd T20I in Raipur: India's bowlers hold Zimbabwe to 101/7 with one ball left in their innings; India lead the series 1–0.",
+      "text": "India Women beat Zimbabwe by 9 wickets in Raipur to clinch the T20I series 2–0 — chasing 103 in 8.5 overs with Shafali Verma 55 off 25 and Smriti Mandhana 47*.",
       "match": "indw-zimw-t20-2"
     },
     {
-      "t": "20:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "21:35",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Football",
-      "text": "ISL half-time: NorthEast United 2–0 Kerala Blasters in Guwahati — Ajaraie (15') and Moyano (45+4').",
+      "text": "ISL: NorthEast United beat leaders Kerala Blasters 4–1 in Guwahati — Ajaraie scores twice, Moyano and Aman C.K. also on target; Yansané replies for Kerala.",
       "match": "isl-neu-kbfc"
     },
     {
@@ -2289,14 +2289,6 @@
       "m": "Football",
       "text": "ISL: defending champions East Bengal beat Churchill Brothers 4–0 at Fatorda — Dani Ramírez, Edmund Lalrindika and a late Bipin Singh brace.",
       "match": "isl-chu-eb"
-    },
-    {
-      "t": "19:04",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "India Women v Zimbabwe Women, 2nd T20I in Raipur: Zimbabwe won the toss and chose to bat; India unchanged.",
-      "match": "indw-zimw-t20-2"
     },
     {
       "t": "18:05",
@@ -2375,14 +2367,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "18",
-      "mo": "OCT",
-      "title": "India Women v Zimbabwe, 2nd T20I",
-      "meta": "Cricket",
-      "time": "19:00",
-      "match": "indw-zimw-t20-2"
-    },
     {
       "d": "19",
       "mo": "OCT",
