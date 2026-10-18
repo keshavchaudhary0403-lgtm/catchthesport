@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T11:10:18+05:30",
+  "lastUpdated": "2026-10-18T12:05:48+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -7,37 +7,33 @@
       "id": "dpwic-r1",
       "sport": "Golf",
       "comp": "DP World India Championship",
-      "round": "Round 3",
+      "round": "Round 4 (final)",
       "st": "live",
       "india": true,
       "big": true,
       "a": [
         "IND",
-        "Om Prakash Chouhan",
-        "-5"
+        "Anirban Lahiri",
+        "-6"
       ],
       "b": [
         "TBC",
-        "Leader: Chacarra -14 · Hidalgo, Luiten -12",
-        "-14"
+        "Leader: Chacarra -20 · Hillier -15",
+        "-20"
       ],
       "when": "2026-10-15",
-      "status": "R3 resumed 6:35 am · R4 to follow",
-      "scoreAt": "2026-10-17T18:46:00+05:30",
+      "status": "R4 under way · Lahiri T30",
+      "scoreAt": "2026-10-18T08:33:00+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Round 3 suspended for darkness at 5:44 pm; Eugenio Chacarra leads on −14 (7 holes left), two clear of Hidalgo and Luiten (−12); Fleetwood −9, McIlroy −4. Om Prakash Chouhan finished round 3 on −5 overall (T30). Anirban Lahiri −2 (T48), Yuvraj Sandhu E, Shiv Kapur, Karandeep Kochhar and Saptak Talwar E, still playing. Round 3 resumed 6:35 am Sunday (scores below as of Saturday's suspension), then the final round in a two-tee start from about 9:15 am. Lahiri was −1 through 16 holes of round 3 per Telangana Today.",
+      "note": "Final round in progress at Delhi Golf Club. Eugenio Chacarra leads on −20 (five clear of Daniel Hillier, −15; Hidalgo and Luiten −14; Fleetwood −11). Best Indians: Anirban Lahiri −6 (T30, through 7 holes of R4), Om Prakash Chouhan and Yuvraj Sandhu −4 (T41), Saptak Talwar −1, Karandeep Kochhar +1, Shiv Kapur +3. Leaderboard snapshot from about 8:33 am IST.",
       "src": [
+        {
+          "t": "Golfpost – DP World India Championship leaderboard (Round 4)",
+          "u": "https://www.golfpost.com/us/tournaments/dp-world-tour-dp-world-india-championship-2026/leaderboard/"
+        },
         {
           "t": "ThePrint/PTI – Chacarra opens up two-shot lead as darkness halts third round",
           "u": "https://theprint.in/sport/chacarra-opens-up-two-shot-lead-as-darkness-halts-third-round-long-sunday-awaits/3074765/"
-        },
-        {
-          "t": "Golfpost – DP World India Championship leaderboard (Round 3)",
-          "u": "https://www.golfpost.de/tournaments/dp-world-tour-dp-world-india-championship-2026/leaderboard/"
-        },
-        {
-          "t": "DP World Tour – Round 2 report",
-          "u": "https://www.europeantour.com/dpworld-tour/news/articles/detail/angel-hidalgo-joost-luiten-and-adrian-meronk-top-stacked-leaderboard-in-india-dp-world-india-championship/"
         }
       ]
     },
@@ -396,6 +392,40 @@
       ],
       "status": "Day 1 · Mumbai chose to bowl",
       "scoreAt": "2026-10-18T11:10:18+05:30"
+    },
+    {
+      "id": "ranji-r2-pun-chg",
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 2 · Elite · 4-day",
+      "st": "live",
+      "a": [
+        "PUN",
+        "Punjab",
+        "89/3 (37)"
+      ],
+      "b": [
+        "CHG",
+        "Chhattisgarh",
+        "Yet to bat"
+      ],
+      "when": "2026-10-18T09:30:00+05:30",
+      "status": "Day 1 · lunch · Punjab bat",
+      "scoreAt": "2026-10-18T12:01:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "PCA International Cricket Stadium, New Chandigarh",
+      "note": "Round 2 (18–21 Oct). Punjab chose to bat; India Test captain Shubman Gill, back for Punjab before the New Zealand tour, fell for 1 off 5 balls. Prabhsimran Singh 8* and Uday Saharan 19* at lunch. Broadcast not confirmed.",
+      "src": [
+        {
+          "t": "CREX – Chhattisgarh v Punjab live",
+          "u": "https://crex.com/cricket-live-score/chg-vs-pun-26th-first-class-ranji-trophy-elite-2026-27-match-updates-1471"
+        },
+        {
+          "t": "Cricket Addictor – Gill out for 1 on Ranji comeback",
+          "u": "https://cricketaddictor.com/cricket-news/shubman-gill-bamboozled-for-1-off-5-balls-on-ranji-trophy-comeback-before-nz-tour-465071/"
+        }
+      ]
     },
     {
       "id": "ranji-r2-kar-sau",
@@ -2105,6 +2135,22 @@
   ],
   "feed": [
     {
+      "t": "12:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Golf",
+      "text": "DP World India Championship final round: Eugenio Chacarra leads on −20; Anirban Lahiri is the best Indian at −6 (T30), Om Prakash Chouhan and Yuvraj Sandhu −4 (T41) (snapshot ~8:33 am).",
+      "match": "dpwic-r1"
+    },
+    {
+      "t": "12:01",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Shubman Gill out for 1 off 5 balls on his Punjab comeback; Punjab 89/3 at lunch against Chhattisgarh in New Chandigarh after choosing to bat.",
+      "match": "ranji-r2-pun-chg"
+    },
+    {
       "t": "11:10",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2241,22 +2287,6 @@
       "m": "Cricket",
       "text": "India v West Indies 5th T20I decider in Bengaluru: toss delayed by rain at 7 pm IST; play can start by 7:35 pm without losing overs.",
       "match": "ind-wi-t20-5"
-    },
-    {
-      "t": "22:36",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Denmark Open QF: Tanvi Sharma loses 15-21 13-21 to world No. 1 An Se Young — no Indians left in Odense.",
-      "match": "den-tanvi-qf"
-    },
-    {
-      "t": "22:10",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India Women beat Zimbabwe by 4 wickets (116/6 in 15.4 ov chasing 115) in the 1st T20I in Raipur — Deepti Sharma 49 and debutant Niki Prasad 39* rescue India from 19/4. India lead 1-0.",
-      "match": "indw-zimw-t20-1"
     }
   ],
   "schedule": [
