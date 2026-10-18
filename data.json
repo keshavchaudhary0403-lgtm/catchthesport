@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T07:04:37+05:30",
+  "lastUpdated": "2026-10-18T08:04:50+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -2069,11 +2069,15 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Opens 18 Oct · till 24 Oct, Aichi-Nagoya",
+      "status": "Opens today 18 Oct · medals from 19 Oct · till 24 Oct",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games: 492 events, opening ceremony 18 Oct in Nagoya; some sports (badminton, table tennis) began on 16 Oct — Prem Kumar won India's badminton opener. India have named 168 athletes; at Hangzhou 2022 India won 111 medals (29 gold) — their best haul.",
+      "note": "5th Asian Para Games, Aichi-Nagoya: opening ceremony today (~4 pm IST, Pramod Bhagat and Simran Sharma India's flag-bearers); para badminton and table tennis group matches under way, first medals on 19 Oct. India named 168 athletes aiming to beat their 111-medal Hangzhou 2022 haul. Opening ceremony on Sony Sports Network, SonyLIV and DD Sports; group matches on the SonyLIV hub.",
       "src": [
+        {
+          "t": "Yahoo Sports – Asian Para Games 2026 Day One live",
+          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-182038264.html"
+        },
         {
           "t": "Outlook India – Asian Para Games 2026 live updates: Prem Kumar wins badminton opener",
           "u": "https://www.google.com/search?q=Outlook+India+Asian+Para+Games+2026+live+updates+Prem+Kumar"
@@ -2090,6 +2094,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "08:05",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Para Games",
+      "text": "Asian Para Games open in Nagoya today (ceremony ~4 pm IST, Pramod Bhagat and Simran Sharma carry India's flag); first medals Monday 19 Oct. Watch on Sony Sports Network, SonyLIV, DD Sports.",
+      "src": [
+        {
+          "t": "Yahoo Sports – Asian Para Games 2026 Day One",
+          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-182038264.html"
+        }
+      ]
+    },
     {
       "t": "07:04",
       "tag": "NEWS",
@@ -2230,20 +2247,6 @@
       "m": "Football",
       "text": "ISL: Mohun Bagan SG come from behind to beat Sporting Club Delhi 2-1 in Delhi after Lalrinliana Hnamte's 23rd-minute opener.",
       "match": "isl-del-mbsg"
-    },
-    {
-      "t": "17:54",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Golf",
-      "text": "DP World India Championship: Round 2 suspended for darkness, resumes 6:45 am Saturday — Om Prakash Chouhan T17 on −4; Hidalgo, Meronk, Luiten and Detry lead on −8.",
-      "match": "dpwic-r1",
-      "src": [
-        {
-          "t": "DP World Tour – leaderboard (Round 2)",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
-        }
-      ]
     }
   ],
   "schedule": [
