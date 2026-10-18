@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T20:37:35+05:30",
+  "lastUpdated": "2026-10-18T21:05:05+05:30",
   "dayLabel": "Sun 18 Oct · LIVE: IND W v ZIM W 2nd T20I (Zim 101/7) · ISL: NEU 2–0 Kerala at HT · Ranji R2 day 1 done",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -569,17 +569,17 @@
       "a": [
         "IND",
         "India Women",
-        "Yet to bat"
+        "Chasing 103"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        "101/7 (19.5)"
+        "102/8 (20)"
       ],
       "when": "2026-10-18T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "2nd of three T20Is in Raipur; India lead 1–0. Zimbabwe chose to bat and were held to 101/7 — Kranti Gaud, Deepti Sharma and Nandani Sharma among the wicket-takers; Mupachikwa run out for 9.",
+      "note": "Zimbabwe Women made 102/8 after winning the toss and batting; India need 103. Shafali Verma and Smriti Mandhana opened.",
       "src": [
         {
           "t": "Google – live score card (IND-W v ZIM-W)",
@@ -598,8 +598,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "Zimbabwe innings ending",
-      "scoreAt": "2026-10-18T20:36:00+05:30"
+      "status": "India chase 103",
+      "scoreAt": "2026-10-18T20:57:00+05:30"
     },
     {
       "id": "isl-neu-kbfc",
