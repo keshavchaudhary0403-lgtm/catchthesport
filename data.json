@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T18:05:42+05:30",
+  "lastUpdated": "2026-10-18T19:04:39+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill 0–2 East Bengal (live), NEU v Kerala 7:30 pm · Ranji R2 day 1",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -550,7 +550,7 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "2nd half · East Bengal lead",
+      "status": "Last confirmed: 2–0 East Bengal at HT",
       "scoreAt": "2026-10-18T18:05:42+05:30",
       "note": "East Bengal led 2–0 at the interval per the ISL match centre (scorers not listed); kick-off 5 pm."
     },
@@ -559,16 +559,16 @@
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "2nd T20I",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "India Women",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        ""
+        "0/0 (0.3)"
       ],
       "when": "2026-10-18T19:00:00+05:30",
       "india": true,
@@ -582,12 +582,18 @@
         {
           "t": "Wisden – IND-W v ZIM-W T20Is live-streaming details",
           "u": "https://www.wisden.com/cricket-news/ind-w-vs-zim-w-t20is-all-you-need-to-know-full-schedule-squads-venues-and-live-streaming-details"
+        },
+        {
+          "t": "Sportstak – IND-W v ZIM-W 2nd T20I live",
+          "u": "https://thesportstak.com/cricket/match/ind-w-vs-zim-w-2nd-t20i-zimbabwe-women-tour-of-india-18-october-2026-270970/live"
         }
       ],
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "status": "Zimbabwe batting · toss won, chose bat",
+      "scoreAt": "2026-10-18T19:04:39+05:30"
     },
     {
       "id": "isl-neu-kbfc",
@@ -2167,6 +2173,14 @@
   ],
   "feed": [
     {
+      "t": "19:04",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women v Zimbabwe Women, 2nd T20I in Raipur: Zimbabwe win the toss and bat; 0/0 after 0.3 overs.",
+      "match": "indw-zimw-t20-2"
+    },
+    {
       "t": "18:05",
       "tag": "WIN",
       "c": "var(--win)",
@@ -2310,14 +2324,6 @@
           "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
         }
       ]
-    },
-    {
-      "t": "22:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India v West Indies 5th T20I decider: India 118/4 after 7.3 of 9 overs in Bengaluru; Iyer out for 22, Naman Dhir blasts 24 off 6.",
-      "match": "ind-wi-t20-5"
     }
   ],
   "schedule": [
