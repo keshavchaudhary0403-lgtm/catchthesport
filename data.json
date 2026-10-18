@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T16:04:53+05:30",
+  "lastUpdated": "2026-10-18T17:04:44+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -1834,6 +1834,35 @@
       "day": "17 Oct",
       "recent": true,
       "resultAt": "2026-10-17T18:27:00+05:30"
+    },
+    {
+      "id": "ranji-r2-up-goa",
+      "sport": "Cricket",
+      "comp": "Ranji Trophy 2026-27",
+      "round": "Round 2 · 4-day",
+      "st": "live",
+      "a": [
+        "UP",
+        "Uttar Pradesh",
+        "184/9"
+      ],
+      "b": [
+        "GOA",
+        "Goa",
+        "Yet to bat"
+      ],
+      "when": "2026-10-18T09:30:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century for Uttar Pradesh. Broadcast not confirmed.",
+      "src": [
+        {
+          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
+        }
+      ],
+      "status": "Day 1 · Rinku Singh century",
+      "scoreAt": "2026-10-18T15:14:00+05:30"
     }
   ],
   "competitions": [
@@ -2129,6 +2158,19 @@
   ],
   "feed": [
     {
+      "t": "15:14",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Round 2: Rinku Singh hits a century as Uttar Pradesh reach 184/9 v Goa. Karnataka v Saurashtra and Tamil Nadu v Uttarakhand also under way (no scores found). Churchill Brothers v East Bengal (ISL) kicked off at 5 pm; India Women v Zimbabwe 2nd T20I at 7 pm.",
+      "src": [
+        {
+          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
+        }
+      ]
+    },
+    {
       "t": "15:47",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2273,14 +2315,6 @@
       "m": "Football",
       "match": "acgl-goa-regar",
       "text": "AFC Challenge League: FC Goa lose 1–2 to Regar-TadAZ in Kuwait — Chiki scored early, Faridun Davlatov hit back in the 85th and 90th minutes."
-    },
-    {
-      "t": "18:46",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Golf",
-      "text": "DP World India Championship: round 3 halted by darkness; Chacarra leads on −14, Om Prakash Chouhan best Indian at −5 (T30). Play resumes 6:35 am Sunday.",
-      "match": "dpwic-r1"
     }
   ],
   "schedule": [
