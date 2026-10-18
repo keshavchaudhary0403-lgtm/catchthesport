@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T14:05:33+05:30",
+  "lastUpdated": "2026-10-18T16:04:53+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -364,7 +364,7 @@
       "a": [
         "HP",
         "Himachal Pradesh",
-        "95/7 (29)"
+        "140 (39.5)"
       ],
       "b": [
         "MUM",
@@ -375,15 +375,15 @@
       "india": true,
       "big": true,
       "venue": "Luhnu Cricket Ground, Bilaspur",
-      "note": "Round 2 Group D (18–21 Oct). Mumbai won the toss and bowled; Pukhraj Mann 33* and Vaibhav Kalta 22* at the crease for Himachal. Broadcast not confirmed.",
+      "note": "Round 2 Group D (18–21 Oct). Mumbai won the toss and bowled Himachal out for 140 in 39.5 overs; Tushar Deshpande took four wickets, Akash Vasisht top-scored with 39. Broadcast not confirmed.",
       "src": [
         {
           "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
           "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
       ],
-      "status": "Day 1 · lunch · Mumbai 7 up",
-      "scoreAt": "2026-10-18T12:28:00+05:30"
+      "status": "HP all out 140 · Mumbai to bat",
+      "scoreAt": "2026-10-18T14:20:00+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -484,7 +484,7 @@
       "a": [
         "DEL",
         "Delhi",
-        "180/3"
+        "308/3"
       ],
       "b": [
         "GUJ",
@@ -495,15 +495,15 @@
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 (18–21 Oct). Delhi batting first; Priyansh Arya reached a hundred off 125 balls. Broadcast not confirmed; no stream reported.",
+      "note": "Round 2 (18–21 Oct). Delhi batting first; Priyansh Arya hit a hundred off 125 balls and is 158*, with Ayush Badoni 84*; Ayush Doseja run out for 29. Broadcast not confirmed; no stream reported.",
       "src": [
         {
           "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
           "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
       ],
-      "status": "Day 1 · Arya hits 100",
-      "scoreAt": "2026-10-18T13:53:00+05:30"
+      "status": "Day 1 · Arya 158*, Badoni 84*",
+      "scoreAt": "2026-10-18T15:47:00+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -2129,6 +2129,14 @@
   ],
   "feed": [
     {
+      "t": "15:47",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Round 2: Priyansh Arya is 158* and Ayush Badoni 84* as Delhi reach 308/3 v Gujarat; Himachal Pradesh bowled out for 140 by Mumbai; Rinku Singh hits a century for Uttar Pradesh v Goa.",
+      "match": "ranji-r2-del-guj"
+    },
+    {
       "t": "13:53",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2273,20 +2281,6 @@
       "m": "Golf",
       "text": "DP World India Championship: round 3 halted by darkness; Chacarra leads on −14, Om Prakash Chouhan best Indian at −5 (T30). Play resumes 6:35 am Sunday.",
       "match": "dpwic-r1"
-    },
-    {
-      "t": "17 Oct",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Wrestling",
-      "text": "U23 Worlds: Amruta Pujari takes silver in women's 72kg after being pinned by Ukraine's Iryna Zablotska in the final. India finish with 3 medals in Las Vegas (2 silver, 1 bronze).",
-      "match": "u23w-amruta-final",
-      "src": [
-        {
-          "t": "Hindustan Times – U-23 Worlds: Amruta Pujari wins silver, India women end with two medals",
-          "u": "https://www.hindustantimes.com/sports/others/u23-world-wrestling-championships-amruta-pujari-wins-silver-india-women-end-campaign-with-two-medals-101792240217034.html"
-        }
-      ]
     }
   ],
   "schedule": [
