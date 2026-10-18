@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T19:04:39+05:30",
-  "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill 0–2 East Bengal (live), NEU v Kerala 7:30 pm · Ranji R2 day 1",
+  "lastUpdated": "2026-10-18T20:05:58+05:30",
+  "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: East Bengal beat Churchill 4–0, NEU v Kerala 7:30 pm · Ranji R2 day 1",
   "featured": "indw-zimw-t20-2",
   "matches": [
     {
@@ -509,7 +509,7 @@
     },
     {
       "id": "isl-chu-eb",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -523,11 +523,15 @@
       "b": [
         "EBFC",
         "East Bengal FC",
-        "2",
+        "4",
         "#DC2626"
       ],
       "when": "2026-10-18T17:00:00+05:30",
       "src": [
+        {
+          "t": "myKhel – East Bengal too good for Churchill Brothers, start ISL campaign with 4-0 rout",
+          "u": "https://www.mykhel.com/football/east-bengal-too-good-for-churchill-brothers-defending-champions-start-isl-campaign-with-4-0-rout-456727.html"
+        },
         {
           "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
@@ -550,30 +554,32 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "Last confirmed: 2–0 East Bengal at HT",
-      "scoreAt": "2026-10-18T18:05:42+05:30",
-      "note": "East Bengal led 2–0 at the interval per the ISL match centre (scorers not listed); kick-off 5 pm."
+      "note": "East Bengal start their title defence with a 4–0 win at Fatorda: Dani Ramírez free-kick (2'), Edmund Lalrindika before the break, and Bipin Singh twice off the bench (85' and about 90').",
+      "win": "b",
+      "day": "18 Oct",
+      "recent": true,
+      "resultAt": "2026-10-18T20:05:58+05:30"
     },
     {
       "id": "indw-zimw-t20-2",
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "2nd T20I",
-      "st": "live",
+      "st": "upcoming",
       "a": [
         "IND",
         "India Women",
-        "Yet to bat"
+        ""
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        "0/0 (0.3)"
+        ""
       ],
       "when": "2026-10-18T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "2nd of three T20Is in Raipur.",
+      "note": "2nd of three T20Is in Raipur. Zimbabwe won the toss and chose to bat; both sides unchanged. Live score not confirmed at the time of this update.",
       "src": [
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
@@ -591,9 +597,7 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ],
-      "status": "Zimbabwe batting · toss won, chose bat",
-      "scoreAt": "2026-10-18T19:04:39+05:30"
+      ]
     },
     {
       "id": "isl-neu-kbfc",
@@ -2173,11 +2177,19 @@
   ],
   "feed": [
     {
+      "t": "20:05",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "ISL: defending champions East Bengal beat Churchill Brothers 4–0 at Fatorda — Dani Ramírez, Edmund Lalrindika and a late Bipin Singh brace.",
+      "match": "isl-chu-eb"
+    },
+    {
       "t": "19:04",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "tag": "NEWS",
+      "c": "var(--accent)",
       "m": "Cricket",
-      "text": "India Women v Zimbabwe Women, 2nd T20I in Raipur: Zimbabwe win the toss and bat; 0/0 after 0.3 overs.",
+      "text": "India Women v Zimbabwe Women, 2nd T20I in Raipur: Zimbabwe won the toss and chose to bat; India unchanged.",
       "match": "indw-zimw-t20-2"
     },
     {
@@ -2195,14 +2207,6 @@
       "m": "Cricket",
       "text": "Ranji Trophy R2 day 1 stumps: Delhi 381/4 (Arya 199, Badoni 115*) v Gujarat; Mumbai 107/2 after HP 140; UP 202 v Goa 43/0; Punjab 269/4 v Chhattisgarh.",
       "match": "ranji-r2-del-guj"
-    },
-    {
-      "t": "18:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "ISL: East Bengal lead Churchill Brothers 2–0 at the break in Goa.",
-      "match": "isl-chu-eb"
     },
     {
       "t": "15:14",
