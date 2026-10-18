@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T17:04:44+05:30",
-  "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
+  "lastUpdated": "2026-10-18T18:05:42+05:30",
+  "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill 0–2 East Bengal (live), NEU v Kerala 7:30 pm · Ranji R2 day 1",
   "featured": "indw-zimw-t20-2",
   "matches": [
     {
@@ -8,34 +8,36 @@
       "sport": "Golf",
       "comp": "DP World India Championship",
       "round": "Round 4 (final)",
-      "st": "live",
+      "st": "result",
       "india": true,
       "big": true,
       "a": [
         "IND",
         "Anirban Lahiri",
-        "-6"
+        "T23 (−8)"
       ],
       "b": [
-        "TBC",
-        "Leader: Chacarra -20 · Hillier -15",
-        "-20"
+        "ESP",
+        "Eugenio Chacarra",
+        "Won (−21)"
       ],
       "when": "2026-10-15",
-      "status": "R4 under way · Lahiri T30",
-      "scoreAt": "2026-10-18T08:33:00+05:30",
       "venue": "Delhi Golf Club, New Delhi",
-      "note": "Final round in progress at Delhi Golf Club. Eugenio Chacarra leads on −20 (five clear of Daniel Hillier, −15; Hidalgo and Luiten −14; Fleetwood −11). Best Indians: Anirban Lahiri −6 (T30, through 7 holes of R4), Om Prakash Chouhan and Yuvraj Sandhu −4 (T41), Saptak Talwar −1, Karandeep Kochhar +1, Shiv Kapur +3. Leaderboard snapshot from about 8:33 am IST.",
+      "note": "Eugenio Chacarra won on 21-under 267, two clear of Daniel Hillier (−19). Anirban Lahiri, the best Indian, shot 68 in the final round to finish tied 23rd at −8.",
       "src": [
         {
-          "t": "Golfpost – DP World India Championship leaderboard (Round 4)",
-          "u": "https://www.golfpost.com/us/tournaments/dp-world-tour-dp-world-india-championship-2026/leaderboard/"
+          "t": "Rozana Spokesman/PTI – Chacarra wins DP World India Championship; Lahiri best Indian",
+          "u": "https://www.rozanaspokesman.com/sports/181026/chacarra-wins-dp-world-india-championship-tops-race-to-dubai-lahiri.html"
         },
         {
-          "t": "ThePrint/PTI – Chacarra opens up two-shot lead as darkness halts third round",
-          "u": "https://theprint.in/sport/chacarra-opens-up-two-shot-lead-as-darkness-halts-third-round-long-sunday-awaits/3074765/"
+          "t": "Golfpost – Chacarra holds off Hillier",
+          "u": "https://www.golfpost.com/lopez-chacarra-holds-off-hillier-to-win-dp-world-india-championship-888233743/"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "18 Oct",
+      "recent": true,
+      "resultAt": "2026-10-18T18:05:42+05:30"
     },
     {
       "id": "indw-zimw-t20-1",
@@ -369,21 +371,21 @@
       "b": [
         "MUM",
         "Mumbai",
-        "Yet to bat"
+        "107/2"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Luhnu Cricket Ground, Bilaspur",
-      "note": "Round 2 Group D (18–21 Oct). Mumbai won the toss and bowled Himachal out for 140 in 39.5 overs; Tushar Deshpande took four wickets, Akash Vasisht top-scored with 39. Broadcast not confirmed.",
+      "note": "Himachal Pradesh were all out for 140; Mumbai closed day 1 on 107/2, Musheer Khan 34* and Siddhesh Lad 32*. Broadcast not confirmed.",
       "src": [
         {
           "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
           "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
       ],
-      "status": "HP all out 140 · Mumbai to bat",
-      "scoreAt": "2026-10-18T14:20:00+05:30"
+      "status": "Day 1 stumps · Mumbai trail by 33",
+      "scoreAt": "2026-10-18T18:05:42+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -394,7 +396,7 @@
       "a": [
         "PUN",
         "Punjab",
-        "143/3 (48.2)"
+        "269/4"
       ],
       "b": [
         "CHG",
@@ -402,20 +404,16 @@
         "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Day 1 · 2nd session",
-      "scoreAt": "2026-10-18T13:26:00+05:30",
+      "status": "Punjab batting · Uday Saharan ton",
+      "scoreAt": "2026-10-18T18:05:42+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Round 2 (18–21 Oct). Punjab chose to bat; India Test captain Shubman Gill, back for Punjab before the New Zealand tour, fell for 1 off 5 balls to Ajay Mandal. Uday Saharan reached a fifty. Broadcast not confirmed.",
+      "note": "Punjab 269/4 on day 1 with Uday Saharan among the centurions; Shubman Gill was out for 1 on his Punjab comeback. Latest score from a 2nd-source tracker; no stumps report yet.",
       "src": [
         {
-          "t": "CREX – Chhattisgarh v Punjab live",
-          "u": "https://crex.com/cricket-live-score/chg-vs-pun-26th-first-class-ranji-trophy-elite-2026-27-match-updates-1471"
-        },
-        {
-          "t": "Cricket Addictor – Gill out for 1 on Ranji comeback",
-          "u": "https://cricketaddictor.com/cricket-news/shubman-gill-bamboozled-for-1-off-5-balls-on-ranji-trophy-comeback-before-nz-tour-465071/"
+          "t": "CricketWinner – Ranji Trophy 2026/27 Round 2 Day 1 scorecard",
+          "u": "https://www.cricketwinner.com/cricket-news/ranji-trophy-2026-27-round-2-day-1-scorecard-best-performers/"
         }
       ]
     },
@@ -424,56 +422,60 @@
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
       "round": "Round 2 · Group B · 4-day",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "KAR",
         "Karnataka",
-        ""
+        "281/8"
       ],
       "b": [
         "SAU",
         "Saurashtra",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "KSCA Cricket Ground, Alur",
-      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct); JioStar/JioHotstar cover selected matches only — this one not confirmed.",
+      "note": "Karnataka 281/8 batting first at Alur. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Wisden – Ranji Trophy 2026-27 schedule",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+          "t": "CricketWinner – Ranji Trophy 2026/27 Round 2 Day 1 scorecard",
+          "u": "https://www.cricketwinner.com/cricket-news/ranji-trophy-2026-27-round-2-day-1-scorecard-best-performers/"
         }
-      ]
+      ],
+      "status": "Karnataka batting",
+      "scoreAt": "2026-10-18T18:05:42+05:30"
     },
     {
       "id": "ranji-r2-tn-utk",
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
       "round": "Round 2 · Group D · 4-day",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "TN",
         "Tamil Nadu",
-        ""
+        "85/2"
       ],
       "b": [
         "UTK",
         "Uttarakhand",
-        ""
+        "134 (all out)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "MA Chidambaram Stadium, Chennai",
-      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct); JioStar/JioHotstar cover selected matches only — this one not confirmed.",
+      "note": "Uttarakhand were all out for 134; Tamil Nadu 85/2 in reply. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Wisden – Ranji Trophy 2026-27 schedule",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
+          "t": "CricketWinner – Ranji Trophy 2026/27 Round 2 Day 1 scorecard",
+          "u": "https://www.cricketwinner.com/cricket-news/ranji-trophy-2026-27-round-2-day-1-scorecard-best-performers/"
         }
-      ]
+      ],
+      "status": "Day 1 · TN trail by 49",
+      "scoreAt": "2026-10-18T18:05:42+05:30"
     },
     {
       "id": "ranji-r2-del-guj",
@@ -484,7 +486,7 @@
       "a": [
         "DEL",
         "Delhi",
-        "308/3"
+        "381/4 (84)"
       ],
       "b": [
         "GUJ",
@@ -495,19 +497,19 @@
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 (18–21 Oct). Delhi batting first; Priyansh Arya hit a hundred off 125 balls and is 158*, with Ayush Badoni 84*; Ayush Doseja run out for 29. Broadcast not confirmed; no stream reported.",
+      "note": "Round 2 (18–21 Oct). Delhi closed day 1 on 381/4 after 84 overs: Priyansh Arya made 199 before falling at 376/4 and Ayush Badoni is 115*. Broadcast not confirmed.",
       "src": [
         {
           "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
           "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
       ],
-      "status": "Day 1 · Arya 158*, Badoni 84*",
-      "scoreAt": "2026-10-18T15:47:00+05:30"
+      "status": "Day 1 stumps · Badoni 115*",
+      "scoreAt": "2026-10-18T18:05:42+05:30"
     },
     {
       "id": "isl-chu-eb",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -515,13 +517,13 @@
       "a": [
         "CHB",
         "Churchill Brothers",
-        "",
+        "0",
         "#9F1239"
       ],
       "b": [
         "EBFC",
         "East Bengal FC",
-        "",
+        "2",
         "#DC2626"
       ],
       "when": "2026-10-18T17:00:00+05:30",
@@ -533,6 +535,10 @@
         {
           "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+        },
+        {
+          "t": "ISL – Churchill Brothers v East Bengal match centre",
+          "u": "https://www.indiansuperleague.com/matchcentre/194643"
         }
       ],
       "venue": "Fatorda Stadium, Goa",
@@ -543,7 +549,10 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "status": "2nd half · East Bengal lead",
+      "scoreAt": "2026-10-18T18:05:42+05:30",
+      "note": "East Bengal led 2–0 at the interval per the ISL match centre (scorers not listed); kick-off 5 pm."
     },
     {
       "id": "indw-zimw-t20-2",
@@ -1844,25 +1853,25 @@
       "a": [
         "UP",
         "Uttar Pradesh",
-        "184/9"
+        "202 (all out)"
       ],
       "b": [
         "GOA",
         "Goa",
-        "Yet to bat"
+        "43/0"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
-      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century for Uttar Pradesh. Broadcast not confirmed.",
+      "note": "UP were all out for 202 (Rinku Singh 118*); Goa reached 43/0 in reply.",
       "src": [
         {
-          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
-          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
+          "t": "CricketWinner – Ranji Trophy 2026/27 Round 2 Day 1 scorecard",
+          "u": "https://www.cricketwinner.com/cricket-news/ranji-trophy-2026-27-round-2-day-1-scorecard-best-performers/"
         }
       ],
-      "status": "Day 1 · Rinku Singh century",
-      "scoreAt": "2026-10-18T15:14:00+05:30"
+      "status": "Day 1 stumps · Goa trail by 159",
+      "scoreAt": "2026-10-18T18:05:42+05:30"
     }
   ],
   "competitions": [
@@ -2100,10 +2109,10 @@
       "id": "dpwic",
       "sport": "Golf",
       "name": "DP World India Championship",
-      "status": "Live · R3 resumes Sun 06:35 · till 18 Oct",
-      "live": true,
+      "status": "Concluded · Chacarra won, Lahiri T23",
+      "live": false,
       "india": true,
-      "note": "DP World Tour event at Delhi Golf Club, New Delhi (US$4m). Chacarra leads on −14 with 7 holes of round 3 left; Om Prakash Chouhan best Indian at −5 (T30); six Indians made the cut.",
+      "note": "Chacarra won at 21-under 267 at Delhi Golf Club; Daniel Hillier second (−19). Anirban Lahiri was best Indian, tied 23rd at −8.",
       "src": [
         {
           "t": "DP World Tour – leaderboard (Round 2)",
@@ -2157,6 +2166,30 @@
     }
   ],
   "feed": [
+    {
+      "t": "18:05",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Golf",
+      "text": "Eugenio Chacarra wins the DP World India Championship at Delhi Golf Club on 21-under; Anirban Lahiri, best Indian, finishes tied 23rd at −8.",
+      "match": "dpwic-r1"
+    },
+    {
+      "t": "18:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy R2 day 1 stumps: Delhi 381/4 (Arya 199, Badoni 115*) v Gujarat; Mumbai 107/2 after HP 140; UP 202 v Goa 43/0; Punjab 269/4 v Chhattisgarh.",
+      "match": "ranji-r2-del-guj"
+    },
+    {
+      "t": "18:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL: East Bengal lead Churchill Brothers 2–0 at the break in Goa.",
+      "match": "isl-chu-eb"
+    },
     {
       "t": "15:14",
       "tag": "NEWS",
@@ -2285,36 +2318,6 @@
       "m": "Cricket",
       "text": "India v West Indies 5th T20I decider: India 118/4 after 7.3 of 9 overs in Bengaluru; Iyer out for 22, Naman Dhir blasts 24 off 6.",
       "match": "ind-wi-t20-5"
-    },
-    {
-      "t": "21:34",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "match": "ind-wi-t20-5",
-      "text": "India v West Indies 5th T20I under way after rain: 9 overs a side, West Indies chose to bowl — India 45/2 after 2.3 overs.",
-      "src": [
-        {
-          "t": "Google – IND v WI live score",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+live+score"
-        }
-      ]
-    },
-    {
-      "t": "21:24",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "match": "isl-bfc-che",
-      "text": "ISL: Bengaluru FC beat Chennaiyin FC 2–0 at home — Ryan Williams (24') and Mihailo Perović (52') scored."
-    },
-    {
-      "t": "20:52",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "match": "acgl-goa-regar",
-      "text": "AFC Challenge League: FC Goa lose 1–2 to Regar-TadAZ in Kuwait — Chiki scored early, Faridun Davlatov hit back in the 85th and 90th minutes."
     }
   ],
   "schedule": [
