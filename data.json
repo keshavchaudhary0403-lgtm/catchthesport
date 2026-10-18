@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T13:04:51+05:30",
+  "lastUpdated": "2026-10-18T14:05:33+05:30",
   "dayLabel": "Sun 18 Oct · Today: IND W v ZIM W 2nd T20I 7 pm · ISL: Churchill v East Bengal, NEU v Kerala · DP World India Championship final day",
   "featured": "indw-zimw-t20-2",
   "matches": [
@@ -394,7 +394,7 @@
       "a": [
         "PUN",
         "Punjab",
-        "89/3 (37)"
+        "143/3 (48.2)"
       ],
       "b": [
         "CHG",
@@ -402,12 +402,12 @@
         "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Day 1 · lunch · Punjab bat",
-      "scoreAt": "2026-10-18T12:22:00+05:30",
+      "status": "Day 1 · 2nd session",
+      "scoreAt": "2026-10-18T13:26:00+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Round 2 (18–21 Oct). Punjab chose to bat; India Test captain Shubman Gill, back for Punjab before the New Zealand tour, fell for 1 off 5 balls. Prabhsimran Singh 8* and Uday Saharan 19* at lunch. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Punjab chose to bat; India Test captain Shubman Gill, back for Punjab before the New Zealand tour, fell for 1 off 5 balls to Ajay Mandal. Uday Saharan reached a fifty. Broadcast not confirmed.",
       "src": [
         {
           "t": "CREX – Chhattisgarh v Punjab live",
@@ -484,7 +484,7 @@
       "a": [
         "DEL",
         "Delhi",
-        "58/0 (16)"
+        "180/3"
       ],
       "b": [
         "GUJ",
@@ -495,15 +495,15 @@
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 of the Ranji Trophy begins (18–21 Oct). Broadcast for this match not confirmed; Delhi v Gujarat is reported to have no stream.",
+      "note": "Round 2 (18–21 Oct). Delhi batting first; Priyansh Arya reached a hundred off 125 balls. Broadcast not confirmed; no stream reported.",
       "src": [
         {
           "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
           "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
         }
       ],
-      "status": "Day 1 · Delhi bat first",
-      "scoreAt": "2026-10-18T10:55:00+05:30"
+      "status": "Day 1 · Arya hits 100",
+      "scoreAt": "2026-10-18T13:53:00+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -2129,6 +2129,14 @@
   ],
   "feed": [
     {
+      "t": "13:53",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Round 2: Priyansh Arya hits a hundred off 125 balls as Delhi reach 180/3 v Gujarat; Punjab 143/3 v Chhattisgarh after 48.2 overs.",
+      "match": "ranji-r2-del-guj"
+    },
+    {
       "t": "12:28",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2279,14 +2287,6 @@
           "u": "https://www.hindustantimes.com/sports/others/u23-world-wrestling-championships-amruta-pujari-wins-silver-india-women-end-campaign-with-two-medals-101792240217034.html"
         }
       ]
-    },
-    {
-      "t": "19:00",
-      "tag": "DRAW",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "ISL: Inter Kashi 1–1 Odisha FC in Pune — Odisha led through a Pratik Chaudhari own goal (56'); Thoi Singh equalised late.",
-      "match": "isl-kashi-odi"
     }
   ],
   "schedule": [
