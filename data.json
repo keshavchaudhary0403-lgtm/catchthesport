@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T12:15:52+05:30",
+  "lastUpdated": "2026-10-19T13:15:42+05:30",
   "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: Mona Agarwal gold, Avani silver",
   "featured": "nz-ind-t20-1",
   "matches": [
@@ -2022,7 +2022,7 @@
       "status": "Live · till 24 Oct · India's first medals 19 Oct",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). On 19 Oct Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0, 0.4 ahead of Avani Lekhara (249.6, silver) — India's first medals in shooting. Full India medal tally not confirmed yet. Broadcast details for India not confirmed.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). On 19 Oct Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0, 0.4 ahead of Avani Lekhara (249.6, silver) — India's first medals in shooting. Full India medal tally not confirmed yet. Broadcast details for India not confirmed. Sheetal Devi scored 704/720 in compound ranking (equals world record, Asian record); Kokila is in the women's J2 52kg judo final.",
       "src": [
         {
           "t": "Aaj Tak – Mona Agarwal gold, Avani Lekhara silver (10m air rifle SH1)",
@@ -2039,6 +2039,10 @@
         {
           "t": "Sportstar – India at Para Asian Games 2026: full list of athletes",
           "u": "https://sportstar.thehindu.com/asian-games-2026/"
+        },
+        {
+          "t": "The North News – India start strong as Sheetal equals archery world record",
+          "u": "https://www.thenorthnews.in/asian-para-games-india-start-strong-as-sheetal-equals-archery-world-record/"
         }
       ]
     },
@@ -2063,6 +2067,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "19 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Para sports",
+      "text": "Asian Para Games: Sheetal Devi scores 704/720 in the women's compound ranking round, equalling the world record and setting an Asian record; judoka Kokila reaches the women's J2 52kg final, guaranteeing India a judo medal.",
+      "src": [
+        {
+          "t": "The North News – India start strong as Sheetal equals archery world record",
+          "u": "https://www.thenorthnews.in/asian-para-games-india-start-strong-as-sheetal-equals-archery-world-record/"
+        }
+      ]
+    },
     {
       "t": "12:15",
       "tag": "GOLD",
@@ -2192,14 +2209,6 @@
       "m": "Golf",
       "text": "DP World India Championship final round: Eugenio Chacarra leads on −20; Anirban Lahiri is the best Indian at −6 (T30), Om Prakash Chouhan and Yuvraj Sandhu −4 (T41) (snapshot ~8:33 am).",
       "match": "dpwic-r1"
-    },
-    {
-      "t": "12:01",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Shubman Gill out for 1 off 5 balls on his Punjab comeback; Punjab 89/3 at lunch against Chhattisgarh in New Chandigarh after choosing to bat.",
-      "match": "ranji-r2-pun-chg"
     }
   ],
   "schedule": [
