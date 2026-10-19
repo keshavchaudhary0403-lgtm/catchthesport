@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T09:05:22+05:30",
-  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games under way",
+  "lastUpdated": "2026-10-19T12:15:52+05:30",
+  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: Mona Agarwal gold, Avani silver",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -2019,22 +2019,18 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · India 4th on the tally",
+      "status": "Live · till 24 Oct · India's first medals 19 Oct",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). After Day 2 (18 Oct) India had 6 gold, 6 silver, 5 bronze (17) and were 4th per Yahoo Sports' live tally — golds for Avani Lekhara (10m air rifle SH1), Sidhartha Babu, Pranav Soorma, Shailesh Kumar, Nishad Kumar, Praveen Kumar and Ankur Dhama. Archery, shooting, badminton QFs, powerlifting, judo, swimming and cycling follow from 19 Oct. India target their 111-medal Hangzhou 2022 haul.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). On 19 Oct Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0, 0.4 ahead of Avani Lekhara (249.6, silver) — India's first medals in shooting. Full India medal tally not confirmed yet. Broadcast details for India not confirmed.",
       "src": [
         {
-          "t": "Yahoo Sports – Asian Para Games 2026 Day Two live: India medal tally",
-          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-130755034.html"
+          "t": "Aaj Tak – Mona Agarwal gold, Avani Lekhara silver (10m air rifle SH1)",
+          "u": "https://www.aajtak.in/sports/news/story/mona-agarwal-gold-avani-lekhara-silver-asian-para-games-2026-bmsp-dskc-2674575-2026-10-19"
         },
         {
-          "t": "ESPN – India at Asian Para Games 2026: schedule for 19 Oct",
-          "u": "https://www.espn.com/espn/story"
-        },
-        {
-          "t": "Google – India Asian Para Games 19 Oct schedule",
-          "u": "https://www.google.com/search?q=Asian+Para+Games+2026+India+19+October+schedule"
+          "t": "ThePrint Hindi – Mona Agarwal wins gold, Avani Lekhara silver",
+          "u": "https://hindi.theprint.in/sports/asian-para-games-shooter-mona-agarwal-wins-gold-avani-lekhara-wins-silver/1046077"
         },
         {
           "t": "Wikipedia – 2026 Asian Para Games",
@@ -2068,15 +2064,19 @@
   ],
   "feed": [
     {
-      "t": "18 Oct",
-      "tag": "NEWS",
-      "c": "var(--accent)",
+      "t": "12:15",
+      "tag": "GOLD",
+      "c": "var(--gold)",
       "m": "Para sports",
-      "text": "Asian Para Games, Aichi-Nagoya: India had 6 gold, 6 silver and 5 bronze (17 medals), 4th on the tally after Day 2 — golds for Avani Lekhara, Sidhartha Babu, Pranav Soorma, Shailesh Kumar, Nishad Kumar, Praveen Kumar and Ankur Dhama.",
+      "text": "Asian Para Games, Nagoya: Mona Agarwal wins women's 10m air rifle SH1 gold with a Games record 250.0; Avani Lekhara takes silver (249.6), just 0.4 behind.",
       "src": [
         {
-          "t": "Yahoo Sports – Asian Para Games Day Two live",
-          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-130755034.html"
+          "t": "Aaj Tak – Mona Agarwal gold, Avani Lekhara silver (10m air rifle SH1)",
+          "u": "https://www.aajtak.in/sports/news/story/mona-agarwal-gold-avani-lekhara-silver-asian-para-games-2026-bmsp-dskc-2674575-2026-10-19"
+        },
+        {
+          "t": "ThePrint Hindi – Mona Agarwal wins gold, Avani Lekhara silver",
+          "u": "https://hindi.theprint.in/sports/asian-para-games-shooter-mona-agarwal-wins-gold-avani-lekhara-wins-silver/1046077"
         }
       ]
     },
