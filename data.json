@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T21:06:27+05:30",
-  "dayLabel": "Mon 19 Oct · ISL: Punjab v Mumbai City under way · Ranji Round 2 day 2 stumps · Asian Para Games: India 11 medals",
+  "lastUpdated": "2026-10-19T21:35:51+05:30",
+  "dayLabel": "Mon 19 Oct · ISL: Punjab 1–1 Mumbai City · Ranji Round 2 day 2 stumps · Asian Para Games: India 11 medals",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -731,17 +731,17 @@
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Phase 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "PFC",
         "Punjab FC",
-        "",
+        "1",
         "#C8102E"
       ],
       "b": [
         "MCFC",
         "Mumbai City FC",
-        "",
+        "1",
         "#6CABDD"
       ],
       "when": "2026-10-19T19:30:00+05:30",
@@ -757,15 +757,22 @@
       ],
       "src": [
         {
-          "t": "Khel Now – Indian football calendar October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+          "t": "Google – Punjab v Mumbai City full-time card",
+          "u": "https://www.google.com/search?q=Punjab+FC+vs+Mumbai+City+ISL+result"
+        },
+        {
+          "t": "ISL – Punjab FC v Mumbai City FC match centre",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
         },
         {
           "t": "Khel Now – Punjab FC v Mumbai City live, lineups",
           "u": "https://khelnow.com/football/indian-football-isl-2026-27-punjab-fc-vs-mumbai-city-fc-live-score"
         }
       ],
-      "note": "Kick-off 7:30 pm IST; Punjab FC (won their opener 2–1 v Odisha) host Mumbai City. Live score not confirmed at last check."
+      "note": "Leandro Otormín's 65th-minute penalty put Mumbai City ahead in New Delhi, but Gurkirat Singh equalised in the 90th minute to earn Punjab FC a 1–1 draw.",
+      "day": "19 Oct",
+      "recent": true,
+      "resultAt": "2026-10-19T21:35:51+05:30"
     },
     {
       "id": "acgl-goa-fortis",
@@ -1713,9 +1720,9 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · next: Punjab v Mumbai City, 19 Oct",
+      "status": "Live · next: Inter Kashi v East Bengal, 23 Oct",
       "india": true,
-      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title. Phase 1 fixtures run to 18 Oct.",
+      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title.",
       "id": "isl",
       "src": [
         {
@@ -1986,6 +1993,24 @@
   ],
   "feed": [
     {
+      "t": "21:27",
+      "tag": "DRAW",
+      "c": "var(--silver)",
+      "m": "Football",
+      "text": "ISL: Punjab FC 1–1 Mumbai City in New Delhi — Gurkirat Singh's 90th-minute equaliser cancels out Leandro Otormín's 65th-minute penalty.",
+      "match": "isl-pun-mci",
+      "src": [
+        {
+          "t": "Google – Punjab v Mumbai City full-time card",
+          "u": "https://www.google.com/search?q=Punjab+FC+vs+Mumbai+City+ISL+result"
+        },
+        {
+          "t": "Khel Now – Punjab FC v Mumbai City live, lineups",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-punjab-fc-vs-mumbai-city-fc-live-score"
+        }
+      ]
+    },
+    {
       "t": "21:06",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2178,14 +2203,6 @@
       "m": "Cricket",
       "text": "India Women beat Zimbabwe by 9 wickets in Raipur to clinch the T20I series 2–0 — chasing 103 in 8.5 overs with Shafali Verma 55 off 25 and Smriti Mandhana 47*.",
       "match": "indw-zimw-t20-2"
-    },
-    {
-      "t": "21:35",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "ISL: NorthEast United beat leaders Kerala Blasters 4–1 in Guwahati — Ajaraie scores twice, Moyano and Aman C.K. also on target; Yansané replies for Kerala.",
-      "match": "isl-neu-kbfc"
     }
   ],
   "schedule": [
