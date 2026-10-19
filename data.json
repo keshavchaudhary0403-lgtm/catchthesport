@@ -1,44 +1,8 @@
 {
-  "lastUpdated": "2026-10-19T13:36:53+05:30",
+  "lastUpdated": "2026-10-19T14:38:27+05:30",
   "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India 1G 1S 1B",
   "featured": "nz-ind-t20-1",
   "matches": [
-    {
-      "id": "dpwic-r1",
-      "sport": "Golf",
-      "comp": "DP World India Championship",
-      "round": "Round 4 (final)",
-      "st": "result",
-      "india": true,
-      "big": true,
-      "a": [
-        "IND",
-        "Anirban Lahiri",
-        "T23 (−8)"
-      ],
-      "b": [
-        "ESP",
-        "Eugenio Chacarra",
-        "Won (−21)"
-      ],
-      "when": "2026-10-15",
-      "venue": "Delhi Golf Club, New Delhi",
-      "note": "Eugenio Chacarra won on 21-under 267, two clear of Daniel Hillier (−19). Anirban Lahiri, the best Indian, shot 68 in the final round to finish tied 23rd at −8.",
-      "src": [
-        {
-          "t": "Rozana Spokesman/PTI – Chacarra wins DP World India Championship; Lahiri best Indian",
-          "u": "https://www.rozanaspokesman.com/sports/181026/chacarra-wins-dp-world-india-championship-tops-race-to-dubai-lahiri.html"
-        },
-        {
-          "t": "Golfpost – Chacarra holds off Hillier",
-          "u": "https://www.golfpost.com/lopez-chacarra-holds-off-hillier-to-win-dp-world-india-championship-888233743/"
-        }
-      ],
-      "win": "b",
-      "day": "18 Oct",
-      "recent": true,
-      "resultAt": "2026-10-18T18:05:42+05:30"
-    },
     {
       "id": "indw-zimw-t20-1",
       "sport": "Cricket",
@@ -371,7 +335,7 @@
       "b": [
         "MUM",
         "Mumbai",
-        "234/4 (77.1)"
+        "264/4 (91)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -380,12 +344,16 @@
       "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed.",
       "src": [
         {
+          "t": "Google – Mumbai vs Himachal Pradesh Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Mumbai+vs+Himachal+Pradesh+Ranji+Trophy+score"
+        },
+        {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Mumbai lead by 94",
-      "scoreAt": "2026-10-19T13:36:53+05:30"
+      "status": "Day 2 · Mumbai lead by 124",
+      "scoreAt": "2026-10-19T14:38:27+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -396,7 +364,7 @@
       "a": [
         "PUN",
         "Punjab",
-        "418/6 (140)"
+        "456/9 (152.4)"
       ],
       "b": [
         "CHG",
@@ -405,12 +373,16 @@
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "status": "Day 2 · Saharan 161, Jadeja 3 wkts",
-      "scoreAt": "2026-10-19T13:36:53+05:30",
+      "scoreAt": "2026-10-19T14:38:27+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
       "note": "Round 2 (18–21 Oct). Punjab chose to bat; Uday Saharan made 161 off 299 balls before Dharmendrasinh Jadeja had him caught behind after lunch on day 2, and Jadeja also removed Salil Arora. Shubman Gill fell for 1 on day 1. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "Google – Punjab vs Chhattisgarh Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Punjab+vs+Chhattisgarh+Ranji+Trophy+score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
@@ -431,7 +403,7 @@
       "b": [
         "SAU",
         "Saurashtra",
-        "42/0 (11.3)"
+        "105/0 (27.5)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -440,12 +412,16 @@
       "note": "Round 2 (18–21 Oct). Manvanth Kumar hit a maiden century as Karnataka recovered from 194/8 to 342; Parth Bhut took five wickets. Saurashtra 14/0 at lunch on day 2. Broadcast not confirmed.",
       "src": [
         {
+          "t": "Google – Karnataka vs Saurashtra Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+Ranji+Trophy+score"
+        },
+        {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Saurashtra trail by 300",
-      "scoreAt": "2026-10-19T13:36:53+05:30"
+      "status": "Day 2 · Saurashtra trail by 237",
+      "scoreAt": "2026-10-19T14:38:27+05:30"
     },
     {
       "id": "ranji-r2-tn-utk",
@@ -456,7 +432,7 @@
       "a": [
         "TN",
         "Tamil Nadu",
-        "215/2"
+        "263/4 (88)"
       ],
       "b": [
         "UTK",
@@ -470,12 +446,16 @@
       "note": "Round 2 (18–21 Oct). Uttarakhand were bowled out for 134; Pradosh Ranjan Paul brought up his 9th first-class hundred on day 2, with B. Indrajith also past fifty. Broadcast not confirmed.",
       "src": [
         {
+          "t": "Google – Tamil Nadu vs Uttarakhand Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Tamil+Nadu+vs+Uttarakhand+Ranji+Trophy+score"
+        },
+        {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · TN lead by 81",
-      "scoreAt": "2026-10-19T13:36:53+05:30"
+      "status": "Day 2 · TN lead by 129",
+      "scoreAt": "2026-10-19T14:38:27+05:30"
     },
     {
       "id": "ranji-r2-del-guj",
@@ -486,7 +466,7 @@
       "a": [
         "DEL",
         "Delhi",
-        "570/5 (124)"
+        "648/6d (136.4)"
       ],
       "b": [
         "GUJ",
@@ -497,15 +477,19 @@
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 (edged Jaymeet Patel after lunch on day 2). Delhi 570/5 in 124 overs. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 on day 2. Delhi declared on 648/6 in 136.4 overs. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "Google – Delhi vs Gujarat Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+Ranji+Trophy+score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Badoni out for 217",
-      "scoreAt": "2026-10-19T13:36:53+05:30"
+      "status": "Day 2 · Delhi declare on 648/6",
+      "scoreAt": "2026-10-19T14:38:27+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -1706,25 +1690,99 @@
       "a": [
         "UP",
         "Uttar Pradesh",
-        "202 (71)"
+        "202 & 11/2 (6.4)"
       ],
       "b": [
         "GOA",
         "Goa",
-        "149/8 (58.2)"
+        "164"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
-      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa slipped to 149/8 on day 2. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa were bowled out for 164 on day 2, a 38-run first-innings lead for UP. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "Google – Uttar Pradesh vs Goa Ranji Trophy score",
+          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+Ranji+Trophy+score"
+        },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Goa trail by 53",
-      "scoreAt": "2026-10-19T13:36:53+05:30"
+      "status": "Day 2 · UP lead by 49",
+      "scoreAt": "2026-10-19T14:38:27+05:30"
+    },
+    {
+      "id": "nz-ind-t20-5",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "New Zealand v India",
+      "round": "5th T20I",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-01T12:30:00+05:30",
+      "note": "Final match of the five-T20I series; the five-match ODI series follows from 4 Nov. Venue not confirmed here.",
+      "src": [
+        {
+          "t": "Google – India cricket schedule",
+          "u": "https://www.google.com/search?q=India+cricket+schedule"
+        },
+        {
+          "t": "Cricbuzz – India schedule",
+          "u": "https://www.cricbuzz.com/cricket-team/india/2/schedule"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
+    },
+    {
+      "id": "act-ind-mas",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 4",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "MAS",
+        "Malaysia",
+        ""
+      ],
+      "when": "2026-11-01T19:00:00+05:30",
+      "india": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "src": [
+        {
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        },
+        {
+          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
+          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "DD Sports",
+        "SonyLIV"
+      ]
     }
   ],
   "competitions": [
@@ -2010,8 +2068,16 @@
       "status": "Live · till 24 Oct · India 1G 1S 1B",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). Day 1 for India (19 Oct): Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0, 0.4 ahead of Avani Lekhara (silver); judoka Kapil Parmar won men's J1 -70kg bronze; Kokila reached the women's J2 -52kg final (silver at least); Sheetal Devi equalled the compound ranking-round world record (704/720); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal. Broadcast details for India not confirmed.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). Day 1 for India (19 Oct): Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0, 0.4 ahead of Avani Lekhara (silver); judoka Kapil Parmar won men's J1 -70kg bronze; Kokila beat world champion Liu Yi (China) to reach the women's J2 -52kg final v Aibike Ulanbek Kyzy (silver at least); powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sonalben Patel assured a para table tennis medal; Sheetal Devi equalled the compound ranking-round world record (704/720); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal. Broadcast details for India not confirmed.",
       "src": [
+        {
+          "t": "Google – Kokila judo Asian Para Games final",
+          "u": "https://www.google.com/search?q=Kokila+judo+Asian+Para+Games+final"
+        },
+        {
+          "t": "Google News – Jaspreet Kaur powerlifting Asian Para Games",
+          "u": "https://www.google.com/search?q=Jaspreet+Kaur+powerlifting+Asian+Para+Games&tbm=nws"
+        },
         {
           "t": "Wikipedia – India at the 2026 Asian Para Games",
           "u": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Para_Games"
@@ -2059,6 +2125,41 @@
     }
   ],
   "feed": [
+    {
+      "t": "14:38",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy day 2: Delhi declare on 648/6 v Gujarat; Mizoram's Chinmay Sutar passes 380 v Nagaland (Plate) — the second-highest score in Ranji Trophy history; Mumbai 264/4, lead Himachal by 124; Goa all out 164, UP 11/2 in their second innings (lead 49).",
+      "match": "ranji-r2-del-guj",
+      "src": [
+        {
+          "t": "Google – Ranji Trophy live score today",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today"
+        },
+        {
+          "t": "Google – Chinmay Sutar Mizoram Ranji Trophy",
+          "u": "https://www.google.com/search?q=Chinmay+Sutar+Mizoram+Ranji+Trophy"
+        }
+      ]
+    },
+    {
+      "t": "14:38",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Para sports",
+      "text": "Asian Para Games: Kokila beat China's world champion Liu Yi to reach the women's J2 -52kg judo final v Kyrgyzstan's Aibike Ulanbek Kyzy; Sonalben Patel assured of a para table tennis medal; powerlifter Jaspreet Kaur finishes fourth in the women's 45kg.",
+      "src": [
+        {
+          "t": "Google – Kokila judo Asian Para Games final",
+          "u": "https://www.google.com/search?q=Kokila+judo+Asian+Para+Games+final"
+        },
+        {
+          "t": "Google – Jaspreet Kaur powerlifting Asian Para Games",
+          "u": "https://www.google.com/search?q=Jaspreet+Kaur+powerlifting+Asian+Para+Games"
+        }
+      ]
+    },
     {
       "t": "13:36",
       "tag": "LIVE",
@@ -2181,8 +2282,7 @@
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Golf",
-      "text": "Eugenio Chacarra wins the DP World India Championship at Delhi Golf Club on 21-under; Anirban Lahiri, best Indian, finishes tied 23rd at −8.",
-      "match": "dpwic-r1"
+      "text": "Eugenio Chacarra wins the DP World India Championship at Delhi Golf Club on 21-under; Anirban Lahiri, best Indian, finishes tied 23rd at −8."
     },
     {
       "t": "18:05",
@@ -2190,27 +2290,6 @@
       "c": "var(--live-text)",
       "m": "Cricket",
       "text": "Ranji Trophy R2 day 1 stumps: Delhi 381/4 (Arya 199, Badoni 115*) v Gujarat; Mumbai 107/2 after HP 140; UP 202 v Goa 43/0; Punjab 269/4 v Chhattisgarh.",
-      "match": "ranji-r2-del-guj"
-    },
-    {
-      "t": "15:14",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 2: Rinku Singh hits a century as Uttar Pradesh reach 184/9 v Goa. Karnataka v Saurashtra and Tamil Nadu v Uttarakhand also under way (no scores found). Churchill Brothers v East Bengal (ISL) kicked off at 5 pm; India Women v Zimbabwe 2nd T20I at 7 pm.",
-      "src": [
-        {
-          "t": "Outlook India – Ranji Trophy Round 2 Day 1 live",
-          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-highlights-commentary-shubman-gill"
-        }
-      ]
-    },
-    {
-      "t": "15:47",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 2: Priyansh Arya is 158* and Ayush Badoni 84* as Delhi reach 308/3 v Gujarat; Himachal Pradesh bowled out for 140 by Mumbai; Rinku Singh hits a century for Uttar Pradesh v Goa.",
       "match": "ranji-r2-del-guj"
     }
   ],
@@ -2294,6 +2373,22 @@
       "meta": "Hockey · Jalandhar",
       "time": "19:00",
       "match": "act-jpn-ind"
+    },
+    {
+      "d": "01",
+      "mo": "NOV",
+      "title": "New Zealand v India, 5th T20I",
+      "meta": "Cricket",
+      "time": "12:30",
+      "match": "nz-ind-t20-5"
+    },
+    {
+      "d": "01",
+      "mo": "NOV",
+      "title": "India v Malaysia, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
+      "time": "19:00",
+      "match": "act-ind-mas"
     }
   ],
   "players": [
