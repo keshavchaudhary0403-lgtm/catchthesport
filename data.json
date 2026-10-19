@@ -1,124 +1,8 @@
 {
-  "lastUpdated": "2026-10-19T20:15:10+05:30",
-  "dayLabel": "Mon 19 Oct · ISL: Punjab v Mumbai City under way · Ranji Round 2 day 2 · Asian Para Games: India 11 medals",
+  "lastUpdated": "2026-10-19T21:06:27+05:30",
+  "dayLabel": "Mon 19 Oct · ISL: Punjab v Mumbai City under way · Ranji Round 2 day 2 stumps · Asian Para Games: India 11 medals",
   "featured": "nz-ind-t20-1",
   "matches": [
-    {
-      "id": "indw-zimw-t20-1",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "1st T20I",
-      "st": "result",
-      "a": [
-        "IND",
-        "India Women",
-        "116/6 (15.4)"
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        "114/5 (20)"
-      ],
-      "when": "2026-10-16T19:00:00+05:30",
-      "india": true,
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "India won by 4 wickets with 26 balls to spare to lead the series 1-0. From 19/4 (Nyasha Gwanzura 3-18), Deepti Sharma (49) and debutant Niki Prasad (39*) added 82; earlier Sharne Mayers 43* and Ndhlovu 42 for Zimbabwe, Nandni Sharma 2-11. Mandhana's first match as full-time captain.",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Deepti Sharma and Niki Prasad seal nervy chase of 115 for India",
-          "u": "https://www.espncricinfo.com/series/zimbabwe-women-in-india-2026-27-1535648/india-women-vs-zimbabwe-women-1st-t20i-1535652/match-report"
-        },
-        {
-          "t": "Google – IND-W v ZIM-W 1st T20I result (India Today, Hindustan Times)",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+T20I+result"
-        },
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        },
-        {
-          "t": "Wisden – IND-W v ZIM-W T20Is live-streaming details",
-          "u": "https://www.wisden.com/cricket-news/ind-w-vs-zim-w-t20is-all-you-need-to-know-full-schedule-squads-venues-and-live-streaming-details"
-        },
-        {
-          "t": "CricTracker – IND-W v ZIM-W broadcasters (7 pm IST, JioStar/JioHotstar)",
-          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "win": "a",
-      "day": "16 Oct",
-      "recent": true,
-      "resultAt": "2026-10-16T22:37:06+05:30"
-    },
-    {
-      "id": "isl-del-mbsg",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "DEL",
-        "Sporting Club Delhi",
-        "1",
-        "#B91C1C"
-      ],
-      "b": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "2",
-        "#166534"
-      ],
-      "when": "2026-10-16T19:30:00+05:30",
-      "src": [
-        {
-          "t": "Google – SC Delhi v Mohun Bagan (full-time)",
-          "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan+ISL+score"
-        },
-        {
-          "t": "Sportstar – Mohun Bagan vs SC Delhi live",
-          "u": "https://sportstar.thehindu.com/football/indian-football/"
-        },
-        {
-          "t": "Google sports – SC Delhi 1–0 Mohun Bagan, half-time (Hnamte 23')",
-          "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan"
-        },
-        {
-          "t": "Google sports – SC Delhi v Mohun Bagan live (0–0, 6')",
-          "u": "https://www.google.com/search?q=Sporting+Club+Delhi+vs+Mohun+Bagan+ISL+live"
-        },
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        },
-        {
-          "t": "SportyTrader – SC Delhi v Mohun Bagan live",
-          "u": "https://www.sportytrader.com/en/results-live/sc-delhi-atk-mohun-bagan-8861418/"
-        }
-      ],
-      "venue": "JLN Stadium, Delhi",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "Lalrinliana Hnamte put Delhi ahead on 23' and they led at half-time; Mohun Bagan came back to win 2-1 (Google lists Lee Erwin and Miguel Figueira as scorers).",
-      "win": "b",
-      "day": "16 Oct",
-      "recent": true,
-      "resultAt": "2026-10-16T21:36:24+05:30"
-    },
     {
       "id": "acgl-goa-regar",
       "st": "result",
@@ -335,7 +219,7 @@
       "b": [
         "MUM",
         "Mumbai",
-        "331/4"
+        "398/4"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -343,6 +227,10 @@
       "venue": "Luhnu Cricket Ground, Bilaspur",
       "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed. Sarfaraz Khan reached a century on day 2.",
       "src": [
+        {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        },
         {
           "t": "Google – Mumbai vs Himachal Pradesh Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Mumbai+vs+Himachal+Pradesh+Ranji+Trophy+live+score"
@@ -352,8 +240,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Mumbai lead by 191",
-      "scoreAt": "2026-10-19T15:54:00+05:30"
+      "status": "Day 2 stumps · Mumbai lead by 258",
+      "scoreAt": "2026-10-19T21:06:27+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -364,21 +252,25 @@
       "a": [
         "PUN",
         "Punjab",
-        "456 (152.5)"
+        "456"
       ],
       "b": [
         "CHG",
         "Chhattisgarh",
-        "17/0 (6)"
+        "76/5"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Day 2 · Chhattisgarh trail by 439",
-      "scoreAt": "2026-10-19T15:36:59+05:30",
+      "status": "Day 2 stumps · Punjab on top",
+      "scoreAt": "2026-10-19T21:06:27+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
       "note": "Round 2 (18–21 Oct). Punjab chose to bat and were all out for 456 on day 2: Uday Saharan 161, Salil Arora 107, Prabhsimran Singh 62; Dharmendrasinh Jadeja took 7 wickets. Shubman Gill fell for 1 on day 1. Streaming on JioHotstar (per Google's match card).",
       "src": [
+        {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        },
         {
           "t": "Google – Chhattisgarh vs Punjab Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Chhattisgarh+vs+Punjab+Ranji+Trophy+live+score"
@@ -410,7 +302,7 @@
       "b": [
         "SAU",
         "Saurashtra",
-        "115/3 (34.4)"
+        "164/4"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -418,6 +310,10 @@
       "venue": "KSCA Cricket Ground, Alur",
       "note": "Round 2 (18–21 Oct). Manvanth Kumar hit a maiden century as Karnataka recovered from 194/8 to 342; Parth Bhut took five wickets. Saurashtra 14/0 at lunch on day 2. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        },
         {
           "t": "Google – Karnataka vs Saurashtra Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+Ranji+Trophy+live+score"
@@ -427,8 +323,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Saurashtra trail by 227",
-      "scoreAt": "2026-10-19T15:36:59+05:30"
+      "status": "Day 2 stumps · Saurashtra trail by 178",
+      "scoreAt": "2026-10-19T21:06:27+05:30"
     },
     {
       "id": "ranji-r2-tn-utk",
@@ -439,12 +335,12 @@
       "a": [
         "TN",
         "Tamil Nadu",
-        "296/7 (100)"
+        "313"
       ],
       "b": [
         "UTK",
         "Uttarakhand",
-        "134 (56.2)"
+        "134 & 9/1"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -452,6 +348,10 @@
       "venue": "MA Chidambaram Stadium, Chennai",
       "note": "Round 2 (18–21 Oct). Uttarakhand were bowled out for 134; Pradosh Ranjan Paul brought up his 9th first-class hundred on day 2, with B. Indrajith also past fifty. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        },
         {
           "t": "Google – Tamil Nadu vs Uttarakhand Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Tamil+Nadu+vs+Uttarakhand+Ranji+Trophy+live+score"
@@ -461,8 +361,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · TN lead by 162",
-      "scoreAt": "2026-10-19T15:36:59+05:30"
+      "status": "Day 2 stumps · TN lead by 170",
+      "scoreAt": "2026-10-19T21:06:27+05:30"
     },
     {
       "id": "ranji-r2-del-guj",
@@ -478,7 +378,7 @@
       "b": [
         "GUJ",
         "Gujarat",
-        "25/1 (9)"
+        "98/2 (35)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -486,6 +386,10 @@
       "venue": "Palam B Stadium, Delhi",
       "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 on day 2. Delhi declared on 648/6 in 136.4 overs. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        },
         {
           "t": "Google – Delhi vs Gujarat Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+Ranji+Trophy+live+score"
@@ -495,8 +399,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Gujarat trail by 623",
-      "scoreAt": "2026-10-19T15:36:59+05:30"
+      "status": "Day 2 stumps · Gujarat trail by 550",
+      "scoreAt": "2026-10-19T21:06:27+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -1306,42 +1210,6 @@
       "resultAt": "2026-10-16T22:37:06+05:30"
     },
     {
-      "id": "den-treesa-qf",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's doubles · QF",
-      "st": "result",
-      "a": [
-        "IND",
-        "Treesa Jolly/Gayatri Gopichand",
-        "21-14 17-21 11-21",
-        "#E4572E"
-      ],
-      "b": [
-        "MAS",
-        "Pearly Tan/Thinaah Muralitharan (2)",
-        "14-21 21-17 21-11"
-      ],
-      "when": "2026-10-16T15:45:00+05:30",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "Won the first game but lost in three (about 55 minutes) to Malaysia's second seeds and world No. 5 Pearly Tan/Thinaah Muralitharan, who reach the semi-finals.",
-      "src": [
-        {
-          "t": "Sportstar – Treesa-Gayatri bow out of Denmark Open after losing to Pearly-Thinaah in quarterfinal",
-          "u": "https://sportstar.thehindu.com/badminton/treesa-jolly-gayatri-pullela-loses-in-denmark-open-after-losing-to-malayasias-duo-quarterfinals/article71592224.ece"
-        },
-        {
-          "t": "The Star / Free Malaysia Today – Pearly-Thinaah fight back to reach semis (via Google)",
-          "u": "https://www.google.com/search?q=Pearly-Thinaah+fight+back+to+reach+semis+in+Odense"
-        }
-      ],
-      "win": "b",
-      "day": "16 Oct",
-      "recent": true,
-      "resultAt": "2026-10-16T18:51:34+05:30"
-    },
-    {
       "id": "act-ind-ban",
       "sport": "Hockey",
       "comp": "Asian Champions Trophy 2026",
@@ -1702,7 +1570,7 @@
       "a": [
         "UP",
         "Uttar Pradesh",
-        "202 & 39/2 (18.4)"
+        "202 & 102/4"
       ],
       "b": [
         "GOA",
@@ -1715,6 +1583,10 @@
       "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa were bowled out for 164 on day 2, a 38-run first-innings lead for UP. Broadcast not confirmed.",
       "src": [
         {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        },
+        {
           "t": "Google – Uttar Pradesh vs Goa Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+Ranji+Trophy+live+score"
         },
@@ -1723,8 +1595,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · UP lead by 77",
-      "scoreAt": "2026-10-19T15:36:59+05:30"
+      "status": "Day 2 stumps · UP lead by 140",
+      "scoreAt": "2026-10-19T21:06:27+05:30"
     },
     {
       "id": "nz-ind-t20-5",
@@ -1909,42 +1781,6 @@
         }
       ],
       "comp": "Premier League"
-    },
-    {
-      "sport": "Tennis",
-      "name": "ATP Shanghai Masters",
-      "status": "Concluded · Davidovich Fokina won",
-      "live": false,
-      "id": "shanghai",
-      "note": "ATP Masters 1000. Final (18 Oct): Alejandro Davidovich Fokina beat Rafael Jódar 1-6 7-6(5) 6-4 in an all-Spanish final for his first Masters 1000 title. No Indian in the singles draw.",
-      "src": [
-        {
-          "t": "ATP Tour – Davidovich Fokina stops Jodar for Shanghai title",
-          "u": "https://www.atptour.com/en/news"
-        },
-        {
-          "t": "Google – Shanghai Masters 2026 final",
-          "u": "https://www.google.com/search?q=Shanghai+Masters+2026+final+result"
-        }
-      ]
-    },
-    {
-      "sport": "Tennis",
-      "name": "WTA Wuhan Open",
-      "status": "Concluded · Chwalińska won",
-      "id": "wuhan",
-      "note": "WTA 1000. Final (18 Oct): Maja Chwalińska beat Sonay Kartal 2-6 6-4 6-2.",
-      "src": [
-        {
-          "t": "Olympics.com – Wuhan Open 2026: Chwalińska wins title",
-          "u": "https://www.olympics.com/en/news"
-        },
-        {
-          "t": "Google – Wuhan Open 2026 final",
-          "u": "https://www.google.com/search?q=Wuhan+Open+2026+final"
-        }
-      ],
-      "live": false
     },
     {
       "sport": "Football",
@@ -2150,6 +1986,20 @@
   ],
   "feed": [
     {
+      "t": "21:06",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy day 2 stumps: Sarfaraz Khan 139* as Mumbai reach 398/4 v Himachal; Delhi 648/6d, Gujarat 98/2; Karnataka lead Saurashtra by 178; Haryana beat Chandigarh by an innings.",
+      "match": "ranji-r2-hp-mum",
+      "src": [
+        {
+          "t": "IANS – Ranji Trophy day two",
+          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
+        }
+      ]
+    },
+    {
       "t": "19:20",
       "tag": "GOLD",
       "c": "var(--gold)",
@@ -2336,14 +2186,6 @@
       "m": "Football",
       "text": "ISL: NorthEast United beat leaders Kerala Blasters 4–1 in Guwahati — Ajaraie scores twice, Moyano and Aman C.K. also on target; Yansané replies for Kerala.",
       "match": "isl-neu-kbfc"
-    },
-    {
-      "t": "20:36",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "India Women v Zimbabwe ODIs in Vadodara (23, 25, 28 Oct) start at 2:00 pm IST, per BCCI and ESPNcricinfo.",
-      "match": "indw-zimw-odi-1"
     }
   ],
   "schedule": [
