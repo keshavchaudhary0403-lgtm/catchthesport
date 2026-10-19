@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T18:05:46+05:30",
-  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India medals mounting",
+  "lastUpdated": "2026-10-19T20:15:10+05:30",
+  "dayLabel": "Mon 19 Oct · ISL: Punjab v Mumbai City under way · Ranji Round 2 day 2 · Asian Para Games: India 11 medals",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -855,8 +855,13 @@
         {
           "t": "Khel Now – Indian football calendar October 2026",
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
+        },
+        {
+          "t": "Khel Now – Punjab FC v Mumbai City live, lineups",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-punjab-fc-vs-mumbai-city-fc-live-score"
         }
-      ]
+      ],
+      "note": "Kick-off 7:30 pm IST; Punjab FC (won their opener 2–1 v Odisha) host Mumbai City. Live score not confirmed at last check."
     },
     {
       "id": "acgl-goa-fortis",
@@ -2072,10 +2077,10 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · India medals mounting",
+      "status": "Live · till 24 Oct · India 11 medals (4G 5S 2B), 4th",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Also on 19 Oct: Rinku Hooda won men's javelin F46 gold (65.11m) with Ajeet Singh Yadav silver (65.02m); Ravi Karthik Budigina won men's 100m freestyle S13 silver. Broadcast details for India not confirmed.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Also on 19 Oct: Rinku Hooda won men's javelin F46 gold (65.11m) with Ajeet Singh Yadav silver (65.02m); Ravi Karthik Budigina won men's 100m freestyle S13 silver. Broadcast details for India not confirmed. Update 19:20 IST: India 11 medals (4 gold, 5 silver, 2 bronze), fourth behind China, Japan, Uzbekistan; in the women's 1500m, Soumya won T12/T13 gold with Radha Venkatesh silver, and Ravanni Valasanaini took T11 bronze. India's para coach expects about six medals on 20 Oct; Sony Sports Ten 2/3, DD Sports (free) and SonyLIV carry the Games.",
       "src": [
         {
           "t": "The Tribune – Rinku Hooda gold, Ajeet Singh silver, javelin F46",
@@ -2112,6 +2117,14 @@
         {
           "t": "Sportstar – India at Para Asian Games 2026: full list of athletes",
           "u": "https://sportstar.thehindu.com/asian-games-2026/"
+        },
+        {
+          "t": "Sunday Guardian – Asian Para Games medal tally: India 11 medals",
+          "u": "https://sundayguardianlive.com/sports/asian-para-games-2026-medal-tally-live-india-reach-11-medals-with-4-gold-5-silver-2-bronze-latest-ranking-total-medals-updated-standings-308606/"
+        },
+        {
+          "t": "StadiumRant – Asian Para Games day 3 live, India broadcasters",
+          "u": "https://www.stadiumrant.com/asian-para-games-2026-day-three-live-schedule/"
         }
       ]
     },
@@ -2136,6 +2149,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "19:20",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Para athletics",
+      "text": "Asian Para Games: Soumya wins women's 1500m T12/T13 gold, Radha Venkatesh silver, Ravanni Valasanaini T11 bronze — India reach 11 medals (4G 5S 2B), fourth in the table.",
+      "src": [
+        {
+          "t": "Sunday Guardian – Asian Para Games medal tally",
+          "u": "https://sundayguardianlive.com/sports/asian-para-games-2026-medal-tally-live-india-reach-11-medals-with-4-gold-5-silver-2-bronze-latest-ranking-total-medals-updated-standings-308606/"
+        }
+      ]
+    },
     {
       "t": "18:05",
       "tag": "GOLD",
@@ -2318,13 +2344,6 @@
       "m": "Cricket",
       "text": "India Women v Zimbabwe ODIs in Vadodara (23, 25, 28 Oct) start at 2:00 pm IST, per BCCI and ESPNcricinfo.",
       "match": "indw-zimw-odi-1"
-    },
-    {
-      "t": "18 Oct",
-      "tag": "FINAL",
-      "c": "var(--gold)",
-      "m": "Badminton",
-      "text": "Denmark Open: An Se Young beats Akane Yamaguchi 21-23 21-14 21-18 to defend her title. Next up for Indians: French Open, Paris, from 20 Oct (Sindhu v An Se Young in R32)."
     }
   ],
   "schedule": [
