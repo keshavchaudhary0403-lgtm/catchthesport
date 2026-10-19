@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T15:37:11+05:30",
-  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India 2G 2S 1B",
+  "lastUpdated": "2026-10-19T18:05:46+05:30",
+  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India medals mounting",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -335,13 +335,13 @@
       "b": [
         "MUM",
         "Mumbai",
-        "309/4 (102.5)"
+        "331/4"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Luhnu Cricket Ground, Bilaspur",
-      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed. Sarfaraz Khan reached a century on day 2.",
       "src": [
         {
           "t": "Google – Mumbai vs Himachal Pradesh Ranji Trophy live score",
@@ -352,8 +352,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Mumbai lead by 169",
-      "scoreAt": "2026-10-19T15:36:59+05:30"
+      "status": "Day 2 · Mumbai lead by 191",
+      "scoreAt": "2026-10-19T15:54:00+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -2072,11 +2072,15 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · India 2G 2S 1B",
+      "status": "Live · till 24 Oct · India medals mounting",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Broadcast details for India not confirmed.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Also on 19 Oct: Rinku Hooda won men's javelin F46 gold (65.11m) with Ajeet Singh Yadav silver (65.02m); Ravi Karthik Budigina won men's 100m freestyle S13 silver. Broadcast details for India not confirmed.",
       "src": [
+        {
+          "t": "The Tribune – Rinku Hooda gold, Ajeet Singh silver, javelin F46",
+          "u": "https://www.tribuneindia.com/news/aichi-nagoya/para-asian-games-2026-rinku-hooda-wins-gold-ajeet-singh-takes-silver-as-india-secures-double-podium-finish-in-mens-javelin-throw-f46"
+        },
         {
           "t": "Sportstar – Nishad Kumar wins long jump T47 gold",
           "u": "https://sportstar.thehindu.com/athletics/asian-para-games-2026-nishad-kumar-wins-gold-long-jump-t47/article71602408.ece"
@@ -2132,6 +2136,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "18:05",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Para athletics",
+      "text": "Asian Para Games: Rinku Hooda wins men's javelin F46 gold with 65.11m, Ajeet Singh Yadav silver with 65.02m — an India 1–2; Ravi Karthik Budigina also took men's 100m freestyle S13 silver.",
+      "src": [
+        {
+          "t": "The Tribune – Para Asian Games javelin F46",
+          "u": "https://www.tribuneindia.com/news/aichi-nagoya/para-asian-games-2026-rinku-hooda-wins-gold-ajeet-singh-takes-silver-as-india-secures-double-podium-finish-in-mens-javelin-throw-f46"
+        }
+      ]
+    },
     {
       "t": "15:36",
       "tag": "LIVE",
@@ -2308,13 +2325,6 @@
       "c": "var(--gold)",
       "m": "Badminton",
       "text": "Denmark Open: An Se Young beats Akane Yamaguchi 21-23 21-14 21-18 to defend her title. Next up for Indians: French Open, Paris, from 20 Oct (Sindhu v An Se Young in R32)."
-    },
-    {
-      "t": "18 Oct",
-      "tag": "FINAL",
-      "c": "var(--gold)",
-      "m": "Tennis",
-      "text": "Shanghai Masters: Alejandro Davidovich Fokina beats Rafael Jódar 1-6 7-6(5) 6-4 for his first Masters 1000 title; Maja Chwalińska wins WTA Wuhan, beating Sonay Kartal 2-6 6-4 6-2."
     }
   ],
   "schedule": [
