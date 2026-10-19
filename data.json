@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T06:10:33+05:30",
+  "lastUpdated": "2026-10-19T09:05:22+05:30",
   "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games under way",
   "featured": "nz-ind-t20-1",
   "matches": [
@@ -2000,14 +2000,18 @@
       "comp": "BWF World Junior Championships",
       "sport": "Badminton",
       "name": "BWF World Junior Championships, Cairo",
-      "status": "Live · individual events this week",
-      "live": true,
+      "status": "Concluded · Cairo, 5–17 Oct",
+      "live": false,
       "india": true,
       "note": "Jagsher Singh Khangurra won boys' singles bronze (lost SF 6-15 15-13 3-15 to Radithya Bayu Wardhana on 16 Oct). Shaina Manimuthu lost in the girls' singles QF.",
       "src": [
         {
           "t": "Sportstar – Jagsher settles for bronze",
           "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
+        },
+        {
+          "t": "Wikipedia – 2026 BWF World Junior Championships",
+          "u": "https://en.wikipedia.org/wiki/2026_BWF_World_Junior_Championships"
         }
       ]
     },
