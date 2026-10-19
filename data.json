@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T13:18:58+05:30",
+  "lastUpdated": "2026-10-19T13:36:53+05:30",
   "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India 1G 1S 1B",
   "featured": "nz-ind-t20-1",
   "matches": [
@@ -371,21 +371,21 @@
       "b": [
         "MUM",
         "Mumbai",
-        "197/3"
+        "234/4 (77.1)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Luhnu Cricket Ground, Bilaspur",
-      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai 197/3 at lunch on day 2 with captain Siddhesh Lad 71* and Sarfaraz Khan 24* after Musheer Khan fell. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 lunch · Mumbai lead by 57",
-      "scoreAt": "2026-10-19T12:11:00+05:30"
+      "status": "Day 2 · Mumbai lead by 94",
+      "scoreAt": "2026-10-19T13:36:53+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -396,20 +396,20 @@
       "a": [
         "PUN",
         "Punjab",
-        "269/4"
+        "418/6 (140)"
       ],
       "b": [
         "CHG",
         "Chhattisgarh",
-        "391/5"
+        "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Day 2 · Saharan out for 161",
-      "scoreAt": "2026-10-19T13:01:00+05:30",
+      "status": "Day 2 · Saharan 161, Jadeja 3 wkts",
+      "scoreAt": "2026-10-19T13:36:53+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Round 2 (18–21 Oct). Uday Saharan made 161 off 299 balls before Dharmendrasinh Jadeja had him caught behind just after lunch on day 2 (391/5). Shubman Gill fell for 1 on day 1. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Punjab chose to bat; Uday Saharan made 161 off 299 balls before Dharmendrasinh Jadeja had him caught behind after lunch on day 2, and Jadeja also removed Salil Arora. Shubman Gill fell for 1 on day 1. Broadcast not confirmed.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
@@ -426,12 +426,12 @@
       "a": [
         "KAR",
         "Karnataka",
-        "342 (all out)"
+        "342 (111.3)"
       ],
       "b": [
         "SAU",
         "Saurashtra",
-        "14/0"
+        "42/0 (11.3)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -444,8 +444,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 lunch · Saurashtra trail by 328",
-      "scoreAt": "2026-10-19T12:11:00+05:30"
+      "status": "Day 2 · Saurashtra trail by 300",
+      "scoreAt": "2026-10-19T13:36:53+05:30"
     },
     {
       "id": "ranji-r2-tn-utk",
@@ -456,26 +456,26 @@
       "a": [
         "TN",
         "Tamil Nadu",
-        "180/2"
+        "215/2"
       ],
       "b": [
         "UTK",
         "Uttarakhand",
-        "134 (all out)"
+        "134 (56.2)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "MA Chidambaram Stadium, Chennai",
-      "note": "Round 2 (18–21 Oct). Uttarakhand were bowled out for 134; Tamil Nadu reached 180/2 at lunch on day 2 with Pradosh Ranjan Paul 79* and B. Indrajith 50*. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Uttarakhand were bowled out for 134; Pradosh Ranjan Paul brought up his 9th first-class hundred on day 2, with B. Indrajith also past fifty. Broadcast not confirmed.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 lunch · TN lead by 46",
-      "scoreAt": "2026-10-19T12:11:00+05:30"
+      "status": "Day 2 · TN lead by 81",
+      "scoreAt": "2026-10-19T13:36:53+05:30"
     },
     {
       "id": "ranji-r2-del-guj",
@@ -486,26 +486,26 @@
       "a": [
         "DEL",
         "Delhi",
-        "381/4 (84)"
+        "570/5 (124)"
       ],
       "b": [
         "GUJ",
         "Gujarat",
-        "527/4 (115)"
+        "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 (18–21 Oct). Priyansh Arya made 199 on day 1; Delhi reached 527/4 at lunch on day 2 with Ayush Badoni 204* — he fell soon after lunch for a career-best 217, edging Jaymeet Patel. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 (edged Jaymeet Patel after lunch on day 2). Delhi 570/5 in 124 overs. Broadcast not confirmed.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 lunch · Badoni 204*",
-      "scoreAt": "2026-10-19T12:11:00+05:30"
+      "status": "Day 2 · Badoni out for 217",
+      "scoreAt": "2026-10-19T13:36:53+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -1706,25 +1706,25 @@
       "a": [
         "UP",
         "Uttar Pradesh",
-        "202 (all out)"
+        "202 (71)"
       ],
       "b": [
         "GOA",
         "Goa",
-        "117/5"
+        "149/8 (58.2)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
-      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa slipped to 117/5 by lunch on day 2. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa slipped to 149/8 on day 2. Broadcast not confirmed.",
       "src": [
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 lunch · Goa trail by 85",
-      "scoreAt": "2026-10-19T12:11:00+05:30"
+      "status": "Day 2 · Goa trail by 53",
+      "scoreAt": "2026-10-19T13:36:53+05:30"
     }
   ],
   "competitions": [
@@ -2060,6 +2060,20 @@
   ],
   "feed": [
     {
+      "t": "13:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy day 2: Delhi 570/5 v Gujarat after Badoni's 217; Punjab 418/6 v Chhattisgarh; Mumbai 234/4, lead Himachal by 94; Pradosh Ranjan Paul hundred as TN lead Uttarakhand by 81; Goa 149/8 in reply to UP's 202.",
+      "match": "ranji-r2-del-guj",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 2 live",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
+        }
+      ]
+    },
+    {
       "t": "13:07",
       "tag": "BRONZE",
       "c": "var(--bronze)",
@@ -2198,24 +2212,9 @@
       "m": "Cricket",
       "text": "Ranji Trophy Round 2: Priyansh Arya is 158* and Ayush Badoni 84* as Delhi reach 308/3 v Gujarat; Himachal Pradesh bowled out for 140 by Mumbai; Rinku Singh hits a century for Uttar Pradesh v Goa.",
       "match": "ranji-r2-del-guj"
-    },
-    {
-      "t": "13:53",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 2: Priyansh Arya hits a hundred off 125 balls as Delhi reach 180/3 v Gujarat; Punjab 143/3 v Chhattisgarh after 48.2 overs.",
-      "match": "ranji-r2-del-guj"
     }
   ],
   "schedule": [
-    {
-      "d": "19",
-      "mo": "OCT",
-      "title": "Asian Para Games: Jaspreet Kaur, powerlifting women's 45kg final",
-      "meta": "Para powerlifting · Aichi-Nagoya",
-      "time": "13:00"
-    },
     {
       "d": "20",
       "mo": "OCT",
