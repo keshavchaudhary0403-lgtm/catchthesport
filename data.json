@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-18T21:35:50+05:30",
-  "dayLabel": "Sun 18 Oct · India Women beat Zimbabwe by 9 wkts, win series 2–0 · ISL: NEU 4–1 Kerala",
+  "lastUpdated": "2026-10-19T06:10:33+05:30",
+  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games under way",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -404,13 +404,21 @@
         "Yet to bat"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Punjab batting · Uday Saharan ton",
-      "scoreAt": "2026-10-18T18:05:42+05:30",
+      "status": "Day 1 stumps · Saharan 106*",
+      "scoreAt": "2026-10-19T06:10:33+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Punjab 269/4 on day 1 with Uday Saharan among the centurions; Shubman Gill was out for 1 on his Punjab comeback. Latest score from a 2nd-source tracker; no stumps report yet.",
+      "note": "Punjab closed day 1 on 269/4: captain Uday Saharan 106*; Shubman Gill out for 1 off 5 balls on his Punjab return. Day 2 starts 9:30 am IST. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "The Statesman – Saharan rescues Punjab; Rinku, Badoni hit centuries",
+          "u": "https://www.thestatesman.com/sports/ranji-trophy-uday-saharan-rescues-punjab-rinku-singh-and-ayush-badoni-strike-centuries-1503652617.html"
+        },
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round 2 Day 1 round-up",
+          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-two-day-one-shubman-gill-falls-in-five-balls-ipl-stars-shine"
+        },
         {
           "t": "CricketWinner – Ranji Trophy 2026/27 Round 2 Day 1 scorecard",
           "u": "https://www.cricketwinner.com/cricket-news/ranji-trophy-2026-27-round-2-day-1-scorecard-best-performers/"
@@ -437,15 +445,19 @@
       "india": true,
       "big": false,
       "venue": "KSCA Cricket Ground, Alur",
-      "note": "Karnataka 281/8 batting first at Alur. Broadcast not confirmed.",
+      "note": "Karnataka closed day 1 on 281/8 (Manvanth Kumar 86*) at Alur. Day 2 starts 9:30 am IST. Broadcast not confirmed.",
       "src": [
+        {
+          "t": "Wisden – Ranji Trophy 2026/27 Round 2 Day 1 round-up",
+          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-two-day-one-shubman-gill-falls-in-five-balls-ipl-stars-shine"
+        },
         {
           "t": "CricketWinner – Ranji Trophy 2026/27 Round 2 Day 1 scorecard",
           "u": "https://www.cricketwinner.com/cricket-news/ranji-trophy-2026-27-round-2-day-1-scorecard-best-performers/"
         }
       ],
-      "status": "Karnataka batting",
-      "scoreAt": "2026-10-18T18:05:42+05:30"
+      "status": "Day 1 stumps · Manvanth 86*",
+      "scoreAt": "2026-10-19T06:10:33+05:30"
     },
     {
       "id": "ranji-r2-tn-utk",
@@ -1270,171 +1282,6 @@
       ]
     },
     {
-      "id": "den-ashmita-yamaguchi",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's singles · R16",
-      "st": "result",
-      "a": [
-        "IND",
-        "Ashmita Chaliha",
-        "18-21 10-21"
-      ],
-      "b": [
-        "JPN",
-        "Akane Yamaguchi (3)",
-        "21-18 21-10"
-      ],
-      "when": "2026-10-15T18:05:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "Ashmita Chaliha loses 18-21 10-21 to third seed Akane Yamaguchi in the round of 16.",
-      "src": [
-        {
-          "t": "Google Sports results – Chaliha v Yamaguchi (final)",
-          "u": "https://www.google.com/search?q=Ashmita+Chaliha+Yamaguchi+Denmark+Open"
-        },
-        {
-          "t": "Sportscape – India's Denmark Open R16 schedule",
-          "u": "https://www.sportscapemagazine.com/blog/denmark-open-2026-india-round-of-16-schedule"
-        },
-        {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        }
-      ],
-      "watch": [
-        "FanCode"
-      ],
-      "win": "b",
-      "day": "15 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T19:36:15+05:30"
-    },
-    {
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "st": "result",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "watch": [
-        "FanCode"
-      ],
-      "src": [
-        {
-          "t": "Tribunnews – Rachel/Febi lose 16-21 17-21 to Jolly/Gayatri (via Google)",
-          "u": "https://www.google.com/search?q=Rachel+Allessya+Febi+Setianingrum+kalah+Treesa+Gayatri+Denmark+Open+2026"
-        },
-        {
-          "t": "Voice of Indian Sport – Treesa/Gayatri beat Rose/Setianingrum 21-16 21-17 (via Google)",
-          "u": "https://www.google.com/search?q=Treesa+Gayatri+beat+Rachel+Allessya+Rose+Febi+Setianingrum+Denmark+Open&tbs=qdr:d"
-        },
-        {
-          "t": "BWF – Denmark Open 2026, order of play 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        }
-      ],
-      "id": "den-treesa-rose",
-      "round": "Women's doubles · R16",
-      "a": [
-        "IND",
-        "Treesa Jolly/Gayatri Gopichand",
-        "21-16 21-17",
-        "#E4572E"
-      ],
-      "b": [
-        "INA",
-        "Rachel Allessya Rose/Febi Setianingrum (5)",
-        "16-21 17-21"
-      ],
-      "when": "2026-10-15T16:40:00+05:30",
-      "note": "Treesa Jolly/Gayatri Gopichand beat fifth seeds Rachel Allessya Rose/Febi Setianingrum 21-16 21-17 to reach the quarter-finals; Indonesia's last women's doubles pair is out.",
-      "win": "a",
-      "day": "15 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T19:36:15+05:30"
-    },
-    {
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "st": "result",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "watch": [
-        "FanCode"
-      ],
-      "src": [
-        {
-          "t": "Sportstar – Srikanth goes down to World Champion Lanier in Denmark Open 2026",
-          "u": "https://sportstar.thehindu.com/badminton/denmark-open-2026-ashmitha-tanvi-kidambi-srikanth-match-report-news/article71588004.ece"
-        },
-        {
-          "t": "BWF – Denmark Open 2026, results 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        }
-      ],
-      "id": "den-srikanth-lanier",
-      "round": "Men's singles · R16",
-      "a": [
-        "IND",
-        "Kidambi Srikanth",
-        "21-11 15-21 15-21",
-        "#E4572E"
-      ],
-      "b": [
-        "FRA",
-        "Alex Lanier (7)",
-        "11-21 21-15 21-15"
-      ],
-      "when": "2026-10-15T15:50:00+05:30",
-      "note": "Srikanth (World No. 31) won the first game 21-11 but world champion Lanier came back to win 11-21 21-15 21-15 in 66 minutes; Srikanth exits in the last 16.",
-      "win": "b",
-      "day": "15 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T18:38:13+05:30"
-    },
-    {
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "st": "result",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "watch": [
-        "FanCode"
-      ],
-      "src": [
-        {
-          "t": "Google Sports results – Tanvi Sharma v Yvonne Li (final: 21-17 21-19)",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+Yvonne+Li"
-        },
-        {
-          "t": "BWF – Denmark Open 2026, results 15 Oct",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/tournament/5210/victor-denmark-open-2026/results/2026-10-15"
-        }
-      ],
-      "id": "den-tanvi-li",
-      "round": "Women's singles · R16",
-      "a": [
-        "IND",
-        "Tanvi Sharma",
-        "21-17 21-19",
-        "#E4572E"
-      ],
-      "b": [
-        "GER",
-        "Yvonne Li",
-        "17-21 19-21"
-      ],
-      "when": "2026-10-15T23:40:00+05:30",
-      "note": "Tanvi Sharma beats Germany's Yvonne Li — who knocked out PV Sindhu in round one — 21-17 21-19 in a late-night match on Court 2 to reach the Denmark Open quarter-finals.",
-      "win": "a",
-      "day": "15 Oct",
-      "recent": true,
-      "resultAt": "2026-10-16T00:36:46+05:30",
-      "big": true
-    },
-    {
       "id": "den-tanvi-qf",
       "sport": "Badminton",
       "comp": "BWF Denmark Open (Super 750)",
@@ -1622,38 +1469,6 @@
       ],
       "watch": [
         "FanCode"
-      ]
-    },
-    {
-      "id": "wjc-jagsher-jhuang",
-      "sport": "Badminton",
-      "comp": "BWF World Junior Championships",
-      "round": "Boys' singles · QF",
-      "st": "result",
-      "a": [
-        "IND",
-        "Jagsher Singh Khangurra (14)",
-        "6-15 17-15 15-12"
-      ],
-      "b": [
-        "TPE",
-        "Yuan-Syue Jhuang",
-        "15-6 15-17 12-15"
-      ],
-      "when": "2026-10-15",
-      "win": "a",
-      "day": "15 Oct",
-      "recent": true,
-      "resultAt": "2026-10-15T20:36:28+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Cairo, Egypt",
-      "note": "Jagsher comes from a game down to win in 48 minutes and reach the semi-finals, assuring India a medal; Shaina Manimuthu lost her girls' singles QF 5-15 8-15 to China's Yi Qing Yin.",
-      "src": [
-        {
-          "t": "ANI – Jagsher Singh Khangurra confirms medal for India, reaches semifinal",
-          "u": "https://www.aninews.in/news/sports/others/bwf-world-junior-cships-jagsher-singh-khangurra-confirms-medal-for-india-reaches-semifinal20261015200815/"
-        }
       ]
     },
     {
@@ -2136,10 +1951,10 @@
       "id": "denmark-open",
       "sport": "Badminton",
       "name": "BWF Denmark Open (Super 750)",
-      "status": "Finals today · Odense",
-      "live": true,
+      "status": "Concluded · Odense, 18 Oct",
+      "live": false,
       "india": true,
-      "note": "Super 750 in Odense. Finals day 18 Oct: An Se Young beat Akane Yamaguchi 21-23 21-14 21-18 to defend the women's singles title; Fajar/Fikri beat Aaron Chia/Soh Wooi Yik in men's doubles; Lanier v Antonsen men's singles final under way. India's campaign ended in the quarter-finals (Tanvi Sharma, Treesa/Gayatri).",
+      "note": "Super 750 in Odense, finals 18 Oct: An Se Young beat Akane Yamaguchi 21-23 21-14 21-18 to defend the women's singles title; Fajar/Fikri beat Aaron Chia/Soh Wooi Yik in men's doubles. India's campaign ended in the quarter-finals (Tanvi Sharma, Treesa/Gayatri).",
       "src": [
         {
           "t": "Google – Denmark Open 2026 finals",
@@ -2200,11 +2015,15 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · medals from 19 Oct",
+      "status": "Live · till 24 Oct · India 4th on the tally",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). Opened 18 Oct; India's medal events begin 19 Oct — para archery from 4:30 am IST, Jaspreet Kaur in the powerlifting women's 45kg final at 1 pm. India target their 111-medal Hangzhou 2022 haul. Sony Sports Network, SonyLIV and DD Sports.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). After Day 2 (18 Oct) India had 6 gold, 6 silver, 5 bronze (17) and were 4th per Yahoo Sports' live tally — golds for Avani Lekhara (10m air rifle SH1), Sidhartha Babu, Pranav Soorma, Shailesh Kumar, Nishad Kumar, Praveen Kumar and Ankur Dhama. Archery, shooting, badminton QFs, powerlifting, judo, swimming and cycling follow from 19 Oct. India target their 111-medal Hangzhou 2022 haul.",
       "src": [
+        {
+          "t": "Yahoo Sports – Asian Para Games 2026 Day Two live: India medal tally",
+          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-130755034.html"
+        },
         {
           "t": "ESPN – India at Asian Para Games 2026: schedule for 19 Oct",
           "u": "https://www.espn.com/espn/story"
@@ -2244,6 +2063,19 @@
     }
   ],
   "feed": [
+    {
+      "t": "18 Oct",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Para sports",
+      "text": "Asian Para Games, Aichi-Nagoya: India had 6 gold, 6 silver and 5 bronze (17 medals), 4th on the tally after Day 2 — golds for Avani Lekhara, Sidhartha Babu, Pranav Soorma, Shailesh Kumar, Nishad Kumar, Praveen Kumar and Ankur Dhama.",
+      "src": [
+        {
+          "t": "Yahoo Sports – Asian Para Games Day Two live",
+          "u": "https://sports.yahoo.com/articles/asian-para-games-2026-day-130755034.html"
+        }
+      ]
+    },
     {
       "t": "21:35",
       "tag": "WIN",
