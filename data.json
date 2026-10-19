@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T21:35:51+05:30",
-  "dayLabel": "Mon 19 Oct · ISL: Punjab 1–1 Mumbai City · Ranji Round 2 day 2 stumps · Asian Para Games: India 11 medals",
+  "lastUpdated": "2026-10-20T05:05:26+05:30",
+  "dayLabel": "Tue 20 Oct · Women's T20I v Zimbabwe tonight · French Open starts · Para Games day 3 · Ranji day 3",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -1978,7 +1978,7 @@
       "status": "20–25 Oct · Paris",
       "live": false,
       "india": true,
-      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v An Se Young, Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 on 20–21 Oct; times TBA.",
+      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v An Se Young, Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 on 20–21 Oct; times TBA. Streaming in India: FanCode (TV channel not confirmed).",
       "src": [
         {
           "t": "Sports Digest – French Open 2026 draw: Lakshya, Sindhu, Satwik-Chirag",
@@ -1987,6 +1987,10 @@
         {
           "t": "Yonex IFB – Official draw and opening matchups",
           "u": "https://www.yonexifb.com/"
+        },
+        {
+          "t": "NewsX – French Open 2026: Indian players, schedule, live streaming",
+          "u": "https://www.newsx.com/sports/french-open-2026-badminton-check-super-750-events-prize-money-indian-players-schedule-and-live-streaming-285064/"
         }
       ]
     }
