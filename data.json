@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-19T14:38:27+05:30",
-  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India 1G 1S 1B",
+  "lastUpdated": "2026-10-19T15:37:11+05:30",
+  "dayLabel": "Mon 19 Oct · Ranji Round 2 day 2 · ISL: Punjab v Mumbai City tonight · Asian Para Games: India 2G 2S 1B",
   "featured": "nz-ind-t20-1",
   "matches": [
     {
@@ -335,7 +335,7 @@
       "b": [
         "MUM",
         "Mumbai",
-        "264/4 (91)"
+        "309/4 (102.5)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -344,16 +344,16 @@
       "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Google – Mumbai vs Himachal Pradesh Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Mumbai+vs+Himachal+Pradesh+Ranji+Trophy+score"
+          "t": "Google – Mumbai vs Himachal Pradesh Ranji Trophy live score",
+          "u": "https://www.google.com/search?q=Mumbai+vs+Himachal+Pradesh+Ranji+Trophy+live+score"
         },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Mumbai lead by 124",
-      "scoreAt": "2026-10-19T14:38:27+05:30"
+      "status": "Day 2 · Mumbai lead by 169",
+      "scoreAt": "2026-10-19T15:36:59+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -364,29 +364,36 @@
       "a": [
         "PUN",
         "Punjab",
-        "456/9 (152.4)"
+        "456 (152.5)"
       ],
       "b": [
         "CHG",
         "Chhattisgarh",
-        "Yet to bat"
+        "17/0 (6)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Day 2 · Saharan 161, Jadeja 3 wkts",
-      "scoreAt": "2026-10-19T14:38:27+05:30",
+      "status": "Day 2 · Chhattisgarh trail by 439",
+      "scoreAt": "2026-10-19T15:36:59+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Round 2 (18–21 Oct). Punjab chose to bat; Uday Saharan made 161 off 299 balls before Dharmendrasinh Jadeja had him caught behind after lunch on day 2, and Jadeja also removed Salil Arora. Shubman Gill fell for 1 on day 1. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Punjab chose to bat and were all out for 456 on day 2: Uday Saharan 161, Salil Arora 107, Prabhsimran Singh 62; Dharmendrasinh Jadeja took 7 wickets. Shubman Gill fell for 1 on day 1. Streaming on JioHotstar (per Google's match card).",
       "src": [
         {
-          "t": "Google – Punjab vs Chhattisgarh Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Punjab+vs+Chhattisgarh+Ranji+Trophy+score"
+          "t": "Google – Chhattisgarh vs Punjab Ranji Trophy live score",
+          "u": "https://www.google.com/search?q=Chhattisgarh+vs+Punjab+Ranji+Trophy+live+score"
         },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
+        },
+        {
+          "t": "Outlook India – Ranji Round 2 day 2 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-2026-27-live-score-second-round-day-2-latest-updates-scorecard-today-october-19-highlights-shubman-gill-mohammed-siraj"
         }
+      ],
+      "watch": [
+        "JioHotstar"
       ]
     },
     {
@@ -403,7 +410,7 @@
       "b": [
         "SAU",
         "Saurashtra",
-        "105/0 (27.5)"
+        "115/3 (34.4)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -412,16 +419,16 @@
       "note": "Round 2 (18–21 Oct). Manvanth Kumar hit a maiden century as Karnataka recovered from 194/8 to 342; Parth Bhut took five wickets. Saurashtra 14/0 at lunch on day 2. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Google – Karnataka vs Saurashtra Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+Ranji+Trophy+score"
+          "t": "Google – Karnataka vs Saurashtra Ranji Trophy live score",
+          "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+Ranji+Trophy+live+score"
         },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Saurashtra trail by 237",
-      "scoreAt": "2026-10-19T14:38:27+05:30"
+      "status": "Day 2 · Saurashtra trail by 227",
+      "scoreAt": "2026-10-19T15:36:59+05:30"
     },
     {
       "id": "ranji-r2-tn-utk",
@@ -432,7 +439,7 @@
       "a": [
         "TN",
         "Tamil Nadu",
-        "263/4 (88)"
+        "296/7 (100)"
       ],
       "b": [
         "UTK",
@@ -446,16 +453,16 @@
       "note": "Round 2 (18–21 Oct). Uttarakhand were bowled out for 134; Pradosh Ranjan Paul brought up his 9th first-class hundred on day 2, with B. Indrajith also past fifty. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Google – Tamil Nadu vs Uttarakhand Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Tamil+Nadu+vs+Uttarakhand+Ranji+Trophy+score"
+          "t": "Google – Tamil Nadu vs Uttarakhand Ranji Trophy live score",
+          "u": "https://www.google.com/search?q=Tamil+Nadu+vs+Uttarakhand+Ranji+Trophy+live+score"
         },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · TN lead by 129",
-      "scoreAt": "2026-10-19T14:38:27+05:30"
+      "status": "Day 2 · TN lead by 162",
+      "scoreAt": "2026-10-19T15:36:59+05:30"
     },
     {
       "id": "ranji-r2-del-guj",
@@ -471,7 +478,7 @@
       "b": [
         "GUJ",
         "Gujarat",
-        "Yet to bat"
+        "25/1 (9)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
@@ -480,16 +487,16 @@
       "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 on day 2. Delhi declared on 648/6 in 136.4 overs. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Google – Delhi vs Gujarat Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+Ranji+Trophy+score"
+          "t": "Google – Delhi vs Gujarat Ranji Trophy live score",
+          "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+Ranji+Trophy+live+score"
         },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · Delhi declare on 648/6",
-      "scoreAt": "2026-10-19T14:38:27+05:30"
+      "status": "Day 2 · Gujarat trail by 623",
+      "scoreAt": "2026-10-19T15:36:59+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -1690,7 +1697,7 @@
       "a": [
         "UP",
         "Uttar Pradesh",
-        "202 & 11/2 (6.4)"
+        "202 & 39/2 (18.4)"
       ],
       "b": [
         "GOA",
@@ -1703,16 +1710,16 @@
       "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa were bowled out for 164 on day 2, a 38-run first-innings lead for UP. Broadcast not confirmed.",
       "src": [
         {
-          "t": "Google – Uttar Pradesh vs Goa Ranji Trophy score",
-          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+Ranji+Trophy+score"
+          "t": "Google – Uttar Pradesh vs Goa Ranji Trophy live score",
+          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+Ranji+Trophy+live+score"
         },
         {
           "t": "Sportstar – Ranji Trophy Day 2 live",
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 2 · UP lead by 49",
-      "scoreAt": "2026-10-19T14:38:27+05:30"
+      "status": "Day 2 · UP lead by 77",
+      "scoreAt": "2026-10-19T15:36:59+05:30"
     },
     {
       "id": "nz-ind-t20-5",
@@ -2065,18 +2072,22 @@
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · India 1G 1S 1B",
+      "status": "Live · till 24 Oct · India 2G 2S 1B",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). Day 1 for India (19 Oct): Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0, 0.4 ahead of Avani Lekhara (silver); judoka Kapil Parmar won men's J1 -70kg bronze; Kokila beat world champion Liu Yi (China) to reach the women's J2 -52kg final v Aibike Ulanbek Kyzy (silver at least); powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sonalben Patel assured a para table tennis medal; Sheetal Devi equalled the compound ranking-round world record (704/720); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal. Broadcast details for India not confirmed.",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Broadcast details for India not confirmed.",
       "src": [
         {
-          "t": "Google – Kokila judo Asian Para Games final",
-          "u": "https://www.google.com/search?q=Kokila+judo+Asian+Para+Games+final"
+          "t": "Sportstar – Nishad Kumar wins long jump T47 gold",
+          "u": "https://sportstar.thehindu.com/athletics/asian-para-games-2026-nishad-kumar-wins-gold-long-jump-t47/article71602408.ece"
         },
         {
-          "t": "Google News – Jaspreet Kaur powerlifting Asian Para Games",
-          "u": "https://www.google.com/search?q=Jaspreet+Kaur+powerlifting+Asian+Para+Games&tbm=nws"
+          "t": "Sportstar – Kokila wins judo silver",
+          "u": "https://sportstar.thehindu.com/other-sports/kokila-silver-medal-women-j2-52kg-judo-asian-para-games-2026/article71602426.ece"
+        },
+        {
+          "t": "Sportstar – Sonalben Patel, Prachi Pandey assure table tennis medals",
+          "u": "https://sportstar.thehindu.com/table-tennis/sonalben-patel-prachi-pandey-assure-medals-india-table-tennis-asian-para-games-2026-semifinal-scores-results/article71602396.ece"
         },
         {
           "t": "Wikipedia – India at the 2026 Asian Para Games",
@@ -2097,10 +2108,6 @@
         {
           "t": "Sportstar – India at Para Asian Games 2026: full list of athletes",
           "u": "https://sportstar.thehindu.com/asian-games-2026/"
-        },
-        {
-          "t": "The North News – India start strong as Sheetal equals archery world record",
-          "u": "https://www.thenorthnews.in/asian-para-games-india-start-strong-as-sheetal-equals-archery-world-record/"
         }
       ]
     },
@@ -2126,6 +2133,63 @@
   ],
   "feed": [
     {
+      "t": "15:36",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy day 2, final session: Gujarat 25/1 in reply to Delhi's 648/6d; Punjab all out 456 (Dharmendrasinh Jadeja 7 wkts), Chhattisgarh 17/0; Mumbai 309/4, lead Himachal by 169; TN 296/7, lead by 162; Saurashtra 115/3 v Karnataka's 342; UP 39/2, lead Goa by 77.",
+      "match": "ranji-r2-del-guj",
+      "src": [
+        {
+          "t": "Google – Ranji Trophy live score today day 2",
+          "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today+day+2"
+        },
+        {
+          "t": "Outlook India – Ranji Round 2 day 2 live",
+          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-2026-27-live-score-second-round-day-2-latest-updates-scorecard-today-october-19-highlights-shubman-gill-mohammed-siraj"
+        }
+      ]
+    },
+    {
+      "t": "15:19",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Ranji Trophy (Plate): Mizoram's Chinmay Sutar reaches 400 not out v Nagaland — only the second Indian to pass 400 in a first-class innings, after BB Nimbalkar's 443* in 1948.",
+      "src": [
+        {
+          "t": "Sportstar – Chinmay Sutar becomes 10th batter to score 400-plus",
+          "u": "https://sportstar.thehindu.com/cricket/chinmay-sutar-400-runs-record-highest-scores-in-first-class-cricket-india-stats/article71602451.ece"
+        }
+      ]
+    },
+    {
+      "t": "15:07",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Para athletics",
+      "text": "Asian Para Games: Nishad Kumar wins men's long jump T47 gold with 7.11m — India's second gold in Nagoya. Uzbekistan's Omadbek Khasanov took silver (6.99m); Nishad's high jump T47 final is on Tuesday.",
+      "src": [
+        {
+          "t": "Sportstar – Nishad Kumar wins long jump T47 gold",
+          "u": "https://sportstar.thehindu.com/athletics/asian-para-games-2026-nishad-kumar-wins-gold-long-jump-t47/article71602408.ece"
+        }
+      ]
+    },
+    {
+      "t": "14:39",
+      "tag": "SILVER",
+      "c": "var(--silver)",
+      "m": "Para judo",
+      "text": "Asian Para Games: Kokila wins women's J2 -52kg judo silver — she lost the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy after beating China's world champion Liu Yi in the semi-final.",
+      "src": [
+        {
+          "t": "Sportstar – Kokila wins judo silver",
+          "u": "https://sportstar.thehindu.com/other-sports/kokila-silver-medal-women-j2-52kg-judo-asian-para-games-2026/article71602426.ece"
+        }
+      ]
+    },
+    {
       "t": "14:38",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2140,23 +2204,6 @@
         {
           "t": "Google – Chinmay Sutar Mizoram Ranji Trophy",
           "u": "https://www.google.com/search?q=Chinmay+Sutar+Mizoram+Ranji+Trophy"
-        }
-      ]
-    },
-    {
-      "t": "14:38",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Para sports",
-      "text": "Asian Para Games: Kokila beat China's world champion Liu Yi to reach the women's J2 -52kg judo final v Kyrgyzstan's Aibike Ulanbek Kyzy; Sonalben Patel assured of a para table tennis medal; powerlifter Jaspreet Kaur finishes fourth in the women's 45kg.",
-      "src": [
-        {
-          "t": "Google – Kokila judo Asian Para Games final",
-          "u": "https://www.google.com/search?q=Kokila+judo+Asian+Para+Games+final"
-        },
-        {
-          "t": "Google – Jaspreet Kaur powerlifting Asian Para Games",
-          "u": "https://www.google.com/search?q=Jaspreet+Kaur+powerlifting+Asian+Para+Games"
         }
       ]
     },
@@ -2268,29 +2315,6 @@
       "c": "var(--gold)",
       "m": "Tennis",
       "text": "Shanghai Masters: Alejandro Davidovich Fokina beats Rafael Jódar 1-6 7-6(5) 6-4 for his first Masters 1000 title; Maja Chwalińska wins WTA Wuhan, beating Sonay Kartal 2-6 6-4 6-2."
-    },
-    {
-      "t": "20:05",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "ISL: defending champions East Bengal beat Churchill Brothers 4–0 at Fatorda — Dani Ramírez, Edmund Lalrindika and a late Bipin Singh brace.",
-      "match": "isl-chu-eb"
-    },
-    {
-      "t": "18:05",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Golf",
-      "text": "Eugenio Chacarra wins the DP World India Championship at Delhi Golf Club on 21-under; Anirban Lahiri, best Indian, finishes tied 23rd at −8."
-    },
-    {
-      "t": "18:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy R2 day 1 stumps: Delhi 381/4 (Arya 199, Badoni 115*) v Gujarat; Mumbai 107/2 after HP 140; UP 202 v Goa 43/0; Punjab 269/4 v Chhattisgarh.",
-      "match": "ranji-r2-del-guj"
     }
   ],
   "schedule": [
