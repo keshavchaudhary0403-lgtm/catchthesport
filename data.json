@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T20:06:28+05:30",
-  "dayLabel": "Tue 20 Oct · India Women 126/2 v Zimbabwe (3rd T20I) · FC Goa 1–0 Fortis · Satwik-Chirag 20:10 · Para Games: India 35 medals",
+  "lastUpdated": "2026-10-20T20:36:23+05:30",
+  "dayLabel": "Tue 20 Oct · India Women 215/7 v Zimbabwe (3rd T20I) · FC Goa 1–0 Fortis (HT) · Satwik-Chirag v Popovs · Para Games: India 35 medals",
   "featured": "indw-zimw-t20-3",
   "matches": [
     {
@@ -541,7 +541,7 @@
       "a": [
         "IND",
         "India Women",
-        "126/2 (13)"
+        "215/7 (19.5)"
       ],
       "b": [
         "ZIM",
@@ -551,8 +551,16 @@
       "when": "2026-10-20T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and chose to bat; Anushka Sharma out for 28, Niki Prasad 9; Shafali Verma unbeaten on 68 off 35.",
+      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and batted; Shafali Verma 69 (152-run stand with Harmanpreet Kaur, who also made a fifty); Anushka Sharma 28, Niki Prasad out cheaply.",
       "src": [
+        {
+          "t": "Google – live score card: INDW 215/7 (19.5)",
+          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+3rd+T20I+score"
+        },
+        {
+          "t": "Outlook India – Shafali falls for 69 after 152-run stand",
+          "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
+        },
         {
           "t": "CricTracker – IND-W v ZIM-W 3rd T20I live score",
           "u": "https://www.crictracker.com/live-scores/ind-w-vs-zim-w-3rd-t20i-zimbabwe-women-tour-of-india-20-oct-2026/"
@@ -586,8 +594,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "Shafali Verma 68*",
-      "scoreAt": "2026-10-20T20:06:28+05:30"
+      "status": "Last over of innings",
+      "scoreAt": "2026-10-20T20:36:23+05:30"
     },
     {
       "id": "nz-ind-t20-1",
@@ -803,6 +811,10 @@
       "india": true,
       "src": [
         {
+          "t": "Khel Now (via Google) – HT: Fortis FC 0-1 FC Goa, Ortiz header",
+          "u": "https://www.google.com/search?q=%22Fortis%22+%22FC+Goa%22+full-time"
+        },
+        {
           "t": "LiveScore – Fortis FC v FC Goa",
           "u": "https://www.livescore.com/en/football/international/afc-challenge-league/fortis-fc-vs-fc-goa/1875834/"
         },
@@ -823,7 +835,7 @@
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ],
-      "note": "FC Goa lead 1–0 (goal on 6 minutes, listed to U. Singh) in their second AFC Challenge League group match; Fortis FC (Bangladesh) are the hosts in Kuwait.",
+      "note": "FC Goa led 1–0 at half-time through Jorge Ortiz's 6th-minute header in their second AFC Challenge League group match; Fortis FC (Bangladesh) are the hosts in Kuwait. Full-time score not yet confirmed.",
       "status": "2nd half",
       "scoreAt": "2026-10-20T20:06:28+05:30",
       "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait"
@@ -2169,6 +2181,20 @@
   ],
   "feed": [
     {
+      "t": "20:35",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women pile up 215/7 in the final over v Zimbabwe in the 3rd T20I — Shafali Verma 69 and Harmanpreet Kaur fifty in a 152-run stand.",
+      "src": [
+        {
+          "t": "Google – live score card",
+          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+3rd+T20I+score"
+        }
+      ],
+      "match": "indw-zimw-t20-3"
+    },
+    {
       "t": "20:06",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2358,19 +2384,6 @@
         {
           "t": "Google – Uttar Pradesh vs Goa live score",
           "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+ranji+live+score"
-        }
-      ]
-    },
-    {
-      "t": "12:21",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Para archery",
-      "text": "Asian Para Games: Sheetal Devi and Payal Nag beat Thailand 151–135 to reach the women's compound team final — India assured of at least silver; debutant Swati Chaudhary also into the women's W1 final v China.",
-      "src": [
-        {
-          "t": "NDTV Sports – Asian Para Games Day 2 live",
-          "u": "https://sports.ndtv.com/othersports/asian-para-games-2026-live-updates-day-2-india-medal-tally-results-aichi-nagoya-live-sheetal-devi-manish-narwal-12207839"
         }
       ]
     }
