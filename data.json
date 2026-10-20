@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T14:38:59+05:30",
-  "dayLabel": "Tue 20 Oct · Ranji day 3 · Para Games: India 24 medals · Sindhu now v Katethong · FC Goa v Fortis 18:55 · Women's T20I v Zimbabwe 19:00",
+  "lastUpdated": "2026-10-20T18:43:58+05:30",
+  "dayLabel": "Tue 20 Oct · Women's T20I v Zimbabwe 19:00 (India bat) · FC Goa v Fortis 18:55 · Para Games: India 35 medals · UP beat Goa",
   "featured": "indw-zimw-t20-3",
   "matches": [
     {
@@ -43,58 +43,6 @@
       "day": "17 Oct",
       "recent": true,
       "resultAt": "2026-10-17T20:52:00+05:30"
-    },
-    {
-      "id": "isl-kashi-odi",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "IKFC",
-        "Inter Kashi",
-        "1",
-        "#F59E0B"
-      ],
-      "b": [
-        "ODI",
-        "Odisha FC",
-        "1",
-        "#7C3AED"
-      ],
-      "when": "2026-10-17T17:00:00+05:30",
-      "venue": "Balewadi, Pune",
-      "src": [
-        {
-          "t": "NE India Broadcast – Thoi Singh's late equaliser earns Inter Kashi a point",
-          "u": "https://neindiabroadcast.com/2026/10/17/thoi-singhs-late-equaliser-earns-inter-kashi-a-point-against-odisha-fc/"
-        },
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        },
-        {
-          "t": "Pratidin Time – ISL 2026-27 full fixtures (Inter Kashi v Odisha, Pune, 5 pm)",
-          "u": "https://www.pratidintime.com/sports"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "Inter Kashi 1–1 Odisha FC at Balewadi, Pune: Odisha went ahead through an own goal by Inter Kashi's Pratik Chaudhari (56'); Thoi Singh equalised late in the second half.",
-      "day": "17 Oct",
-      "recent": true,
-      "resultAt": "2026-10-17T20:05:57+05:30"
     },
     {
       "id": "ind-wi-t20-5",
@@ -214,7 +162,7 @@
       "a": [
         "HP",
         "Himachal Pradesh",
-        "140 & 76/2 (26)"
+        "140 & 144/3"
       ],
       "b": [
         "MUM",
@@ -225,8 +173,12 @@
       "india": true,
       "big": true,
       "venue": "Luhnu Cricket Ground, Bilaspur",
-      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed. Sarfaraz Khan reached a century on day 2. Sarfaraz passed 150 on the morning of day 3. Day 3: Sarfaraz Khan out for 154; Mumbai declared on 528/8, a lead of 388.",
+      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed. Sarfaraz Khan reached a century on day 2. Sarfaraz passed 150 on the morning of day 3. Day 3: Sarfaraz Khan out for 154; Mumbai declared on 528/8, a lead of 388. Stumps day 3: Himachal held on at 144/3 to take the game into the final day; Mohit Avasthi, Sylvester D'Souza and Shams Mulani took the wickets.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
+        },
         {
           "t": "Google – live score card, day 3 session 2 (later)",
           "u": "https://www.google.com/search?q=Himachal+Pradesh+vs+Mumbai+ranji+live+score"
@@ -242,18 +194,10 @@
         {
           "t": "Hindustan Times – Ranji Trophy Round 2, Day 3 live",
           "u": "https://www.hindustantimes.com/cricket"
-        },
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        },
-        {
-          "t": "Google – Mumbai vs Himachal Pradesh Ranji Trophy live score",
-          "u": "https://www.google.com/search?q=Mumbai+vs+Himachal+Pradesh+Ranji+Trophy+live+score"
         }
       ],
-      "status": "Day 3 · Himachal trail by 312",
-      "scoreAt": "2026-10-20T14:38:59+05:30"
+      "status": "Stumps D3 · Himachal trail by 244",
+      "scoreAt": "2026-10-20T18:43:58+05:30"
     },
     {
       "id": "ranji-r2-pun-chg",
@@ -269,16 +213,20 @@
       "b": [
         "CHG",
         "Chhattisgarh",
-        "206 & 61/3 (25.2)"
+        "206 & 123/3 (54)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
-      "status": "Day 3 · Chhattisgarh trail by 189 (f/o)",
-      "scoreAt": "2026-10-20T14:38:59+05:30",
+      "status": "Stumps D3 · Chhattisgarh trail by 127",
+      "scoreAt": "2026-10-20T18:43:58+05:30",
       "india": true,
       "big": true,
       "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Round 2 (18–21 Oct). Punjab chose to bat and were all out for 456 on day 2: Uday Saharan 161, Salil Arora 107, Prabhsimran Singh 62; Dharmendrasinh Jadeja took 7 wickets. Shubman Gill fell for 1 on day 1. Streaming on JioHotstar (per Google's match card). Day 3: Chhattisgarh all out 206 (Amandeep Khare 91), 250 behind; Punjab enforced the follow-on.",
+      "note": "Round 2 (18–21 Oct). Punjab chose to bat and were all out for 456 on day 2: Uday Saharan 161, Salil Arora 107, Prabhsimran Singh 62; Dharmendrasinh Jadeja took 7 wickets. Shubman Gill fell for 1 on day 1. Streaming on JioHotstar (per Google's match card). Day 3: Chhattisgarh all out 206 (Amandeep Khare 91), 250 behind; Punjab enforced the follow-on. Stumps day 3: following on, Chhattisgarh reached 123/3 in 54 overs.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
+        },
         {
           "t": "Google – live score card, day 3 session 2 (later)",
           "u": "https://www.google.com/search?q=Punjab+vs+Chhattisgarh+ranji+live+score"
@@ -294,14 +242,6 @@
         {
           "t": "Google – Chhattisgarh vs Punjab Ranji Trophy live score",
           "u": "https://www.google.com/search?q=Chhattisgarh+vs+Punjab+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 2 live",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
-        },
-        {
-          "t": "Outlook India – Ranji Round 2 day 2 live",
-          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-2026-27-live-score-second-round-day-2-latest-updates-scorecard-today-october-19-highlights-shubman-gill-mohammed-siraj"
         }
       ],
       "watch": [
@@ -317,19 +257,23 @@
       "a": [
         "KAR",
         "Karnataka",
-        "342 (111.3)"
+        "342 & 99/2"
       ],
       "b": [
         "SAU",
         "Saurashtra",
-        "336/8 (105.3)"
+        "349"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "KSCA Cricket Ground, Alur",
-      "note": "Round 2 (18–21 Oct). Manvanth Kumar hit a maiden century as Karnataka recovered from 194/8 to 342; Parth Bhut took five wickets. Saurashtra 14/0 at lunch on day 2. Day 3 streaming on JioHotstar (Google video listing).",
+      "note": "Round 2 (18–21 Oct). Manvanth Kumar hit a maiden century as Karnataka recovered from 194/8 to 342; Parth Bhut took five wickets. Saurashtra 14/0 at lunch on day 2. Day 3 streaming on JioHotstar (Google video listing). Day 3: Saurashtra were all out for 349, a 7-run first-innings lead (Parth Bhut run out with the lead secured; Kaverappa four wickets). Karnataka 99/2 at stumps, lead by 92.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
+        },
         {
           "t": "Google – live score card, day 3 session 2 (later)",
           "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+ranji+live+score"
@@ -347,8 +291,8 @@
           "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 3 · Saurashtra trail by 6",
-      "scoreAt": "2026-10-20T14:38:59+05:30",
+      "status": "Stumps D3 · Karnataka lead by 92",
+      "scoreAt": "2026-10-20T18:43:58+05:30",
       "watch": [
         "JioHotstar"
       ]
@@ -411,14 +355,18 @@
       "b": [
         "GUJ",
         "Gujarat",
-        "280/5 (91.4)"
+        "363/5 (120)"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 on day 2. Delhi declared on 648/6 in 136.4 overs. Broadcast not confirmed.",
+      "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 on day 2. Delhi declared on 648/6 in 136.4 overs. Broadcast not confirmed. Day 3: Manan Hingrajia batted through the day for 108* (Chintan Gaja 41*); Jaymeet Patel made 72. Gujarat 363/5 at stumps.",
       "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
+        },
         {
           "t": "Google – live score card, day 3 session 2 (later)",
           "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+ranji+live+score"
@@ -434,18 +382,10 @@
         {
           "t": "IANS – Ranji Trophy day two",
           "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        },
-        {
-          "t": "Google – Delhi vs Gujarat Ranji Trophy live score",
-          "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 2 live",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 3 · Gujarat trail by 368",
-      "scoreAt": "2026-10-20T14:38:59+05:30"
+      "status": "Stumps D3 · Gujarat trail by 285",
+      "scoreAt": "2026-10-20T18:43:58+05:30"
     },
     {
       "id": "isl-chu-eb",
@@ -611,8 +551,12 @@
       "when": "2026-10-20T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur.",
+      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and chose to bat.",
       "src": [
+        {
+          "t": "Cricbuzz – INDW v ZIMW 3rd T20I: India won the toss and opt to bat",
+          "u": "https://www.cricbuzz.com/live-cricket-scores"
+        },
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
           "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
@@ -1226,46 +1170,6 @@
       ]
     },
     {
-      "id": "den-tanvi-qf",
-      "sport": "Badminton",
-      "comp": "BWF Denmark Open (Super 750)",
-      "round": "Women's singles · QF",
-      "st": "result",
-      "a": [
-        "IND",
-        "Tanvi Sharma",
-        "15-21 13-21",
-        "#E4572E"
-      ],
-      "b": [
-        "KOR",
-        "An Se Young (1)",
-        "21-15 21-13"
-      ],
-      "when": "2026-10-16T21:35:00+05:30",
-      "india": true,
-      "venue": "SJF Bank Arena, Odense",
-      "note": "World No. 1 and top seed An Se Young won in straight games to reach the semi-finals; India's last player in Odense goes out. Tanvi had beaten Natsuki Nidaira and Yvonne Li to make her first Super 750 quarter-final.",
-      "src": [
-        {
-          "t": "Google sports – Denmark Open QF final result: An Se Young 21-15 21-13 Tanvi Sharma",
-          "u": "https://www.google.com/search?q=Tanvi+Sharma+An+Se+Young+Denmark+Open+quarterfinal"
-        },
-        {
-          "t": "Google News (Korean) – OSEN/Xports News: 안세영, 1게임 21-15 (An Se Young takes game 1)",
-          "u": "https://www.google.com/search?q=%EC%95%88%EC%84%B8%EC%98%81+%EC%83%A4%EB%A5%B4%EB%A7%88+%EB%8D%B4%EB%A7%88%ED%81%AC%EC%98%A4%ED%94%88+4%EA%B0%95&tbm=nws"
-        },
-        {
-          "t": "Sportstar – Tanvi Sharma vs An Se-young: where to watch the quarterfinal in India",
-          "u": "https://sportstar.thehindu.com/badminton/tanvi-sharma-vs-an-se-young-live-streaming-denmark-open-2026-where-to-watch-india/article71591340.ece"
-        }
-      ],
-      "win": "b",
-      "day": "16 Oct",
-      "recent": true,
-      "resultAt": "2026-10-16T22:37:06+05:30"
-    },
-    {
       "id": "act-ind-ban",
       "sport": "Hockey",
       "comp": "Asian Champions Trophy 2026",
@@ -1378,39 +1282,6 @@
       "watch": [
         "FanCode"
       ]
-    },
-    {
-      "id": "wjc-jagsher-sf",
-      "sport": "Badminton",
-      "comp": "BWF World Junior Championships",
-      "round": "Boys' singles · SF",
-      "st": "result",
-      "a": [
-        "IND",
-        "Jagsher Singh Khangurra (14)",
-        "6-15 15-13 3-15"
-      ],
-      "b": [
-        "INA",
-        "Radithya Bayu Wardhana (31)",
-        "15-6 13-15 15-3"
-      ],
-      "when": "2026-10-16",
-      "india": true,
-      "big": false,
-      "venue": "Cairo, Egypt",
-      "note": "Bronze for the 15-year-old: lost the semi-final in three games (49 min) to Indonesia's Radithya Bayu Wardhana after winning the second. India's seventh individual bronze in Cairo (13 medals overall: 1 gold, 5 silver, 7 bronze).",
-      "src": [
-        {
-          "t": "Sportstar – Jagsher Khangurra settles for bronze at BWF World Junior Championships",
-          "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
-        }
-      ],
-      "win": "b",
-      "day": "16 Oct",
-      "recent": true,
-      "resultAt": "2026-10-16T18:51:34+05:30",
-      "gold": false
     },
     {
       "id": "isl-neu-bfc",
@@ -1585,44 +1456,11 @@
       ]
     },
     {
-      "id": "u23w-amruta-final",
-      "sport": "Wrestling",
-      "comp": "U23 World Wrestling Championships",
-      "round": "Women's 72kg · Final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Amruta Pujari",
-        "0 · pinned"
-      ],
-      "b": [
-        "UKR",
-        "Iryna Zablotska",
-        "6 · won by fall"
-      ],
-      "when": "2026-10-17",
-      "india": true,
-      "big": false,
-      "gold": true,
-      "venue": "Las Vegas, USA",
-      "note": "Silver for Amruta: trailing 0-6 in the 72kg final, she was pinned by Ukraine's Iryna Zablotska. India's third medal in Las Vegas after Vishvajit More (Greco-Roman 55kg silver) and Komal (59kg bronze); Sweety lost the 53kg bronze bout.",
-      "src": [
-        {
-          "t": "Hindustan Times – U-23 Worlds: Amruta Pujari wins silver, India women end with two medals",
-          "u": "https://www.hindustantimes.com/sports/others/u23-world-wrestling-championships-amruta-pujari-wins-silver-india-women-end-campaign-with-two-medals-101792240217034.html"
-        }
-      ],
-      "win": "b",
-      "day": "17 Oct",
-      "recent": true,
-      "resultAt": "2026-10-17T18:27:00+05:30"
-    },
-    {
       "id": "ranji-r2-up-goa",
       "sport": "Cricket",
       "comp": "Ranji Trophy 2026-27",
       "round": "Round 2 · 4-day",
-      "st": "live",
+      "st": "result",
       "a": [
         "UP",
         "Uttar Pradesh",
@@ -1631,13 +1469,21 @@
       "b": [
         "GOA",
         "Goa",
-        "164 & 108/5 (31)"
+        "164 & 167"
       ],
       "when": "2026-10-18T09:30:00+05:30",
       "india": true,
       "big": false,
-      "note": "Round 2 (18–21 Oct). Rinku Singh hit a century as Uttar Pradesh made 202; Goa were bowled out for 164 on day 2, a 38-run first-innings lead for UP. Broadcast not confirmed. Zeeshan Ansari's spin put UP in command (HT). UP were bowled out for 197 in their second innings on day 3, setting Goa 236 to win.",
+      "note": "UP won by 68 runs on day 3 at Green Park, Kanpur. Rinku Singh 118* rescued UP's first innings (202); Zeeshan Ansari 5/45 bowled Goa out for 164. Aryan Juyal's 74 and Yash Dayal's 36 off 14 lifted UP to 197 (Yash Kasvankar 5/69), and teen left-arm spinner Kartik Yadav took 5/37 as Goa, chasing 236, were all out for 167 (Suyash Prabhudessai 72) — losing their last five wickets for 14.",
       "src": [
+        {
+          "t": "Hindustan Times – Kartik Yadav's five-for seals UP's win over Goa",
+          "u": "https://www.hindustantimes.com/cricket/ranji-trophy-teen-spinner-kartik-yadav-s-five-for-seals-up-s-win-over-goa-101792499646741.html"
+        },
+        {
+          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
+        },
         {
           "t": "Google – live score card, day 3 session 2 (later)",
           "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+ranji+live+score"
@@ -1645,26 +1491,12 @@
         {
           "t": "Google – Ranji Trophy live score today",
           "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today"
-        },
-        {
-          "t": "Google – live score card, day 3 session 1",
-          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        },
-        {
-          "t": "Google – Uttar Pradesh vs Goa Ranji Trophy live score",
-          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 2 live",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
         }
       ],
-      "status": "Day 3 · Goa need 128 to win",
-      "scoreAt": "2026-10-20T14:38:59+05:30"
+      "win": "a",
+      "day": "20 Oct",
+      "recent": true,
+      "resultAt": "2026-10-20T18:43:58+05:30"
     },
     {
       "id": "nz-ind-t20-5",
@@ -1752,15 +1584,19 @@
         "Supanida Katethong",
         ""
       ],
-      "when": "2026-10-20",
+      "when": "2026-10-21",
       "india": true,
       "big": false,
       "venue": "Arena Grand Paris",
       "watch": [
         "FanCode"
       ],
-      "note": "Draw revised after Japan's Tomoka Miyazaki withdrew injured: Sindhu moved into Miyazaki's slot and now faces Thailand's Supanida Katethong in R32, while top seed An Se Young plays Denmark's Amalie Schulz (Chosun/OSEN, BWF). Match day and time not confirmed.",
+      "note": "Draw revised after Japan's Tomoka Miyazaki withdrew injured: Sindhu now faces Thailand's Supanida Katethong in R32 (Chosun/OSEN, BWF). Sindhu is in the bottom half of the draw (Wikipedia/BWF draw), whose R32 matches are on 21 Oct; time not confirmed.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 French Open (badminton) draw",
+          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+        },
         {
           "t": "Chosun (OSEN) – Miyazaki withdrawal alters draw; Sindhu now v Katethong",
           "u": "https://www.chosun.com/english/sports-en/2026/10/20/766AQUWYHRBI5F6S57QSQSP6BI/"
@@ -1768,6 +1604,166 @@
         {
           "t": "Google News (Korean) – SPOTV/MyDaily: An Se Young's opponent changed to Schulz",
           "u": "https://www.google.com/search?q=%EC%95%88%EC%84%B8%EC%98%81+%EC%8B%A0%EB%91%90+%ED%94%84%EB%9E%91%EC%8A%A4%EC%98%A4%ED%94%88&tbm=nws"
+        }
+      ]
+    },
+    {
+      "id": "fo-tanvi-isharani",
+      "sport": "Badminton",
+      "comp": "BWF French Open (Super 750)",
+      "round": "Women's singles R32",
+      "st": "result",
+      "a": [
+        "IND",
+        "Tanvi Sharma",
+        "21-12 21-12"
+      ],
+      "b": [
+        "IND",
+        "Isharani Baruah",
+        "12-21 12-21"
+      ],
+      "when": "2026-10-20",
+      "win": "a",
+      "day": "20 Oct",
+      "recent": true,
+      "resultAt": "2026-10-20T18:43:58+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Arena Grand Paris",
+      "note": "All-Indian first round: 17-year-old Tanvi Sharma won 21-12 21-12 in 32 minutes and moves to a projected world No. 20 in the live rankings. Her likely R16 opponent is top seed An Se Young (if she beats Amalie Schulz).",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
+          "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
+        }
+      ]
+    },
+    {
+      "id": "ckc-indw-mas",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Women's · league",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "MAS",
+        "Malaysia Women",
+        ""
+      ],
+      "when": "2026-10-23T18:45:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "India women's opener at the inaugural Commonwealth Kabaddi Championship (23–31 Oct).",
+      "src": [
+        {
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
+          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
+        }
+      ]
+    },
+    {
+      "id": "ckc-ind-eng",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Men's · league",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "ENG",
+        "England",
+        ""
+      ],
+      "when": "2026-10-23T20:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "India men's opener at the inaugural Commonwealth Kabaddi Championship; final on 31 Oct.",
+      "src": [
+        {
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
+          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
+        }
+      ]
+    },
+    {
+      "id": "ckc-indw-sgp",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Women's · league",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "SGP",
+        "Singapore Women",
+        ""
+      ],
+      "when": "2026-10-24T18:45:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "",
+      "src": [
+        {
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
+          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
+        }
+      ]
+    },
+    {
+      "id": "ckc-ind-uga",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Men's · league",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "UGA",
+        "Uganda",
+        ""
+      ],
+      "when": "2026-10-24T20:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "",
+      "src": [
+        {
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
+          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
         }
       ]
     }
@@ -1810,6 +1806,22 @@
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
           "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
+        }
+      ]
+    },
+    {
+      "id": "ckc-2026",
+      "sport": "Kabaddi",
+      "name": "Commonwealth Kabaddi Championship 2026",
+      "comp": "Commonwealth Kabaddi Championship",
+      "status": "Starts 23 Oct · Ahmedabad, till 31 Oct",
+      "live": true,
+      "india": true,
+      "note": "Inaugural edition at the Veer Savarkar Sports Complex, Ahmedabad: 13 men's and 10 women's teams (Pakistan withdrew). India men open v England (23 Oct, 20:30 IST), India women v Malaysia (23 Oct, 18:45 IST). Semi-finals 30 Oct; men's final 31 Oct 21:00, women's final 31 Oct 19:30 IST. Broadcast on the Star Sports network and JioHotstar (Khel Now).",
+      "src": [
+        {
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
+          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
         }
       ]
     },
@@ -1901,37 +1913,9 @@
       "live": true
     },
     {
-      "id": "issf-cairo",
-      "comp": "ISSF World Cup Cairo",
-      "sport": "Shooting",
-      "name": "ISSF World Cup (Rifle/Pistol), Cairo",
-      "status": "Concluded · India 1 gold",
-      "live": false,
-      "india": true,
-      "note": "Final World Cup leg of 2026. India send 24 shooters led by Olympic bronze medallists Swapnil Kusale and Sarabjot Singh. Mixed team events opened the programme on 10 Oct; individual finals run to 15 Oct. Streamed on Olympics.com and ISSF YouTube; no TV telecast in India. 11 Oct: Udhayveer Sidhu won the men's 10m air pistol gold (240.6), India's first medal in Cairo. India's campaign ended on 15 Oct with that single medal.",
-      "src": [
-        {
-          "t": "News On AIR – Udhayveer Sidhu wins gold in men's 10m air pistol",
-          "u": "https://newsonair.gov.in/"
-        },
-        {
-          "t": "ISSF – Privratsky comes out on top in a nail-biting final",
-          "u": "https://www.issf-sports.org/news"
-        },
-        {
-          "t": "Rediff/PTI – Udhayveer Sidhu wins gold in 10m air pistol at ISSF World Cup",
-          "u": "https://www.rediff.com/sports/report/udhayveer-sidhu-wins-gold-in-10m-air-pistol-at-issf-world-cup/20261011.htm"
-        },
-        {
-          "t": "Livemint – ISSF World Cup Cairo: India schedule & streaming",
-          "u": "https://www.livemint.com/sports/news/issf-shooting-world-cup-2026-full-schedule-who-are-indias-medal-contenders-live-streaming-details-more-for-egyp-11791609306355.html"
-        }
-      ]
-    },
-    {
       "sport": "Cricket",
       "name": "Ranji Trophy 2026-27",
-      "status": "Live · Round 2 day 3 (18–21 Oct)",
+      "status": "Live · Round 2 day 4 on 21 Oct (18–21 Oct)",
       "live": true,
       "id": "ranji",
       "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association. Stumps Day 1: Shami took 4/30 as Bengal bowled Delhi out for 240 in Kalyani; Smaran Ravichandran made a hundred on his Karnataka captaincy debut; Punjab v Assam was washed out.",
@@ -1993,34 +1977,18 @@
       "comp": "DP World India Championship"
     },
     {
-      "id": "bwf-wjc",
-      "comp": "BWF World Junior Championships",
-      "sport": "Badminton",
-      "name": "BWF World Junior Championships, Cairo",
-      "status": "Concluded · Cairo, 5–17 Oct",
-      "live": false,
-      "india": true,
-      "note": "Jagsher Singh Khangurra won boys' singles bronze (lost SF 6-15 15-13 3-15 to Radithya Bayu Wardhana on 16 Oct). Shaina Manimuthu lost in the girls' singles QF.",
-      "src": [
-        {
-          "t": "Sportstar – Jagsher settles for bronze",
-          "u": "https://sportstar.thehindu.com/badminton/jagsher-khangurra-bronze-bwf-world-junior-championships-2026-semifinals-radithya-wardhana/article71592621.ece"
-        },
-        {
-          "t": "Wikipedia – 2026 BWF World Junior Championships",
-          "u": "https://en.wikipedia.org/wiki/2026_BWF_World_Junior_Championships"
-        }
-      ]
-    },
-    {
       "id": "apg-2026",
       "sport": "Multi-sport",
       "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · India 24 medals (5G 8S 11B)",
+      "status": "Live · till 24 Oct · India 35 medals (9G 11S 15B)",
       "live": true,
       "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Also on 19 Oct: Rinku Hooda won men's javelin F46 gold (65.11m) with Ajeet Singh Yadav silver (65.02m); Ravi Karthik Budigina won men's 100m freestyle S13 silver. Broadcast details for India not confirmed. Update 19:20 IST: India 11 medals (4 gold, 5 silver, 2 bronze), fourth behind China, Japan, Uzbekistan; in the women's 1500m, Soumya won T12/T13 gold with Radha Venkatesh silver, and Ravanni Valasanaini took T11 bronze. India's para coach expects about six medals on 20 Oct; Sony Sports Ten 2/3, DD Sports (free) and SonyLIV carry the Games. 20 Oct (day 3, morning): Deepthi Jeevanji won women's 400m T20 gold in a Games record 56.36s; Manish Narwal took men's 10m air pistol SH1 silver (233.7, behind Korea's Jo Jeongdu); Ashok won men's 65kg powerlifting silver (192kg, behind China's Zou Yi); Bhavina Patel, Sonalben Patel, Prachi Pandey and Baby Sahana Ravi won table tennis bronzes. India 22 medals (5G 8S 9B) by mid-morning, per TOI/NDTV/Wikipedia. Later on 20 Oct: Shrishti Arora won women's 10m air pistol SH1 bronze (Paralympic Committee of India); Sheetal Devi beat Japan's Aya Shinohara 145–137 to reach the women's compound final, assuring a medal. Around 12:30 IST: Pradeep Kumar (silver) and Ayush Verma (bronze) in men's javelin F53/54; Sheetal Devi and Payal Nag reached the women's compound doubles final (India Today). Around 13:00 IST: Sheetal Devi and Payal Nag beat Thailand 151–135 in the women's compound team semi-final (at least silver); debutant Swati Chaudhary beat Korea's Lee Eunhee 6–2 to reach the women's W1 final v China (at least silver); Jehan Madan won men's singles Class 1 table tennis bronze; Pramod Bhagat and Nitesh Kumar reached the men's SL3 badminton semi-finals (medals assured). Around 14:15 IST (ANI): Himanshu Nandal won men's 400m freestyle S11 bronze (5:10.91), India's second para-swimming medal; ANI put India on 24 medals (5G 8S 11B). Sheetal Devi and Payal Nag face China in the women's compound doubles gold-medal match on 21 Oct from 05:55 IST (SAI Media); Harvinder Singh and Vijay Sundi also reached a para-archery gold-medal match (The News Mill).",
+      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Also on 19 Oct: Rinku Hooda won men's javelin F46 gold (65.11m) with Ajeet Singh Yadav silver (65.02m); Ravi Karthik Budigina won men's 100m freestyle S13 silver. Broadcast details for India not confirmed. Update 19:20 IST: India 11 medals (4 gold, 5 silver, 2 bronze), fourth behind China, Japan, Uzbekistan; in the women's 1500m, Soumya won T12/T13 gold with Radha Venkatesh silver, and Ravanni Valasanaini took T11 bronze. India's para coach expects about six medals on 20 Oct; Sony Sports Ten 2/3, DD Sports (free) and SonyLIV carry the Games. 20 Oct (day 3, morning): Deepthi Jeevanji won women's 400m T20 gold in a Games record 56.36s; Manish Narwal took men's 10m air pistol SH1 silver (233.7, behind Korea's Jo Jeongdu); Ashok won men's 65kg powerlifting silver (192kg, behind China's Zou Yi); Bhavina Patel, Sonalben Patel, Prachi Pandey and Baby Sahana Ravi won table tennis bronzes. India 22 medals (5G 8S 9B) by mid-morning, per TOI/NDTV/Wikipedia. Later on 20 Oct: Shrishti Arora won women's 10m air pistol SH1 bronze (Paralympic Committee of India); Sheetal Devi beat Japan's Aya Shinohara 145–137 to reach the women's compound final, assuring a medal. Around 12:30 IST: Pradeep Kumar (silver) and Ayush Verma (bronze) in men's javelin F53/54; Sheetal Devi and Payal Nag reached the women's compound doubles final (India Today). Around 13:00 IST: Sheetal Devi and Payal Nag beat Thailand 151–135 in the women's compound team semi-final (at least silver); debutant Swati Chaudhary beat Korea's Lee Eunhee 6–2 to reach the women's W1 final v China (at least silver); Jehan Madan won men's singles Class 1 table tennis bronze; Pramod Bhagat and Nitesh Kumar reached the men's SL3 badminton semi-finals (medals assured). Around 14:15 IST (ANI): Himanshu Nandal won men's 400m freestyle S11 bronze (5:10.91), India's second para-swimming medal; ANI put India on 24 medals (5G 8S 11B). Sheetal Devi and Payal Nag face China in the women's compound doubles gold-medal match on 21 Oct from 05:55 IST (SAI Media); Harvinder Singh and Vijay Sundi also reached a para-archery gold-medal match (The News Mill). Later on 20 Oct (Livemint): Pranav Soorma won men's discus F51/52/53 gold with an Asian record 11.66m (Ram Ratan Singh silver); Simran Sharma won women's 200m T12 gold in a Games record 24.80s (Tejalben Damor bronze); Preeti Pal won women's 200m T35 silver; Niranjan Mukundan won men's 200m IM SM7 bronze; Nishad Kumar won his second gold, the men's high jump T47 (2.04m); India swept the men's discus F43/44/62/64 podium — Devendra Kumar gold, Rakesh Kumar silver, Pradeep Kumar bronze. Livemint put India sixth with 35 medals (9 gold, 11 silver, 15 bronze) at the end of day 2 of competition.",
       "src": [
+        {
+          "t": "Livemint – Asian Para Games 2026 highlights: India's tally rises to 35",
+          "u": "https://www.livemint.com/sports/news/asian-para-games-2026-live-updates-india-schedule-today-medal-tally-results-swimming-athletics-badminton-20-october-11792457668970.html"
+        },
         {
           "t": "ANI – Himanshu Nandal bronze; Sheetal-Payal to fight for gold",
           "u": "https://www.aninews.in/news/sports/others/asian-para-games-para-swimmer-himanshu-seals-bronze-in-mens-400-m-freestyle-s11-event-sheetal-payal-to-fight-for-gold-in-para-archery20261020141635/"
@@ -2102,8 +2070,12 @@
       "status": "Live today · 20–25 Oct · Paris",
       "live": true,
       "india": true,
-      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v Supanida Katethong (revised after Tomoka Miyazaki withdrew; An Se Young now plays Amalie Schulz), Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 top half on 20 Oct and bottom half on 21 Oct, first matches 13:30 IST each day; Streaming in India: FanCode (TV channel not confirmed).",
+      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v Supanida Katethong (revised after Tomoka Miyazaki withdrew; An Se Young now plays Amalie Schulz), Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 top half on 20 Oct and bottom half on 21 Oct, first matches 13:30 IST each day; Streaming in India: FanCode (TV channel not confirmed). 20 Oct: Tanvi Sharma beat Isharani Baruah 21-12 21-12. Sindhu (v Katethong) and Unnati Hooda (v Riko Gunji) are in the bottom half, which plays R32 on 21 Oct.",
       "src": [
+        {
+          "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
+          "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
+        },
         {
           "t": "Chosun (OSEN) – Miyazaki withdrawal alters draw; Sindhu now v Katethong",
           "u": "https://www.chosun.com/english/sports-en/2026/10/20/766AQUWYHRBI5F6S57QSQSP6BI/"
@@ -2133,6 +2105,88 @@
     }
   ],
   "feed": [
+    {
+      "t": "18:30",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "India Women win the toss and bat first in the 3rd T20I v Zimbabwe in Raipur, chasing a 3–0 sweep.",
+      "src": [
+        {
+          "t": "Cricbuzz – INDW v ZIMW 3rd T20I toss",
+          "u": "https://www.cricbuzz.com/live-cricket-scores"
+        }
+      ],
+      "match": "indw-zimw-t20-3"
+    },
+    {
+      "t": "17:53",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Para athletics",
+      "text": "Asian Para Games: India sweep the men's discus F43/44/62/64 podium — Devendra Kumar gold, Rakesh Kumar silver, Pradeep Kumar bronze. Nishad Kumar adds high jump T47 gold (2.04m) to his long jump title; India on 35 medals (9G 11S 15B), sixth (Livemint).",
+      "src": [
+        {
+          "t": "Livemint – Asian Para Games 2026 highlights",
+          "u": "https://www.livemint.com/sports/news/asian-para-games-2026-live-updates-india-schedule-today-medal-tally-results-swimming-athletics-badminton-20-october-11792457668970.html"
+        }
+      ]
+    },
+    {
+      "t": "17:13",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy stumps, day 3: Himachal 144/3 (trail Mumbai by 244); Chhattisgarh 123/3 following on (trail Punjab by 127); Karnataka 99/2, lead Saurashtra by 92; Gujarat 363/5 v Delhi's 648/6d.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
+          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
+        }
+      ],
+      "match": "ranji-r2-hp-mum"
+    },
+    {
+      "t": "16:13",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Para athletics",
+      "text": "Asian Para Games: Simran Sharma wins women's 200m T12 gold in a Games record 24.80s (Tejalben Damor bronze); Pranav Soorma takes discus F51/52/53 gold with an Asian record, Ram Ratan Singh silver.",
+      "src": [
+        {
+          "t": "Livemint – Asian Para Games 2026 highlights",
+          "u": "https://www.livemint.com/sports/news/asian-para-games-2026-live-updates-india-schedule-today-medal-tally-results-swimming-athletics-badminton-20-october-11792457668970.html"
+        }
+      ]
+    },
+    {
+      "t": "15:58",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Uttar Pradesh beat Goa by 68 runs in Kanpur — teen spinner Kartik Yadav 5/37 as Goa, chasing 236, fold for 167.",
+      "src": [
+        {
+          "t": "Hindustan Times – Kartik Yadav's five-for seals UP's win over Goa",
+          "u": "https://www.hindustantimes.com/cricket/ranji-trophy-teen-spinner-kartik-yadav-s-five-for-seals-up-s-win-over-goa-101792499646741.html"
+        }
+      ],
+      "match": "ranji-r2-up-goa"
+    },
+    {
+      "t": "20 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "French Open: Tanvi Sharma beats Isharani Baruah 21-12 21-12 in an all-Indian first round in Paris; Sindhu plays Katethong on 21 Oct.",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
+          "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
+        }
+      ],
+      "match": "fo-tanvi-isharani"
+    },
     {
       "t": "14:38",
       "tag": "BRONZE",
@@ -2255,95 +2309,6 @@
           "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today"
         }
       ]
-    },
-    {
-      "t": "11:10",
-      "tag": "BRONZE",
-      "c": "var(--bronze)",
-      "m": "Para shooting",
-      "text": "Asian Para Games: Shrishti Arora wins women's 10m air pistol SH1 bronze; Sheetal Devi beats Japan's Aya Shinohara 145–137 to reach the women's compound archery final and is assured of a medal.",
-      "src": [
-        {
-          "t": "Google – Paralympic Committee of India / The Bridge: Shrishti Arora bronze",
-          "u": "https://www.google.com/search?q=Srishti+silver+10m+pistol+Asian+Para+Games"
-        },
-        {
-          "t": "ANI – Sheetal Devi storms into compound final",
-          "u": "https://www.google.com/search?q=Sheetal+Devi+Asian+Para+Games+2026+final"
-        }
-      ]
-    },
-    {
-      "t": "10:44",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy day 3, morning: Mumbai 461/7, lead Himachal by 321; Gujarat 130/3 v Delhi's 648/6d; Chhattisgarh 129/7 v Punjab's 456; Saurashtra 201/5, trail Karnataka by 141; UP 156/9 in their second innings, lead Goa by 194.",
-      "match": "ranji-r2-hp-mum",
-      "src": [
-        {
-          "t": "Google – Ranji Trophy live score today day 3",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today+day+3"
-        }
-      ]
-    },
-    {
-      "t": "10:30",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Para sports",
-      "text": "Asian Para Games: Manish Narwal wins men's 10m air pistol SH1 silver (233.7) and Ashok takes men's 65kg powerlifting silver (192kg); four table tennis bronzes for Bhavina Patel, Sonalben Patel, Prachi Pandey and Baby Sahana Ravi — India on 22 medals (5G 8S 9B).",
-      "src": [
-        {
-          "t": "Google – India 22 medals at Asian Para Games",
-          "u": "https://www.google.com/search?q=Asian+Para+Games+2026+medal+tally+India+rank+22+medals"
-        }
-      ]
-    },
-    {
-      "t": "20 Oct",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Para athletics",
-      "text": "Asian Para Games: Deepthi Jeevanji wins women's 400m T20 gold in a Games record 56.36s — India's fifth gold in Nagoya.",
-      "src": [
-        {
-          "t": "Google – ANI/Livemint: Deepthi Jeevanji Games-record gold",
-          "u": "https://www.google.com/search?q=Deepthi+Jeevanji+gold+Asian+Para+Games+2026+Manish+Narwal+silver"
-        }
-      ]
-    },
-    {
-      "t": "21:27",
-      "tag": "DRAW",
-      "c": "var(--silver)",
-      "m": "Football",
-      "text": "ISL: Punjab FC 1–1 Mumbai City in New Delhi — Gurkirat Singh's 90th-minute equaliser cancels out Leandro Otormín's 65th-minute penalty.",
-      "match": "isl-pun-mci",
-      "src": [
-        {
-          "t": "Google – Punjab v Mumbai City full-time card",
-          "u": "https://www.google.com/search?q=Punjab+FC+vs+Mumbai+City+ISL+result"
-        },
-        {
-          "t": "Khel Now – Punjab FC v Mumbai City live, lineups",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-punjab-fc-vs-mumbai-city-fc-live-score"
-        }
-      ]
-    },
-    {
-      "t": "21:06",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy day 2 stumps: Sarfaraz Khan 139* as Mumbai reach 398/4 v Himachal; Delhi 648/6d, Gujarat 98/2; Karnataka lead Saurashtra by 178; Haryana beat Chandigarh by an innings.",
-      "match": "ranji-r2-hp-mum",
-      "src": [
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2363,6 +2328,14 @@
       "time": "05:55"
     },
     {
+      "d": "21",
+      "mo": "OCT",
+      "title": "PV Sindhu v Supanida Katethong, French Open R32",
+      "meta": "Badminton · Paris",
+      "time": "TBC",
+      "match": "fo-sindhu-katethong"
+    },
+    {
       "d": "22",
       "mo": "OCT",
       "title": "New Zealand v India, 1st T20I",
@@ -2377,6 +2350,22 @@
       "meta": "Cricket · Vadodara",
       "time": "14:00",
       "match": "indw-zimw-odi-1"
+    },
+    {
+      "d": "23",
+      "mo": "OCT",
+      "title": "India Women v Malaysia, Commonwealth Kabaddi",
+      "meta": "Kabaddi · Ahmedabad",
+      "time": "18:45",
+      "match": "ckc-indw-mas"
+    },
+    {
+      "d": "23",
+      "mo": "OCT",
+      "title": "India v England, Commonwealth Kabaddi",
+      "meta": "Kabaddi · Ahmedabad",
+      "time": "20:30",
+      "match": "ckc-ind-eng"
     },
     {
       "d": "24",
@@ -2417,38 +2406,6 @@
       "meta": "Cricket · Kotambi Stadium, Vadodara",
       "time": "14:00",
       "match": "indw-zimw-odi-3"
-    },
-    {
-      "d": "30",
-      "mo": "OCT",
-      "title": "New Zealand v India, 4th T20I",
-      "meta": "Cricket · Eden Park, Auckland",
-      "time": "12:30",
-      "match": "nz-ind-t20-4"
-    },
-    {
-      "d": "30",
-      "mo": "OCT",
-      "title": "Japan v India, Asian Champions Trophy",
-      "meta": "Hockey · Jalandhar",
-      "time": "19:00",
-      "match": "act-jpn-ind"
-    },
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "New Zealand v India, 5th T20I",
-      "meta": "Cricket",
-      "time": "12:30",
-      "match": "nz-ind-t20-5"
-    },
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "India v Malaysia, Asian Champions Trophy",
-      "meta": "Hockey · Jalandhar",
-      "time": "19:00",
-      "match": "act-ind-mas"
     }
   ],
   "players": [
