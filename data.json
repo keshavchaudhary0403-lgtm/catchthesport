@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T20:36:23+05:30",
-  "dayLabel": "Tue 20 Oct · India Women 215/7 v Zimbabwe (3rd T20I) · FC Goa 1–0 Fortis (HT) · Satwik-Chirag v Popovs · Para Games: India 35 medals",
+  "lastUpdated": "2026-10-20T21:05:35+05:30",
+  "dayLabel": "Tue 20 Oct · India Women 216/7 v Zimbabwe (chase on) (3rd T20I) · FC Goa 1–0 Fortis (HT) · Satwik-Chirag v Popovs · Para Games: India 35 medals",
   "featured": "indw-zimw-t20-3",
   "matches": [
     {
@@ -541,18 +541,26 @@
       "a": [
         "IND",
         "India Women",
-        "215/7 (19.5)"
+        "216/7 (20)"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        "Yet to bat"
+        "Chasing 217"
       ],
       "when": "2026-10-20T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and batted; Shafali Verma 69 (152-run stand with Harmanpreet Kaur, who also made a fifty); Anushka Sharma 28, Niki Prasad out cheaply.",
+      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss, batted and posted 216/7: Harmanpreet Kaur 91* off 41 (fifty off 25), Shafali Verma 69 off 37 (152-run stand), Anushka Sharma 28; Beloved Biza took 3 wickets. Zimbabwe need 217. Score of the chase not yet confirmed.",
       "src": [
+        {
+          "t": "Outlook India – Harmanpreet leads late charge with 91 as IND score 216",
+          "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
+        },
+        {
+          "t": "The Hawk – Harmanpreet's late blitz powers India to 216/7",
+          "u": "https://www.thehawk.in/news/sports/3rd-t20i-harmanpreets-late-blitz-powers-india-to-2167-against-zimbabwe"
+        },
         {
           "t": "Google – live score card: INDW 215/7 (19.5)",
           "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+3rd+T20I+score"
@@ -594,8 +602,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "Last over of innings",
-      "scoreAt": "2026-10-20T20:36:23+05:30"
+      "status": "Zimbabwe chase 217",
+      "scoreAt": "2026-10-20T21:05:35+05:30"
     },
     {
       "id": "nz-ind-t20-1",
@@ -2181,6 +2189,14 @@
   ],
   "feed": [
     {
+      "t": "21:05",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women post 216/7 in the 3rd T20I v Zimbabwe — Harmanpreet Kaur 91* off 41 and Shafali Verma 69; Zimbabwe need 217 in Raipur.",
+      "match": "indw-zimw-t20-3"
+    },
+    {
       "t": "20:35",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2370,20 +2386,6 @@
         {
           "t": "Google – Cricbuzz/CrickIt: TN win by an innings and 66",
           "u": "https://www.google.com/search?q=Tamil+Nadu+beat+Uttarakhand+innings+66+runs+Ranji"
-        }
-      ]
-    },
-    {
-      "t": "13:37",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy day 3, second session: Goa 84/2, need 152 more v UP; Himachal 41/1 following Mumbai's 528/8d, trail by 347; Saurashtra 286/5, trail Karnataka by 56; Gujarat 260/4 v Delhi's 648/6d; Chhattisgarh 19/0 following on v Punjab.",
-      "match": "ranji-r2-up-goa",
-      "src": [
-        {
-          "t": "Google – Uttar Pradesh vs Goa live score",
-          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+ranji+live+score"
         }
       ]
     }
