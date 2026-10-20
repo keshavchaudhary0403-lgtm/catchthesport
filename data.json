@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T21:05:35+05:30",
-  "dayLabel": "Tue 20 Oct · India Women 216/7 v Zimbabwe (chase on) (3rd T20I) · FC Goa 1–0 Fortis (HT) · Satwik-Chirag v Popovs · Para Games: India 35 medals",
+  "lastUpdated": "2026-10-20T21:35:23+05:30",
+  "dayLabel": "Tue 20 Oct · Zimbabwe 62/2 chasing India Women's 216/7 (3rd T20I) · FC Goa beat Fortis 2–1 · Para Games: India 35 medals",
   "featured": "indw-zimw-t20-3",
   "matches": [
     {
@@ -546,13 +546,17 @@
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        "Chasing 217"
+        "62/2 (10)"
       ],
       "when": "2026-10-20T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss, batted and posted 216/7: Harmanpreet Kaur 91* off 41 (fifty off 25), Shafali Verma 69 off 37 (152-run stand), Anushka Sharma 28; Beloved Biza took 3 wickets. Zimbabwe need 217. Score of the chase not yet confirmed.",
+      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women posted 216/7: Harmanpreet Kaur 91* off 41, Shafali Verma 69 off 37 (152-run stand); Beloved Biza 3 wickets. Zimbabwe 62/2 at the halfway drinks break, needing 155 off 60 balls.",
       "src": [
+        {
+          "t": "Google – live score card: ZIMW 62/2 (10), need 155 off 60",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+live+score"
+        },
         {
           "t": "Outlook India – Harmanpreet leads late charge with 91 as IND score 216",
           "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
@@ -602,8 +606,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "Zimbabwe chase 217",
-      "scoreAt": "2026-10-20T21:05:35+05:30"
+      "status": "Drinks · need 155 off 60",
+      "scoreAt": "2026-10-20T21:35:23+05:30"
     },
     {
       "id": "nz-ind-t20-1",
@@ -802,22 +806,30 @@
       "sport": "Football",
       "comp": "AFC Challenge League",
       "round": "Group stage",
-      "st": "live",
+      "st": "result",
       "a": [
         "FCG",
         "FC Goa",
-        "1",
+        "2",
         "#F26522"
       ],
       "b": [
         "FOR",
         "Fortis FC",
-        "0",
+        "1",
         "#444444"
       ],
       "when": "2026-10-20T18:55:00+05:30",
       "india": true,
       "src": [
+        {
+          "t": "Khel Now (via Google) – FT: Fortis FC 1-2 FC Goa, Chiki 85'",
+          "u": "https://www.google.com/search?q=FC+Goa+vs+Fortis+FC+AFC+Challenge+League"
+        },
+        {
+          "t": "FC Goa (X, via Google) – Chiki gets us back in front, 2-1",
+          "u": "https://www.google.com/search?q=Fortis+FC+FC+Goa+goals+Chiki+equaliser"
+        },
         {
           "t": "Khel Now (via Google) – HT: Fortis FC 0-1 FC Goa, Ortiz header",
           "u": "https://www.google.com/search?q=%22Fortis%22+%22FC+Goa%22+full-time"
@@ -843,10 +855,12 @@
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ],
-      "note": "FC Goa led 1–0 at half-time through Jorge Ortiz's 6th-minute header in their second AFC Challenge League group match; Fortis FC (Bangladesh) are the hosts in Kuwait. Full-time score not yet confirmed.",
-      "status": "2nd half",
-      "scoreAt": "2026-10-20T20:06:28+05:30",
-      "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait"
+      "note": "FC Goa's first AFC Challenge League points: they led early, Fortis FC (Bangladesh) equalised in the 78th minute, and Chiki struck the 85th-minute winner for a 2–1 win in Kuwait.",
+      "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait",
+      "win": "a",
+      "day": "20 Oct",
+      "recent": true,
+      "resultAt": "2026-10-20T21:35:23+05:30"
     },
     {
       "id": "indw-zimw-odi-1",
@@ -1985,7 +1999,7 @@
       "name": "AFC club competitions",
       "status": "From 13 Oct",
       "india": true,
-      "note": "East Bengal lost 2–3 to Al-Shorta in ACL Two (13 Oct, Kolkata) and visit Al-Seeb on 27 Oct; FC Goa v Regar-TadAZ (AFC Challenge League, 17 Oct).",
+      "note": "East Bengal lost 2–3 to Al-Shorta in ACL Two (13 Oct, Kolkata) and visit Al-Seeb on 27 Oct; FC Goa lost 1–2 to Regar-TadAZ (17 Oct) and beat Fortis FC 2–1 (20 Oct) in the AFC Challenge League.",
       "id": "afc-clubs",
       "src": [
         {
@@ -2153,8 +2167,12 @@
       "status": "Live today · 20–25 Oct · Paris",
       "live": true,
       "india": true,
-      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v Supanida Katethong (revised after Tomoka Miyazaki withdrew; An Se Young now plays Amalie Schulz), Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 top half on 20 Oct and bottom half on 21 Oct, first matches 13:30 IST each day; Streaming in India: FanCode (TV channel not confirmed). 20 Oct: Tanvi Sharma beat Isharani Baruah 21-12 21-12. Sindhu (v Katethong) and Unnati Hooda (v Riko Gunji) are in the bottom half, which plays R32 on 21 Oct.",
+      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v Supanida Katethong (revised after Tomoka Miyazaki withdrew; An Se Young now plays Amalie Schulz), Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 top half on 20 Oct and bottom half on 21 Oct, first matches 13:30 IST each day; Streaming in India: FanCode (TV channel not confirmed). 20 Oct: Tanvi Sharma beat Isharani Baruah 21-12 21-12; Ashmita Chaliha beat Han Qianxi 21-18 24-22; Treesa Jolly/Gayatri Gopichand lost 17-21 18-21. Sindhu (v Katethong) and Unnati Hooda (v Riko Gunji) are in the bottom half, which plays R32 on 21 Oct.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 French Open (badminton) draw",
+          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+        },
         {
           "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
           "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
@@ -2188,6 +2206,34 @@
     }
   ],
   "feed": [
+    {
+      "t": "21:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Zimbabwe 62/2 after 10 overs chasing India Women's 216/7 in the 3rd T20I — need 155 off 60 balls.",
+      "match": "indw-zimw-t20-3",
+      "src": [
+        {
+          "t": "Google – live score card: ZIMW 62/2 (10), need 155 off 60",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+live+score"
+        }
+      ]
+    },
+    {
+      "t": "21:15",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "AFC Challenge League: FC Goa beat Fortis FC 2–1 in Kuwait — Chiki's 85th-minute winner after a 78th-minute Fortis equaliser.",
+      "match": "acgl-goa-fortis",
+      "src": [
+        {
+          "t": "Khel Now (via Google) – FT: Fortis FC 1-2 FC Goa, Chiki 85'",
+          "u": "https://www.google.com/search?q=FC+Goa+vs+Fortis+FC+AFC+Challenge+League"
+        }
+      ]
+    },
     {
       "t": "21:05",
       "tag": "LIVE",
@@ -2325,6 +2371,32 @@
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Badminton",
+      "text": "French Open R32: Ashmita Chaliha beats Han Qianxi 21-18 24-22.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 French Open (badminton) draw",
+          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+        }
+      ]
+    },
+    {
+      "t": "20 Oct",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "French Open R32: Treesa Jolly / Gayatri Gopichand lose 17-21 18-21 to Lin/Yang.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 French Open (badminton) draw",
+          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+        }
+      ]
+    },
+    {
+      "t": "20 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
       "text": "French Open: Tanvi Sharma beats Isharani Baruah 21-12 21-12 in an all-Indian first round in Paris; Sindhu plays Katethong on 21 Oct.",
       "src": [
         {
@@ -2344,48 +2416,6 @@
         {
           "t": "ANI – Himanshu Nandal bronze; Sheetal-Payal to fight for gold",
           "u": "https://www.aninews.in/news/sports/others/asian-para-games-para-swimmer-himanshu-seals-bronze-in-mens-400-m-freestyle-s11-event-sheetal-payal-to-fight-for-gold-in-para-archery20261020141635/"
-        }
-      ]
-    },
-    {
-      "t": "14:38",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy day 3: Goa 108/5, need 128 more v UP; Saurashtra 336/8, just 6 behind Karnataka; Himachal 76/2 (trail Mumbai by 312); Chhattisgarh 61/3 following on, trail Punjab by 189; Gujarat 280/5 v Delhi's 648/6d.",
-      "match": "ranji-r2-up-goa",
-      "src": [
-        {
-          "t": "Google – UP v Goa live score",
-          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+ranji+live+score"
-        }
-      ]
-    },
-    {
-      "t": "14:38",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "French Open: PV Sindhu no longer faces An Se Young — Tomoka Miyazaki's injury withdrawal reshuffled the draw, and Sindhu now meets Thailand's Supanida Katethong in the first round.",
-      "match": "fo-sindhu-katethong",
-      "src": [
-        {
-          "t": "Chosun (OSEN) – Miyazaki withdrawal alters draw; Sindhu now v Katethong",
-          "u": "https://www.chosun.com/english/sports-en/2026/10/20/766AQUWYHRBI5F6S57QSQSP6BI/"
-        }
-      ]
-    },
-    {
-      "t": "13:37",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Tamil Nadu beat Uttarakhand by an innings and 66 runs in Chennai — R. Sai Kishore takes a hat-trick and 10 wickets in the match as Uttarakhand fold for 113.",
-      "match": "ranji-r2-tn-utk",
-      "src": [
-        {
-          "t": "Google – Cricbuzz/CrickIt: TN win by an innings and 66",
-          "u": "https://www.google.com/search?q=Tamil+Nadu+beat+Uttarakhand+innings+66+runs+Ranji"
         }
       ]
     }
