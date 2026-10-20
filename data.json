@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T19:38:52+05:30",
-  "dayLabel": "Tue 20 Oct · India Women 73/2 v Zimbabwe (3rd T20I) · FC Goa v Fortis under way · Satwik-Chirag 20:10 · Para Games: India 35 medals",
+  "lastUpdated": "2026-10-20T20:06:28+05:30",
+  "dayLabel": "Tue 20 Oct · India Women 126/2 v Zimbabwe (3rd T20I) · FC Goa 1–0 Fortis · Satwik-Chirag 20:10 · Para Games: India 35 medals",
   "featured": "indw-zimw-t20-3",
   "matches": [
     {
@@ -541,7 +541,7 @@
       "a": [
         "IND",
         "India Women",
-        "73/2 (8.1)"
+        "126/2 (13)"
       ],
       "b": [
         "ZIM",
@@ -551,8 +551,16 @@
       "when": "2026-10-20T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and chose to bat; Anushka Sharma out for 28.",
+      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and chose to bat; Anushka Sharma out for 28, Niki Prasad 9; Shafali Verma unbeaten on 68 off 35.",
       "src": [
+        {
+          "t": "CricTracker – IND-W v ZIM-W 3rd T20I live score",
+          "u": "https://www.crictracker.com/live-scores/ind-w-vs-zim-w-3rd-t20i-zimbabwe-women-tour-of-india-20-oct-2026/"
+        },
+        {
+          "t": "Outlook India – Shafali Verma smashes 27-ball fifty",
+          "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
+        },
         {
           "t": "Google – live score card: INDW 73/2 (8.1)",
           "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+live+score"
@@ -578,8 +586,8 @@
         "Star Sports Network",
         "JioHotstar"
       ],
-      "status": "India batting",
-      "scoreAt": "2026-10-20T19:37:00+05:30"
+      "status": "Shafali Verma 68*",
+      "scoreAt": "2026-10-20T20:06:28+05:30"
     },
     {
       "id": "nz-ind-t20-1",
@@ -778,22 +786,30 @@
       "sport": "Football",
       "comp": "AFC Challenge League",
       "round": "Group stage",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "FCG",
         "FC Goa",
-        "",
+        "1",
         "#F26522"
       ],
       "b": [
         "FOR",
         "Fortis FC",
-        "",
+        "0",
         "#444444"
       ],
       "when": "2026-10-20T18:55:00+05:30",
       "india": true,
       "src": [
+        {
+          "t": "LiveScore – Fortis FC v FC Goa",
+          "u": "https://www.livescore.com/en/football/international/afc-challenge-league/fortis-fc-vs-fc-goa/1875834/"
+        },
+        {
+          "t": "Khel Now – FC Goa v Fortis FC live",
+          "u": "https://khelnow.com/football/indian-football-afc-challenge-league-2026-27-fc-goa-vs-fortis-fc-live-score"
+        },
         {
           "t": "Google – Sofascore/TOI: Fortis v FC Goa, 20 Oct",
           "u": "https://www.google.com/search?q=FC+Goa+vs+Fortis+AFC+Challenge+League"
@@ -807,7 +823,10 @@
           "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
         }
       ],
-      "note": "FC Goa's second AFC Challenge League group match; the club lists kick-off at 6:55 pm IST. Sofascore lists kick-off 13:25 UTC (18:55 IST). Coach Gouramangi Singh: 'We have to come back strongly' after the opening defeat."
+      "note": "FC Goa lead 1–0 (goal on 6 minutes, listed to U. Singh) in their second AFC Challenge League group match; Fortis FC (Bangladesh) are the hosts in Kuwait.",
+      "status": "2nd half",
+      "scoreAt": "2026-10-20T20:06:28+05:30",
+      "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait"
     },
     {
       "id": "indw-zimw-odi-1",
@@ -2150,6 +2169,34 @@
   ],
   "feed": [
     {
+      "t": "20:06",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "AFC Challenge League: FC Goa lead Fortis FC 1–0 in Kuwait after an early goal (6′).",
+      "src": [
+        {
+          "t": "LiveScore – Fortis FC v FC Goa",
+          "u": "https://www.livescore.com/en/football/international/afc-challenge-league/fortis-fc-vs-fc-goa/1875834/"
+        }
+      ],
+      "match": "acgl-goa-fortis"
+    },
+    {
+      "t": "20:06",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women 126/2 after 13 overs v Zimbabwe in the 3rd T20I — Shafali Verma 68* off 35.",
+      "src": [
+        {
+          "t": "CricTracker – live score",
+          "u": "https://www.crictracker.com/live-scores/ind-w-vs-zim-w-3rd-t20i-zimbabwe-women-tour-of-india-20-oct-2026/"
+        }
+      ],
+      "match": "indw-zimw-t20-3"
+    },
+    {
       "t": "19:37",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -2324,33 +2371,6 @@
         {
           "t": "NDTV Sports – Asian Para Games Day 2 live",
           "u": "https://sports.ndtv.com/othersports/asian-para-games-2026-live-updates-day-2-india-medal-tally-results-aichi-nagoya-live-sheetal-devi-manish-narwal-12207839"
-        }
-      ]
-    },
-    {
-      "t": "12:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy day 3: Mumbai declare on 528/8 (Sarfaraz Khan 154), lead Himachal by 388; Chhattisgarh all out 206 and follow on v Punjab; Saurashtra 259/5, trail Karnataka by 83; Goa 38/0, need 198 v UP; Gujarat 201/4 v Delhi's 648/6d.",
-      "match": "ranji-r2-hp-mum",
-      "src": [
-        {
-          "t": "Outlook India – Ranji Trophy Round 2, Day 3 live updates",
-          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-2026-27-live-score-second-round-day-3-latest-updates-scorecard-today-october-20-highlights-shubman-gill-mohammed-siraj-sarfaraz-khan-rajat-patidar"
-        }
-      ]
-    },
-    {
-      "t": "12:32",
-      "tag": "SILVER",
-      "c": "var(--silver)",
-      "m": "Para athletics",
-      "text": "Asian Para Games: double podium in men's javelin F53/54 — Pradeep Kumar wins silver and Ayush Verma bronze; Sheetal Devi and Payal Nag reach the women's compound doubles final.",
-      "src": [
-        {
-          "t": "India Today – Asian Para Games 2026 live, 20 Oct",
-          "u": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-20-athletics-archery-powerlifting-table-tennis-aichi-nagoya-japan-3021094-2026-10-20"
         }
       ]
     }
