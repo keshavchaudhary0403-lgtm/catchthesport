@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-20T18:43:58+05:30",
-  "dayLabel": "Tue 20 Oct · Women's T20I v Zimbabwe 19:00 (India bat) · FC Goa v Fortis 18:55 · Para Games: India 35 medals · UP beat Goa",
+  "lastUpdated": "2026-10-20T19:38:52+05:30",
+  "dayLabel": "Tue 20 Oct · India Women 73/2 v Zimbabwe (3rd T20I) · FC Goa v Fortis under way · Satwik-Chirag 20:10 · Para Games: India 35 medals",
   "featured": "indw-zimw-t20-3",
   "matches": [
     {
@@ -537,22 +537,30 @@
       "sport": "Cricket",
       "comp": "India Women v Zimbabwe Women",
       "round": "3rd T20I",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "India Women",
-        ""
+        "73/2 (8.1)"
       ],
       "b": [
         "ZIM",
         "Zimbabwe Women",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-10-20T19:00:00+05:30",
       "india": true,
       "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and chose to bat.",
+      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women won the toss and chose to bat; Anushka Sharma out for 28.",
       "src": [
+        {
+          "t": "Google – live score card: INDW 73/2 (8.1)",
+          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+live+score"
+        },
+        {
+          "t": "News18 – IND-W v ZIM-W live: Anushka out for 28",
+          "u": "https://www.news18.com/cricket/"
+        },
         {
           "t": "Cricbuzz – INDW v ZIMW 3rd T20I: India won the toss and opt to bat",
           "u": "https://www.cricbuzz.com/live-cricket-scores"
@@ -569,7 +577,9 @@
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "status": "India batting",
+      "scoreAt": "2026-10-20T19:37:00+05:30"
     },
     {
       "id": "nz-ind-t20-1",
@@ -1766,6 +1776,40 @@
           "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
         }
       ]
+    },
+    {
+      "id": "fo-satchi-popov",
+      "sport": "Badminton",
+      "comp": "BWF French Open (Super 750)",
+      "round": "Men's doubles R32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Satwiksairaj Rankireddy / Chirag Shetty",
+        ""
+      ],
+      "b": [
+        "FRA",
+        "Christo Popov / Toma Junior Popov",
+        ""
+      ],
+      "when": "2026-10-20T20:10:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Arena Grand Paris, Court 1",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "note": "Fifth seeds Satwik-Chirag open against the home Popov brothers; India lead the head-to-head 3–0. Start about 8:10 pm IST (Sportstar).",
+      "src": [
+        {
+          "t": "Sportstar – Satwik-Chirag v Popov: live streaming info, 8:10 pm IST",
+          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-vs-popov-french-open-live-streaming-mens-doubles-round-of-32/article71603828.ece/amp/"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -2106,6 +2150,20 @@
   ],
   "feed": [
     {
+      "t": "19:37",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India Women 73/2 after 8.1 overs v Zimbabwe in the 3rd T20I in Raipur — Anushka Sharma out for 28.",
+      "src": [
+        {
+          "t": "Google – live score card",
+          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+live+score"
+        }
+      ],
+      "match": "indw-zimw-t20-3"
+    },
+    {
       "t": "18:30",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -2295,20 +2353,6 @@
           "u": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-20-athletics-archery-powerlifting-table-tennis-aichi-nagoya-japan-3021094-2026-10-20"
         }
       ]
-    },
-    {
-      "t": "11:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy day 3: UP all out 197, Goa need 236 to win (17/0); Mumbai 504/8, lead Himachal by 364; Chhattisgarh 186/9 v Punjab's 456; Gujarat 181/4 v Delhi's 648/6d; Saurashtra 232/5, trail Karnataka by 110.",
-      "match": "ranji-r2-up-goa",
-      "src": [
-        {
-          "t": "Google – Ranji Trophy live score today, day 3",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today"
-        }
-      ]
     }
   ],
   "schedule": [
@@ -2319,6 +2363,14 @@
       "meta": "Cricket",
       "time": "19:00",
       "match": "indw-zimw-t20-3"
+    },
+    {
+      "d": "20",
+      "mo": "OCT",
+      "title": "Satwik-Chirag v Popov brothers, French Open R32",
+      "meta": "Badminton · Paris",
+      "time": "20:10",
+      "match": "fo-satchi-popov"
     },
     {
       "d": "21",
@@ -2398,14 +2450,6 @@
       "meta": "Hockey · Olympian Surjit Singh Hockey Stadium, Jalandhar",
       "time": "19:00",
       "match": "act-ind-ban"
-    },
-    {
-      "d": "28",
-      "mo": "OCT",
-      "title": "India Women v Zimbabwe, 3rd ODI",
-      "meta": "Cricket · Kotambi Stadium, Vadodara",
-      "time": "14:00",
-      "match": "indw-zimw-odi-3"
     }
   ],
   "players": [
