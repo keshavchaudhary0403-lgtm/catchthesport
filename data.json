@@ -1,109 +1,91 @@
 {
-  "lastUpdated": "2026-10-20T21:35:23+05:30",
-  "dayLabel": "Tue 20 Oct · Zimbabwe 62/2 chasing India Women's 216/7 (3rd T20I) · FC Goa beat Fortis 2–1 · Para Games: India 35 medals",
-  "featured": "indw-zimw-t20-3",
+  "lastUpdated": "2026-10-29T22:57:45+05:30",
+  "dayLabel": "Thu 29 Oct · India beat China 5–2 in hockey · NZ v India 4th T20I tomorrow 12:30 (India lead 3–0)",
+  "featured": "nz-ind-t20-4",
   "matches": [
     {
-      "id": "acgl-goa-regar",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "AFC Challenge League",
-      "round": "Group C",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "1",
-        "#F97316"
-      ],
-      "b": [
-        "REG",
-        "Regar-TadAZ",
-        "2",
-        "#B91C1C"
-      ],
-      "when": "2026-10-17T18:55:00+05:30",
-      "note": "Chiki put FC Goa ahead in the 8th minute, but Faridun Davlatov scored in the 85th and 90th minutes as Regar-TadAZ won 2-1 in Kuwait.",
-      "src": [
-        {
-          "t": "Google – Sportstar: Late goals sink FC Goa vs Regar-TadAZ; Khel Now: FT 1-2",
-          "u": "https://www.google.com/search?q=FC+Goa+vs+Regar-TadAZ"
-        },
-        {
-          "t": "Google – Khel Now: HT FC Goa 1-0 FC Regar-TadAZ (Chiki 8')",
-          "u": "https://www.google.com/search?q=FC+Goa+vs+Regar-TadAZ+AFC+Challenge+League"
-        },
-        {
-          "t": "Khel Now – FC Goa v Regar-TadAZ preview (Mohammed Al-Hamad Stadium, Kuwait)",
-          "u": "https://khelnow.com/football/indian-football-afc-challenge-league-2026-27-fc-goa-vs-fc-regar-tadaz-preview"
-        }
-      ],
-      "venue": "Mohammed Al-Hamad Stadium, Hawalli (Kuwait)",
-      "win": "b",
-      "day": "17 Oct",
-      "recent": true,
-      "resultAt": "2026-10-17T20:52:00+05:30"
-    },
-    {
-      "id": "ind-wi-t20-5",
+      "id": "nz-ind-t20-3",
       "st": "result",
       "india": true,
       "sport": "Cricket",
-      "comp": "India v West Indies",
-      "round": "5th T20I",
+      "comp": "New Zealand v India",
+      "round": "3rd T20I",
       "a": [
-        "IND",
-        "India",
-        "118/5 (7.4)"
+        "NZ",
+        "New Zealand",
+        "198/3 (20)",
+        "#111827"
       ],
       "b": [
-        "WI",
-        "West Indies",
-        "Did not bat",
-        "#7B1E3A"
+        "IND",
+        "India",
+        "199/4 (13.2)"
       ],
-      "when": "2026-10-17T19:00:00+05:30",
-      "venue": "M. Chinnaswamy Stadium, Bengaluru",
+      "when": "2026-10-27T12:30:00+05:30",
+      "venue": "Hnry Stadium (Sky Stadium), Wellington",
+      "note": "India won by 6 wickets with 40 balls left to lead 3–0 and seal the series — Abhishek Sharma 113 off 38, India 118 in the powerplay (a T20I record); Daryl Mitchell 89* for NZ.",
       "src": [
         {
-          "t": "ANI – 5th T20I called off due to rain; series ends 2–2",
-          "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
+          "t": "ESPNcricinfo – NZ v IND 3rd T20I scorecard (India won by 6 wkts, 40 balls left)",
+          "u": "https://www.cricinfo.com/"
         },
         {
-          "t": "Google – sports result: IND 118/5 (7.4/9) v WI, No result",
-          "u": "https://www.google.com/search?q=India+vs+West+Indies+5th+T20I+result"
+          "t": "Yahoo Sports – IND vs NZ 3rd T20I result: Abhishek 38-ball 113",
+          "u": "https://sports.yahoo.com/"
         },
         {
-          "t": "Outlook India – IND v WI 5th T20I live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-west-indies-5th-t20i-live-score-today-cricket-latest-updates"
-        },
-        {
-          "t": "Telangana Today – Bengaluru awaits rain clearance for series decider",
-          "u": "https://telanganatoday.com/bengaluru-awaits-rain-clearance-for-series-decider"
+          "t": "Google – NZ v IND 3rd T20I result card",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+3rd+T20I+result+October+2026"
         }
       ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "big": true,
-      "note": "No result — rain ended the 9-over decider after India reached 118/5 in 7.4 overs (Ishan Kishan 30 off 10, Naman Dhir 24* off 6; Springer and Keemo Paul 2 wickets each). Series shared 2–2.",
-      "day": "17 Oct",
-      "recent": true,
-      "resultAt": "2026-10-17T22:35:18+05:30"
+      "win": "b",
+      "day": "27 Oct"
     },
     {
-      "id": "isl-bfc-che",
+      "id": "indw-zimw-odi-3",
+      "sport": "Cricket",
+      "comp": "India Women v Zimbabwe Women",
+      "round": "3rd ODI",
+      "st": "result",
+      "a": [
+        "IND",
+        "India Women",
+        "133/2 (17)"
+      ],
+      "b": [
+        "ZIM",
+        "Zimbabwe Women",
+        "131 (39.5)"
+      ],
+      "when": "2026-10-28T14:00:00+05:30",
+      "india": true,
+      "venue": "Kotambi Stadium, Vadodara",
+      "src": [
+        {
+          "t": "ESPNcricinfo – Vaishnavi five-for, Rawal and Shafali fifties power India to 3-0 sweep",
+          "u": "https://www.cricinfo.com/"
+        },
+        {
+          "t": "Google – IND-W v ZIM-W 3rd ODI result card",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+3rd+ODI+result"
+        }
+      ],
+      "note": "India won by 8 wickets to sweep the ODIs 3–0 (and all six matches of the tour) — Vaishnavi Sharma 5/39, Pratika Rawal 59* and Shafali Verma 51*.",
+      "win": "a",
+      "day": "28 Oct"
+    },
+    {
+      "id": "isl-mbsg-che",
       "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
-      "round": "Matchweek 3",
+      "round": "Phase 1",
       "a": [
-        "BFC",
-        "Bengaluru FC",
-        "2",
-        "#1E3A8A"
+        "MBSG",
+        "Mohun Bagan SG",
+        "1",
+        "#166534"
       ],
       "b": [
         "CFC",
@@ -111,610 +93,193 @@
         "0",
         "#1D4ED8"
       ],
-      "when": "2026-10-17T19:30:00+05:30",
+      "when": "2026-10-26T19:30:00+05:30",
+      "venue": "VYBK, Kolkata",
       "src": [
-        {
-          "t": "Google – full time: Bengaluru 2-0 Chennaiyin (ISL / Khel Now)",
-          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+FC"
-        },
-        {
-          "t": "Google – live score: BFC 1-0 CFC half-time (Ryan Williams 24')",
-          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+FC"
-        },
-        {
-          "t": "Google – Outlook India: Bengaluru v Chennaiyin live, ISL 2026-27",
-          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+score"
-        },
-        {
-          "t": "Google – Sportstar: BFC 1-0 CFC, Williams opens scoring",
-          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Chennaiyin+score"
-        },
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        }
-      ],
-      "venue": "Sree Kanteerava Stadium, Bengaluru",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "Ryan Williams (24') and Mihailo Perović (52') scored as Bengaluru FC beat Chennaiyin 2-0 at the Kanteerava — two wins in two for Pep Muñoz's side.",
-      "win": "a",
-      "day": "17 Oct",
-      "recent": true,
-      "resultAt": "2026-10-17T21:24:00+05:30"
-    },
-    {
-      "id": "ranji-r2-hp-mum",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 2 · Group D · 4-day",
-      "st": "live",
-      "a": [
-        "HP",
-        "Himachal Pradesh",
-        "140 & 144/3"
-      ],
-      "b": [
-        "MUM",
-        "Mumbai",
-        "528/8d"
-      ],
-      "when": "2026-10-18T09:30:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Luhnu Cricket Ground, Bilaspur",
-      "note": "Round 2 (18–21 Oct). Himachal were bowled out for 140 on day 1; Mumbai captain Siddhesh Lad fell short of a hundred, caught at mid-off after lunch on day 2. Broadcast not confirmed. Sarfaraz Khan reached a century on day 2. Sarfaraz passed 150 on the morning of day 3. Day 3: Sarfaraz Khan out for 154; Mumbai declared on 528/8, a lead of 388. Stumps day 3: Himachal held on at 144/3 to take the game into the final day; Mohit Avasthi, Sylvester D'Souza and Shams Mulani took the wickets.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
-        },
-        {
-          "t": "Google – live score card, day 3 session 2 (later)",
-          "u": "https://www.google.com/search?q=Himachal+Pradesh+vs+Mumbai+ranji+live+score"
-        },
-        {
-          "t": "Outlook India – Ranji Trophy Round 2, Day 3 live updates",
-          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-2026-27-live-score-second-round-day-3-latest-updates-scorecard-today-october-20-highlights-shubman-gill-mohammed-siraj-sarfaraz-khan-rajat-patidar"
-        },
-        {
-          "t": "Google – live score card, day 3 session 1",
-          "u": "https://www.google.com/search?q=Mumbai+vs+Himachal+Pradesh+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "Hindustan Times – Ranji Trophy Round 2, Day 3 live",
-          "u": "https://www.hindustantimes.com/cricket"
-        }
-      ],
-      "status": "Stumps D3 · Himachal trail by 244",
-      "scoreAt": "2026-10-20T18:43:58+05:30"
-    },
-    {
-      "id": "ranji-r2-pun-chg",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 2 · Elite · 4-day",
-      "st": "live",
-      "a": [
-        "PUN",
-        "Punjab",
-        "456"
-      ],
-      "b": [
-        "CHG",
-        "Chhattisgarh",
-        "206 & 123/3 (54)"
-      ],
-      "when": "2026-10-18T09:30:00+05:30",
-      "status": "Stumps D3 · Chhattisgarh trail by 127",
-      "scoreAt": "2026-10-20T18:43:58+05:30",
-      "india": true,
-      "big": true,
-      "venue": "PCA International Cricket Stadium, New Chandigarh",
-      "note": "Round 2 (18–21 Oct). Punjab chose to bat and were all out for 456 on day 2: Uday Saharan 161, Salil Arora 107, Prabhsimran Singh 62; Dharmendrasinh Jadeja took 7 wickets. Shubman Gill fell for 1 on day 1. Streaming on JioHotstar (per Google's match card). Day 3: Chhattisgarh all out 206 (Amandeep Khare 91), 250 behind; Punjab enforced the follow-on. Stumps day 3: following on, Chhattisgarh reached 123/3 in 54 overs.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
-        },
-        {
-          "t": "Google – live score card, day 3 session 2 (later)",
-          "u": "https://www.google.com/search?q=Punjab+vs+Chhattisgarh+ranji+live+score"
-        },
-        {
-          "t": "Google – Punjab v Chhattisgarh live score",
-          "u": "https://www.google.com/search?q=Punjab+vs+Chhattisgarh+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        },
-        {
-          "t": "Google – Chhattisgarh vs Punjab Ranji Trophy live score",
-          "u": "https://www.google.com/search?q=Chhattisgarh+vs+Punjab+Ranji+Trophy+live+score"
-        }
-      ],
-      "watch": [
-        "JioHotstar"
-      ]
-    },
-    {
-      "id": "ranji-r2-kar-sau",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 2 · Group B · 4-day",
-      "st": "live",
-      "a": [
-        "KAR",
-        "Karnataka",
-        "342 & 99/2"
-      ],
-      "b": [
-        "SAU",
-        "Saurashtra",
-        "349"
-      ],
-      "when": "2026-10-18T09:30:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "KSCA Cricket Ground, Alur",
-      "note": "Round 2 (18–21 Oct). Manvanth Kumar hit a maiden century as Karnataka recovered from 194/8 to 342; Parth Bhut took five wickets. Saurashtra 14/0 at lunch on day 2. Day 3 streaming on JioHotstar (Google video listing). Day 3: Saurashtra were all out for 349, a 7-run first-innings lead (Parth Bhut run out with the lead secured; Kaverappa four wickets). Karnataka 99/2 at stumps, lead by 92.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
-        },
-        {
-          "t": "Google – live score card, day 3 session 2 (later)",
-          "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+ranji+live+score"
-        },
-        {
-          "t": "Google – Karnataka v Saurashtra live score",
-          "u": "https://www.google.com/search?q=Karnataka+vs+Saurashtra+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 2 live",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
-        }
-      ],
-      "status": "Stumps D3 · Karnataka lead by 92",
-      "scoreAt": "2026-10-20T18:43:58+05:30",
-      "watch": [
-        "JioHotstar"
-      ]
-    },
-    {
-      "id": "ranji-r2-tn-utk",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 2 · Group D · 4-day",
-      "st": "result",
-      "a": [
-        "TN",
-        "Tamil Nadu",
-        "313"
-      ],
-      "b": [
-        "UTK",
-        "Uttarakhand",
-        "134 & 113"
-      ],
-      "when": "2026-10-18T09:30:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "MA Chidambaram Stadium, Chennai",
-      "note": "Round 2 (18–21 Oct). Uttarakhand were bowled out for 134; Pradosh Ranjan Paul brought up his 9th first-class hundred on day 2, with B. Indrajith also past fifty. Broadcast not confirmed. Day 3: Uttarakhand all out for 113 in their second innings — Tamil Nadu won by an innings and 66 runs; spinner R. Sai Kishore took a hat-trick and a 10-wicket match haul.",
-      "src": [
-        {
-          "t": "Google – Cricbuzz/CrickIt: Sai Kishore hat-trick, TN win by an innings and 66",
-          "u": "https://www.google.com/search?q=Tamil+Nadu+beat+Uttarakhand+innings+66+runs+Ranji"
-        },
-        {
-          "t": "Google – Tamil Nadu v Uttarakhand live score",
-          "u": "https://www.google.com/search?q=Tamil+Nadu+vs+Uttarakhand+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 2 live",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-today-day-2-highlights-commentary-runs-wickets/article71602037.ece"
-        }
-      ],
-      "win": "a",
-      "day": "20 Oct",
-      "recent": true,
-      "resultAt": "2026-10-20T13:37:22+05:30"
-    },
-    {
-      "id": "ranji-r2-del-guj",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 2 · Group C · 4-day",
-      "st": "live",
-      "a": [
-        "DEL",
-        "Delhi",
-        "648/6d (136.4)"
-      ],
-      "b": [
-        "GUJ",
-        "Gujarat",
-        "363/5 (120)"
-      ],
-      "when": "2026-10-18T09:30:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Palam B Stadium, Delhi",
-      "note": "Round 2 (18–21 Oct). Delhi chose to bat; Priyansh Arya made 199 on day 1 and Ayush Badoni a career-best 217 on day 2. Delhi declared on 648/6 in 136.4 overs. Broadcast not confirmed. Day 3: Manan Hingrajia batted through the day for 108* (Chintan Gaja 41*); Jaymeet Patel made 72. Gujarat 363/5 at stumps.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
-        },
-        {
-          "t": "Google – live score card, day 3 session 2 (later)",
-          "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+ranji+live+score"
-        },
-        {
-          "t": "Outlook India – Ranji Trophy Round 2, Day 3 live updates",
-          "u": "https://www.outlookindia.com/sports/cricket/ranji-trophy-2026-27-live-score-second-round-day-3-latest-updates-scorecard-today-october-20-highlights-shubman-gill-mohammed-siraj-sarfaraz-khan-rajat-patidar"
-        },
-        {
-          "t": "Google – live score card, day 3 session 1",
-          "u": "https://www.google.com/search?q=Delhi+vs+Gujarat+Ranji+Trophy+live+score"
-        },
-        {
-          "t": "IANS – Ranji Trophy day two",
-          "u": "https://ianslive.in/ranji-trophy-sutars-historic-400-headlines-day-two-badoni-hits-double-ton-sarfaraz-patidar-smash-centuries--20261019200745"
-        }
-      ],
-      "status": "Stumps D3 · Gujarat trail by 285",
-      "scoreAt": "2026-10-20T18:43:58+05:30"
-    },
-    {
-      "id": "isl-chu-eb",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "CHB",
-        "Churchill Brothers",
-        "0",
-        "#9F1239"
-      ],
-      "b": [
-        "EBFC",
-        "East Bengal FC",
-        "4",
-        "#DC2626"
-      ],
-      "when": "2026-10-18T17:00:00+05:30",
-      "src": [
-        {
-          "t": "myKhel – East Bengal too good for Churchill Brothers, start ISL campaign with 4-0 rout",
-          "u": "https://www.mykhel.com/football/east-bengal-too-good-for-churchill-brothers-defending-champions-start-isl-campaign-with-4-0-rout-456727.html"
-        },
-        {
-          "t": "Khel Now – ISL 2026-27 Phase 1 fixtures",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fixtures"
-        },
-        {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
-        },
-        {
-          "t": "ISL – Churchill Brothers v East Bengal match centre",
-          "u": "https://www.indiansuperleague.com/matchcentre/194643"
-        }
-      ],
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "East Bengal start their title defence with a 4–0 win at Fatorda: Dani Ramírez free-kick (2'), Edmund Lalrindika before the break, and Bipin Singh twice off the bench (85' and about 90').",
-      "win": "b",
-      "day": "18 Oct",
-      "recent": true,
-      "resultAt": "2026-10-18T20:05:58+05:30"
-    },
-    {
-      "id": "indw-zimw-t20-2",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "2nd T20I",
-      "st": "result",
-      "a": [
-        "IND",
-        "India Women",
-        "104/1 (8.5)"
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        "102/8 (20)"
-      ],
-      "when": "2026-10-18T19:00:00+05:30",
-      "india": true,
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "India Women chase 103 in 8.5 overs to win by 9 wickets and clinch the series 2–0 with a game to spare: Shafali Verma 55 off 25 (6 fours, 4 sixes), Smriti Mandhana 47* off 25; Beloved Biza took the only wicket. Zimbabwe had made 102/8.",
-      "src": [
-        {
-          "t": "Pragativadi – Shafali, Mandhana power India Women to 9-wicket win over Zimbabwe",
-          "u": "https://pragativadi.com/shafali-mandhana-power-india-women-to-crushing-9-wicket-win-over-zimbabwe/"
-        },
-        {
-          "t": "Google – IND-W v ZIM-W 2nd T20I result card",
-          "u": "https://www.google.com/search?q=INDW+vs+ZIMW+2nd+T20I+India+won+by+wickets"
-        },
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "win": "a",
-      "day": "18 Oct",
-      "recent": true,
-      "resultAt": "2026-10-18T21:35:50+05:30"
-    },
-    {
-      "id": "isl-neu-kbfc",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 3",
-      "a": [
-        "NEU",
-        "NorthEast United",
-        "4",
-        "#C8102E"
-      ],
-      "b": [
-        "KBFC",
-        "Kerala Blasters",
-        "1",
-        "#FACC15"
-      ],
-      "when": "2026-10-18T19:30:00+05:30",
-      "venue": "Indira Gandhi Athletic Stadium, Guwahati",
-      "src": [
-        {
-          "t": "Google – NEU v KBFC full-time card",
-          "u": "https://www.google.com/search?q=NorthEast+United+vs+Kerala+Blasters+ISL+result"
-        },
         {
           "t": "ISL – official fixtures & results",
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
         },
         {
-          "t": "Khel Now – Sony & YouTube to broadcast ISL 2026-27",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-sony-youtube-media-rights"
+          "t": "ESPN India – Mohun Bagan 1-0 Chennaiyin (Manvir 85')",
+          "u": "https://www.espn.in/football/"
         }
       ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "NorthEast United beat league leaders Kerala Blasters 4–1 in Guwahati: Alaaeddine Ajaraie (15', 70'), Antonio Moyano (45+4') and Aman C.K. (82'); Momo Yansané (60') scored for Kerala.",
       "win": "a",
-      "day": "18 Oct",
+      "note": "Manvir Singh's 85th-minute goal won it for Mohun Bagan at Salt Lake.",
+      "day": "26 Oct"
+    },
+    {
+      "id": "isl-goa-del",
+      "st": "result",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "1",
+        "#F97316"
+      ],
+      "b": [
+        "DEL",
+        "Sporting Club Delhi",
+        "1",
+        "#B91C1C"
+      ],
+      "when": "2026-10-28T19:30:00+05:30",
+      "venue": "Fatorda Stadium, Goa",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Rediff – Stoppage-time drama: FC Goa snatch draw from Sporting Club Delhi",
+          "u": "https://www.rediff.com/sports"
+        }
+      ],
+      "day": "28 Oct",
+      "note": "Álex Vallejo equalised for Goa in the 95th minute after Juan Pena's 51st-minute goal for Delhi in Fatorda."
+    },
+    {
+      "id": "acl2-alseeb-eb",
+      "sport": "Football",
+      "comp": "AFC Champions League Two",
+      "round": "Group D · Matchday 3",
+      "st": "result",
+      "india": true,
+      "a": [
+        "SEEB",
+        "Al-Seeb",
+        "0",
+        "#1E3A8A"
+      ],
+      "b": [
+        "EBFC",
+        "East Bengal FC",
+        "0",
+        "#C8102E"
+      ],
+      "when": "2026-10-27T21:30:00+05:30",
+      "venue": "Oman",
+      "note": "Goalless in Seeb — East Bengal's first point in Group D after a 2–3 loss to Al-Shorta. The two meet again in Kolkata on 3 Nov.",
+      "src": [
+        {
+          "t": "AIFF – East Bengal held goalless by Oman's Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/"
+        },
+        {
+          "t": "AFC – Group D: Al Seeb Club 0-0 East Bengal FC",
+          "u": "https://www.the-afc.com/"
+        }
+      ],
+      "day": "27 Oct"
+    },
+    {
+      "id": "act-ind-ban",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 1",
+      "st": "result",
+      "a": [
+        "IND",
+        "India",
+        "13"
+      ],
+      "b": [
+        "BAN",
+        "Bangladesh",
+        "0"
+      ],
+      "when": "2026-10-27T19:00:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "Holders India opened with a 13–0 rout in Jalandhar; Mandeep Singh scored a hat-trick.",
+      "src": [
+        {
+          "t": "Olympics.com – India beat Bangladesh 13-0; Mandeep Singh hat-trick",
+          "u": "https://www.olympics.com/en/news/"
+        },
+        {
+          "t": "NDTV Sports – India vs Bangladesh hockey, Asian Champions Trophy 2026",
+          "u": "https://sports.ndtv.com/hockey"
+        }
+      ],
+      "win": "a",
+      "day": "27 Oct"
+    },
+    {
+      "id": "act-ind-chn",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 2",
+      "st": "result",
+      "a": [
+        "IND",
+        "India",
+        "5"
+      ],
+      "b": [
+        "CHN",
+        "China",
+        "2"
+      ],
+      "when": "2026-10-29T19:00:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "Braces from Harmanpreet Singh and Sukhjeet Singh plus a Jugraj Singh goal; second straight win takes India top of the table.",
+      "src": [
+        {
+          "t": "Hindustan Times – Harmanpreet, Sukhjeet braces take India top after 5-2 win",
+          "u": "https://www.hindustantimes.com/sports/hockey"
+        },
+        {
+          "t": "India Today – India cruise past China 5-2",
+          "u": "https://www.indiatoday.in/sports/hockey"
+        },
+        {
+          "t": "The Hindu – ACT: India registers hard-fought victory over a spirited China",
+          "u": "https://www.thehindu.com/sport/hockey/"
+        }
+      ],
+      "win": "a",
+      "day": "29 Oct",
       "recent": true,
-      "resultAt": "2026-10-18T21:35:50+05:30"
+      "resultAt": "2026-10-29T22:57:45+05:30"
     },
     {
-      "id": "indw-zimw-t20-3",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "3rd T20I",
-      "st": "live",
+      "id": "ckc-ind-sri",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Men's · league",
+      "st": "result",
       "a": [
-        "IND",
-        "India Women",
-        "216/7 (20)"
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        "62/2 (10)"
-      ],
-      "when": "2026-10-20T19:00:00+05:30",
-      "india": true,
-      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
-      "note": "3rd of three T20Is in Raipur; India lead 2–0. India Women posted 216/7: Harmanpreet Kaur 91* off 41, Shafali Verma 69 off 37 (152-run stand); Beloved Biza 3 wickets. Zimbabwe 62/2 at the halfway drinks break, needing 155 off 60 balls.",
-      "src": [
-        {
-          "t": "Google – live score card: ZIMW 62/2 (10), need 155 off 60",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+live+score"
-        },
-        {
-          "t": "Outlook India – Harmanpreet leads late charge with 91 as IND score 216",
-          "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
-        },
-        {
-          "t": "The Hawk – Harmanpreet's late blitz powers India to 216/7",
-          "u": "https://www.thehawk.in/news/sports/3rd-t20i-harmanpreets-late-blitz-powers-india-to-2167-against-zimbabwe"
-        },
-        {
-          "t": "Google – live score card: INDW 215/7 (19.5)",
-          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+3rd+T20I+score"
-        },
-        {
-          "t": "Outlook India – Shafali falls for 69 after 152-run stand",
-          "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
-        },
-        {
-          "t": "CricTracker – IND-W v ZIM-W 3rd T20I live score",
-          "u": "https://www.crictracker.com/live-scores/ind-w-vs-zim-w-3rd-t20i-zimbabwe-women-tour-of-india-20-oct-2026/"
-        },
-        {
-          "t": "Outlook India – Shafali Verma smashes 27-ball fifty",
-          "u": "https://www.outlookindia.com/sports/cricket/india-women-vs-zimbabwe-women-3rd-t20i-live-scores-and-updates"
-        },
-        {
-          "t": "Google – live score card: INDW 73/2 (8.1)",
-          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+live+score"
-        },
-        {
-          "t": "News18 – IND-W v ZIM-W live: Anushka out for 28",
-          "u": "https://www.news18.com/cricket/"
-        },
-        {
-          "t": "Cricbuzz – INDW v ZIMW 3rd T20I: India won the toss and opt to bat",
-          "u": "https://www.cricbuzz.com/live-cricket-scores"
-        },
-        {
-          "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
-          "u": "https://www.olympics.com/en/news/india-women-zimbabwe-t20-2026-squad-smriti-mandhana-shafali-verma"
-        },
-        {
-          "t": "Wisden – IND-W v ZIM-W T20Is live-streaming details",
-          "u": "https://www.wisden.com/cricket-news/ind-w-vs-zim-w-t20is-all-you-need-to-know-full-schedule-squads-venues-and-live-streaming-details"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "status": "Drinks · need 155 off 60",
-      "scoreAt": "2026-10-20T21:35:23+05:30"
-    },
-    {
-      "id": "nz-ind-t20-1",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "1st T20I",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "",
-        "#111827"
-      ],
-      "b": [
         "IND",
         "India",
-        ""
-      ],
-      "when": "2026-10-22T12:30:00+05:30",
-      "venue": "Hagley Oval, Christchurch",
-      "note": "Start of India's five-match T20I tour of New Zealand (day-night, 8 pm local).",
-      "src": [
-        {
-          "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
-        },
-        {
-          "t": "Esquire India – India v New Zealand T20I series: schedule and live streaming",
-          "u": "https://www.esquireindia.co.in/culture/sports/india-vs-new-zealand-t20i-series-2026-squad-announced-check-full-players-list-scheudle-match-timings-live-streaming-sonylive-sony-sports"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ]
-    },
-    {
-      "id": "nz-ind-t20-2",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "2nd T20I",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "",
-        "#111827"
+        "45"
       ],
       "b": [
-        "IND",
-        "India",
-        ""
+        "SRI",
+        "Sri Lanka",
+        "24"
       ],
-      "when": "2026-10-24T12:30:00+05:30",
-      "venue": "Hagley Oval, Christchurch",
-      "note": "2nd of five T20Is (day-night, 8 pm local).",
-      "src": [
-        {
-          "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
-        },
-        {
-          "t": "Esquire India – India v New Zealand T20I series: schedule and live streaming",
-          "u": "https://www.esquireindia.co.in/culture/sports/india-vs-new-zealand-t20i-series-2026-squad-announced-check-full-players-list-scheudle-match-timings-live-streaming-sonylive-sony-sports"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ]
-    },
-    {
-      "id": "nz-ind-t20-3",
-      "st": "upcoming",
+      "when": "2026-10-29",
+      "win": "a",
+      "day": "29 Oct",
+      "recent": true,
+      "resultAt": "2026-10-29T22:57:45+05:30",
       "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "3rd T20I",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        ""
-      ],
-      "when": "2026-10-27T12:30:00+05:30",
-      "venue": "Hnry Stadium (Sky Stadium), Wellington",
-      "note": "3rd of five T20Is (day-night, 8 pm local).",
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "note": "India men finish the league unbeaten; they play Bangladesh in Friday's semi-final.",
       "src": [
         {
-          "t": "BCCI – NZL v IND, 3rd T20I, 27 Oct match centre",
-          "u": "https://www.bcci.tv/matches/new-zealand-vs-india"
-        },
-        {
-          "t": "Cricinfo – India tour of New Zealand 2026/27 fixtures",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/match-schedule-fixtures-and-results"
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
+          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
         }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
       ]
     },
     {
@@ -737,7 +302,7 @@
       ],
       "when": "2026-10-30T12:30:00+05:30",
       "venue": "Eden Park, Auckland",
-      "note": "4th of five T20Is (day-night, 8 pm local).",
+      "note": "India lead the five-match series 3–0 after wins in Christchurch (twice) and Wellington. Day-night game, 8 pm local.",
       "src": [
         {
           "t": "BCCI – NZL v IND, 4th T20I, 30 Oct match centre",
@@ -751,492 +316,297 @@
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
+      ],
+      "big": true
+    },
+    {
+      "id": "nz-ind-t20-5",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Cricket",
+      "comp": "New Zealand v India",
+      "round": "5th T20I",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-01T12:30:00+05:30",
+      "note": "Final match of the five-T20I series; the five-match ODI series follows from 4 Nov. Venue not confirmed here.",
+      "src": [
+        {
+          "t": "Google – India cricket schedule",
+          "u": "https://www.google.com/search?q=India+cricket+schedule"
+        },
+        {
+          "t": "Cricbuzz – India schedule",
+          "u": "https://www.cricbuzz.com/cricket-team/india/2/schedule"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
       ]
     },
     {
-      "id": "isl-pun-mci",
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "st": "result",
-      "a": [
-        "PFC",
-        "Punjab FC",
-        "1",
-        "#C8102E"
-      ],
-      "b": [
-        "MCFC",
-        "Mumbai City FC",
-        "1",
-        "#6CABDD"
-      ],
-      "when": "2026-10-19T19:30:00+05:30",
+      "id": "nz-ind-odi-1",
+      "st": "upcoming",
       "india": true,
-      "venue": "JLN Stadium, Delhi",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "src": [
-        {
-          "t": "Google – Punjab v Mumbai City full-time card",
-          "u": "https://www.google.com/search?q=Punjab+FC+vs+Mumbai+City+ISL+result"
-        },
-        {
-          "t": "ISL – Punjab FC v Mumbai City FC match centre",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Khel Now – Punjab FC v Mumbai City live, lineups",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-punjab-fc-vs-mumbai-city-fc-live-score"
-        }
-      ],
-      "note": "Leandro Otormín's 65th-minute penalty put Mumbai City ahead in New Delhi, but Gurkirat Singh equalised in the 90th minute to earn Punjab FC a 1–1 draw.",
-      "day": "19 Oct",
-      "recent": true,
-      "resultAt": "2026-10-19T21:35:51+05:30"
-    },
-    {
-      "id": "acgl-goa-fortis",
-      "sport": "Football",
-      "comp": "AFC Challenge League",
-      "round": "Group stage",
-      "st": "result",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "2",
-        "#F26522"
-      ],
-      "b": [
-        "FOR",
-        "Fortis FC",
-        "1",
-        "#444444"
-      ],
-      "when": "2026-10-20T18:55:00+05:30",
-      "india": true,
-      "src": [
-        {
-          "t": "Khel Now (via Google) – FT: Fortis FC 1-2 FC Goa, Chiki 85'",
-          "u": "https://www.google.com/search?q=FC+Goa+vs+Fortis+FC+AFC+Challenge+League"
-        },
-        {
-          "t": "FC Goa (X, via Google) – Chiki gets us back in front, 2-1",
-          "u": "https://www.google.com/search?q=Fortis+FC+FC+Goa+goals+Chiki+equaliser"
-        },
-        {
-          "t": "Khel Now (via Google) – HT: Fortis FC 0-1 FC Goa, Ortiz header",
-          "u": "https://www.google.com/search?q=%22Fortis%22+%22FC+Goa%22+full-time"
-        },
-        {
-          "t": "LiveScore – Fortis FC v FC Goa",
-          "u": "https://www.livescore.com/en/football/international/afc-challenge-league/fortis-fc-vs-fc-goa/1875834/"
-        },
-        {
-          "t": "Khel Now – FC Goa v Fortis FC live",
-          "u": "https://khelnow.com/football/indian-football-afc-challenge-league-2026-27-fc-goa-vs-fortis-fc-live-score"
-        },
-        {
-          "t": "Google – Sofascore/TOI: Fortis v FC Goa, 20 Oct",
-          "u": "https://www.google.com/search?q=FC+Goa+vs+Fortis+AFC+Challenge+League"
-        },
-        {
-          "t": "FC Goa – AFC Challenge League fixtures (17 Oct v Regar-TadAZ, 20 Oct v Fortis, 6:55 pm IST)",
-          "u": "https://www.google.com/search?q=FC+Goa+AFC+Challenge+League+2026-27+fixtures+Fortis+Regar-TadAZ+6:55+PM"
-        },
-        {
-          "t": "Khel Now – Indian football calendar October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
-        }
-      ],
-      "note": "FC Goa's first AFC Challenge League points: they led early, Fortis FC (Bangladesh) equalised in the 78th minute, and Chiki struck the 85th-minute winner for a 2–1 win in Kuwait.",
-      "venue": "Mohammed Al-Hamad Stadium, Hawally, Kuwait",
-      "win": "a",
-      "day": "20 Oct",
-      "recent": true,
-      "resultAt": "2026-10-20T21:35:23+05:30"
-    },
-    {
-      "id": "indw-zimw-odi-1",
       "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
+      "comp": "New Zealand v India",
       "round": "1st ODI",
-      "st": "upcoming",
       "a": [
-        "IND",
-        "India Women",
-        ""
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
       ],
       "b": [
-        "ZIM",
-        "Zimbabwe Women",
+        "IND",
+        "India",
         ""
       ],
-      "when": "2026-10-23T14:00:00+05:30",
-      "india": true,
-      "venue": "Kotambi Stadium, Vadodara",
+      "when": "2026-11-04T07:30:00+05:30",
+      "venue": "Eden Park, Auckland",
+      "note": "Five-match ODI series follows the T20Is; 7:30 am IST start.",
       "src": [
         {
-          "t": "BCCI – IND v ZIM match centre",
-          "u": "https://www.bcci.tv/"
+          "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
+          "u": "https://www.livemint.com/sports/cricket-news"
         },
         {
-          "t": "Google – IND-W v ZIM-W ODI times",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+ODI+23+October+time+venue"
-        },
-        {
-          "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
-          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
+          "t": "ESPNcricinfo – India tour of New Zealand 2026 fixtures",
+          "u": "https://www.cricinfo.com/"
         }
       ],
       "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Day-night ODI at Kotambi Stadium, Vadodara; 2:00 pm IST start per BCCI and ESPNcricinfo."
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
-      "id": "indw-zimw-odi-2",
+      "id": "nz-ind-odi-2",
+      "st": "upcoming",
+      "india": true,
       "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
+      "comp": "New Zealand v India",
       "round": "2nd ODI",
-      "st": "upcoming",
       "a": [
-        "IND",
-        "India Women",
-        ""
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
       ],
       "b": [
-        "ZIM",
-        "Zimbabwe Women",
+        "IND",
+        "India",
         ""
       ],
-      "when": "2026-10-25T14:00:00+05:30",
-      "india": true,
-      "venue": "Kotambi Stadium, Vadodara",
+      "when": "2026-11-07T07:30:00+05:30",
+      "venue": "Hnry Stadium, Wellington",
+      "note": "Five-match ODI series follows the T20Is; 7:30 am IST start.",
       "src": [
         {
-          "t": "BCCI – IND v ZIM match centre",
-          "u": "https://www.bcci.tv/"
+          "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
+          "u": "https://www.livemint.com/sports/cricket-news"
         },
         {
-          "t": "Google – IND-W v ZIM-W ODI times",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+ODI+23+October+time+venue"
-        },
-        {
-          "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
-          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
+          "t": "ESPNcricinfo – India tour of New Zealand 2026 fixtures",
+          "u": "https://www.cricinfo.com/"
         }
       ],
       "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Day-night ODI at Kotambi Stadium, Vadodara; 2:00 pm IST start per BCCI and ESPNcricinfo."
+        "Sony Sports Network",
+        "SonyLIV"
+      ]
     },
     {
-      "id": "indw-zimw-odi-3",
+      "id": "nz-ind-odi-3",
+      "st": "upcoming",
+      "india": true,
       "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
+      "comp": "New Zealand v India",
       "round": "3rd ODI",
-      "st": "upcoming",
       "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
         "IND",
-        "India Women",
+        "India",
         ""
       ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        ""
-      ],
-      "when": "2026-10-28T14:00:00+05:30",
-      "india": true,
-      "venue": "Kotambi Stadium, Vadodara",
+      "when": "2026-11-10T07:30:00+05:30",
+      "venue": "Hamilton",
+      "note": "Five-match ODI series follows the T20Is; 7:30 am IST start.",
       "src": [
         {
-          "t": "BCCI – IND v ZIM match centre",
-          "u": "https://www.bcci.tv/"
+          "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
+          "u": "https://www.livemint.com/sports/cricket-news"
         },
         {
-          "t": "Google – IND-W v ZIM-W ODI times",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+1st+ODI+23+October+time+venue"
-        },
-        {
-          "t": "CricTracker – IND W v ZIM W schedule, broadcasters",
-          "u": "https://www.crictracker.com/cricket-news/ind-w-vs-zim-w-2026-schedule-squads-live-streaming-broadcasters-and-all-you-need-to-know/"
-        }
-      ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Day-night ODI at Kotambi Stadium, Vadodara; 2:00 pm IST start per BCCI and ESPNcricinfo."
-    },
-    {
-      "id": "isl-kashi-eb",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 4",
-      "a": [
-        "IKFC",
-        "Inter Kashi",
-        "",
-        "#F59E0B"
-      ],
-      "b": [
-        "EBFC",
-        "East Bengal FC",
-        "",
-        "#DC2626"
-      ],
-      "when": "2026-10-23T17:00:00+05:30",
-      "venue": "Shree Shivchhatrapati Sports Complex, Pune",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "NDTV Profit – ISL 2026-27 first-phase schedule & timings",
-          "u": "https://www.ndtvprofit.com/sports"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+          "t": "ESPNcricinfo – India tour of New Zealand 2026 fixtures",
+          "u": "https://www.cricinfo.com/"
         }
       ],
       "watch": [
         "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
+        "SonyLIV"
       ]
     },
     {
-      "id": "isl-odi-neu",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 4",
-      "a": [
-        "ODI",
-        "Odisha FC",
-        "",
-        "#7C3AED"
-      ],
-      "b": [
-        "NEU",
-        "NorthEast United",
-        "",
-        "#C8102E"
-      ],
-      "when": "2026-10-24T19:30:00+05:30",
-      "venue": "Kalinga Stadium, Bhubaneswar",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "NDTV Profit – ISL 2026-27 first-phase schedule & timings",
-          "u": "https://www.ndtvprofit.com/sports"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-chu-pun",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 4",
-      "a": [
-        "CHB",
-        "Churchill Brothers",
-        "",
-        "#9F1239"
-      ],
-      "b": [
-        "PFC",
-        "Punjab FC",
-        "",
-        "#DC2626"
-      ],
-      "when": "2026-10-25T17:00:00+05:30",
-      "venue": "Fatorda Stadium, Goa",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "NDTV Profit – ISL 2026-27 first-phase schedule & timings",
-          "u": "https://www.ndtvprofit.com/sports"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-kbfc-mci",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 4",
-      "a": [
-        "KBFC",
-        "Kerala Blasters",
-        "",
-        "#FACC15"
-      ],
-      "b": [
-        "MCFC",
-        "Mumbai City FC",
-        "",
-        "#0EA5E9"
-      ],
-      "when": "2026-10-25T19:30:00+05:30",
-      "venue": "Jawaharlal Nehru Stadium, Kochi",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "NDTV Profit – ISL 2026-27 first-phase schedule & timings",
-          "u": "https://www.ndtvprofit.com/sports"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
-    },
-    {
-      "id": "isl-mbsg-che",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Matchweek 4",
-      "a": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "",
-        "#166534"
-      ],
-      "b": [
-        "CFC",
-        "Chennaiyin FC",
-        "",
-        "#1D4ED8"
-      ],
-      "when": "2026-10-26T19:30:00+05:30",
-      "venue": "Vivekananda Yuba Bharati Krirangan, Kolkata",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Sportstar – Mohun Bagan SG ISL 2026-27 schedule",
-          "u": "https://sportstar.thehindu.com/football/indian-football/"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "note": "Mohun Bagan's first home match of the season."
-    },
-    {
-      "id": "isl-goa-del",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "",
-        "#F97316"
-      ],
-      "b": [
-        "DEL",
-        "Sporting Club Delhi",
-        "",
-        "#B91C1C"
-      ],
-      "when": "2026-10-28T19:30:00+05:30",
-      "venue": "Fatorda Stadium, Goa",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        }
-      ]
-    },
-    {
-      "id": "act-ind-ban",
+      "id": "act-jpn-ind",
       "sport": "Hockey",
       "comp": "Asian Champions Trophy 2026",
-      "round": "Pool match 1",
+      "round": "Pool match 3",
+      "st": "upcoming",
+      "a": [
+        "JPN",
+        "Japan",
+        ""
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-10-30T19:00:00+05:30",
+      "india": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "Third of India's five round-robin matches; India top the table after two wins.",
+      "src": [
+        {
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        },
+        {
+          "t": "Sportsdigest – Asian Champions Trophy 2026 schedule & where to watch",
+          "u": "https://sportsdigest.in/?p=226507"
+        },
+        {
+          "t": "Sportstar – Asian Champions Trophy 2026 schedule announced",
+          "u": "https://sportstar.thehindu.com/hockey/"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "act-ind-mas",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 4",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "MAS",
+        "Malaysia",
+        ""
+      ],
+      "when": "2026-11-01T19:00:00+05:30",
+      "india": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "src": [
+        {
+          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
+          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+        },
+        {
+          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
+          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
+        }
+      ],
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ]
+    },
+    {
+      "id": "act-ind-kor",
+      "sport": "Hockey",
+      "comp": "Asian Champions Trophy 2026",
+      "round": "Pool match 5",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "KOR",
+        "South Korea",
+        ""
+      ],
+      "when": "2026-11-02T19:00:00+05:30",
+      "india": true,
+      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "note": "India's last round-robin game; semi-finals on 4 Nov and final on 5 Nov in Mohali.",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "src": [
+        {
+          "t": "FIH – India vs Korea, 2 Nov 2026, 7:00 pm",
+          "u": "https://www.fih.hockey/"
+        },
+        {
+          "t": "Sporting News – Asian Champions Trophy 2026 schedule",
+          "u": "https://www.sportingnews.com/"
+        }
+      ]
+    },
+    {
+      "id": "ckc-indw-sri-sf",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Women's semi-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "SRI",
+        "Sri Lanka Women",
+        ""
+      ],
+      "when": "2026-10-30T18:45:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "note": "India women won all four league games (73–13 v Malaysia, 32–16 v Singapore, 41–18 v Uganda, 38–10 v Nigeria). Women's final 31 Oct, 7:30 pm.",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "src": [
+        {
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
+          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
+        }
+      ]
+    },
+    {
+      "id": "ckc-ind-ban-sf",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Men's semi-final",
       "st": "upcoming",
       "a": [
         "IND",
@@ -1248,102 +618,20 @@
         "Bangladesh",
         ""
       ],
-      "when": "2026-10-27T19:00:00+05:30",
+      "when": "2026-10-30T20:30:00+05:30",
       "india": true,
       "big": true,
-      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "India's title-defence opener, right after the opening ceremony. All league matches in Jalandhar.",
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
+      "note": "India men won all six league games. Kenya v Sri Lanka is the other semi (9:30 pm); men's final 31 Oct, 9 pm.",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
       "src": [
         {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
-        },
-        {
-          "t": "Sportsdigest – Asian Champions Trophy 2026 schedule & where to watch",
-          "u": "https://sportsdigest.in/?p=226507"
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
+          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
         }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "DD Sports",
-        "SonyLIV"
-      ]
-    },
-    {
-      "id": "act-ind-chn",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Pool match 2",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "CHN",
-        "China",
-        ""
-      ],
-      "when": "2026-10-29T19:00:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "Second of India's five round-robin matches; top four reach the semi-finals in Mohali.",
-      "src": [
-        {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
-        },
-        {
-          "t": "Sportsdigest – Asian Champions Trophy 2026 schedule & where to watch",
-          "u": "https://sportsdigest.in/?p=226507"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "DD Sports",
-        "SonyLIV"
-      ]
-    },
-    {
-      "id": "acl2-alseeb-eb",
-      "sport": "Football",
-      "comp": "AFC Champions League Two",
-      "round": "Group D · Matchday 3",
-      "st": "upcoming",
-      "india": true,
-      "a": [
-        "SEEB",
-        "Al-Seeb",
-        "",
-        "#1E3A8A"
-      ],
-      "b": [
-        "EBFC",
-        "East Bengal FC",
-        "",
-        "#C8102E"
-      ],
-      "when": "2026-10-27T21:30:00+05:30",
-      "venue": "Oman",
-      "note": "East Bengal (0 pts after losing 2–3 to Al-Shorta) travel to Oman's Al-Seeb; return leg on 3 Nov.",
-      "src": [
-        {
-          "t": "Olympics.com – East Bengal lose 3-2 to Al-Shorta; Al-Seeb next on 27 Oct",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "ESPN – SC East Bengal fixtures",
-          "u": "https://www.espn.co.uk/football/team/fixtures/_/name/sc-east-bengal"
-        },
-        {
-          "t": "Dream Sports – AFC partners with FanCode (ACL Two, 2025-28)",
-          "u": "https://www.dreamsports.group/newsroom/afc-partners-with-fancode-to-stream-asian-football-tournaments-in-india/"
-        }
-      ],
-      "watch": [
-        "FanCode"
       ]
     },
     {
@@ -1453,7 +741,7 @@
         "",
         "#DC2626"
       ],
-      "when": "2026-10-31",
+      "when": "2026-10-31T19:30:00+05:30",
       "venue": "VYBK, Kolkata",
       "watch": [
         "Sony Sports Network",
@@ -1479,426 +767,328 @@
       ]
     },
     {
-      "id": "act-jpn-ind",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Pool match 3",
-      "st": "upcoming",
-      "a": [
-        "JPN",
-        "Japan",
-        ""
-      ],
-      "b": [
-        "IND",
-        "India",
-        ""
-      ],
-      "when": "2026-10-30T19:00:00+05:30",
-      "india": true,
-      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "Third of India's five round-robin matches.",
-      "src": [
-        {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
-        },
-        {
-          "t": "Sportsdigest – Asian Champions Trophy 2026 schedule & where to watch",
-          "u": "https://sportsdigest.in/?p=226507"
-        },
-        {
-          "t": "Sportstar – Asian Champions Trophy 2026 schedule announced",
-          "u": "https://sportstar.thehindu.com/hockey/"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "DD Sports",
-        "SonyLIV"
-      ]
-    },
-    {
-      "id": "ranji-r2-up-goa",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 2 · 4-day",
-      "st": "result",
-      "a": [
-        "UP",
-        "Uttar Pradesh",
-        "202 & 197"
-      ],
-      "b": [
-        "GOA",
-        "Goa",
-        "164 & 167"
-      ],
-      "when": "2026-10-18T09:30:00+05:30",
-      "india": true,
-      "big": false,
-      "note": "UP won by 68 runs on day 3 at Green Park, Kanpur. Rinku Singh 118* rescued UP's first innings (202); Zeeshan Ansari 5/45 bowled Goa out for 164. Aryan Juyal's 74 and Yash Dayal's 36 off 14 lifted UP to 197 (Yash Kasvankar 5/69), and teen left-arm spinner Kartik Yadav took 5/37 as Goa, chasing 236, were all out for 167 (Suyash Prabhudessai 72) — losing their last five wickets for 14.",
-      "src": [
-        {
-          "t": "Hindustan Times – Kartik Yadav's five-for seals UP's win over Goa",
-          "u": "https://www.hindustantimes.com/cricket/ranji-trophy-teen-spinner-kartik-yadav-s-five-for-seals-up-s-win-over-goa-101792499646741.html"
-        },
-        {
-          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
-        },
-        {
-          "t": "Google – live score card, day 3 session 2 (later)",
-          "u": "https://www.google.com/search?q=Uttar+Pradesh+vs+Goa+ranji+live+score"
-        },
-        {
-          "t": "Google – Ranji Trophy live score today",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+live+score+today"
-        }
-      ],
-      "win": "a",
-      "day": "20 Oct",
-      "recent": true,
-      "resultAt": "2026-10-20T18:43:58+05:30"
-    },
-    {
-      "id": "nz-ind-t20-5",
+      "id": "isl-mci-del",
       "st": "upcoming",
       "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "5th T20I",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
       "a": [
-        "NZ",
-        "New Zealand",
+        "MCFC",
+        "Mumbai City FC",
         "",
-        "#111827"
+        "#0EA5E9"
       ],
       "b": [
-        "IND",
-        "India",
-        ""
+        "DEL",
+        "Sporting Club Delhi",
+        "",
+        "#B91C1C"
       ],
-      "when": "2026-11-01T12:30:00+05:30",
-      "note": "Final match of the five-T20I series; the five-match ODI series follows from 4 Nov. Venue not confirmed here.",
+      "when": "2026-11-01T17:00:00+05:30",
+      "venue": "Mumbai Football Arena, Mumbai",
       "src": [
         {
-          "t": "Google – India cricket schedule",
-          "u": "https://www.google.com/search?q=India+cricket+schedule"
-        },
-        {
-          "t": "Cricbuzz – India schedule",
-          "u": "https://www.cricbuzz.com/cricket-team/india/2/schedule"
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
         }
       ],
       "watch": [
         "Sony Sports Network",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
       ]
     },
     {
-      "id": "act-ind-mas",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Pool match 4",
+      "id": "isl-kashi-goa",
       "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
       "a": [
-        "IND",
-        "India",
-        ""
+        "IKFC",
+        "Inter Kashi",
+        "",
+        "#F59E0B"
       ],
       "b": [
-        "MAS",
-        "Malaysia",
-        ""
+        "FCG",
+        "FC Goa",
+        "",
+        "#F97316"
       ],
-      "when": "2026-11-01T19:00:00+05:30",
-      "india": true,
-      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "when": "2026-11-01T19:30:00+05:30",
+      "venue": "Shree Shivchhatrapati Sports Complex, Pune",
       "src": [
         {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
-        },
-        {
-          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
-          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
         }
       ],
       "watch": [
         "Sony Sports Network",
-        "DD Sports",
-        "SonyLIV"
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
       ]
     },
     {
-      "id": "fo-sindhu-katethong",
-      "sport": "Badminton",
-      "comp": "BWF French Open (Super 750)",
-      "round": "Women's singles R32",
+      "id": "isl-chu-neu",
       "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
       "a": [
-        "IND",
-        "PV Sindhu",
-        ""
+        "CHB",
+        "Churchill Brothers",
+        "",
+        "#9F1239"
       ],
       "b": [
-        "THA",
-        "Supanida Katethong",
-        ""
+        "NEU",
+        "NorthEast United",
+        "",
+        "#C8102E"
       ],
-      "when": "2026-10-21",
+      "when": "2026-11-05T17:00:00+05:30",
+      "venue": "Fatorda Stadium, Goa",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-mbsg-odi",
+      "st": "upcoming",
       "india": true,
-      "big": false,
-      "venue": "Arena Grand Paris",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "MBSG",
+        "Mohun Bagan SG",
+        "",
+        "#166534"
+      ],
+      "b": [
+        "ODI",
+        "Odisha FC",
+        "",
+        "#7C3AED"
+      ],
+      "when": "2026-11-05T19:30:00+05:30",
+      "venue": "VYBK, Kolkata",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-goa-bfc",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#F97316"
+      ],
+      "b": [
+        "BFC",
+        "Bengaluru FC",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-11-06T19:30:00+05:30",
+      "venue": "Fatorda Stadium, Goa",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-kashi-del",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "IKFC",
+        "Inter Kashi",
+        "",
+        "#F59E0B"
+      ],
+      "b": [
+        "DEL",
+        "Sporting Club Delhi",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-11-07T17:00:00+05:30",
+      "venue": "Shree Shiv Chhatrapati Sports Complex, Pune",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-che-eb",
+      "st": "upcoming",
+      "india": true,
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "a": [
+        "CFC",
+        "Chennaiyin FC",
+        "",
+        "#1D4ED8"
+      ],
+      "b": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#C8102E"
+      ],
+      "when": "2026-11-07T19:30:00+05:30",
+      "venue": "Jawaharlal Nehru Stadium, Chennai",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL (free)",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "acl2-eb-alseeb",
+      "sport": "Football",
+      "comp": "AFC Champions League Two",
+      "round": "Group D · Matchday 4",
+      "st": "upcoming",
+      "india": true,
+      "a": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "SEEB",
+        "Al-Seeb",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-11-03",
+      "venue": "Kolkata",
+      "note": "Return game against Al-Seeb after the 0–0 in Oman; kick-off time not confirmed.",
       "watch": [
         "FanCode"
       ],
-      "note": "Draw revised after Japan's Tomoka Miyazaki withdrew injured: Sindhu now faces Thailand's Supanida Katethong in R32 (Chosun/OSEN, BWF). Sindhu is in the bottom half of the draw (Wikipedia/BWF draw), whose R32 matches are on 21 Oct; time not confirmed.",
       "src": [
         {
-          "t": "Wikipedia – 2026 French Open (badminton) draw",
-          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+          "t": "AIFF – East Bengal held goalless by Oman's Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/"
         },
         {
-          "t": "Chosun (OSEN) – Miyazaki withdrawal alters draw; Sindhu now v Katethong",
-          "u": "https://www.chosun.com/english/sports-en/2026/10/20/766AQUWYHRBI5F6S57QSQSP6BI/"
+          "t": "AFC – Group D: Al Seeb Club 0-0 East Bengal FC",
+          "u": "https://www.the-afc.com/"
         },
         {
-          "t": "Google News (Korean) – SPOTV/MyDaily: An Se Young's opponent changed to Schulz",
-          "u": "https://www.google.com/search?q=%EC%95%88%EC%84%B8%EC%98%81+%EC%8B%A0%EB%91%90+%ED%94%84%EB%9E%91%EC%8A%A4%EC%98%A4%ED%94%88&tbm=nws"
-        }
-      ]
-    },
-    {
-      "id": "fo-tanvi-isharani",
-      "sport": "Badminton",
-      "comp": "BWF French Open (Super 750)",
-      "round": "Women's singles R32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Tanvi Sharma",
-        "21-12 21-12"
-      ],
-      "b": [
-        "IND",
-        "Isharani Baruah",
-        "12-21 12-21"
-      ],
-      "when": "2026-10-20",
-      "win": "a",
-      "day": "20 Oct",
-      "recent": true,
-      "resultAt": "2026-10-20T18:43:58+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Arena Grand Paris",
-      "note": "All-Indian first round: 17-year-old Tanvi Sharma won 21-12 21-12 in 32 minutes and moves to a projected world No. 20 in the live rankings. Her likely R16 opponent is top seed An Se Young (if she beats Amalie Schulz).",
-      "src": [
-        {
-          "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
-          "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
-        }
-      ]
-    },
-    {
-      "id": "ckc-indw-mas",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Women's · league",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India Women",
-        ""
-      ],
-      "b": [
-        "MAS",
-        "Malaysia Women",
-        ""
-      ],
-      "when": "2026-10-23T18:45:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "India women's opener at the inaugural Commonwealth Kabaddi Championship (23–31 Oct).",
-      "src": [
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
-          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
-    {
-      "id": "ckc-ind-eng",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Men's · league",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "ENG",
-        "England",
-        ""
-      ],
-      "when": "2026-10-23T20:30:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "India men's opener at the inaugural Commonwealth Kabaddi Championship; final on 31 Oct.",
-      "src": [
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
-          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
-    {
-      "id": "ckc-indw-sgp",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Women's · league",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India Women",
-        ""
-      ],
-      "b": [
-        "SGP",
-        "Singapore Women",
-        ""
-      ],
-      "when": "2026-10-24T18:45:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "",
-      "src": [
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
-          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
-    {
-      "id": "ckc-ind-uga",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Men's · league",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "UGA",
-        "Uganda",
-        ""
-      ],
-      "when": "2026-10-24T20:30:00+05:30",
-      "india": true,
-      "big": false,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "",
-      "src": [
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
-          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
-    {
-      "id": "fo-satchi-popov",
-      "sport": "Badminton",
-      "comp": "BWF French Open (Super 750)",
-      "round": "Men's doubles R32",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "Satwiksairaj Rankireddy / Chirag Shetty",
-        ""
-      ],
-      "b": [
-        "FRA",
-        "Christo Popov / Toma Junior Popov",
-        ""
-      ],
-      "when": "2026-10-20T20:10:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Arena Grand Paris, Court 1",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
-      "note": "Fifth seeds Satwik-Chirag open against the home Popov brothers; India lead the head-to-head 3–0. Start about 8:10 pm IST (Sportstar).",
-      "src": [
-        {
-          "t": "Sportstar – Satwik-Chirag v Popov: live streaming info, 8:10 pm IST",
-          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-vs-popov-french-open-live-streaming-mens-doubles-round-of-32/article71603828.ece/amp/"
+          "t": "Dream Sports – AFC partners with FanCode (ACL Two, 2025-28)",
+          "u": "https://www.dreamsports.group/newsroom/afc-partners-with-fancode-to-stream-asian-football-tournaments-in-india/"
         }
       ]
     }
   ],
   "competitions": [
     {
+      "id": "nz-ind",
       "sport": "Cricket",
-      "name": "India v West Indies",
-      "status": "Concluded · T20I series drawn 2–2",
-      "live": false,
+      "name": "India tour of New Zealand",
+      "comp": "New Zealand v India",
+      "status": "Live · T20Is till 1 Nov, ODIs from 4 Nov",
+      "live": true,
       "india": true,
-      "note": "Five-match T20I series shared 2–2 after the Bengaluru decider on 17 Oct was washed out with India 118/5 in 7.4 overs.",
-      "id": "ind-wi",
+      "note": "India lead the five-match T20I series 3–0 (won by 4 wkts and 4 wkts in Christchurch, 6 wkts in Wellington). Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
       "src": [
         {
-          "t": "ANI – 5th T20I called off due to rain; series ends 2–2",
-          "u": "https://www.aninews.in/news/sports/cricket/ind-vs-wi-5th-t20i-match-called-off-due-to-rain-after-few-overs-of-action-series-ends-in-2-2-draw20261017222941/"
+          "t": "Olympics.com – Indian cricket team schedule 2026",
+          "u": "https://www.olympics.com/en/news/"
         },
         {
-          "t": "Wikipedia – West Indies in India 2026-27",
-          "u": "https://en.wikipedia.org/wiki/West_Indian_cricket_team_in_India_in_2026%E2%80%9327"
-        },
-        {
-          "t": "NewsX – IND v WI schedule",
-          "u": "https://www.newsx.com/sports/india-vs-west-indies-2026-full-odi-and-t20i-series-schedule-dates-venues-timings-and-all-you-need-to-know-272160/"
+          "t": "Livemint – India's tour of New Zealand 2026 schedule",
+          "u": "https://www.livemint.com/sports/cricket-news"
         }
-      ],
-      "comp": "India v West Indies"
+      ]
     },
     {
       "id": "indw-zimw",
       "sport": "Cricket",
       "name": "India Women v Zimbabwe Women",
-      "status": "Live · India win T20Is 2–0 · 3rd T20I 20 Oct",
-      "live": true,
+      "status": "Concluded · India win T20Is 3–0 and ODIs 3–0",
+      "live": false,
       "india": true,
       "comp": "India Women v Zimbabwe Women",
-      "note": "India won the 1st T20I by 4 wickets and the 2nd by 9 wickets to take the series 2–0. Three T20Is in Raipur (16, 18, 20 Oct, 19:00 IST). 15-member squad: Smriti Mandhana (c), Shafali Verma (vc), Niki Prasad, Harmanpreet Kaur, Anushka Sharma, Richa Ghosh (wk), G Kamalini (wk), Deepti Sharma, Prema Rawat, Sree Charani, Nandni Sharma, Kranti Gaud, Arundhati Reddy, Jintimani Kalita, Minnu Mani.",
+      "note": "India Women won all six matches against Zimbabwe: three T20Is in Raipur (16–20 Oct) and three ODIs in Vadodara (23–28 Oct), sealed by an 8-wicket win on 28 Oct.",
       "src": [
         {
           "t": "Olympics.com – India women's squad for Zimbabwe T20Is: Mandhana to lead",
@@ -1911,23 +1101,43 @@
       "sport": "Kabaddi",
       "name": "Commonwealth Kabaddi Championship 2026",
       "comp": "Commonwealth Kabaddi Championship",
-      "status": "Starts 23 Oct · Ahmedabad, till 31 Oct",
+      "status": "Live · semi-finals 30 Oct, finals 31 Oct",
       "live": true,
       "india": true,
-      "note": "Inaugural edition at the Veer Savarkar Sports Complex, Ahmedabad: 13 men's and 10 women's teams (Pakistan withdrew). India men open v England (23 Oct, 20:30 IST), India women v Malaysia (23 Oct, 18:45 IST). Semi-finals 30 Oct; men's final 31 Oct 21:00, women's final 31 Oct 19:30 IST. Broadcast on the Star Sports network and JioHotstar (Khel Now).",
+      "note": "Inaugural edition in Ahmedabad. India men (6/6 league wins) meet Bangladesh in the semis at 8:30 pm on 30 Oct; India women (4/4) face Sri Lanka at 6:45 pm. Finals 31 Oct: women 7:30 pm, men 9 pm.",
       "src": [
         {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026 full schedule",
-          "u": "https://khelnow.com/kabaddi/full-schedule-announced-commonwealth-kabaddi-championship-202610"
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
+          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
         }
       ]
     },
     {
+      "sport": "Hockey",
+      "name": "Asian Champions Trophy 2026",
+      "status": "Live · till 5 Nov · Jalandhar & Mohali",
+      "live": true,
+      "india": true,
+      "id": "act-2026",
+      "note": "Holders India beat Bangladesh 13–0 (27 Oct) and China 5–2 (29 Oct); Japan (30 Oct), Malaysia (1 Nov) and South Korea (2 Nov) next, all 7 pm IST. Top four reach the semi-finals on 4 Nov; final 5 Nov in Mohali.",
+      "src": [
+        {
+          "t": "Olympics.com – Asian Champions Trophy 2026: scores, results, points table",
+          "u": "https://www.olympics.com/en/news/"
+        },
+        {
+          "t": "Khel Now – Men's hockey Asian Champions Trophy 2026 points table",
+          "u": "https://khelnow.com/"
+        }
+      ],
+      "comp": "Asian Champions Trophy 2026"
+    },
+    {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · next: Inter Kashi v East Bengal, 23 Oct",
+      "status": "Live · next: NorthEast United v Bengaluru, 30 Oct",
       "india": true,
-      "note": "13 clubs, double round-robin, playoffs return. East Bengal defend the title.",
+      "note": "Recent: Mohun Bagan 1–0 Chennaiyin (26 Oct), FC Goa 1–1 Sporting Club Delhi (28 Oct). Six matches from 30 Oct to 1 Nov, then 5–7 Nov.",
       "id": "isl",
       "src": [
         {
@@ -1941,6 +1151,49 @@
       ],
       "comp": "Indian Super League",
       "live": true
+    },
+    {
+      "sport": "Football",
+      "name": "AFC club competitions",
+      "status": "East Bengal v Al-Seeb, 3 Nov",
+      "india": true,
+      "note": "East Bengal drew 0–0 at Al-Seeb in ACL Two on 27 Oct and host them on 3 Nov. FC Goa went out of the AFC Challenge League after a 1–2 loss to Qadsia SC in their final Group C game.",
+      "id": "afc-clubs",
+      "src": [
+        {
+          "t": "AIFF – East Bengal held goalless by Oman's Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/"
+        },
+        {
+          "t": "AFC – Group D: Al Seeb Club 0-0 East Bengal FC",
+          "u": "https://www.the-afc.com/"
+        },
+        {
+          "t": "Sportstar – FC Goa exits AFC Challenge League after loss to Qadsia",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
+        }
+      ],
+      "live": false
+    },
+    {
+      "sport": "Cricket",
+      "name": "Ranji Trophy 2026-27",
+      "status": "Round 3 ended 29 Oct · Round 4 from 2 Nov",
+      "live": false,
+      "id": "ranji",
+      "note": "Round 3 (26–29 Oct): Tanush Kotian's 8/81 (11 in the match) gave Mumbai a 10-wicket bonus-point win over Haryana — their third straight win; Bengal also won big against Kerala. Elite Round 4 runs 2–5 Nov.",
+      "src": [
+        {
+          "t": "Cricbuzz – Ranji highlights: 8-fers for Kotian, Bhut; Bengal thrash Kerala",
+          "u": "https://www.cricbuzz.com/cricket-news"
+        },
+        {
+          "t": "ranji-trophy.com.in – Elite Round 4: 2–5 Nov 2026",
+          "u": "https://ranji-trophy.com.in/schedule"
+        }
+      ],
+      "india": true,
+      "comp": "Ranji Trophy 2026-27"
     },
     {
       "sport": "Kabaddi",
@@ -1959,562 +1212,294 @@
           "u": "https://khelnow.com/kabaddi/pkl-13-auction-likely-held-mid-october-202608"
         }
       ]
-    },
-    {
-      "sport": "Hockey",
-      "name": "Asian Champions Trophy 2026",
-      "status": "27 Oct – 5 Nov · Jalandhar & Mohali",
-      "live": false,
-      "india": true,
-      "id": "act-2026",
-      "note": "India (holders) open v Bangladesh on 27 Oct, then China 29 Oct, Japan 30 Oct, Malaysia 1 Nov, South Korea 2 Nov — all 7 pm IST. Pakistan withdrew; Bangladesh replace them.",
-      "src": [
-        {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
-        },
-        {
-          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
-          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
-        }
-      ],
-      "comp": "Asian Champions Trophy 2026"
-    },
-    {
-      "sport": "Football",
-      "name": "Premier League",
-      "status": "Back 10 Oct",
-      "note": "International break first. Liverpool v Man City headlines the weekend.",
-      "id": "epl",
-      "src": [
-        {
-          "t": "Premier League – fixtures",
-          "u": "https://www.premierleague.com/fixtures"
-        }
-      ],
-      "comp": "Premier League"
-    },
-    {
-      "sport": "Football",
-      "name": "AFC club competitions",
-      "status": "From 13 Oct",
-      "india": true,
-      "note": "East Bengal lost 2–3 to Al-Shorta in ACL Two (13 Oct, Kolkata) and visit Al-Seeb on 27 Oct; FC Goa lost 1–2 to Regar-TadAZ (17 Oct) and beat Fortis FC 2–1 (20 Oct) in the AFC Challenge League.",
-      "id": "afc-clubs",
-      "src": [
-        {
-          "t": "Khel Now – Indian football calendar, October 2026",
-          "u": "https://khelnow.com/football/indian-football-calendar-for-october-2026"
-        }
-      ],
-      "live": true
-    },
-    {
-      "sport": "Cricket",
-      "name": "Ranji Trophy 2026-27",
-      "status": "Live · Round 2 day 4 on 21 Oct (18–21 Oct)",
-      "live": true,
-      "id": "ranji",
-      "note": "The 2026-27 Ranji Trophy begins on Sunday 11 October with 19 first-round matches (11–14 Oct) across the Elite and Plate groups, e.g. Andhra v Karnataka (Mulapadu), Hyderabad v Tripura, Sikkim v Meghalaya (Plate). Day 1 (11 Oct): India Test openers Yashasvi Jaiswal (13-ball duck) and KL Rahul (4) fell cheaply; Arunachal Pradesh v Nagaland (Plate) was cancelled because of a dispute within the Arunachal association. Stumps Day 1: Shami took 4/30 as Bengal bowled Delhi out for 240 in Kalyani; Smaran Ravichandran made a hundred on his Karnataka captaincy debut; Punjab v Assam was washed out.",
-      "src": [
-        {
-          "t": "Wisden – Ranji Trophy 2026-27 schedule",
-          "u": "https://wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-full-schedule-squads-groups-venues-and-all-you-need-to-know"
-        }
-      ],
-      "india": true,
-      "comp": "Ranji Trophy 2026-27"
-    },
-    {
-      "id": "denmark-open",
-      "sport": "Badminton",
-      "name": "BWF Denmark Open (Super 750)",
-      "status": "Concluded · Odense, 18 Oct",
-      "live": false,
-      "india": true,
-      "note": "Super 750 in Odense, finals 18 Oct: An Se Young beat Akane Yamaguchi 21-23 21-14 21-18 to defend the women's singles title; Fajar/Fikri beat Aaron Chia/Soh Wooi Yik in men's doubles. India's campaign ended in the quarter-finals (Tanvi Sharma, Treesa/Gayatri).",
-      "src": [
-        {
-          "t": "Google – Denmark Open 2026 finals",
-          "u": "https://www.google.com/search?q=Denmark+Open+2026+final+results"
-        },
-        {
-          "t": "Olympics.com – Sindhu, Lakshya suffer shock first-round exits",
-          "u": "https://www.olympics.com/en/news/denmark-open-2026-badminton-india-day-1-report"
-        },
-        {
-          "t": "Free Press Journal – Denmark Open 2026 draw: Sindhu v An Se-young, Lakshya v Chou",
-          "u": "https://www.freepressjournal.in/sports/denmark-open-2026-pv-sindhu-draws-defending-champion-an-se-young-lakshya-sen-faces-third-seed-chou-tien-chen-in-tough-openers"
-        },
-        {
-          "t": "BWF – VICTOR Denmark Open 2026 results",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/"
-        },
-        {
-          "t": "Denmark Open – schedule",
-          "u": "https://denmarkopen.dk/"
-        }
-      ],
-      "comp": "BWF Denmark Open (Super 750)"
-    },
-    {
-      "id": "dpwic",
-      "sport": "Golf",
-      "name": "DP World India Championship",
-      "status": "Concluded · Chacarra won, Lahiri T23",
-      "live": false,
-      "india": true,
-      "note": "Chacarra won at 21-under 267 at Delhi Golf Club; Daniel Hillier second (−19). Anirban Lahiri was best Indian, tied 23rd at −8.",
-      "src": [
-        {
-          "t": "DP World Tour – leaderboard (Round 2)",
-          "u": "https://www.europeantour.com/dpworld-tour/dp-world-india-championship-2026/leaderboard?round=2"
-        }
-      ],
-      "comp": "DP World India Championship"
-    },
-    {
-      "id": "apg-2026",
-      "sport": "Multi-sport",
-      "name": "Asian Para Games 2026, Aichi-Nagoya",
-      "status": "Live · till 24 Oct · India 35 medals (9G 11S 15B)",
-      "live": true,
-      "india": true,
-      "note": "5th Asian Para Games, Aichi-Nagoya (18–24 Oct). India's medals on 19 Oct: Mona Agarwal won women's 10m air rifle SH1 gold with a Games record 250.0 (Avani Lekhara silver); Nishad Kumar won men's long jump T47 gold with 7.11m (high jump T47 final on 20 Oct); Kokila won women's J2 -52kg judo silver after beating world champion Liu Yi (China) in the semi-final, losing the final by ippon in 21 seconds to Kyrgyzstan's Aibike Ulanbek Kyzy; judoka Kapil Parmar won men's J1 -70kg bronze. Sonalben Patel (women's singles C3) and Prachi Pandey (Class 6) are assured of para table tennis medals (semi-finals 20 Oct); Nitesh Kumar/Thulasimathi Murugesan are assured of a para badminton mixed doubles medal; powerlifter Jaspreet Kaur finished fourth in the women's 45kg; Sheetal Devi equalled the compound ranking-round world record (704/720). Also on 19 Oct: Rinku Hooda won men's javelin F46 gold (65.11m) with Ajeet Singh Yadav silver (65.02m); Ravi Karthik Budigina won men's 100m freestyle S13 silver. Broadcast details for India not confirmed. Update 19:20 IST: India 11 medals (4 gold, 5 silver, 2 bronze), fourth behind China, Japan, Uzbekistan; in the women's 1500m, Soumya won T12/T13 gold with Radha Venkatesh silver, and Ravanni Valasanaini took T11 bronze. India's para coach expects about six medals on 20 Oct; Sony Sports Ten 2/3, DD Sports (free) and SonyLIV carry the Games. 20 Oct (day 3, morning): Deepthi Jeevanji won women's 400m T20 gold in a Games record 56.36s; Manish Narwal took men's 10m air pistol SH1 silver (233.7, behind Korea's Jo Jeongdu); Ashok won men's 65kg powerlifting silver (192kg, behind China's Zou Yi); Bhavina Patel, Sonalben Patel, Prachi Pandey and Baby Sahana Ravi won table tennis bronzes. India 22 medals (5G 8S 9B) by mid-morning, per TOI/NDTV/Wikipedia. Later on 20 Oct: Shrishti Arora won women's 10m air pistol SH1 bronze (Paralympic Committee of India); Sheetal Devi beat Japan's Aya Shinohara 145–137 to reach the women's compound final, assuring a medal. Around 12:30 IST: Pradeep Kumar (silver) and Ayush Verma (bronze) in men's javelin F53/54; Sheetal Devi and Payal Nag reached the women's compound doubles final (India Today). Around 13:00 IST: Sheetal Devi and Payal Nag beat Thailand 151–135 in the women's compound team semi-final (at least silver); debutant Swati Chaudhary beat Korea's Lee Eunhee 6–2 to reach the women's W1 final v China (at least silver); Jehan Madan won men's singles Class 1 table tennis bronze; Pramod Bhagat and Nitesh Kumar reached the men's SL3 badminton semi-finals (medals assured). Around 14:15 IST (ANI): Himanshu Nandal won men's 400m freestyle S11 bronze (5:10.91), India's second para-swimming medal; ANI put India on 24 medals (5G 8S 11B). Sheetal Devi and Payal Nag face China in the women's compound doubles gold-medal match on 21 Oct from 05:55 IST (SAI Media); Harvinder Singh and Vijay Sundi also reached a para-archery gold-medal match (The News Mill). Later on 20 Oct (Livemint): Pranav Soorma won men's discus F51/52/53 gold with an Asian record 11.66m (Ram Ratan Singh silver); Simran Sharma won women's 200m T12 gold in a Games record 24.80s (Tejalben Damor bronze); Preeti Pal won women's 200m T35 silver; Niranjan Mukundan won men's 200m IM SM7 bronze; Nishad Kumar won his second gold, the men's high jump T47 (2.04m); India swept the men's discus F43/44/62/64 podium — Devendra Kumar gold, Rakesh Kumar silver, Pradeep Kumar bronze. Livemint put India sixth with 35 medals (9 gold, 11 silver, 15 bronze) at the end of day 2 of competition.",
-      "src": [
-        {
-          "t": "Livemint – Asian Para Games 2026 highlights: India's tally rises to 35",
-          "u": "https://www.livemint.com/sports/news/asian-para-games-2026-live-updates-india-schedule-today-medal-tally-results-swimming-athletics-badminton-20-october-11792457668970.html"
-        },
-        {
-          "t": "ANI – Himanshu Nandal bronze; Sheetal-Payal to fight for gold",
-          "u": "https://www.aninews.in/news/sports/others/asian-para-games-para-swimmer-himanshu-seals-bronze-in-mens-400-m-freestyle-s11-event-sheetal-payal-to-fight-for-gold-in-para-archery20261020141635/"
-        },
-        {
-          "t": "NDTV Sports – Asian Para Games 2026 Day 2 live updates",
-          "u": "https://sports.ndtv.com/othersports/asian-para-games-2026-live-updates-day-2-india-medal-tally-results-aichi-nagoya-live-sheetal-devi-manish-narwal-12207839"
-        },
-        {
-          "t": "India Today – Asian Para Games 2026 live, 20 Oct",
-          "u": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-20-athletics-archery-powerlifting-table-tennis-aichi-nagoya-japan-3021094-2026-10-20"
-        },
-        {
-          "t": "Google – Shrishti Arora bronze; Sheetal Devi in compound final",
-          "u": "https://www.google.com/search?q=Sheetal+Devi+Asian+Para+Games+2026+final"
-        },
-        {
-          "t": "Google – NDTV/TOI: India 22 medals (5G 8S 9B)",
-          "u": "https://www.google.com/search?q=Asian+Para+Games+2026+medal+tally+India+rank+22+medals"
-        },
-        {
-          "t": "Google – ANI/The Hindu: Deepthi Jeevanji gold, Manish Narwal silver",
-          "u": "https://www.google.com/search?q=Deepthi+Jeevanji+gold+Asian+Para+Games+2026+Manish+Narwal+silver"
-        },
-        {
-          "t": "Google – TOI/Rediff/News18: Ashok wins 65kg powerlifting silver",
-          "u": "https://www.google.com/search?q=Asian+Para+Games+Ashok+silver+powerlifting+India"
-        },
-        {
-          "t": "The Tribune – Rinku Hooda gold, Ajeet Singh silver, javelin F46",
-          "u": "https://www.tribuneindia.com/news/aichi-nagoya/para-asian-games-2026-rinku-hooda-wins-gold-ajeet-singh-takes-silver-as-india-secures-double-podium-finish-in-mens-javelin-throw-f46"
-        },
-        {
-          "t": "Sportstar – Nishad Kumar wins long jump T47 gold",
-          "u": "https://sportstar.thehindu.com/athletics/asian-para-games-2026-nishad-kumar-wins-gold-long-jump-t47/article71602408.ece"
-        },
-        {
-          "t": "Sportstar – Kokila wins judo silver",
-          "u": "https://sportstar.thehindu.com/other-sports/kokila-silver-medal-women-j2-52kg-judo-asian-para-games-2026/article71602426.ece"
-        },
-        {
-          "t": "Sportstar – Sonalben Patel, Prachi Pandey assure table tennis medals",
-          "u": "https://sportstar.thehindu.com/table-tennis/sonalben-patel-prachi-pandey-assure-medals-india-table-tennis-asian-para-games-2026-semifinal-scores-results/article71602396.ece"
-        },
-        {
-          "t": "Wikipedia – India at the 2026 Asian Para Games",
-          "u": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Para_Games"
-        },
-        {
-          "t": "Aaj Tak – Mona Agarwal gold, Avani Lekhara silver (10m air rifle SH1)",
-          "u": "https://www.aajtak.in/sports/news/story/mona-agarwal-gold-avani-lekhara-silver-asian-para-games-2026-bmsp-dskc-2674575-2026-10-19"
-        },
-        {
-          "t": "ThePrint Hindi – Mona Agarwal wins gold, Avani Lekhara silver",
-          "u": "https://hindi.theprint.in/sports/asian-para-games-shooter-mona-agarwal-wins-gold-avani-lekhara-wins-silver/1046077"
-        },
-        {
-          "t": "Wikipedia – 2026 Asian Para Games",
-          "u": "https://en.wikipedia.org/wiki/2026_Asian_Para_Games"
-        },
-        {
-          "t": "Sportstar – India at Para Asian Games 2026: full list of athletes",
-          "u": "https://sportstar.thehindu.com/asian-games-2026/"
-        },
-        {
-          "t": "Sunday Guardian – Asian Para Games medal tally: India 11 medals",
-          "u": "https://sundayguardianlive.com/sports/asian-para-games-2026-medal-tally-live-india-reach-11-medals-with-4-gold-5-silver-2-bronze-latest-ranking-total-medals-updated-standings-308606/"
-        },
-        {
-          "t": "StadiumRant – Asian Para Games day 3 live, India broadcasters",
-          "u": "https://www.stadiumrant.com/asian-para-games-2026-day-three-live-schedule/"
-        }
-      ]
-    },
-    {
-      "id": "french-open-bwf",
-      "sport": "Badminton",
-      "name": "BWF French Open (Super 750)",
-      "status": "Live today · 20–25 Oct · Paris",
-      "live": true,
-      "india": true,
-      "note": "Super 750 at Arena Grand Paris. Indian R32 draws: PV Sindhu v Supanida Katethong (revised after Tomoka Miyazaki withdrew; An Se Young now plays Amalie Schulz), Lakshya Sen v Kodai Naraoka, Kidambi Srikanth v Ayush Shetty, Tanvi Sharma v Isharani Baruah, Ashmita Chaliha v Han Qianxi, Unnati Hooda v Riko Gunji, Satwik/Chirag v Popov brothers. R32 top half on 20 Oct and bottom half on 21 Oct, first matches 13:30 IST each day; Streaming in India: FanCode (TV channel not confirmed). 20 Oct: Tanvi Sharma beat Isharani Baruah 21-12 21-12; Ashmita Chaliha beat Han Qianxi 21-18 24-22; Treesa Jolly/Gayatri Gopichand lost 17-21 18-21. Sindhu (v Katethong) and Unnati Hooda (v Riko Gunji) are in the bottom half, which plays R32 on 21 Oct.",
-      "src": [
-        {
-          "t": "Wikipedia – 2026 French Open (badminton) draw",
-          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
-        },
-        {
-          "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
-          "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
-        },
-        {
-          "t": "Chosun (OSEN) – Miyazaki withdrawal alters draw; Sindhu now v Katethong",
-          "u": "https://www.chosun.com/english/sports-en/2026/10/20/766AQUWYHRBI5F6S57QSQSP6BI/"
-        },
-        {
-          "t": "Google – Sofascore: Sindhu v An Se Young, 20 Oct 08:00 UTC",
-          "u": "https://www.google.com/search?q=French+Open+badminton+2026+Sindhu+An+Se+Young+time"
-        },
-        {
-          "t": "Sports Digest – French Open 2026 draw: Lakshya, Sindhu, Satwik-Chirag",
-          "u": "https://sportsdigest.in/french-open-2026-draw-full-schedule/226698/"
-        },
-        {
-          "t": "Yonex IFB – Official draw and opening matchups",
-          "u": "https://www.yonexifb.com/"
-        },
-        {
-          "t": "NewsX – French Open 2026: Indian players, schedule, live streaming",
-          "u": "https://www.newsx.com/sports/french-open-2026-badminton-check-super-750-events-prize-money-indian-players-schedule-and-live-streaming-285064/"
-        },
-        {
-          "t": "Spike Today – French Open badminton schedule and start times",
-          "u": "https://spiketoday.com/french-open-badminton-schedule-start-times-and-where-to-watch/"
-        }
-      ],
-      "comp": "BWF French Open (Super 750)"
     }
   ],
   "feed": [
     {
-      "t": "21:30",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Zimbabwe 62/2 after 10 overs chasing India Women's 216/7 in the 3rd T20I — need 155 off 60 balls.",
-      "match": "indw-zimw-t20-3",
-      "src": [
-        {
-          "t": "Google – live score card: ZIMW 62/2 (10), need 155 off 60",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+live+score"
-        }
-      ]
-    },
-    {
       "t": "21:15",
       "tag": "WIN",
       "c": "var(--win)",
-      "m": "Football",
-      "text": "AFC Challenge League: FC Goa beat Fortis FC 2–1 in Kuwait — Chiki's 85th-minute winner after a 78th-minute Fortis equaliser.",
-      "match": "acgl-goa-fortis",
+      "m": "Kabaddi",
+      "text": "Commonwealth Kabaddi: India men beat Sri Lanka 45–24 to finish the league unbeaten; Bangladesh in Friday's semi-final.",
       "src": [
         {
-          "t": "Khel Now (via Google) – FT: Fortis FC 1-2 FC Goa, Chiki 85'",
-          "u": "https://www.google.com/search?q=FC+Goa+vs+Fortis+FC+AFC+Challenge+League"
+          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
+          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
+        }
+      ],
+      "match": "ckc-ind-sri"
+    },
+    {
+      "t": "20:45",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "Asian Champions Trophy: India beat China 5–2 in Jalandhar — braces for Harmanpreet Singh and Sukhjeet Singh, India go top.",
+      "src": [
+        {
+          "t": "Hindustan Times – Harmanpreet, Sukhjeet braces take India top after 5-2 win",
+          "u": "https://www.hindustantimes.com/sports/hockey"
+        },
+        {
+          "t": "India Today – India cruise past China 5-2",
+          "u": "https://www.indiatoday.in/sports/hockey"
+        },
+        {
+          "t": "The Hindu – ACT: India registers hard-fought victory over a spirited China",
+          "u": "https://www.thehindu.com/sport/hockey/"
+        }
+      ],
+      "match": "act-ind-chn"
+    },
+    {
+      "t": "29 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "Ranji Trophy: Tanush Kotian takes 8/81 as Mumbai crush Haryana by 10 wickets for a third straight win.",
+      "src": [
+        {
+          "t": "Cricbuzz – Ranji highlights: 8-fers for Kotian, Bhut; Bengal thrash Kerala",
+          "u": "https://www.cricbuzz.com/cricket-news"
+        },
+        {
+          "t": "ranji-trophy.com.in – Elite Round 4: 2–5 Nov 2026",
+          "u": "https://ranji-trophy.com.in/schedule"
         }
       ]
     },
     {
-      "t": "21:05",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India Women post 216/7 in the 3rd T20I v Zimbabwe — Harmanpreet Kaur 91* off 41 and Shafali Verma 69; Zimbabwe need 217 in Raipur.",
-      "match": "indw-zimw-t20-3"
-    },
-    {
-      "t": "20:35",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India Women pile up 215/7 in the final over v Zimbabwe in the 3rd T20I — Shafali Verma 69 and Harmanpreet Kaur fifty in a 152-run stand.",
-      "src": [
-        {
-          "t": "Google – live score card",
-          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+3rd+T20I+score"
-        }
-      ],
-      "match": "indw-zimw-t20-3"
-    },
-    {
-      "t": "20:06",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Football",
-      "text": "AFC Challenge League: FC Goa lead Fortis FC 1–0 in Kuwait after an early goal (6′).",
-      "src": [
-        {
-          "t": "LiveScore – Fortis FC v FC Goa",
-          "u": "https://www.livescore.com/en/football/international/afc-challenge-league/fortis-fc-vs-fc-goa/1875834/"
-        }
-      ],
-      "match": "acgl-goa-fortis"
-    },
-    {
-      "t": "20:06",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India Women 126/2 after 13 overs v Zimbabwe in the 3rd T20I — Shafali Verma 68* off 35.",
-      "src": [
-        {
-          "t": "CricTracker – live score",
-          "u": "https://www.crictracker.com/live-scores/ind-w-vs-zim-w-3rd-t20i-zimbabwe-women-tour-of-india-20-oct-2026/"
-        }
-      ],
-      "match": "indw-zimw-t20-3"
-    },
-    {
-      "t": "19:37",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "India Women 73/2 after 8.1 overs v Zimbabwe in the 3rd T20I in Raipur — Anushka Sharma out for 28.",
-      "src": [
-        {
-          "t": "Google – live score card",
-          "u": "https://www.google.com/search?q=India+women+vs+Zimbabwe+women+live+score"
-        }
-      ],
-      "match": "indw-zimw-t20-3"
-    },
-    {
-      "t": "18:30",
-      "tag": "NEWS",
+      "t": "28 Oct",
+      "tag": "DRAW",
       "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "India Women win the toss and bat first in the 3rd T20I v Zimbabwe in Raipur, chasing a 3–0 sweep.",
+      "m": "Football",
+      "text": "ISL: FC Goa snatch a 1–1 draw with Sporting Club Delhi through Álex Vallejo in the 95th minute.",
       "src": [
         {
-          "t": "Cricbuzz – INDW v ZIMW 3rd T20I toss",
-          "u": "https://www.cricbuzz.com/live-cricket-scores"
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "Rediff – Stoppage-time drama: FC Goa snatch draw from Sporting Club Delhi",
+          "u": "https://www.rediff.com/sports"
         }
       ],
-      "match": "indw-zimw-t20-3"
+      "match": "isl-goa-del"
     },
     {
-      "t": "17:53",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Para athletics",
-      "text": "Asian Para Games: India sweep the men's discus F43/44/62/64 podium — Devendra Kumar gold, Rakesh Kumar silver, Pradeep Kumar bronze. Nishad Kumar adds high jump T47 gold (2.04m) to his long jump title; India on 35 medals (9G 11S 15B), sixth (Livemint).",
-      "src": [
-        {
-          "t": "Livemint – Asian Para Games 2026 highlights",
-          "u": "https://www.livemint.com/sports/news/asian-para-games-2026-live-updates-india-schedule-today-medal-tally-results-swimming-athletics-badminton-20-october-11792457668970.html"
-        }
-      ]
-    },
-    {
-      "t": "17:13",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy stumps, day 3: Himachal 144/3 (trail Mumbai by 244); Chhattisgarh 123/3 following on (trail Punjab by 127); Karnataka 99/2, lead Saurashtra by 92; Gujarat 363/5 v Delhi's 648/6d.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Day 3 highlights (stumps)",
-          "u": "https://sportstar.thehindu.com/cricket/ranji-trophy-live-score-updates-day-3-highlights-commentary-runs-wickets/article71603227.ece"
-        }
-      ],
-      "match": "ranji-r2-hp-mum"
-    },
-    {
-      "t": "16:13",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Para athletics",
-      "text": "Asian Para Games: Simran Sharma wins women's 200m T12 gold in a Games record 24.80s (Tejalben Damor bronze); Pranav Soorma takes discus F51/52/53 gold with an Asian record, Ram Ratan Singh silver.",
-      "src": [
-        {
-          "t": "Livemint – Asian Para Games 2026 highlights",
-          "u": "https://www.livemint.com/sports/news/asian-para-games-2026-live-updates-india-schedule-today-medal-tally-results-swimming-athletics-badminton-20-october-11792457668970.html"
-        }
-      ]
-    },
-    {
-      "t": "15:58",
+      "t": "28 Oct",
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Cricket",
-      "text": "Ranji Trophy: Uttar Pradesh beat Goa by 68 runs in Kanpur — teen spinner Kartik Yadav 5/37 as Goa, chasing 236, fold for 167.",
+      "text": "India Women beat Zimbabwe by 8 wickets in the 3rd ODI to sweep the series 3–0 — Vaishnavi Sharma 5/39, Pratika Rawal 59*, Shafali Verma 51*.",
       "src": [
         {
-          "t": "Hindustan Times – Kartik Yadav's five-for seals UP's win over Goa",
-          "u": "https://www.hindustantimes.com/cricket/ranji-trophy-teen-spinner-kartik-yadav-s-five-for-seals-up-s-win-over-goa-101792499646741.html"
+          "t": "ESPNcricinfo – Vaishnavi five-for, Rawal and Shafali fifties power India to 3-0 sweep",
+          "u": "https://www.cricinfo.com/"
+        },
+        {
+          "t": "Google – IND-W v ZIM-W 3rd ODI result card",
+          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+3rd+ODI+result"
         }
       ],
-      "match": "ranji-r2-up-goa"
+      "match": "indw-zimw-odi-3"
     },
     {
-      "t": "20 Oct",
+      "t": "27 Oct",
       "tag": "WIN",
       "c": "var(--win)",
-      "m": "Badminton",
-      "text": "French Open R32: Ashmita Chaliha beats Han Qianxi 21-18 24-22.",
+      "m": "Cricket",
+      "text": "India beat New Zealand by 6 wickets with 40 balls left in Wellington to take an unbeatable 3–0 T20I lead — Abhishek Sharma 113 off 38.",
       "src": [
         {
-          "t": "Wikipedia – 2026 French Open (badminton) draw",
-          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+          "t": "ESPNcricinfo – NZ v IND 3rd T20I scorecard (India won by 6 wkts, 40 balls left)",
+          "u": "https://www.cricinfo.com/"
+        },
+        {
+          "t": "Yahoo Sports – IND vs NZ 3rd T20I result: Abhishek 38-ball 113",
+          "u": "https://sports.yahoo.com/"
+        },
+        {
+          "t": "Google – NZ v IND 3rd T20I result card",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+3rd+T20I+result+October+2026"
+        }
+      ],
+      "match": "nz-ind-t20-3"
+    },
+    {
+      "t": "27 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "Asian Champions Trophy: holders India open with a 13–0 win over Bangladesh; Mandeep Singh hat-trick.",
+      "src": [
+        {
+          "t": "Olympics.com – India beat Bangladesh 13-0; Mandeep Singh hat-trick",
+          "u": "https://www.olympics.com/en/news/"
+        },
+        {
+          "t": "NDTV Sports – India vs Bangladesh hockey, Asian Champions Trophy 2026",
+          "u": "https://sports.ndtv.com/hockey"
+        }
+      ],
+      "match": "act-ind-ban"
+    },
+    {
+      "t": "27 Oct",
+      "tag": "DRAW",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "ACL Two: East Bengal held 0–0 by Al-Seeb in Oman; return game in Kolkata on 3 Nov.",
+      "src": [
+        {
+          "t": "AIFF – East Bengal held goalless by Oman's Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/"
+        },
+        {
+          "t": "AFC – Group D: Al Seeb Club 0-0 East Bengal FC",
+          "u": "https://www.the-afc.com/"
+        }
+      ],
+      "match": "acl2-alseeb-eb"
+    },
+    {
+      "t": "26 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "ISL: Manvir Singh's 85th-minute goal gives Mohun Bagan a 1–0 win over Chennaiyin.",
+      "src": [
+        {
+          "t": "ISL – official fixtures & results",
+          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+        },
+        {
+          "t": "ESPN India – Mohun Bagan 1-0 Chennaiyin (Manvir 85')",
+          "u": "https://www.espn.in/football/"
+        }
+      ],
+      "match": "isl-mbsg-che"
+    },
+    {
+      "t": "24 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "India beat New Zealand by 4 wickets with a ball to spare in the 2nd T20I in Christchurch (181/6 chasing 180/5).",
+      "src": [
+        {
+          "t": "ESPNcricinfo – NZ v IND 2nd T20I scorecard",
+          "u": "https://www.cricinfo.com/"
         }
       ]
     },
     {
-      "t": "20 Oct",
+      "t": "23 Oct",
       "tag": "LOSS",
       "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "French Open R32: Treesa Jolly / Gayatri Gopichand lose 17-21 18-21 to Lin/Yang.",
+      "m": "Football",
+      "text": "AFC Challenge League: FC Goa lose 1–2 to Qadsia SC in Kuwait and go out at the group stage.",
       "src": [
         {
-          "t": "Wikipedia – 2026 French Open (badminton) draw",
-          "u": "https://en.wikipedia.org/wiki/2026_French_Open_(badminton)"
+          "t": "Sportstar – FC Goa exits AFC Challenge League",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
         }
       ]
     },
     {
-      "t": "20 Oct",
+      "t": "22 Oct",
       "tag": "WIN",
       "c": "var(--win)",
-      "m": "Badminton",
-      "text": "French Open: Tanvi Sharma beats Isharani Baruah 21-12 21-12 in an all-Indian first round in Paris; Sindhu plays Katethong on 21 Oct.",
+      "m": "Cricket",
+      "text": "India chase 226 to beat New Zealand by 4 wickets in the 1st T20I in Christchurch (230/6 in 19.4 overs).",
       "src": [
         {
-          "t": "IndiaSportsHub – Tanvi Sharma beats Isharani Baruah, breaks into top 20",
-          "u": "https://www.indiasportshub.com/articles/french-open-2026-tanvi-sharma-breaks-into-world-s-top-20-india-set-for-historic-women-s-singles-milestone"
-        }
-      ],
-      "match": "fo-tanvi-isharani"
-    },
-    {
-      "t": "14:38",
-      "tag": "BRONZE",
-      "c": "var(--bronze)",
-      "m": "Para swimming",
-      "text": "Asian Para Games: Himanshu Nandal wins men's 400m freestyle S11 bronze (5:10.91) — India on 24 medals (5G 8S 11B) per ANI. Sheetal Devi and Payal Nag meet China in the compound doubles final on 21 Oct, 05:55 IST.",
-      "src": [
-        {
-          "t": "ANI – Himanshu Nandal bronze; Sheetal-Payal to fight for gold",
-          "u": "https://www.aninews.in/news/sports/others/asian-para-games-para-swimmer-himanshu-seals-bronze-in-mens-400-m-freestyle-s11-event-sheetal-payal-to-fight-for-gold-in-para-archery20261020141635/"
+          "t": "ICC – New Zealand v India 1st T20I",
+          "u": "https://www.icc-cricket.com/"
         }
       ]
     }
   ],
   "schedule": [
     {
-      "d": "20",
+      "d": "30",
       "mo": "OCT",
-      "title": "India Women v Zimbabwe, 3rd T20I",
-      "meta": "Cricket",
-      "time": "19:00",
-      "match": "indw-zimw-t20-3"
-    },
-    {
-      "d": "20",
-      "mo": "OCT",
-      "title": "Satwik-Chirag v Popov brothers, French Open R32",
-      "meta": "Badminton · Paris",
-      "time": "20:10",
-      "match": "fo-satchi-popov"
-    },
-    {
-      "d": "21",
-      "mo": "OCT",
-      "title": "Sheetal Devi & Payal Nag v China, Para compound doubles final",
-      "meta": "Para archery · Asian Para Games",
-      "time": "05:55"
-    },
-    {
-      "d": "21",
-      "mo": "OCT",
-      "title": "PV Sindhu v Supanida Katethong, French Open R32",
-      "meta": "Badminton · Paris",
-      "time": "TBC",
-      "match": "fo-sindhu-katethong"
-    },
-    {
-      "d": "22",
-      "mo": "OCT",
-      "title": "New Zealand v India, 1st T20I",
-      "meta": "Cricket · Christchurch",
+      "title": "New Zealand v India, 4th T20I",
+      "meta": "Cricket · Eden Park, Auckland",
       "time": "12:30",
-      "match": "nz-ind-t20-1"
+      "match": "nz-ind-t20-4"
     },
     {
-      "d": "23",
+      "d": "30",
       "mo": "OCT",
-      "title": "India Women v Zimbabwe, 1st ODI",
-      "meta": "Cricket · Vadodara",
-      "time": "14:00",
-      "match": "indw-zimw-odi-1"
-    },
-    {
-      "d": "23",
-      "mo": "OCT",
-      "title": "India Women v Malaysia, Commonwealth Kabaddi",
+      "title": "India Women v Sri Lanka, Commonwealth Kabaddi semi-final",
       "meta": "Kabaddi · Ahmedabad",
       "time": "18:45",
-      "match": "ckc-indw-mas"
+      "match": "ckc-indw-sri-sf"
     },
     {
-      "d": "23",
+      "d": "30",
       "mo": "OCT",
-      "title": "India v England, Commonwealth Kabaddi",
+      "title": "Japan v India, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
+      "time": "19:00",
+      "match": "act-jpn-ind"
+    },
+    {
+      "d": "30",
+      "mo": "OCT",
+      "title": "India v Bangladesh, Commonwealth Kabaddi semi-final",
       "meta": "Kabaddi · Ahmedabad",
       "time": "20:30",
-      "match": "ckc-ind-eng"
+      "match": "ckc-ind-ban-sf"
     },
     {
-      "d": "24",
-      "mo": "OCT",
-      "title": "New Zealand v India, 2nd T20I",
-      "meta": "Cricket · Hagley Oval, Christchurch",
+      "d": "01",
+      "mo": "NOV",
+      "title": "New Zealand v India, 5th T20I",
+      "meta": "Cricket · New Zealand",
       "time": "12:30",
-      "match": "nz-ind-t20-2"
+      "match": "nz-ind-t20-5"
     },
     {
-      "d": "25",
-      "mo": "OCT",
-      "title": "India Women v Zimbabwe, 2nd ODI",
-      "meta": "Cricket · Kotambi Stadium, Vadodara",
-      "time": "14:00",
-      "match": "indw-zimw-odi-2"
-    },
-    {
-      "d": "27",
-      "mo": "OCT",
-      "title": "New Zealand v India, 3rd T20I",
-      "meta": "Cricket · Hnry Stadium (Sky Stadium), Wellington",
-      "time": "12:30",
-      "match": "nz-ind-t20-3"
-    },
-    {
-      "d": "27",
-      "mo": "OCT",
-      "title": "India v Bangladesh, Asian Champions Trophy",
-      "meta": "Hockey · Olympian Surjit Singh Hockey Stadium, Jalandhar",
+      "d": "01",
+      "mo": "NOV",
+      "title": "India v Malaysia, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
       "time": "19:00",
-      "match": "act-ind-ban"
+      "match": "act-ind-mas"
+    },
+    {
+      "d": "02",
+      "mo": "NOV",
+      "title": "India v South Korea, Asian Champions Trophy",
+      "meta": "Hockey · Jalandhar",
+      "time": "19:00",
+      "match": "act-ind-kor"
+    },
+    {
+      "d": "04",
+      "mo": "NOV",
+      "title": "New Zealand v India, 1st ODI",
+      "meta": "Cricket · Auckland",
+      "time": "07:30",
+      "match": "nz-ind-odi-1"
+    },
+    {
+      "d": "07",
+      "mo": "NOV",
+      "title": "New Zealand v India, 2nd ODI",
+      "meta": "Cricket · Wellington",
+      "time": "07:30",
+      "match": "nz-ind-odi-2"
+    },
+    {
+      "d": "10",
+      "mo": "NOV",
+      "title": "New Zealand v India, 3rd ODI",
+      "meta": "Cricket · Hamilton",
+      "time": "07:30",
+      "match": "nz-ind-odi-3"
     }
   ],
   "players": [
@@ -2654,5 +1639,5 @@
       "bg": "#1F2937"
     }
   ],
-  "sources": "Olympics.com, Khel Now, ESPNcricinfo, Outlook India, India.com, The Tribune, Business Standard, AIFF, Wikipedia, Sportradar."
+  "sources": "Google (live cards & Top stories), ESPNcricinfo, Cricbuzz, Livemint, Khel Now, Olympics.com, Hindustan Times, ISL, AIFF, AFC, FIH, Sportstar, Wikipedia."
 }
