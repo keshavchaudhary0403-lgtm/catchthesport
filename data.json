@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-30T19:24:09+05:30",
-  "dayLabel": "Fri 30 Oct · NZ beat India by 87 in 4th T20I · India v Japan hockey live",
-  "featured": "act-jpn-ind",
+  "lastUpdated": "2026-10-31T09:39:39+05:30",
+  "dayLabel": "Sat 31 Oct · Commonwealth Kabaddi finals · India reach hockey semis",
+  "featured": "ckc-ind-sri-final",
   "matches": [
     {
       "id": "nz-ind-t20-3",
@@ -324,11 +324,11 @@
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
       "round": "Singles quarter-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "PV Sindhu",
-        ""
+        "Won"
       ],
       "b": [
         "DEN",
@@ -338,63 +338,59 @@
       "when": "2026-10-30T19:10:00+05:30",
       "india": true,
       "venue": "Saarlandhalle, Saarbrücken",
-      "note": "Second seed Sindhu beat Prakriti Bharath and Rosy Oktavia Pancasari (21-9, 21-6) without dropping a game.",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
+      "note": "PV Sindhu beat Amalie Schulz to reach the Hylo Open semi-finals.",
       "src": [
         {
-          "t": "Sportstar – Hylo Open 2026: India's quarter-final schedule (30 Oct)",
-          "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
+          "t": "RevSportz – Sindhu, Sen, Kharb into semi-finals",
+          "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "30 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T09:39:39+05:30"
     },
     {
       "id": "hylo-kharb-hooda-qf",
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
       "round": "Singles quarter-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Anmol Kharb",
-        ""
+        "Won"
       ],
       "b": [
         "IND",
         "Unnati Hooda",
-        ""
+        "Lost"
       ],
       "when": "2026-10-30T19:20:00+05:30",
       "india": true,
       "venue": "Saarlandhalle, Saarbrücken",
-      "note": "All-Indian quarter-final guarantees India a women's singles semi-finalist; Kharb upset third seed Line Christophersen 11-21, 21-18, 25-23.",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
+      "note": "Anmol Kharb won the all-India quarter-final against Unnati Hooda and is into the semi-finals.",
       "src": [
         {
-          "t": "Sportstar – Hylo Open 2026: India's quarter-final schedule (30 Oct)",
-          "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
+          "t": "RevSportz – Sindhu, Sen, Kharb into semi-finals",
+          "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "30 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T09:39:39+05:30"
     },
     {
       "id": "hylo-sen-qf",
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
       "round": "Singles quarter-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "Won"
       ],
       "b": [
         "FIN",
@@ -404,19 +400,17 @@
       "when": "2026-10-30T20:00:00+05:30",
       "india": true,
       "venue": "Saarlandhalle, Saarbrücken",
-      "note": "Seventh seed Sen beat Kiran George 21-15, 18-21, 21-12 in the Round of 16.",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
+      "note": "Lakshya Sen beat Kalle Koljonen to reach the Hylo Open semi-finals.",
       "src": [
         {
-          "t": "Sportstar – Hylo Open 2026: India's quarter-final schedule (30 Oct)",
-          "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
+          "t": "RevSportz – Sindhu, Sen, Kharb into semi-finals",
+          "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "30 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T09:39:39+05:30"
     },
     {
       "id": "nz-ind-t20-5",
@@ -566,37 +560,35 @@
       "sport": "Hockey",
       "comp": "Asian Champions Trophy 2026",
       "round": "Pool match 3",
-      "st": "live",
+      "st": "result",
       "a": [
         "JPN",
         "Japan",
-        "0"
+        "1"
       ],
       "b": [
         "IND",
         "India",
-        "0"
+        "4"
       ],
       "when": "2026-10-30T19:00:00+05:30",
       "india": true,
       "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "Both unbeaten: India beat Bangladesh 13–0 and China 5–2; Japan beat South Korea 3–2 and Bangladesh 1–0. Scheduled 7 pm; NDTV reported the start at 7:20 pm.",
+      "note": "Abhishek scored twice as India beat Japan 4–1 to reach the semi-finals, unbeaten after three games.",
       "src": [
         {
-          "t": "NDTV Sports – India vs Japan LIVE, Asian Champions Trophy 2026",
-          "u": "https://sports.ndtv.com/hockey/india-vs-japan-hockey-live-score-asian-champions-trophy-2026-live-updates-ind-vs-jpn-results-goals-live-12259760"
+          "t": "The Tribune – India beat Japan 4-1",
+          "u": "https://www.tribuneindia.com/news/abhishek-nain/asian-champions-trophy-india-continue-unbeaten-run-with-4-1-win-over-japan"
         },
         {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+          "t": "Khel Now – India v Japan report",
+          "u": "https://khelnow.com/hockey/india-japan-report-mens-hockey-asian-champions-trophy-202610"
         }
       ],
-      "watch": [
-        "Star Sports 2",
-        "JioHotstar"
-      ],
-      "status": "Q1 · under way",
-      "scoreAt": "2026-10-30T19:20:00+05:30"
+      "win": "b",
+      "day": "30 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T09:39:39+05:30"
     },
     {
       "id": "act-ind-mas",
@@ -672,114 +664,68 @@
       "sport": "Kabaddi",
       "comp": "Commonwealth Kabaddi Championship",
       "round": "Women's semi-final",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "India Women",
-        "27"
+        "Won"
       ],
       "b": [
         "SRI",
         "Sri Lanka Women",
-        "7"
+        ""
       ],
       "when": "2026-10-30T18:45:00+05:30",
       "india": true,
       "big": true,
       "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "note": "India led 24–7 at half-time (Sakshi 6 raid + 3 tackle points, captain Nidhi Sharma 6 raid points). Winner meets Uganda, who beat Kenya in the other women's semi, in the final on 31 Oct, 7:30 pm.",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
+      "note": "India women beat Sri Lanka in the semi-final (led 27–7 in the second half) and meet Uganda in the final.",
       "src": [
         {
-          "t": "Sportstar – Commonwealth Kabaddi Championships 2026 semi-finals live",
-          "u": "https://sportstar.thehindu.com/kabaddi/commowealth-kabaddi-championships-2026-live-score-men-women-semifinal-updates-highlights/article71644868.ece/amp/"
+          "t": "IANS – India men into final, women meet Uganda",
+          "u": "https://ianslive.in/commonwealth-kabaddi-cship-india-men-storm-into-final-womens-team-to-meet-uganda-in-summit-clash--20261030224630"
         },
         {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
-          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
+          "t": "Olympics.com – Unbeaten India march into finals",
+          "u": "https://www.olympics.com/en/news/commonwealth-kabaddi-championship-2026-india-semi-finals-report"
         }
       ],
-      "status": "2nd half",
-      "scoreAt": "2026-10-30T19:19:00+05:30"
+      "win": "a",
+      "day": "30 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T09:39:39+05:30"
     },
     {
       "id": "ckc-ind-ban-sf",
       "sport": "Kabaddi",
       "comp": "Commonwealth Kabaddi Championship",
       "round": "Men's semi-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "56"
       ],
       "b": [
         "BAN",
         "Bangladesh",
-        ""
+        "27"
       ],
       "when": "2026-10-30T20:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "note": "India men won all six league games. Kenya v Sri Lanka is the other semi (9:30 pm); men's final 31 Oct, 9 pm.",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
+      "note": "India men beat Bangladesh 56–27 in the semi-final and meet Sri Lanka in the final.",
       "src": [
         {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
-          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
-    {
-      "id": "isl-neu-bfc",
-      "st": "upcoming",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "NEU",
-        "NorthEast United",
-        "",
-        "#C8102E"
-      ],
-      "b": [
-        "BFC",
-        "Bengaluru FC",
-        "",
-        "#1E3A8A"
-      ],
-      "when": "2026-10-30T19:30:00+05:30",
-      "venue": "Guwahati",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+          "t": "myKhel – India thrash Bangladesh 56-27",
+          "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
         }
       ],
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Khel Now – NorthEast United Phase 1 fixtures",
-          "u": "https://khelnow.com/football"
-        }
-      ]
+      "win": "a",
+      "day": "30 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T09:39:39+05:30"
     },
     {
       "id": "isl-che-kbfc",
@@ -1191,6 +1137,72 @@
         "Sony Sports Network",
         "SonyLIV"
       ]
+    },
+    {
+      "id": "ckc-ind-sri-final",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "SRI",
+        "Sri Lanka",
+        ""
+      ],
+      "when": "2026-10-31",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Ahmedabad",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Time TBC.",
+      "src": [
+        {
+          "t": "myKhel – India thrash Bangladesh 56-27",
+          "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
+        }
+      ]
+    },
+    {
+      "id": "ckc-indw-uga-final",
+      "sport": "Kabaddi",
+      "comp": "Commonwealth Kabaddi Championship",
+      "round": "Final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India Women",
+        ""
+      ],
+      "b": [
+        "UGA",
+        "Uganda Women",
+        ""
+      ],
+      "when": "2026-10-31",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Ahmedabad",
+      "watch": [
+        "Star Sports Network",
+        "JioHotstar"
+      ],
+      "note": "Time TBC.",
+      "src": [
+        {
+          "t": "myKhel – India thrash Bangladesh 56-27",
+          "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1267,7 +1279,7 @@
       "sport": "Kabaddi",
       "name": "Commonwealth Kabaddi Championship 2026",
       "comp": "Commonwealth Kabaddi Championship",
-      "status": "Live · semi-finals 30 Oct, finals 31 Oct",
+      "status": "Live · finals 31 Oct",
       "live": true,
       "india": true,
       "note": "Inaugural edition in Ahmedabad. India women lead Sri Lanka in the semi-final (Uganda await in the final); India men meet Bangladesh at 8:30 pm. Finals 31 Oct: women 7:30 pm, men 9 pm.",
@@ -1301,7 +1313,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · next: NorthEast United v Bengaluru, 30 Oct",
+      "status": "Live · next: Chennaiyin v Kerala Blasters, 31 Oct",
       "india": true,
       "note": "Recent: Mohun Bagan 1–0 Chennaiyin (26 Oct), FC Goa 1–1 Sporting Club Delhi (28 Oct). Six matches from 30 Oct to 1 Nov, then 5–7 Nov.",
       "id": "isl",
@@ -1382,43 +1394,48 @@
   ],
   "feed": [
     {
-      "t": "19:20",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "30 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Hockey",
-      "text": "Asian Champions Trophy: India v Japan under way in Jalandhar — both sides unbeaten after two games.",
+      "text": "Asian Champions Trophy: India beat Japan 4–1 (Abhishek brace) to reach the semi-finals.",
       "match": "act-jpn-ind",
       "src": [
         {
-          "t": "NDTV Sports – India vs Japan LIVE",
-          "u": "https://sports.ndtv.com/hockey/india-vs-japan-hockey-live-score-asian-champions-trophy-2026-live-updates-ind-vs-jpn-results-goals-live-12259760"
+          "t": "The Tribune – India beat Japan 4-1",
+          "u": "https://www.tribuneindia.com/news/abhishek-nain/asian-champions-trophy-india-continue-unbeaten-run-with-4-1-win-over-japan"
+        },
+        {
+          "t": "Khel Now – India v Japan report",
+          "u": "https://khelnow.com/hockey/india-japan-report-mens-hockey-asian-champions-trophy-202610"
         }
       ]
     },
     {
-      "t": "19:19",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "30 Oct",
+      "tag": "FINAL",
+      "c": "var(--gold)",
       "m": "Kabaddi",
-      "text": "Commonwealth Kabaddi semi: India women lead Sri Lanka 27–7 early in the second half; Uganda wait in the final.",
-      "match": "ckc-indw-sri-sf",
+      "text": "Commonwealth Kabaddi: India men beat Bangladesh 56–27 and women beat Sri Lanka; finals vs Sri Lanka (men) and Uganda (women) today.",
+      "match": "ckc-ind-ban-sf",
       "src": [
         {
-          "t": "Sportstar – Commonwealth Kabaddi live",
-          "u": "https://sportstar.thehindu.com/kabaddi/commowealth-kabaddi-championships-2026-live-score-men-women-semifinal-updates-highlights/article71644868.ece/amp/"
+          "t": "myKhel – India thrash Bangladesh 56-27",
+          "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
         }
       ]
     },
     {
-      "t": "14:26",
-      "tag": "NEWS",
-      "c": "var(--accent)",
+      "t": "30 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Badminton",
-      "text": "Hylo Open: Sindhu, Lakshya Sen and an all-Indian Anmol Kharb v Unnati Hooda tie headline India's quarter-finals in Saarbrücken tonight.",
+      "text": "Hylo Open: Sindhu, Lakshya Sen and Anmol Kharb (beat Unnati Hooda) into the semi-finals.",
+      "match": "hylo-sindhu-qf",
       "src": [
         {
-          "t": "Sportstar – Hylo Open India schedule",
-          "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
+          "t": "RevSportz – Sindhu, Sen, Kharb into semi-finals",
+          "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
         }
       ]
     },
@@ -1449,42 +1466,6 @@
           "u": "https://www.thestatesman.com/sports/4th-t20i-phillips-century-duffys-four-wicket-haul-power-new-zealand-to-87-run-win-over-india-1503657020.html"
         }
       ]
-    },
-    {
-      "t": "29 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Kabaddi",
-      "text": "Commonwealth Kabaddi: India men beat Sri Lanka 45–24 to finish the league unbeaten; Bangladesh in Friday's semi-final.",
-      "src": [
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
-          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
-        }
-      ],
-      "match": "ckc-ind-sri"
-    },
-    {
-      "t": "29 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Hockey",
-      "text": "Asian Champions Trophy: India beat China 5–2 in Jalandhar — braces for Harmanpreet Singh and Sukhjeet Singh, India go top.",
-      "src": [
-        {
-          "t": "Hindustan Times – Harmanpreet, Sukhjeet braces take India top after 5-2 win",
-          "u": "https://www.hindustantimes.com/sports/hockey"
-        },
-        {
-          "t": "India Today – India cruise past China 5-2",
-          "u": "https://www.indiatoday.in/sports/hockey"
-        },
-        {
-          "t": "The Hindu – ACT: India registers hard-fought victory over a spirited China",
-          "u": "https://www.thehindu.com/sport/hockey/"
-        }
-      ],
-      "match": "act-ind-chn"
     },
     {
       "t": "29 Oct",
@@ -1562,24 +1543,6 @@
       "match": "nz-ind-t20-3"
     },
     {
-      "t": "27 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Hockey",
-      "text": "Asian Champions Trophy: holders India open with a 13–0 win over Bangladesh; Mandeep Singh hat-trick.",
-      "src": [
-        {
-          "t": "Olympics.com – India beat Bangladesh 13-0; Mandeep Singh hat-trick",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "NDTV Sports – India vs Bangladesh hockey, Asian Champions Trophy 2026",
-          "u": "https://sports.ndtv.com/hockey"
-        }
-      ],
-      "match": "act-ind-ban"
-    },
-    {
       "t": "24 Oct",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1595,36 +1558,20 @@
   ],
   "schedule": [
     {
-      "d": "30",
+      "d": "31",
       "mo": "OCT",
-      "title": "PV Sindhu v Amalie Schulz, Hylo Open QF",
-      "meta": "Badminton · Saarbrücken",
-      "time": "19:10",
-      "match": "hylo-sindhu-qf"
-    },
-    {
-      "d": "30",
-      "mo": "OCT",
-      "title": "Anmol Kharb v Unnati Hooda, Hylo Open QF",
-      "meta": "Badminton · Saarbrücken",
-      "time": "19:20",
-      "match": "hylo-kharb-hooda-qf"
-    },
-    {
-      "d": "30",
-      "mo": "OCT",
-      "title": "Lakshya Sen v Kalle Koljonen, Hylo Open QF",
-      "meta": "Badminton · Saarbrücken",
-      "time": "20:00",
-      "match": "hylo-sen-qf"
-    },
-    {
-      "d": "30",
-      "mo": "OCT",
-      "title": "India v Bangladesh, Commonwealth Kabaddi semi-final",
+      "title": "India v Sri Lanka, Commonwealth Kabaddi men's final",
       "meta": "Kabaddi · Ahmedabad",
-      "time": "20:30",
-      "match": "ckc-ind-ban-sf"
+      "time": "TBC",
+      "match": "ckc-ind-sri-final"
+    },
+    {
+      "d": "31",
+      "mo": "OCT",
+      "title": "India Women v Uganda Women, Commonwealth Kabaddi women's final",
+      "meta": "Kabaddi · Ahmedabad",
+      "time": "TBC",
+      "match": "ckc-indw-uga-final"
     },
     {
       "d": "31",
