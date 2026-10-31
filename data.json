@@ -1,46 +1,8 @@
 {
-  "lastUpdated": "2026-10-31T09:39:39+05:30",
-  "dayLabel": "Sat 31 Oct · Commonwealth Kabaddi finals · India reach hockey semis",
+  "lastUpdated": "2026-10-31T12:22:39+05:30",
+  "dayLabel": "Sat 31 Oct · Kabaddi finals tonight · Hylo Open semis",
   "featured": "ckc-ind-sri-final",
   "matches": [
-    {
-      "id": "nz-ind-t20-3",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "3rd T20I",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "198/3 (20)",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "199/4 (13.2)"
-      ],
-      "when": "2026-10-27T12:30:00+05:30",
-      "venue": "Hnry Stadium (Sky Stadium), Wellington",
-      "note": "India won by 6 wickets with 40 balls left to lead 3–0 and seal the series — Abhishek Sharma 113 off 38, India 118 in the powerplay (a T20I record); Daryl Mitchell 89* for NZ.",
-      "src": [
-        {
-          "t": "ESPNcricinfo – NZ v IND 3rd T20I scorecard (India won by 6 wkts, 40 balls left)",
-          "u": "https://www.cricinfo.com/"
-        },
-        {
-          "t": "Yahoo Sports – IND vs NZ 3rd T20I result: Abhishek 38-ball 113",
-          "u": "https://sports.yahoo.com/"
-        },
-        {
-          "t": "Google – NZ v IND 3rd T20I result card",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+3rd+T20I+result+October+2026"
-        }
-      ],
-      "win": "b",
-      "day": "27 Oct"
-    },
     {
       "id": "indw-zimw-odi-3",
       "sport": "Cricket",
@@ -107,40 +69,6 @@
       ],
       "day": "28 Oct",
       "note": "Álex Vallejo equalised for Goa in the 95th minute after Juan Pena's 51st-minute goal for Delhi in Fatorda."
-    },
-    {
-      "id": "act-ind-ban",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Pool match 1",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "13"
-      ],
-      "b": [
-        "BAN",
-        "Bangladesh",
-        "0"
-      ],
-      "when": "2026-10-27T19:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "Holders India opened with a 13–0 rout in Jalandhar; Mandeep Singh scored a hat-trick.",
-      "src": [
-        {
-          "t": "Olympics.com – India beat Bangladesh 13-0; Mandeep Singh hat-trick",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "NDTV Sports – India vs Bangladesh hockey, Asian Champions Trophy 2026",
-          "u": "https://sports.ndtv.com/hockey"
-        }
-      ],
-      "win": "a",
-      "day": "27 Oct"
     },
     {
       "id": "act-ind-chn",
@@ -290,32 +218,68 @@
       "sport": "Cricket",
       "comp": "Hong Kong Sixes 2026",
       "round": "Group C",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "94/6 (6)"
       ],
       "b": [
         "UAE",
         "UAE",
-        ""
+        "97/0 (4.2)"
       ],
       "when": "2026-10-31",
       "india": true,
       "venue": "Mission Road Ground, Mong Kok",
-      "note": "India's second group game after losing to Pakistan; start time in IST not yet confirmed.",
-      "watch": [
-        "FanCode"
-      ],
+      "note": "UAE won by 6 wickets with 10 balls left (Player of the Match: Zahid Ali). India finished bottom of Group C and dropped into the Bowl.",
       "src": [
         {
-          "t": "Wikipedia – 2026 Hong Kong Sixes",
-          "u": "https://en.wikipedia.org/wiki/2026_Hong_Kong_Sixes"
+          "t": "Google – India vs UAE, Hong Kong Sixes result card",
+          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+India+vs+UAE"
         },
         {
-          "t": "Cricbuzz – Hong Kong Sixes 2026 schedule",
-          "u": "https://www.cricbuzz.com/"
+          "t": "NDTV Sports – UAE vs IND scorecard",
+          "u": "https://sports.ndtv.com/cricket/"
+        }
+      ],
+      "win": "b",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T12:22:39+05:30"
+    },
+    {
+      "id": "hk6-eng-ind-bowl-sf",
+      "sport": "Cricket",
+      "comp": "Hong Kong Sixes 2026",
+      "round": "Bowl semi-final 2",
+      "st": "result",
+      "a": [
+        "ENG",
+        "England",
+        "124/2 (6)"
+      ],
+      "b": [
+        "IND",
+        "India",
+        "121/4 (6)"
+      ],
+      "when": "2026-10-31",
+      "win": "a",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-10-31T12:22:39+05:30",
+      "india": true,
+      "venue": "Mission Road Ground, Mong Kok",
+      "note": "England won by 3 runs. Rahul Tripathi's unbeaten 56 off 14 balls and Krunal Pandya's 28* not enough — India's third straight defeat.",
+      "src": [
+        {
+          "t": "Google – England vs India, Bowl semi-final result",
+          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+England+vs+India+Rahul+Tripathi+56"
+        },
+        {
+          "t": "Livemint – Tripathi's 14-ball 56 goes in vain",
+          "u": "https://www.livemint.com/sports/cricket-news"
         }
       ]
     },
@@ -411,6 +375,70 @@
       "day": "30 Oct",
       "recent": true,
       "resultAt": "2026-10-31T09:39:39+05:30"
+    },
+    {
+      "id": "hylo-sindhu-kharb-sf",
+      "sport": "Badminton",
+      "comp": "Hylo Open 2026 (Super 500)",
+      "round": "Women's singles semi-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "PV Sindhu",
+        ""
+      ],
+      "b": [
+        "IND",
+        "Anmol Kharb",
+        ""
+      ],
+      "when": "2026-10-31",
+      "india": true,
+      "big": true,
+      "venue": "Saarlandhalle, Saarbrücken",
+      "note": "All-Indian semi-final; an Indian is guaranteed in the final. Start time in IST not confirmed.",
+      "src": [
+        {
+          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
+          "u": "https://www.espn.in/"
+        },
+        {
+          "t": "RevSportz – Sindhu, Sen, Kharb into semi-finals",
+          "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
+        }
+      ]
+    },
+    {
+      "id": "hylo-sen-popov-sf",
+      "sport": "Badminton",
+      "comp": "Hylo Open 2026 (Super 500)",
+      "round": "Men's singles semi-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "FRA",
+        "Toma Junior Popov",
+        ""
+      ],
+      "when": "2026-10-31",
+      "india": true,
+      "big": true,
+      "venue": "Saarlandhalle, Saarbrücken",
+      "note": "Lakshya Sen faces France's Toma Junior Popov. Start time in IST not confirmed.",
+      "src": [
+        {
+          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
+          "u": "https://www.espn.in/"
+        },
+        {
+          "t": "Rediff – Sen to face Toma Junior Popov",
+          "u": "https://www.rediff.com/sports"
+        }
+      ]
     },
     {
       "id": "nz-ind-t20-5",
@@ -668,19 +696,23 @@
       "a": [
         "IND",
         "India Women",
-        "Won"
+        "39"
       ],
       "b": [
         "SRI",
         "Sri Lanka Women",
-        ""
+        "14"
       ],
       "when": "2026-10-30T18:45:00+05:30",
       "india": true,
       "big": true,
       "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "note": "India women beat Sri Lanka in the semi-final (led 27–7 in the second half) and meet Uganda in the final.",
+      "note": "India women beat Sri Lanka 39–14 in the semi-final and meet Uganda (beat Kenya 23–21) in the final.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
+          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
+        },
         {
           "t": "IANS – India men into final, women meet Uganda",
           "u": "https://ianslive.in/commonwealth-kabaddi-cship-india-men-storm-into-final-womens-team-to-meet-uganda-in-summit-clash--20261030224630"
@@ -1142,7 +1174,7 @@
       "id": "ckc-ind-sri-final",
       "sport": "Kabaddi",
       "comp": "Commonwealth Kabaddi Championship",
-      "round": "Final",
+      "round": "Men's final",
       "st": "upcoming",
       "a": [
         "IND",
@@ -1154,17 +1186,21 @@
         "Sri Lanka",
         ""
       ],
-      "when": "2026-10-31",
+      "when": "2026-10-31T21:00:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
-      "venue": "Ahmedabad",
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
       "watch": [
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "Time TBC.",
+      "note": "Sri Lanka beat Kenya 28–24 in the semi-final; India beat them 45–24 in the group stage.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
+          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
+        },
         {
           "t": "myKhel – India thrash Bangladesh 56-27",
           "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
@@ -1175,7 +1211,7 @@
       "id": "ckc-indw-uga-final",
       "sport": "Kabaddi",
       "comp": "Commonwealth Kabaddi Championship",
-      "round": "Final",
+      "round": "Women's final",
       "st": "upcoming",
       "a": [
         "IND",
@@ -1187,17 +1223,21 @@
         "Uganda Women",
         ""
       ],
-      "when": "2026-10-31",
+      "when": "2026-10-31T19:30:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
-      "venue": "Ahmedabad",
+      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
       "watch": [
         "Star Sports Network",
         "JioHotstar"
       ],
-      "note": "Time TBC.",
+      "note": "Uganda beat Kenya 23–21 in the semi-final; India beat Uganda 41–18 in the group stage.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
+          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
+        },
         {
           "t": "myKhel – India thrash Bangladesh 56-27",
           "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
@@ -1231,11 +1271,15 @@
       "sport": "Badminton",
       "name": "Hylo Open 2026 (BWF Super 500)",
       "comp": "Hylo Open 2026 (Super 500)",
-      "status": "Live · till 1 Nov · Saarbrücken",
+      "status": "Live · semis today · final 1 Nov",
       "live": true,
       "india": true,
-      "note": "Four Indians in the singles quarter-finals on 30 Oct: PV Sindhu, Lakshya Sen, and Anmol Kharb v Unnati Hooda.",
+      "note": "Semi-finals 31 Oct: PV Sindhu v Anmol Kharb (all-Indian) and Lakshya Sen v Toma Junior Popov.",
       "src": [
+        {
+          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
+          "u": "https://www.espn.in/"
+        },
         {
           "t": "Sportstar – Hylo Open 2026 India schedule",
           "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
@@ -1247,11 +1291,15 @@
       "sport": "Cricket",
       "name": "Hong Kong Sixes 2026",
       "comp": "Hong Kong Sixes 2026",
-      "status": "Live · 30 Oct–1 Nov",
+      "status": "Live · till 1 Nov · India out",
       "live": true,
       "india": true,
-      "note": "India (captain Krunal Pandya) lost to Pakistan by 4 wickets in Group C; UAE next on 31 Oct.",
+      "note": "India (captain Krunal Pandya) lost all three games: to Pakistan and UAE in Group C, then to England by 3 runs in the Bowl semi-final.",
       "src": [
+        {
+          "t": "Google – England vs India, Bowl semi-final",
+          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+England+vs+India+Rahul+Tripathi+56"
+        },
         {
           "t": "Wikipedia – 2026 Hong Kong Sixes",
           "u": "https://en.wikipedia.org/wiki/2026_Hong_Kong_Sixes"
@@ -1279,11 +1327,15 @@
       "sport": "Kabaddi",
       "name": "Commonwealth Kabaddi Championship 2026",
       "comp": "Commonwealth Kabaddi Championship",
-      "status": "Live · finals 31 Oct",
+      "status": "Live · finals today",
       "live": true,
       "india": true,
-      "note": "Inaugural edition in Ahmedabad. India women lead Sri Lanka in the semi-final (Uganda await in the final); India men meet Bangladesh at 8:30 pm. Finals 31 Oct: women 7:30 pm, men 9 pm.",
+      "note": "Inaugural edition in Ahmedabad. India men (beat Bangladesh 56–27) meet Sri Lanka at 9 pm; India women (beat Sri Lanka 39–14) meet Uganda at 7:30 pm.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
+          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
+        },
         {
           "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
           "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
@@ -1394,6 +1446,34 @@
   ],
   "feed": [
     {
+      "t": "31 Oct",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Hong Kong Sixes: India lose the Bowl semi-final to England by 3 runs (121/4 chasing 125) despite Rahul Tripathi's 56* off 14 balls.",
+      "match": "hk6-eng-ind-bowl-sf",
+      "src": [
+        {
+          "t": "Google – England vs India result",
+          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+England+vs+India+Rahul+Tripathi+56"
+        }
+      ]
+    },
+    {
+      "t": "09:09",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "Hong Kong Sixes: UAE chase 95 without losing a wicket in 4.2 overs to beat India by 6 wickets.",
+      "match": "hk6-ind-uae",
+      "src": [
+        {
+          "t": "Google – India vs UAE result",
+          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+India+vs+UAE"
+        }
+      ]
+    },
+    {
       "t": "30 Oct",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1440,7 +1520,7 @@
       ]
     },
     {
-      "t": "12:53",
+      "t": "30 Oct",
       "tag": "LOSS",
       "c": "var(--accent)",
       "m": "Cricket",
@@ -1539,8 +1619,7 @@
           "t": "Google – NZ v IND 3rd T20I result card",
           "u": "https://www.google.com/search?q=New+Zealand+vs+India+3rd+T20I+result+October+2026"
         }
-      ],
-      "match": "nz-ind-t20-3"
+      ]
     },
     {
       "t": "24 Oct",
@@ -1560,26 +1639,34 @@
     {
       "d": "31",
       "mo": "OCT",
-      "title": "India v Sri Lanka, Commonwealth Kabaddi men's final",
-      "meta": "Kabaddi · Ahmedabad",
+      "title": "PV Sindhu v Anmol Kharb, Hylo Open SF",
+      "meta": "Badminton · Saarbrücken",
       "time": "TBC",
-      "match": "ckc-ind-sri-final"
+      "match": "hylo-sindhu-kharb-sf"
+    },
+    {
+      "d": "31",
+      "mo": "OCT",
+      "title": "Lakshya Sen v Toma Junior Popov, Hylo Open SF",
+      "meta": "Badminton · Saarbrücken",
+      "time": "TBC",
+      "match": "hylo-sen-popov-sf"
     },
     {
       "d": "31",
       "mo": "OCT",
       "title": "India Women v Uganda Women, Commonwealth Kabaddi women's final",
       "meta": "Kabaddi · Ahmedabad",
-      "time": "TBC",
+      "time": "19:30",
       "match": "ckc-indw-uga-final"
     },
     {
       "d": "31",
       "mo": "OCT",
-      "title": "India v UAE, Hong Kong Sixes",
-      "meta": "Cricket · Mong Kok",
-      "time": "TBC",
-      "match": "hk6-ind-uae"
+      "title": "India v Sri Lanka, Commonwealth Kabaddi men's final",
+      "meta": "Kabaddi · Ahmedabad",
+      "time": "21:00",
+      "match": "ckc-ind-sri-final"
     },
     {
       "d": "01",
