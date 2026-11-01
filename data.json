@@ -1,75 +1,8 @@
 {
-  "lastUpdated": "2026-10-31T12:22:39+05:30",
-  "dayLabel": "Sat 31 Oct · Kabaddi finals tonight · Hylo Open semis",
-  "featured": "ckc-ind-sri-final",
+  "lastUpdated": "2026-11-01T09:36:00+05:30",
+  "dayLabel": "Sun 1 Nov · NZ v India 5th T20I, Hylo finals, hockey v Malaysia",
+  "featured": "nz-ind-t20-5",
   "matches": [
-    {
-      "id": "indw-zimw-odi-3",
-      "sport": "Cricket",
-      "comp": "India Women v Zimbabwe Women",
-      "round": "3rd ODI",
-      "st": "result",
-      "a": [
-        "IND",
-        "India Women",
-        "133/2 (17)"
-      ],
-      "b": [
-        "ZIM",
-        "Zimbabwe Women",
-        "131 (39.5)"
-      ],
-      "when": "2026-10-28T14:00:00+05:30",
-      "india": true,
-      "venue": "Kotambi Stadium, Vadodara",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Vaishnavi five-for, Rawal and Shafali fifties power India to 3-0 sweep",
-          "u": "https://www.cricinfo.com/"
-        },
-        {
-          "t": "Google – IND-W v ZIM-W 3rd ODI result card",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+3rd+ODI+result"
-        }
-      ],
-      "note": "India won by 8 wickets to sweep the ODIs 3–0 (and all six matches of the tour) — Vaishnavi Sharma 5/39, Pratika Rawal 59* and Shafali Verma 51*.",
-      "win": "a",
-      "day": "28 Oct"
-    },
-    {
-      "id": "isl-goa-del",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "1",
-        "#F97316"
-      ],
-      "b": [
-        "DEL",
-        "Sporting Club Delhi",
-        "1",
-        "#B91C1C"
-      ],
-      "when": "2026-10-28T19:30:00+05:30",
-      "venue": "Fatorda Stadium, Goa",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Rediff – Stoppage-time drama: FC Goa snatch draw from Sporting Club Delhi",
-          "u": "https://www.rediff.com/sports"
-        }
-      ],
-      "day": "28 Oct",
-      "note": "Álex Vallejo equalised for Goa in the 95th minute after Juan Pena's 51st-minute goal for Delhi in Fatorda."
-    },
     {
       "id": "act-ind-chn",
       "sport": "Hockey",
@@ -381,64 +314,72 @@
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
       "round": "Women's singles semi-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "PV Sindhu",
-        ""
+        "Won"
       ],
       "b": [
         "IND",
         "Anmol Kharb",
-        ""
+        "Lost"
       ],
       "when": "2026-10-31",
       "india": true,
       "big": true,
       "venue": "Saarlandhalle, Saarbrücken",
-      "note": "All-Indian semi-final; an Indian is guaranteed in the final. Start time in IST not confirmed.",
+      "note": "PV Sindhu beat Anmol Kharb 21–13, 21–16 in 38 minutes to reach her second straight final.",
       "src": [
         {
-          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
-          "u": "https://www.espn.in/"
+          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
+          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
         },
         {
-          "t": "RevSportz – Sindhu, Sen, Kharb into semi-finals",
-          "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
+          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
+          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-11-01T09:36:00+05:30"
     },
     {
       "id": "hylo-sen-popov-sf",
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
       "round": "Men's singles semi-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "Won"
       ],
       "b": [
         "FRA",
         "Toma Junior Popov",
-        ""
+        "Lost"
       ],
       "when": "2026-10-31",
       "india": true,
       "big": true,
       "venue": "Saarlandhalle, Saarbrücken",
-      "note": "Lakshya Sen faces France's Toma Junior Popov. Start time in IST not confirmed.",
+      "note": "Lakshya Sen beat Toma Junior Popov 21–17, 21–13 in 41 minutes to reach the final.",
       "src": [
         {
-          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
-          "u": "https://www.espn.in/"
+          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
+          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
         },
         {
-          "t": "Rediff – Sen to face Toma Junior Popov",
-          "u": "https://www.rediff.com/sports"
+          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
+          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-11-01T09:36:00+05:30"
     },
     {
       "id": "nz-ind-t20-5",
@@ -459,15 +400,11 @@
         ""
       ],
       "when": "2026-11-01T12:30:00+05:30",
-      "note": "Series finale at Seddon Park, Hamilton; India lead 3–1 after losing the 4th T20I by 87 runs.",
+      "note": "Series finale at Seddon Park, Hamilton (toss 12:00 IST); India lead 3–1 after losing the 4th T20I by 87 runs.",
       "src": [
         {
-          "t": "Google – India cricket schedule",
-          "u": "https://www.google.com/search?q=India+cricket+schedule"
-        },
-        {
-          "t": "Cricbuzz – India schedule",
-          "u": "https://www.cricbuzz.com/cricket-team/india/2/schedule"
+          "t": "India.com – 5th T20I live streaming info",
+          "u": "https://www.india.com/sports/cricket/ind-vs-nz-2026-live-streaming-info-5th-t20i-match-at-seddon-park-hamilton-1-nov-when-where-how-to-watch-india-vs-new-zealand-live-score-tv-telecast-online-8541118/"
         }
       ],
       "watch": [
@@ -639,18 +576,19 @@
       "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
       "src": [
         {
-          "t": "Hockey India – Match schedule announced for Hero Asian Champions Trophy Punjab 2026",
-          "u": "https://www.hockeyindia.org/news/match-schedule-announced-for-hero-asian-champions-trophy-punjab-2026"
+          "t": "Khel Now – ACT points table",
+          "u": "https://khelnow.com/hockey/points-table-standings-mens-hockey-asian-champions-trophy-202610"
         },
         {
-          "t": "The Bridge (PTI) – Asian Champions Trophy schedule",
-          "u": "https://thebridge.in/hockey/india-asian-champions-trophy-2026-schedule-57979"
+          "t": "Sunday Guardian – ACT schedule & where to watch",
+          "u": "https://sundayguardianlive.com/sports/asian-champions-trophy-hockey-2026-full-schedule-india-squad-match-dates-timings-live-streaming-and-where-to-watch-312851/"
         }
       ],
       "watch": [
         "Star Sports Network",
         "JioHotstar"
-      ]
+      ],
+      "note": "Pool match 4 at Jalandhar; India and Malaysia both on 9 pts (India GD +19) before this game. Top four reach semis on 4 Nov."
     },
     {
       "id": "act-ind-kor",
@@ -761,7 +699,7 @@
     },
     {
       "id": "isl-che-kbfc",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -769,43 +707,31 @@
       "a": [
         "CFC",
         "Chennaiyin FC",
-        "",
+        "0",
         "#1D4ED8"
       ],
       "b": [
         "KBFC",
         "Kerala Blasters",
-        "",
+        "0",
         "#FACC15"
       ],
       "when": "2026-10-31T17:00:00+05:30",
       "venue": "Jawaharlal Nehru Stadium, Chennai",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
       "src": [
         {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Livemint – ISL 2026-27 full Phase 1 schedule",
-          "u": "https://www.livemint.com/sports/football-news"
+          "t": "India.com – Chennaiyin FC 0–0 Kerala Blasters (Luna misses penalty)",
+          "u": "https://www.india.com/sports/football/chennaiyin-fc-vs-kerala-blasters-fc-adrian-luna-misses-penalty-as-match-ends-in-0-0-draw-8541168/"
         }
-      ]
+      ],
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-11-01T09:36:00+05:30",
+      "note": "Goalless draw; Adrian Luna missed a penalty for Chennaiyin."
     },
     {
       "id": "isl-mbsg-pun",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -813,39 +739,32 @@
       "a": [
         "MBSG",
         "Mohun Bagan SG",
-        "",
+        "2",
         "#166534"
       ],
       "b": [
         "PFC",
         "Punjab FC",
-        "",
+        "1",
         "#DC2626"
       ],
       "when": "2026-10-31T19:30:00+05:30",
       "venue": "VYBK, Kolkata",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
       "src": [
         {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+          "t": "Khel Now – ISL table after Mohun Bagan SG v Punjab FC",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-updated-points-table-after-mohun-bagan-sg-vs-punjab-fc"
         },
         {
-          "t": "Olympics.com – ISL 2026-27 schedule",
-          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
-        },
-        {
-          "t": "Livemint – ISL 2026-27 full Phase 1 schedule",
-          "u": "https://www.livemint.com/sports/football-news"
+          "t": "Indian Opinion – Mohun Bagan beat Punjab FC 2-1",
+          "u": "https://indianopinion.org/mohun-bagan-rally-to-beat-punjab-fc-2-1-go-top-of-isl-table/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-11-01T09:36:00+05:30",
+      "note": "Punjab FC led through Alfred Planas; Lee Erwin equalised and Dejan Drazic struck the 42nd-minute winner. Mohun Bagan go top on 9 pts."
     },
     {
       "id": "isl-mci-del",
@@ -1175,74 +1094,140 @@
       "sport": "Kabaddi",
       "comp": "Commonwealth Kabaddi Championship",
       "round": "Men's final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "54"
       ],
       "b": [
         "SRI",
         "Sri Lanka",
-        ""
+        "20"
       ],
       "when": "2026-10-31T21:00:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
       "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Sri Lanka beat Kenya 28–24 in the semi-final; India beat them 45–24 in the group stage.",
+      "note": "India win the inaugural Commonwealth Kabaddi title unbeaten (8/8); Aditya Shinde Super 10. 30–10 at half-time; Sri Lanka made 7 successful raids from 41.",
       "src": [
         {
-          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
-          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
+          "t": "ANI – India complete Commonwealth Kabaddi double",
+          "u": "https://www.aninews.in/news/sports/others/india-complete-commonwealth-kabaddi-c8217ship-double-with-men8217s-team8217s-final-win-over-sri-lanka20261031225211/"
         },
         {
-          "t": "myKhel – India thrash Bangladesh 56-27",
-          "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
+          "t": "Khel Now – India v Sri Lanka men's final report",
+          "u": "https://khelnow.com/kabaddi/india-vs-sri-lanka-mens-final-report-commonwealth-kabaddi-championship-202610"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-11-01T09:36:00+05:30"
     },
     {
       "id": "ckc-indw-uga-final",
       "sport": "Kabaddi",
       "comp": "Commonwealth Kabaddi Championship",
       "round": "Women's final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India Women",
-        ""
+        "35"
       ],
       "b": [
         "UGA",
         "Uganda Women",
-        ""
+        "15"
       ],
       "when": "2026-10-31T19:30:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
       "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Uganda beat Kenya 23–21 in the semi-final; India beat Uganda 41–18 in the group stage.",
+      "note": "India Women beat Uganda Women to win the women's title; India complete a men's and women's double.",
       "src": [
         {
-          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
-          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
+          "t": "ANI – India complete Commonwealth Kabaddi double",
+          "u": "https://www.aninews.in/news/sports/others/india-complete-commonwealth-kabaddi-c8217ship-double-with-men8217s-team8217s-final-win-over-sri-lanka20261031225211/"
         },
         {
-          "t": "myKhel – India thrash Bangladesh 56-27",
-          "u": "https://www.mykhel.com/kabaddi/commonwealth-kabaddi-championship-2026-india-set-up-final-against-sri-lanka-457629.html"
+          "t": "Khel Now – India v Sri Lanka men's final report",
+          "u": "https://khelnow.com/kabaddi/india-vs-sri-lanka-mens-final-report-commonwealth-kabaddi-championship-202610"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "31 Oct",
+      "recent": true,
+      "resultAt": "2026-11-01T09:36:00+05:30"
+    },
+    {
+      "sport": "Badminton",
+      "comp": "Hylo Open 2026 (Super 500)",
+      "st": "upcoming",
+      "when": "2026-11-01",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Saarlandhalle, Saarbrücken",
+      "src": [
+        {
+          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
+          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
+        },
+        {
+          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
+          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
+        }
+      ],
+      "id": "hylo-sindhu-final",
+      "round": "Women's singles final",
+      "a": [
+        "IND",
+        "PV Sindhu",
+        ""
+      ],
+      "b": [
+        "DEN",
+        "Line Hojmark Kjaersfeldt",
+        ""
+      ],
+      "note": "Sindhu's second straight final. Start time in IST not confirmed."
+    },
+    {
+      "sport": "Badminton",
+      "comp": "Hylo Open 2026 (Super 500)",
+      "st": "upcoming",
+      "when": "2026-11-01",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Saarlandhalle, Saarbrücken",
+      "src": [
+        {
+          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
+          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
+        },
+        {
+          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
+          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
+        }
+      ],
+      "id": "hylo-sen-final",
+      "round": "Men's singles final",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "Opponent TBC",
+        ""
+      ],
+      "note": "Opponent not confirmed in sources (Tribune: Christie or Antonsen; another report names Mathias Søgaard). Start time in IST not confirmed."
     }
   ],
   "competitions": [
@@ -1271,10 +1256,10 @@
       "sport": "Badminton",
       "name": "Hylo Open 2026 (BWF Super 500)",
       "comp": "Hylo Open 2026 (Super 500)",
-      "status": "Live · semis today · final 1 Nov",
+      "status": "Live · finals today (1 Nov)",
       "live": true,
       "india": true,
-      "note": "Semi-finals 31 Oct: PV Sindhu v Anmol Kharb (all-Indian) and Lakshya Sen v Toma Junior Popov.",
+      "note": "Finals 1 Nov: PV Sindhu v Line Hojmark Kjaersfeldt; Lakshya Sen's opponent TBC.",
       "src": [
         {
           "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
@@ -1327,10 +1312,10 @@
       "sport": "Kabaddi",
       "name": "Commonwealth Kabaddi Championship 2026",
       "comp": "Commonwealth Kabaddi Championship",
-      "status": "Live · finals today",
-      "live": true,
+      "status": "Concluded · India won men's & women's titles",
+      "live": false,
       "india": true,
-      "note": "Inaugural edition in Ahmedabad. India men (beat Bangladesh 56–27) meet Sri Lanka at 9 pm; India women (beat Sri Lanka 39–14) meet Uganda at 7:30 pm.",
+      "note": "India men beat Sri Lanka 54–20 and women beat Uganda 35–15 in the finals on 31 Oct.",
       "src": [
         {
           "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
@@ -1349,7 +1334,7 @@
       "live": true,
       "india": true,
       "id": "act-2026",
-      "note": "Holders India beat Bangladesh 13–0 (27 Oct) and China 5–2 (29 Oct); Japan (30 Oct, live), Malaysia (1 Nov) and South Korea (2 Nov) next, all 7 pm IST. Top four reach the semi-finals on 4 Nov; final 5 Nov in Mohali.",
+      "note": "India v Malaysia 1 Nov, v South Korea 2 Nov; semi-finals 4 Nov, final 5 Nov (Mohali).",
       "src": [
         {
           "t": "Olympics.com – Asian Champions Trophy 2026: scores, results, points table",
@@ -1365,7 +1350,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · next: Chennaiyin v Kerala Blasters, 31 Oct",
+      "status": "Live · next: Mumbai City v Sporting Delhi, 1 Nov",
       "india": true,
       "note": "Recent: Mohun Bagan 1–0 Chennaiyin (26 Oct), FC Goa 1–1 Sporting Club Delhi (28 Oct). Six matches from 30 Oct to 1 Nov, then 5–7 Nov.",
       "id": "isl",
@@ -1445,6 +1430,56 @@
     }
   ],
   "feed": [
+    {
+      "t": "31 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Kabaddi",
+      "text": "India men beat Sri Lanka 54–20 and women beat Uganda 35–15 to sweep the inaugural Commonwealth Kabaddi Championship, unbeaten.",
+      "match": "ckc-ind-sri-final",
+      "src": [
+        {
+          "t": "ANI – India complete Commonwealth Kabaddi double",
+          "u": "https://www.aninews.in/news/sports/others/india-complete-commonwealth-kabaddi-c8217ship-double-with-men8217s-team8217s-final-win-over-sri-lanka20261031225211/"
+        },
+        {
+          "t": "Khel Now – India v Sri Lanka men's final report",
+          "u": "https://khelnow.com/kabaddi/india-vs-sri-lanka-mens-final-report-commonwealth-kabaddi-championship-202610"
+        }
+      ]
+    },
+    {
+      "t": "31 Oct",
+      "tag": "FINAL",
+      "c": "var(--gold)",
+      "m": "Badminton",
+      "text": "Hylo Open: PV Sindhu beat Anmol Kharb 21–13, 21–16 and Lakshya Sen beat Toma Junior Popov 21–17, 21–13; both reach Sunday's finals.",
+      "match": "hylo-sindhu-final",
+      "src": [
+        {
+          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
+          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
+        },
+        {
+          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
+          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
+        }
+      ]
+    },
+    {
+      "t": "31 Oct",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "ISL: Mohun Bagan SG beat Punjab FC 2–1 to go top; Chennaiyin and Kerala Blasters drew 0–0.",
+      "match": "isl-mbsg-pun",
+      "src": [
+        {
+          "t": "India.com – Chennaiyin FC 0–0 Kerala Blasters (Luna misses penalty)",
+          "u": "https://www.india.com/sports/football/chennaiyin-fc-vs-kerala-blasters-fc-adrian-luna-misses-penalty-as-match-ends-in-0-0-draw-8541168/"
+        }
+      ]
+    },
     {
       "t": "31 Oct",
       "tag": "LOSS",
@@ -1579,8 +1614,7 @@
           "t": "Rediff – Stoppage-time drama: FC Goa snatch draw from Sporting Club Delhi",
           "u": "https://www.rediff.com/sports"
         }
-      ],
-      "match": "isl-goa-del"
+      ]
     },
     {
       "t": "28 Oct",
@@ -1597,8 +1631,7 @@
           "t": "Google – IND-W v ZIM-W 3rd ODI result card",
           "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+3rd+ODI+result"
         }
-      ],
-      "match": "indw-zimw-odi-3"
+      ]
     },
     {
       "t": "27 Oct",
@@ -1637,44 +1670,28 @@
   ],
   "schedule": [
     {
-      "d": "31",
-      "mo": "OCT",
-      "title": "PV Sindhu v Anmol Kharb, Hylo Open SF",
+      "d": "01",
+      "mo": "NOV",
+      "title": "PV Sindhu & Lakshya Sen, Hylo Open finals",
       "meta": "Badminton · Saarbrücken",
       "time": "TBC",
-      "match": "hylo-sindhu-kharb-sf"
-    },
-    {
-      "d": "31",
-      "mo": "OCT",
-      "title": "Lakshya Sen v Toma Junior Popov, Hylo Open SF",
-      "meta": "Badminton · Saarbrücken",
-      "time": "TBC",
-      "match": "hylo-sen-popov-sf"
-    },
-    {
-      "d": "31",
-      "mo": "OCT",
-      "title": "India Women v Uganda Women, Commonwealth Kabaddi women's final",
-      "meta": "Kabaddi · Ahmedabad",
-      "time": "19:30",
-      "match": "ckc-indw-uga-final"
-    },
-    {
-      "d": "31",
-      "mo": "OCT",
-      "title": "India v Sri Lanka, Commonwealth Kabaddi men's final",
-      "meta": "Kabaddi · Ahmedabad",
-      "time": "21:00",
-      "match": "ckc-ind-sri-final"
+      "match": "hylo-sindhu-final"
     },
     {
       "d": "01",
       "mo": "NOV",
       "title": "New Zealand v India, 5th T20I",
-      "meta": "Cricket · New Zealand",
+      "meta": "Cricket · Hamilton",
       "time": "12:30",
       "match": "nz-ind-t20-5"
+    },
+    {
+      "d": "01",
+      "mo": "NOV",
+      "title": "Mumbai City v Sporting Delhi, ISL",
+      "meta": "Football · Mumbai",
+      "time": "17:00",
+      "match": "isl-mci-del"
     },
     {
       "d": "01",
@@ -1685,6 +1702,14 @@
       "match": "act-ind-mas"
     },
     {
+      "d": "01",
+      "mo": "NOV",
+      "title": "Inter Kashi v FC Goa, ISL",
+      "meta": "Football",
+      "time": "19:30",
+      "match": "isl-kashi-goa"
+    },
+    {
       "d": "02",
       "mo": "NOV",
       "title": "India v South Korea, Asian Champions Trophy",
@@ -1693,18 +1718,34 @@
       "match": "act-ind-kor"
     },
     {
+      "d": "03",
+      "mo": "NOV",
+      "title": "East Bengal v Al-Seeb, AFC Champions League Two",
+      "meta": "Football",
+      "time": "TBC",
+      "match": "acl2-eb-alseeb"
+    },
+    {
       "d": "04",
       "mo": "NOV",
       "title": "New Zealand v India, 1st ODI",
-      "meta": "Cricket · Auckland",
+      "meta": "Cricket",
       "time": "07:30",
       "match": "nz-ind-odi-1"
+    },
+    {
+      "d": "05",
+      "mo": "NOV",
+      "title": "Churchill Brothers v NorthEast United, ISL",
+      "meta": "Football",
+      "time": "17:00",
+      "match": "isl-chu-neu"
     },
     {
       "d": "07",
       "mo": "NOV",
       "title": "New Zealand v India, 2nd ODI",
-      "meta": "Cricket · Wellington",
+      "meta": "Cricket",
       "time": "07:30",
       "match": "nz-ind-odi-2"
     }
