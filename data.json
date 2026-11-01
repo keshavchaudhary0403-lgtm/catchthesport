@@ -1,79 +1,8 @@
 {
-  "lastUpdated": "2026-11-01T09:36:00+05:30",
-  "dayLabel": "Sun 1 Nov · NZ v India 5th T20I, Hylo finals, hockey v Malaysia",
-  "featured": "nz-ind-t20-5",
+  "lastUpdated": "2026-11-01T21:01:03+05:30",
+  "dayLabel": "Sun 1 Nov · Sindhu wins Hylo Open, Lakshya in final, India beat Malaysia",
+  "featured": "hylo-sen-final",
   "matches": [
-    {
-      "id": "act-ind-chn",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Pool match 2",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "5"
-      ],
-      "b": [
-        "CHN",
-        "China",
-        "2"
-      ],
-      "when": "2026-10-29T19:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "Braces from Harmanpreet Singh and Sukhjeet Singh plus a Jugraj Singh goal; second straight win takes India top of the table.",
-      "src": [
-        {
-          "t": "Hindustan Times – Harmanpreet, Sukhjeet braces take India top after 5-2 win",
-          "u": "https://www.hindustantimes.com/sports/hockey"
-        },
-        {
-          "t": "India Today – India cruise past China 5-2",
-          "u": "https://www.indiatoday.in/sports/hockey"
-        },
-        {
-          "t": "The Hindu – ACT: India registers hard-fought victory over a spirited China",
-          "u": "https://www.thehindu.com/sport/hockey/"
-        }
-      ],
-      "win": "a",
-      "day": "29 Oct",
-      "recent": true,
-      "resultAt": "2026-10-29T22:57:45+05:30"
-    },
-    {
-      "id": "ckc-ind-sri",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Men's · league",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "45"
-      ],
-      "b": [
-        "SRI",
-        "Sri Lanka",
-        "24"
-      ],
-      "when": "2026-10-29",
-      "win": "a",
-      "day": "29 Oct",
-      "recent": true,
-      "resultAt": "2026-10-29T22:57:45+05:30",
-      "india": true,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "note": "India men finish the league unbeaten; they play Bangladesh in Friday's semi-final.",
-      "src": [
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
-          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
     {
       "id": "nz-ind-t20-4",
       "st": "result",
@@ -383,7 +312,7 @@
     },
     {
       "id": "nz-ind-t20-5",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -391,26 +320,30 @@
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "195/3 (18)",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "191/8 (20)"
       ],
       "when": "2026-11-01T12:30:00+05:30",
-      "note": "Series finale at Seddon Park, Hamilton (toss 12:00 IST); India lead 3–1 after losing the 4th T20I by 87 runs.",
+      "note": "New Zealand won by 7 wickets with 12 balls left — Tim Seifert 93, Glenn Phillips 65*. India still take the series 3–2.",
       "src": [
         {
-          "t": "India.com – 5th T20I live streaming info",
-          "u": "https://www.india.com/sports/cricket/ind-vs-nz-2026-live-streaming-info-5th-t20i-match-at-seddon-park-hamilton-1-nov-when-where-how-to-watch-india-vs-new-zealand-live-score-tv-telecast-online-8541118/"
+          "t": "NDTV Sports – 5th T20I highlights: Seifert, Phillips hand NZ seven-wicket win",
+          "u": "https://sports.ndtv.com/"
+        },
+        {
+          "t": "Hindustan Times – NZ chase 192 with two overs to spare in Hamilton",
+          "u": "https://www.hindustantimes.com/cricket"
         }
       ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ]
+      "win": "a",
+      "day": "1 Nov",
+      "recent": true,
+      "resultAt": "2026-11-01T21:01:03+05:30"
     },
     {
       "id": "nz-ind-odi-1",
@@ -560,35 +493,32 @@
       "sport": "Hockey",
       "comp": "Asian Champions Trophy 2026",
       "round": "Pool match 4",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "4"
       ],
       "b": [
         "MAS",
         "Malaysia",
-        ""
+        "2"
       ],
       "when": "2026-11-01T19:00:00+05:30",
       "india": true,
       "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
       "src": [
         {
-          "t": "Khel Now – ACT points table",
-          "u": "https://khelnow.com/hockey/points-table-standings-mens-hockey-asian-champions-trophy-202610"
-        },
-        {
-          "t": "Sunday Guardian – ACT schedule & where to watch",
-          "u": "https://sundayguardianlive.com/sports/asian-champions-trophy-hockey-2026-full-schedule-india-squad-match-dates-timings-live-streaming-and-where-to-watch-312851/"
+          "t": "Jagran – India vs Malaysia hockey live blog (1 Nov)",
+          "u": "https://www.jagran.com/hockey/headlines-india-vs-malaysia-live-hockey-score-updates-asian-champions-trophy-2026-olympian-surjit-singh-hockey-stadium-harmanpreet-singh-lb-30000816.html"
         }
       ],
-      "watch": [
-        "Star Sports Network",
-        "JioHotstar"
-      ],
-      "note": "Pool match 4 at Jalandhar; India and Malaysia both on 9 pts (India GD +19) before this game. Top four reach semis on 4 Nov."
+      "note": "Harmanpreet Singh hat-trick plus a Sukhjeet Singh goal; Malaysia scored late. India win all four pool games; both sides already in the semi-finals.",
+      "win": "a",
+      "day": "1 Nov",
+      "recent": true,
+      "resultAt": "2026-11-01T21:01:03+05:30",
+      "big": true
     },
     {
       "id": "act-ind-kor",
@@ -609,7 +539,7 @@
       "when": "2026-11-02T19:00:00+05:30",
       "india": true,
       "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "India's last round-robin game; semi-finals on 4 Nov and final on 5 Nov in Mohali.",
+      "note": "Final pool match. India (4 wins) and Malaysia, South Korea, Japan are the semi-finalists; semis on 4 Nov.",
       "watch": [
         "Star Sports Network",
         "JioHotstar"
@@ -768,7 +698,7 @@
     },
     {
       "id": "isl-mci-del",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -776,35 +706,36 @@
       "a": [
         "MCFC",
         "Mumbai City FC",
-        "",
+        "2",
         "#0EA5E9"
       ],
       "b": [
         "DEL",
         "Sporting Club Delhi",
-        "",
+        "3",
         "#B91C1C"
       ],
       "when": "2026-11-01T17:00:00+05:30",
       "venue": "Mumbai Football Arena, Mumbai",
       "src": [
         {
-          "t": "ISL – official fixtures & results",
+          "t": "Google – Mumbai City vs SC Delhi full-time result card",
+          "u": "https://www.google.com/search?q=Mumbai+City+vs+Sporting+Club+Delhi+ISL+result"
+        },
+        {
+          "t": "ISL – match centre",
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
         }
       ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ]
+      "win": "b",
+      "day": "1 Nov",
+      "recent": true,
+      "resultAt": "2026-11-01T21:01:03+05:30",
+      "note": "Sporting Club Delhi won a five-goal game with two stoppage-time goals (90+2', 90+4'). Scorers: Ajsal 6', Zothanpuia 27', Fortes 73', Akshat Mehra 90+2', Juan Sebastián Peña 90+4'."
     },
     {
       "id": "isl-kashi-goa",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -812,18 +743,22 @@
       "a": [
         "IKFC",
         "Inter Kashi",
-        "",
+        "1",
         "#F59E0B"
       ],
       "b": [
         "FCG",
         "FC Goa",
-        "",
+        "2",
         "#F97316"
       ],
       "when": "2026-11-01T19:30:00+05:30",
       "venue": "Shree Shivchhatrapati Sports Complex, Pune",
       "src": [
+        {
+          "t": "Google – Inter Kashi vs Goa live score card",
+          "u": "https://www.google.com/search?q=Inter+Kashi+vs+FC+Goa+ISL"
+        },
         {
           "t": "ISL – official fixtures & results",
           "u": "https://www.indiansuperleague.com/schedule-fixtures"
@@ -836,7 +771,10 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "status": "72' · 2nd half",
+      "scoreAt": "2026-11-01T21:01:03+05:30",
+      "note": "Goa: Franchu 35', Chiki 66'; Inter Kashi: Sumeet Passi 51'."
     },
     {
       "id": "isl-chu-neu",
@@ -1166,7 +1104,7 @@
     {
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
-      "st": "upcoming",
+      "st": "result",
       "when": "2026-11-01",
       "india": true,
       "big": true,
@@ -1174,12 +1112,8 @@
       "venue": "Saarlandhalle, Saarbrücken",
       "src": [
         {
-          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
-          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
-        },
-        {
-          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
-          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
+          "t": "Sportstar – PV Sindhu wins Hylo Open final, beats Kjaersfeldt",
+          "u": "https://sportstar.thehindu.com/badminton/"
         }
       ],
       "id": "hylo-sindhu-final",
@@ -1187,14 +1121,18 @@
       "a": [
         "IND",
         "PV Sindhu",
-        ""
+        "21-12 21-14"
       ],
       "b": [
         "DEN",
-        "Line Hojmark Kjaersfeldt",
+        "Line Højmark Kjaersfeldt",
         ""
       ],
-      "note": "Sindhu's second straight final. Start time in IST not confirmed."
+      "note": "Sindhu beat Line Højmark Kjaersfeldt in straight games for her second BWF title of 2026.",
+      "win": "a",
+      "day": "1 Nov",
+      "recent": true,
+      "resultAt": "2026-11-01T21:01:03+05:30"
     },
     {
       "sport": "Badminton",
@@ -1207,12 +1145,12 @@
       "venue": "Saarlandhalle, Saarbrücken",
       "src": [
         {
-          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
-          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
+          "t": "Indian Express – Lakshya Sen ahead of Jojo Christie final",
+          "u": "https://indianexpress.com/section/sports/badminton/"
         },
         {
-          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
-          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
+          "t": "Olympics.com – Hylo Open 2026 finals: Sindhu, Lakshya in action",
+          "u": "https://www.olympics.com/en/news/"
         }
       ],
       "id": "hylo-sen-final",
@@ -1223,11 +1161,80 @@
         ""
       ],
       "b": [
-        "TBC",
-        "Opponent TBC",
+        "INA",
+        "Jonatan Christie",
         ""
       ],
-      "note": "Opponent not confirmed in sources (Tribune: Christie or Antonsen; another report names Mathias Søgaard). Start time in IST not confirmed."
+      "note": "Lakshya Sen v defending champion Jonatan Christie (Christie leads H2H 4–3). Result not yet confirmed."
+    },
+    {
+      "id": "saff-ind-pak",
+      "sport": "Football",
+      "comp": "SAFF Championship 2026",
+      "round": "Group B",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "PAK",
+        "Pakistan",
+        ""
+      ],
+      "when": "2026-11-05T15:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Dhaka",
+      "watch": [
+        "VETO (India TV)"
+      ],
+      "note": "India open their title defence. Reports say the U23 side under Naushad Moosa may play while the senior team tours New Zealand.",
+      "src": [
+        {
+          "t": "Khel Now – VETO to live stream SAFF Championship 2026",
+          "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
+        },
+        {
+          "t": "Sporting News – When is India vs Pakistan at SAFF 2026",
+          "u": "https://www.sportingnews.com/"
+        }
+      ]
+    },
+    {
+      "id": "saff-ind-mdv",
+      "sport": "Football",
+      "comp": "SAFF Championship 2026",
+      "round": "Group B",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "MDV",
+        "Maldives",
+        ""
+      ],
+      "when": "2026-11-11",
+      "india": true,
+      "venue": "Dhaka",
+      "watch": [
+        "VETO (India TV)"
+      ],
+      "note": "Second Group B game; kick-off time in IST TBC.",
+      "src": [
+        {
+          "t": "Khel Now – VETO to live stream SAFF Championship 2026",
+          "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
+        },
+        {
+          "t": "Sporting News – When is India vs Pakistan at SAFF 2026",
+          "u": "https://www.sportingnews.com/"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1236,10 +1243,10 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live · 5th T20I 1 Nov, ODIs from 4 Nov",
+      "status": "Live · ODIs from 4 Nov",
       "live": true,
       "india": true,
-      "note": "India lead the five-match T20I series 3–1 after New Zealand won the 4th T20I at Eden Park by 87 runs. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
+      "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
       "src": [
         {
           "t": "Olympics.com – Indian cricket team schedule 2026",
@@ -1256,10 +1263,10 @@
       "sport": "Badminton",
       "name": "Hylo Open 2026 (BWF Super 500)",
       "comp": "Hylo Open 2026 (Super 500)",
-      "status": "Live · finals today (1 Nov)",
+      "status": "Live · men's final today (1 Nov)",
       "live": true,
       "india": true,
-      "note": "Finals 1 Nov: PV Sindhu v Line Hojmark Kjaersfeldt; Lakshya Sen's opponent TBC.",
+      "note": "PV Sindhu won the women's title (21-12, 21-14 v Kjaersfeldt). Lakshya Sen plays Jonatan Christie in the men's final.",
       "src": [
         {
           "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
@@ -1276,8 +1283,8 @@
       "sport": "Cricket",
       "name": "Hong Kong Sixes 2026",
       "comp": "Hong Kong Sixes 2026",
-      "status": "Live · till 1 Nov · India out",
-      "live": true,
+      "status": "Concluded · 1 Nov · India out in Bowl semis",
+      "live": false,
       "india": true,
       "note": "India (captain Krunal Pandya) lost all three games: to Pakistan and UAE in Group C, then to England by 3 runs in the Bowl semi-final.",
       "src": [
@@ -1308,6 +1315,26 @@
       ]
     },
     {
+      "id": "saff-2026",
+      "sport": "Football",
+      "name": "SAFF Championship 2026",
+      "comp": "SAFF Championship 2026",
+      "status": "Starts 5 Nov · Dhaka · till 17 Nov",
+      "live": true,
+      "india": true,
+      "note": "Defending champions India are in Group B with Pakistan and Maldives. Streaming on India TV's VETO app.",
+      "src": [
+        {
+          "t": "Khel Now – VETO to live stream SAFF Championship 2026",
+          "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
+        },
+        {
+          "t": "Sporting News – When is India vs Pakistan at SAFF 2026",
+          "u": "https://www.sportingnews.com/"
+        }
+      ]
+    },
+    {
       "id": "ckc-2026",
       "sport": "Kabaddi",
       "name": "Commonwealth Kabaddi Championship 2026",
@@ -1334,7 +1361,7 @@
       "live": true,
       "india": true,
       "id": "act-2026",
-      "note": "India v Malaysia 1 Nov, v South Korea 2 Nov; semi-finals 4 Nov, final 5 Nov (Mohali).",
+      "note": "India won all four pool games (13–0 BAN, 5–2 CHN, 4–1 JPN, 4–2 MAS). Semi-finalists: India, Malaysia, South Korea, Japan. India v South Korea 2 Nov, semis 4 Nov, final 5 Nov.",
       "src": [
         {
           "t": "Olympics.com – Asian Champions Trophy 2026: scores, results, points table",
@@ -1350,7 +1377,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · next: Mumbai City v Sporting Delhi, 1 Nov",
+      "status": "Live · next: Inter Kashi v Goa (live), 5 Nov",
       "india": true,
       "note": "Recent: Mohun Bagan 1–0 Chennaiyin (26 Oct), FC Goa 1–1 Sporting Club Delhi (28 Oct). Six matches from 30 Oct to 1 Nov, then 5–7 Nov.",
       "id": "isl",
@@ -1430,6 +1457,46 @@
     }
   ],
   "feed": [
+    {
+      "t": "20:59",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "ISL: FC Goa lead Inter Kashi 2–1 in the second half (Franchu, Chiki; Sumeet Passi for Kashi).",
+      "match": "isl-kashi-goa"
+    },
+    {
+      "t": "1 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "Asian Champions Trophy: Harmanpreet Singh hat-trick as India beat Malaysia 4–2 — four wins from four.",
+      "match": "act-ind-mas"
+    },
+    {
+      "t": "1 Nov",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Badminton",
+      "text": "PV Sindhu wins the Hylo Open, beating Line Højmark Kjaersfeldt 21–12, 21–14 — her second title of 2026. Lakshya Sen plays Jonatan Christie in the men's final.",
+      "match": "hylo-sindhu-final"
+    },
+    {
+      "t": "1 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "ISL: Sporting Club Delhi beat Mumbai City 3–2 with two stoppage-time goals.",
+      "match": "isl-mci-del"
+    },
+    {
+      "t": "1 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "India lose the 5th T20I to New Zealand by 7 wickets (Seifert 93, Phillips 65*) but win the series 3–2.",
+      "match": "nz-ind-t20-5"
+    },
     {
       "t": "31 Oct",
       "tag": "WIN",
@@ -1581,133 +1648,16 @@
           "u": "https://www.thestatesman.com/sports/4th-t20i-phillips-century-duffys-four-wicket-haul-power-new-zealand-to-87-run-win-over-india-1503657020.html"
         }
       ]
-    },
-    {
-      "t": "29 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "Ranji Trophy: Tanush Kotian takes 8/81 as Mumbai crush Haryana by 10 wickets for a third straight win.",
-      "src": [
-        {
-          "t": "Cricbuzz – Ranji highlights: 8-fers for Kotian, Bhut; Bengal thrash Kerala",
-          "u": "https://www.cricbuzz.com/cricket-news"
-        },
-        {
-          "t": "ranji-trophy.com.in – Elite Round 4: 2–5 Nov 2026",
-          "u": "https://ranji-trophy.com.in/schedule"
-        }
-      ]
-    },
-    {
-      "t": "28 Oct",
-      "tag": "DRAW",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "ISL: FC Goa snatch a 1–1 draw with Sporting Club Delhi through Álex Vallejo in the 95th minute.",
-      "src": [
-        {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
-        },
-        {
-          "t": "Rediff – Stoppage-time drama: FC Goa snatch draw from Sporting Club Delhi",
-          "u": "https://www.rediff.com/sports"
-        }
-      ]
-    },
-    {
-      "t": "28 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India Women beat Zimbabwe by 8 wickets in the 3rd ODI to sweep the series 3–0 — Vaishnavi Sharma 5/39, Pratika Rawal 59*, Shafali Verma 51*.",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Vaishnavi five-for, Rawal and Shafali fifties power India to 3-0 sweep",
-          "u": "https://www.cricinfo.com/"
-        },
-        {
-          "t": "Google – IND-W v ZIM-W 3rd ODI result card",
-          "u": "https://www.google.com/search?q=India+Women+vs+Zimbabwe+Women+3rd+ODI+result"
-        }
-      ]
-    },
-    {
-      "t": "27 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India beat New Zealand by 6 wickets with 40 balls left in Wellington to take an unbeatable 3–0 T20I lead — Abhishek Sharma 113 off 38.",
-      "src": [
-        {
-          "t": "ESPNcricinfo – NZ v IND 3rd T20I scorecard (India won by 6 wkts, 40 balls left)",
-          "u": "https://www.cricinfo.com/"
-        },
-        {
-          "t": "Yahoo Sports – IND vs NZ 3rd T20I result: Abhishek 38-ball 113",
-          "u": "https://sports.yahoo.com/"
-        },
-        {
-          "t": "Google – NZ v IND 3rd T20I result card",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+3rd+T20I+result+October+2026"
-        }
-      ]
-    },
-    {
-      "t": "24 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India beat New Zealand by 4 wickets with a ball to spare in the 2nd T20I in Christchurch (181/6 chasing 180/5).",
-      "src": [
-        {
-          "t": "ESPNcricinfo – NZ v IND 2nd T20I scorecard",
-          "u": "https://www.cricinfo.com/"
-        }
-      ]
     }
   ],
   "schedule": [
     {
       "d": "01",
       "mo": "NOV",
-      "title": "PV Sindhu & Lakshya Sen, Hylo Open finals",
+      "title": "Lakshya Sen v Jonatan Christie, Hylo Open final",
       "meta": "Badminton · Saarbrücken",
       "time": "TBC",
-      "match": "hylo-sindhu-final"
-    },
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "New Zealand v India, 5th T20I",
-      "meta": "Cricket · Hamilton",
-      "time": "12:30",
-      "match": "nz-ind-t20-5"
-    },
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "Mumbai City v Sporting Delhi, ISL",
-      "meta": "Football · Mumbai",
-      "time": "17:00",
-      "match": "isl-mci-del"
-    },
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "India v Malaysia, Asian Champions Trophy",
-      "meta": "Hockey · Jalandhar",
-      "time": "19:00",
-      "match": "act-ind-mas"
-    },
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "Inter Kashi v FC Goa, ISL",
-      "meta": "Football",
-      "time": "19:30",
-      "match": "isl-kashi-goa"
+      "match": "hylo-sen-final"
     },
     {
       "d": "02",
@@ -1729,25 +1679,57 @@
       "d": "04",
       "mo": "NOV",
       "title": "New Zealand v India, 1st ODI",
-      "meta": "Cricket",
+      "meta": "Cricket · New Zealand",
       "time": "07:30",
       "match": "nz-ind-odi-1"
     },
     {
       "d": "05",
       "mo": "NOV",
-      "title": "Churchill Brothers v NorthEast United, ISL",
+      "title": "India v Pakistan, SAFF Championship",
+      "meta": "Football · Dhaka",
+      "time": "15:30",
+      "match": "saff-ind-pak"
+    },
+    {
+      "d": "05",
+      "mo": "NOV",
+      "title": "Mohun Bagan SG v Odisha FC, ISL",
       "meta": "Football",
-      "time": "17:00",
-      "match": "isl-chu-neu"
+      "time": "19:30",
+      "match": "isl-mbsg-odi"
+    },
+    {
+      "d": "06",
+      "mo": "NOV",
+      "title": "FC Goa v Bengaluru FC, ISL",
+      "meta": "Football",
+      "time": "19:30",
+      "match": "isl-goa-bfc"
     },
     {
       "d": "07",
       "mo": "NOV",
       "title": "New Zealand v India, 2nd ODI",
-      "meta": "Cricket",
+      "meta": "Cricket · New Zealand",
       "time": "07:30",
       "match": "nz-ind-odi-2"
+    },
+    {
+      "d": "10",
+      "mo": "NOV",
+      "title": "New Zealand v India, 3rd ODI",
+      "meta": "Cricket · New Zealand",
+      "time": "07:30",
+      "match": "nz-ind-odi-3"
+    },
+    {
+      "d": "11",
+      "mo": "NOV",
+      "title": "India v Maldives, SAFF Championship",
+      "meta": "Football · Dhaka",
+      "time": "TBC",
+      "match": "saff-ind-mdv"
     }
   ],
   "players": [
