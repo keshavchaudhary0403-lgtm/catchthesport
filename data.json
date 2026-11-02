@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-01T21:01:03+05:30",
-  "dayLabel": "Sun 1 Nov · Sindhu wins Hylo Open, Lakshya in final, India beat Malaysia",
-  "featured": "hylo-sen-final",
+  "lastUpdated": "2026-11-02T09:34:29+05:30",
+  "dayLabel": "Mon 2 Nov · Lakshya Sen wins Hylo Open, India v Korea tonight",
+  "featured": "act-ind-kor",
   "matches": [
     {
       "id": "nz-ind-t20-4",
@@ -541,7 +541,7 @@
       "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
       "note": "Final pool match. India (4 wins) and Malaysia, South Korea, Japan are the semi-finalists; semis on 4 Nov.",
       "watch": [
-        "Star Sports Network",
+        "Star Sports Select 2",
         "JioHotstar"
       ],
       "src": [
@@ -552,6 +552,10 @@
         {
           "t": "Sporting News – Asian Champions Trophy 2026 schedule",
           "u": "https://www.sportingnews.com/"
+        },
+        {
+          "t": "Outlook India – Asian Champions Trophy 2026 date, time, live streaming",
+          "u": "https://www.outlookindia.com/sports/hockey/asian-champions-trophy-2026-date-time-venue-and-live-streaming"
         }
       ]
     },
@@ -735,7 +739,7 @@
     },
     {
       "id": "isl-kashi-goa",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -756,12 +760,12 @@
       "venue": "Shree Shivchhatrapati Sports Complex, Pune",
       "src": [
         {
-          "t": "Google – Inter Kashi vs Goa live score card",
-          "u": "https://www.google.com/search?q=Inter+Kashi+vs+FC+Goa+ISL"
+          "t": "Khel Now – Franchu and Chiki shine as FC Goa beat Inter Kashi",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-inter-kashi-vs-fc-goa-match-report"
         },
         {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+          "t": "ISL – Franchu, Chiki strike as FC Goa beat Inter Kashi",
+          "u": "https://www.indiansuperleague.com/news/franchu-chiki-strike-as-fc-goa-beat-inter-kashi-to-secure-first-win-of-mg-isl-2026-27-campaign"
         }
       ],
       "watch": [
@@ -772,9 +776,11 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ],
-      "status": "72' · 2nd half",
-      "scoreAt": "2026-11-01T21:01:03+05:30",
-      "note": "Goa: Franchu 35', Chiki 66'; Inter Kashi: Sumeet Passi 51'."
+      "note": "FC Goa won 2–1 for their first win of the season: Franchu and Chiki scored; Sumeet Passi (51') replied for Inter Kashi, who suffered a third defeat.",
+      "win": "b",
+      "day": "1 Nov",
+      "recent": true,
+      "resultAt": "2026-11-02T09:34:29+05:30"
     },
     {
       "id": "isl-chu-neu",
@@ -975,9 +981,9 @@
         "",
         "#1E3A8A"
       ],
-      "when": "2026-11-03",
-      "venue": "Kolkata",
-      "note": "Return game against Al-Seeb after the 0–0 in Oman; kick-off time not confirmed.",
+      "when": "2026-11-03T19:15:00+05:30",
+      "venue": "VYBK, Kolkata",
+      "note": "Return game against Al-Seeb after the 0–0 in Oman; 7:15 pm IST kick-off.",
       "watch": [
         "FanCode"
       ],
@@ -993,6 +999,10 @@
         {
           "t": "Dream Sports – AFC partners with FanCode (ACL Two, 2025-28)",
           "u": "https://www.dreamsports.group/newsroom/afc-partners-with-fancode-to-stream-asian-football-tournaments-in-india/"
+        },
+        {
+          "t": "District – ACL 2: East Bengal FC v Al Seeb Club",
+          "u": "https://www.district.in/events/acl-2-group-stage--east-bengal-fc-vs-al-seeb-club-buy-tickets"
         }
       ]
     },
@@ -1137,7 +1147,7 @@
     {
       "sport": "Badminton",
       "comp": "Hylo Open 2026 (Super 500)",
-      "st": "upcoming",
+      "st": "result",
       "when": "2026-11-01",
       "india": true,
       "big": true,
@@ -1145,12 +1155,12 @@
       "venue": "Saarlandhalle, Saarbrücken",
       "src": [
         {
-          "t": "Indian Express – Lakshya Sen ahead of Jojo Christie final",
-          "u": "https://indianexpress.com/section/sports/badminton/"
+          "t": "The Tribune – Lakshya Sen beats Christie to win second Hylo Open title",
+          "u": "https://www.tribuneindia.com/news/sports/lakshya-sen-beats-jonatan-christie-to-win-second-hylo-open-title"
         },
         {
-          "t": "Olympics.com – Hylo Open 2026 finals: Sindhu, Lakshya in action",
-          "u": "https://www.olympics.com/en/news/"
+          "t": "ANI – Lakshya Sen beats Christie",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-beats-jonatan-christie-to-win-second-hylo-open-title20261101224124/"
         }
       ],
       "id": "hylo-sen-final",
@@ -1158,14 +1168,18 @@
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "21-17 21-10"
       ],
       "b": [
         "INA",
         "Jonatan Christie",
         ""
       ],
-      "note": "Lakshya Sen v defending champion Jonatan Christie (Christie leads H2H 4–3). Result not yet confirmed."
+      "note": "Lakshya Sen beat Jonatan Christie 21–17, 21–10 for his second Hylo Open title and seventh BWF World Tour title.",
+      "win": "a",
+      "day": "1 Nov",
+      "recent": true,
+      "resultAt": "2026-11-02T09:34:29+05:30"
     },
     {
       "id": "saff-ind-pak",
@@ -1255,26 +1269,6 @@
         {
           "t": "Livemint – India's tour of New Zealand 2026 schedule",
           "u": "https://www.livemint.com/sports/cricket-news"
-        }
-      ]
-    },
-    {
-      "id": "hylo-2026",
-      "sport": "Badminton",
-      "name": "Hylo Open 2026 (BWF Super 500)",
-      "comp": "Hylo Open 2026 (Super 500)",
-      "status": "Live · men's final today (1 Nov)",
-      "live": true,
-      "india": true,
-      "note": "PV Sindhu won the women's title (21-12, 21-14 v Kjaersfeldt). Lakshya Sen plays Jonatan Christie in the men's final.",
-      "src": [
-        {
-          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
-          "u": "https://www.espn.in/"
-        },
-        {
-          "t": "Sportstar – Hylo Open 2026 India schedule",
-          "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
         }
       ]
     },
@@ -1377,7 +1371,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · next: Inter Kashi v Goa (live), 5 Nov",
+      "status": "Live · next: Churchill v NorthEast, Mohun Bagan v Odisha (5 Nov)",
       "india": true,
       "note": "Recent: Mohun Bagan 1–0 Chennaiyin (26 Oct), FC Goa 1–1 Sporting Club Delhi (28 Oct). Six matches from 30 Oct to 1 Nov, then 5–7 Nov.",
       "id": "isl",
@@ -1454,9 +1448,55 @@
           "u": "https://khelnow.com/kabaddi/pkl-13-auction-likely-held-mid-october-202608"
         }
       ]
+    },
+    {
+      "id": "hylo-2026",
+      "sport": "Badminton",
+      "name": "Hylo Open 2026 (BWF Super 500)",
+      "comp": "Hylo Open 2026 (Super 500)",
+      "status": "Concluded · 1 Nov · Sindhu & Lakshya champions",
+      "live": false,
+      "india": true,
+      "note": "PV Sindhu won the women's title (21-12, 21-14 v Kjaersfeldt) and Lakshya Sen the men's (21-17, 21-10 v Christie).",
+      "src": [
+        {
+          "t": "ESPN India – Sindhu vs Anmol Kharb; Indian sports LIVE, 31 Oct",
+          "u": "https://www.espn.in/"
+        },
+        {
+          "t": "Sportstar – Hylo Open 2026 India schedule",
+          "u": "https://sportstar.thehindu.com/badminton/hylo-open-2026-live-streaming-sindhu-lakshya-sen-india-schedule/article71643551.ece"
+        }
+      ]
     }
   ],
   "feed": [
+    {
+      "t": "1 Nov",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Badminton",
+      "text": "Lakshya Sen beats Jonatan Christie 21–17, 21–10 to win the Hylo Open — India sweep both singles titles with PV Sindhu.",
+      "match": "hylo-sen-final",
+      "src": [
+        {
+          "t": "The Tribune – Lakshya Sen beats Christie to win second Hylo Open title",
+          "u": "https://www.tribuneindia.com/news/sports/lakshya-sen-beats-jonatan-christie-to-win-second-hylo-open-title"
+        },
+        {
+          "t": "ANI – Lakshya Sen beats Christie",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-beats-jonatan-christie-to-win-second-hylo-open-title20261101224124/"
+        }
+      ]
+    },
+    {
+      "t": "1 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "ISL: FC Goa beat Inter Kashi 2–1 for their first win of the season (Franchu, Chiki).",
+      "match": "isl-kashi-goa"
+    },
     {
       "t": "20:59",
       "tag": "LIVE",
@@ -1620,45 +1660,9 @@
           "u": "https://revsportz.in/hylo-open-2026-pv-sindhu-lakshya-sen-and-anmol-kharb-advance-to-semi-finals/"
         }
       ]
-    },
-    {
-      "t": "30 Oct",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Hong Kong Sixes: India (88/5) lose to Pakistan by 4 wickets with 13 balls left.",
-      "match": "hk6-ind-pak",
-      "src": [
-        {
-          "t": "Google – IND v PAK Hong Kong Sixes result",
-          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+2026+India+vs+Pakistan+result+time+IST"
-        }
-      ]
-    },
-    {
-      "t": "30 Oct",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "India lose the 4th T20I to New Zealand by 87 runs at Eden Park — Glenn Phillips 107 off 49 in NZ's 259/7, India 172/9. India still lead the series 3–1.",
-      "match": "nz-ind-t20-4",
-      "src": [
-        {
-          "t": "The Statesman – NZ beat India by 87 runs",
-          "u": "https://www.thestatesman.com/sports/4th-t20i-phillips-century-duffys-four-wicket-haul-power-new-zealand-to-87-run-win-over-india-1503657020.html"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "01",
-      "mo": "NOV",
-      "title": "Lakshya Sen v Jonatan Christie, Hylo Open final",
-      "meta": "Badminton · Saarbrücken",
-      "time": "TBC",
-      "match": "hylo-sen-final"
-    },
     {
       "d": "02",
       "mo": "NOV",
@@ -1671,8 +1675,8 @@
       "d": "03",
       "mo": "NOV",
       "title": "East Bengal v Al-Seeb, AFC Champions League Two",
-      "meta": "Football",
-      "time": "TBC",
+      "meta": "Football · Kolkata",
+      "time": "19:15",
       "match": "acl2-eb-alseeb"
     },
     {
