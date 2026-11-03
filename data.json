@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-02T13:15:04+05:30",
-  "dayLabel": "Mon 2 Nov · India v Korea hockey tonight, Ranji Round 4 on",
-  "featured": "act-ind-kor",
+  "lastUpdated": "2026-11-03T09:34:39+05:30",
+  "dayLabel": "Tue 3 Nov · India v Korea ACT semi-final tomorrow, East Bengal in ACL Two tonight",
+  "featured": "act-ind-sf",
   "matches": [
     {
       "id": "hk6-ind-uae",
@@ -325,39 +325,35 @@
       "sport": "Hockey",
       "comp": "Asian Champions Trophy 2026",
       "round": "Pool match 5",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "8"
       ],
       "b": [
         "KOR",
         "South Korea",
-        ""
+        "0"
       ],
       "when": "2026-11-02T19:00:00+05:30",
       "india": true,
       "venue": "Olympian Surjit Singh Hockey Stadium, Jalandhar",
-      "note": "Final pool match, 7:00 pm in Jalandhar. India (4 wins from 4) top the table; semi-finals in Mohali on 4 Nov (1st v 4th 4:30 pm, 2nd v 3rd 7:00 pm).",
-      "watch": [
-        "Star Sports Select 2",
-        "JioHotstar"
-      ],
+      "note": "Dilpreet Singh (8', 40'), Jugraj Singh, Harmanpreet Singh, Shilanand Lakra, Sukhjeet Singh, Sanjay, Angad Bir Singh scored. India finish top, 5 wins from 5 (34 goals for, 5 against).",
       "src": [
         {
-          "t": "FIH – India vs Korea, 2 Nov 2026, 7:00 pm",
-          "u": "https://www.fih.hockey/"
+          "t": "The Tribune – India thrash South Korea 8-0 to finish ACT league stage unbeaten",
+          "u": "https://www.tribuneindia.com/news/sports/india-thrash-south-korea-8-0-to-finish-asian-champions-trophy-league-stage-unbeaten"
         },
         {
-          "t": "Sporting News – Asian Champions Trophy 2026 schedule",
-          "u": "https://www.sportingnews.com/"
-        },
-        {
-          "t": "Outlook India – Asian Champions Trophy 2026 date, time, live streaming",
-          "u": "https://www.outlookindia.com/sports/hockey/asian-champions-trophy-2026-date-time-venue-and-live-streaming"
+          "t": "Millennium Post – India blank South Korea 8-0",
+          "u": "https://www.millenniumpost.in/sports/india-blank-south-korea-8-0-to-remain-unbeaten-in-act-681961"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "2 Nov",
+      "recent": true,
+      "resultAt": "2026-11-03T09:34:39+05:30"
     },
     {
       "id": "act-ind-sf",
@@ -371,20 +367,28 @@
         ""
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "KOR",
+        "South Korea",
         ""
       ],
-      "when": "2026-11-04",
+      "when": "2026-11-04T16:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Mohali",
-      "note": "Semi-final 1 (1st v 4th) is at 4:30 pm and semi-final 2 (2nd v 3rd) at 7:00 pm; India's slot and opponent depend on tonight's result vs South Korea.",
+      "note": "Semi-final 1 (1st v 4th), 4:30 pm in Mohali. Other semi: Japan v Malaysia, 7:00 pm. Bronze match and final on 5 Nov.",
       "watch": [
         "Star Sports Select 2",
         "JioHotstar"
       ],
       "src": [
+        {
+          "t": "The Tribune – India thrash South Korea 8-0 to finish ACT league stage unbeaten",
+          "u": "https://www.tribuneindia.com/news/sports/india-thrash-south-korea-8-0-to-finish-asian-champions-trophy-league-stage-unbeaten"
+        },
+        {
+          "t": "Millennium Post – India blank South Korea 8-0",
+          "u": "https://www.millenniumpost.in/sports/india-blank-south-korea-8-0-to-remain-unbeaten-in-act-681961"
+        },
         {
           "t": "Olympics.com – Asian Champions Trophy 2026 schedule (semis 4 Nov, final 5 Nov)",
           "u": "https://www.olympics.com/en/news/"
@@ -1135,11 +1139,11 @@
     {
       "sport": "Hockey",
       "name": "Asian Champions Trophy 2026",
-      "status": "Live · till 5 Nov · Jalandhar & Mohali",
+      "status": "Live · semis 4 Nov, final 5 Nov · Mohali",
       "live": true,
       "india": true,
       "id": "act-2026",
-      "note": "India won all four pool games (13–0 BAN, 5–2 CHN, 4–1 JPN, 4–2 MAS). Semi-finalists: India, Malaysia, South Korea, Japan. India v South Korea 2 Nov (7 pm), semis in Mohali 4 Nov (4:30 pm & 7 pm), final 5 Nov (7 pm).",
+      "note": "India topped the league stage (5/5) and face South Korea in the semi-final, 4:30 pm on 4 Nov.",
       "src": [
         {
           "t": "Olympics.com – Asian Champions Trophy 2026: scores, results, points table",
@@ -1278,6 +1282,24 @@
     }
   ],
   "feed": [
+    {
+      "t": "2 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "India thrash South Korea 8–0 to top the Asian Champions Trophy league stage with five wins from five; they meet Korea again in the semi-final on 4 Nov (4:30 pm, Mohali).",
+      "match": "act-ind-kor",
+      "src": [
+        {
+          "t": "The Tribune – India thrash South Korea 8-0 to finish ACT league stage unbeaten",
+          "u": "https://www.tribuneindia.com/news/sports/india-thrash-south-korea-8-0-to-finish-asian-champions-trophy-league-stage-unbeaten"
+        },
+        {
+          "t": "Millennium Post – India blank South Korea 8-0",
+          "u": "https://www.millenniumpost.in/sports/india-blank-south-korea-8-0-to-remain-unbeaten-in-act-681961"
+        }
+      ]
+    },
     {
       "t": "13:10",
       "tag": "NEWS",
@@ -1433,14 +1455,6 @@
   ],
   "schedule": [
     {
-      "d": "02",
-      "mo": "NOV",
-      "title": "India v South Korea, Asian Champions Trophy",
-      "meta": "Hockey · Jalandhar",
-      "time": "19:00",
-      "match": "act-ind-kor"
-    },
-    {
       "d": "03",
       "mo": "NOV",
       "title": "East Bengal v Al-Seeb, AFC Champions League Two",
@@ -1459,9 +1473,9 @@
     {
       "d": "04",
       "mo": "NOV",
-      "title": "India hockey semi-final, Asian Champions Trophy",
+      "title": "India v South Korea, Asian Champions Trophy semi-final",
       "meta": "Hockey · Mohali",
-      "time": "TBC",
+      "time": "16:30",
       "match": "act-ind-sf"
     },
     {
