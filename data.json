@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T09:34:39+05:30",
-  "dayLabel": "Tue 3 Nov · India v Korea ACT semi-final tomorrow, East Bengal in ACL Two tonight",
+  "lastUpdated": "2026-11-03T12:52:05+05:30",
+  "dayLabel": "Tue 3 Nov · East Bengal in ACL Two tonight, India v Korea ACT semi tomorrow",
   "featured": "act-ind-sf",
   "matches": [
     {
@@ -1053,6 +1053,107 @@
           "u": "https://www.sportingnews.com/"
         }
       ]
+    },
+    {
+      "id": "awcl-hcm-eb",
+      "sport": "Football",
+      "comp": "AFC Women's Champions League",
+      "round": "Group B · Matchday 1",
+      "st": "result",
+      "india": true,
+      "a": [
+        "HCM",
+        "Ho Chi Minh City WFC",
+        "1",
+        "#D62828"
+      ],
+      "b": [
+        "EBFC",
+        "East Bengal FC",
+        "2",
+        "#C8102E"
+      ],
+      "win": "b",
+      "day": "1 Nov",
+      "when": "2026-11-01T20:00:00+05:30",
+      "venue": "Kolkata",
+      "note": "Fazila Ikwaput scored both East Bengal goals (21' pen, 34') in a 2–1 win in the Group B opener in Kolkata.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026–27 AFC Women's Champions League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Women%27s_Champions_League"
+        },
+        {
+          "t": "AIFF – East Bengal drawn with Hwacheon KSPO, Ho Chi Minh City, 4.25 in AWCL group stage",
+          "u": "https://www.the-aiff.com/article/east-bengal-fc-drawn-with-hwacheon-kspo-ho-chi-minh-city-4-25-in-afc-womens-champions-league-group-stage"
+        }
+      ]
+    },
+    {
+      "id": "awcl-eb-hwacheon",
+      "sport": "Football",
+      "comp": "AFC Women's Champions League",
+      "round": "Group B · Matchday 2",
+      "st": "upcoming",
+      "india": true,
+      "a": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "KSPO",
+        "Hwacheon KSPO",
+        "",
+        "#1D4ED8"
+      ],
+      "when": "2026-11-04T20:00:00+05:30",
+      "venue": "Kolkata",
+      "note": "East Bengal host the South Korean champions after beating Ho Chi Minh City 2–1.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026–27 AFC Women's Champions League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Women%27s_Champions_League"
+        },
+        {
+          "t": "AIFF – East Bengal drawn with Hwacheon KSPO, Ho Chi Minh City, 4.25 in AWCL group stage",
+          "u": "https://www.the-aiff.com/article/east-bengal-fc-drawn-with-hwacheon-kspo-ho-chi-minh-city-4-25-in-afc-womens-champions-league-group-stage"
+        }
+      ]
+    },
+    {
+      "id": "awcl-eb-425",
+      "sport": "Football",
+      "comp": "AFC Women's Champions League",
+      "round": "Group B · Matchday 3",
+      "st": "upcoming",
+      "india": true,
+      "a": [
+        "EBFC",
+        "East Bengal FC",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "425",
+        "April 25 SC",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-11-07T20:00:00+05:30",
+      "venue": "Kolkata",
+      "note": "Final Group B game against North Korea's April 25; top two advance.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026–27 AFC Women's Champions League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Women%27s_Champions_League"
+        },
+        {
+          "t": "AIFF – East Bengal drawn with Hwacheon KSPO, Ho Chi Minh City, 4.25 in AWCL group stage",
+          "u": "https://www.the-aiff.com/article/east-bengal-fc-drawn-with-hwacheon-kspo-ho-chi-minh-city-4-25-in-afc-womens-champions-league-group-stage"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1179,9 +1280,9 @@
     {
       "sport": "Football",
       "name": "AFC club competitions",
-      "status": "East Bengal v Al-Seeb, 3 Nov",
+      "status": "Live · ACL Two 3 Nov · AWCL 1–7 Nov (Kolkata)",
       "india": true,
-      "note": "East Bengal drew 0–0 at Al-Seeb in ACL Two on 27 Oct and host them on 3 Nov. FC Goa went out of the AFC Challenge League after a 1–2 loss to Qadsia SC in their final Group C game.",
+      "note": "Men: East Bengal host Al-Seeb in ACL Two Group D tonight (7:15 pm) after a 0–0 in Oman; they are 3rd on 2 points. Women: East Bengal beat Ho Chi Minh City 2–1 in their AWCL Group B opener and face Hwacheon KSPO (4 Nov) and April 25 (7 Nov) in Kolkata.",
       "id": "afc-clubs",
       "src": [
         {
@@ -1195,9 +1296,13 @@
         {
           "t": "Sportstar – FC Goa exits AFC Challenge League after loss to Qadsia",
           "u": "https://sportstar.thehindu.com/football/indian-football/"
+        },
+        {
+          "t": "Wikipedia – 2026–27 AFC Women's Champions League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Women%27s_Champions_League"
         }
       ],
-      "live": false
+      "live": true
     },
     {
       "sport": "Cricket",
@@ -1205,19 +1310,19 @@
       "status": "Live · Round 4, 2–5 Nov",
       "live": true,
       "id": "ranji",
-      "note": "Elite Round 4 began on 2 Nov (19 matches). Day 1: Karnataka bowled Assam out for 135, Rajasthan were all out for 78 vs Himachal, Bengal struggled vs Maharashtra; Raghuvanshi gave Mumbai a strong start vs Railways.",
+      "note": "Elite Round 4, 2–5 Nov. Day 2: Pradosh Ranjan Paul passed 150 for Tamil Nadu vs Chandigarh, Mohammed Shami took three Maharashtra wickets for Bengal, Karnataka (304/4) built a big lead over Assam, Saurashtra 54/4 vs Tripura.",
       "src": [
         {
-          "t": "Sportstar – Ranji Trophy Live Score, Round 4",
+          "t": "Sportstar – Ranji Trophy live score, round 4 Day 2",
           "u": "https://sportstar.thehindu.com/cricket/"
         },
         {
-          "t": "Hindustan Times – Ranji Trophy Round 4 Day 1 live updates",
+          "t": "Hindustan Times – Ranji Trophy Round Four Day 2 live updates",
           "u": "https://www.hindustantimes.com/cricket"
         },
         {
-          "t": "Google – Ranji Trophy round 4 scores today",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+round+4+scores+today"
+          "t": "Cricbuzz – Ranji Trophy Elite 2026-27 matches",
+          "u": "https://www.cricbuzz.com/cricket-series"
         }
       ],
       "india": true,
@@ -1283,6 +1388,27 @@
   ],
   "feed": [
     {
+      "t": "12:40",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "Ranji Trophy Day 2: Pradosh Ranjan Paul hits 150+ for Tamil Nadu vs Chandigarh, Shami takes three for Bengal vs Maharashtra, Karnataka 304/4 lead Assam by 169.",
+      "src": [
+        {
+          "t": "Sportstar – Ranji Trophy live score, round 4 Day 2",
+          "u": "https://sportstar.thehindu.com/cricket/"
+        },
+        {
+          "t": "Hindustan Times – Ranji Trophy Round Four Day 2 live updates",
+          "u": "https://www.hindustantimes.com/cricket"
+        },
+        {
+          "t": "Cricbuzz – Ranji Trophy Elite 2026-27 matches",
+          "u": "https://www.cricbuzz.com/cricket-series"
+        }
+      ]
+    },
+    {
       "t": "2 Nov",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1301,7 +1427,7 @@
       ]
     },
     {
-      "t": "13:10",
+      "t": "2 Nov",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Tennis",
@@ -1314,7 +1440,7 @@
       ]
     },
     {
-      "t": "09:30",
+      "t": "2 Nov",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
@@ -1327,6 +1453,20 @@
         {
           "t": "Google – Ranji Trophy round 4 scores today",
           "u": "https://www.google.com/search?q=Ranji+Trophy+round+4+scores+today"
+        }
+      ]
+    },
+    {
+      "t": "1 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "AFC Women's Champions League: East Bengal beat Ho Chi Minh City 2–1 in Kolkata (Ikwaput 2) in their Group B opener; Hwacheon KSPO next on 4 Nov.",
+      "match": "awcl-hcm-eb",
+      "src": [
+        {
+          "t": "Wikipedia – 2026–27 AFC Women's Champions League",
+          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Women%27s_Champions_League"
         }
       ]
     },
@@ -1479,6 +1619,14 @@
       "match": "act-ind-sf"
     },
     {
+      "d": "04",
+      "mo": "NOV",
+      "title": "East Bengal v Hwacheon KSPO, AFC Women's Champions League",
+      "meta": "Football · Kolkata",
+      "time": "20:00",
+      "match": "awcl-eb-hwacheon"
+    },
+    {
       "d": "05",
       "mo": "NOV",
       "title": "India v Pakistan, SAFF Championship",
@@ -1509,6 +1657,14 @@
       "meta": "Cricket · New Zealand",
       "time": "07:30",
       "match": "nz-ind-odi-2"
+    },
+    {
+      "d": "07",
+      "mo": "NOV",
+      "title": "East Bengal v April 25, AFC Women's Champions League",
+      "meta": "Football · Kolkata",
+      "time": "20:00",
+      "match": "awcl-eb-425"
     },
     {
       "d": "10",
