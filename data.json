@@ -1,150 +1,8 @@
 {
-  "lastUpdated": "2026-11-03T12:52:05+05:30",
-  "dayLabel": "Tue 3 Nov · East Bengal in ACL Two tonight, India v Korea ACT semi tomorrow",
-  "featured": "act-ind-sf",
+  "lastUpdated": "2026-11-04T09:35:21+05:30",
+  "dayLabel": "Wed 4 Nov · India v NZ 1st ODI live, ACT semi v Korea 4:30 pm",
+  "featured": "nz-ind-odi-1",
   "matches": [
-    {
-      "id": "hk6-ind-uae",
-      "sport": "Cricket",
-      "comp": "Hong Kong Sixes 2026",
-      "round": "Group C",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "94/6 (6)"
-      ],
-      "b": [
-        "UAE",
-        "UAE",
-        "97/0 (4.2)"
-      ],
-      "when": "2026-10-31",
-      "india": true,
-      "venue": "Mission Road Ground, Mong Kok",
-      "note": "UAE won by 6 wickets with 10 balls left (Player of the Match: Zahid Ali). India finished bottom of Group C and dropped into the Bowl.",
-      "src": [
-        {
-          "t": "Google – India vs UAE, Hong Kong Sixes result card",
-          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+India+vs+UAE"
-        },
-        {
-          "t": "NDTV Sports – UAE vs IND scorecard",
-          "u": "https://sports.ndtv.com/cricket/"
-        }
-      ],
-      "win": "b",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-10-31T12:22:39+05:30"
-    },
-    {
-      "id": "hk6-eng-ind-bowl-sf",
-      "sport": "Cricket",
-      "comp": "Hong Kong Sixes 2026",
-      "round": "Bowl semi-final 2",
-      "st": "result",
-      "a": [
-        "ENG",
-        "England",
-        "124/2 (6)"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "121/4 (6)"
-      ],
-      "when": "2026-10-31",
-      "win": "a",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-10-31T12:22:39+05:30",
-      "india": true,
-      "venue": "Mission Road Ground, Mong Kok",
-      "note": "England won by 3 runs. Rahul Tripathi's unbeaten 56 off 14 balls and Krunal Pandya's 28* not enough — India's third straight defeat.",
-      "src": [
-        {
-          "t": "Google – England vs India, Bowl semi-final result",
-          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+England+vs+India+Rahul+Tripathi+56"
-        },
-        {
-          "t": "Livemint – Tripathi's 14-ball 56 goes in vain",
-          "u": "https://www.livemint.com/sports/cricket-news"
-        }
-      ]
-    },
-    {
-      "id": "hylo-sindhu-kharb-sf",
-      "sport": "Badminton",
-      "comp": "Hylo Open 2026 (Super 500)",
-      "round": "Women's singles semi-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "PV Sindhu",
-        "Won"
-      ],
-      "b": [
-        "IND",
-        "Anmol Kharb",
-        "Lost"
-      ],
-      "when": "2026-10-31",
-      "india": true,
-      "big": true,
-      "venue": "Saarlandhalle, Saarbrücken",
-      "note": "PV Sindhu beat Anmol Kharb 21–13, 21–16 in 38 minutes to reach her second straight final.",
-      "src": [
-        {
-          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
-          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
-        },
-        {
-          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
-          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
-        }
-      ],
-      "win": "a",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-11-01T09:36:00+05:30"
-    },
-    {
-      "id": "hylo-sen-popov-sf",
-      "sport": "Badminton",
-      "comp": "Hylo Open 2026 (Super 500)",
-      "round": "Men's singles semi-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "Won"
-      ],
-      "b": [
-        "FRA",
-        "Toma Junior Popov",
-        "Lost"
-      ],
-      "when": "2026-10-31",
-      "india": true,
-      "big": true,
-      "venue": "Saarlandhalle, Saarbrücken",
-      "note": "Lakshya Sen beat Toma Junior Popov 21–17, 21–13 in 41 minutes to reach the final.",
-      "src": [
-        {
-          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
-          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
-        },
-        {
-          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
-          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
-        }
-      ],
-      "win": "a",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-11-01T09:36:00+05:30"
-    },
     {
       "id": "nz-ind-t20-5",
       "st": "result",
@@ -182,7 +40,7 @@
     },
     {
       "id": "nz-ind-odi-1",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -190,31 +48,37 @@
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "97/5 (21)",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-11-04T07:30:00+05:30",
       "venue": "Eden Park, Auckland",
-      "note": "Five-match ODI series follows the T20Is; 7:30 am IST start.",
+      "note": "India (Gill) won the toss and bowled after a 20-min rain delay. Gurnoor Brar and Arshdeep Singh among the wickets; Mitchell run out 28. Rohit Sharma and Virat Kohli back in the XI; Kuldeep Yadav not playing.",
       "src": [
         {
-          "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
-          "u": "https://www.livemint.com/sports/cricket-news"
+          "t": "India.com – NZ vs IND 1st ODI live (NZ 97/5, 21 ov, 9:32 am IST)",
+          "u": "https://india.com/sports/cricket/india-vs-new-zealand-2026-live-score-1st-odi-match-4-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-eden-park-auckland-8541991"
         },
         {
-          "t": "ESPNcricinfo – India tour of New Zealand 2026 fixtures",
-          "u": "https://www.cricinfo.com/"
+          "t": "Outlook India – India v NZ 1st ODI live score",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-odi-live-score-2026-nz-vs-india-scorecard-commentary-latest-update-highlights"
+        },
+        {
+          "t": "The Tribune – India opt to chase as Ro-Ko back in action",
+          "u": "https://www.tribuneindia.com/news/sports/1st-odi-india-opt-to-chase-against-new-zealand-as-ro-ko-back-in-action"
         }
       ],
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
-      ]
+      ],
+      "status": "India bowling · NZ 5 down",
+      "scoreAt": "2026-11-04T09:32:00+05:30"
     },
     {
       "id": "nz-ind-odi-2",
@@ -398,75 +262,6 @@
           "u": "https://www.hockeyindia.org/"
         }
       ]
-    },
-    {
-      "id": "isl-che-kbfc",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "CFC",
-        "Chennaiyin FC",
-        "0",
-        "#1D4ED8"
-      ],
-      "b": [
-        "KBFC",
-        "Kerala Blasters",
-        "0",
-        "#FACC15"
-      ],
-      "when": "2026-10-31T17:00:00+05:30",
-      "venue": "Jawaharlal Nehru Stadium, Chennai",
-      "src": [
-        {
-          "t": "India.com – Chennaiyin FC 0–0 Kerala Blasters (Luna misses penalty)",
-          "u": "https://www.india.com/sports/football/chennaiyin-fc-vs-kerala-blasters-fc-adrian-luna-misses-penalty-as-match-ends-in-0-0-draw-8541168/"
-        }
-      ],
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-11-01T09:36:00+05:30",
-      "note": "Goalless draw; Adrian Luna missed a penalty for Chennaiyin."
-    },
-    {
-      "id": "isl-mbsg-pun",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "2",
-        "#166534"
-      ],
-      "b": [
-        "PFC",
-        "Punjab FC",
-        "1",
-        "#DC2626"
-      ],
-      "when": "2026-10-31T19:30:00+05:30",
-      "venue": "VYBK, Kolkata",
-      "src": [
-        {
-          "t": "Khel Now – ISL table after Mohun Bagan SG v Punjab FC",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-updated-points-table-after-mohun-bagan-sg-vs-punjab-fc"
-        },
-        {
-          "t": "Indian Opinion – Mohun Bagan beat Punjab FC 2-1",
-          "u": "https://indianopinion.org/mohun-bagan-rally-to-beat-punjab-fc-2-1-go-top-of-isl-table/"
-        }
-      ],
-      "win": "a",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-11-01T09:36:00+05:30",
-      "note": "Punjab FC led through Alfred Planas; Lee Erwin equalised and Dejan Drazic struck the 42nd-minute winner. Mohun Bagan go top on 9 pts."
     },
     {
       "id": "isl-mci-del",
@@ -735,44 +530,44 @@
       "sport": "Football",
       "comp": "AFC Champions League Two",
       "round": "Group D · Matchday 4",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "a": [
         "EBFC",
         "East Bengal FC",
-        "",
+        "0",
         "#C8102E"
       ],
       "b": [
         "SEEB",
         "Al-Seeb",
-        "",
+        "2",
         "#1E3A8A"
       ],
       "when": "2026-11-03T19:15:00+05:30",
       "venue": "VYBK, Kolkata",
-      "note": "Return game against Al-Seeb after the 0–0 in Oman; 7:15 pm IST kick-off.",
+      "note": "Al-Seeb won 2–0 with late goals from Axel Méyé (85') and Zahir Al Aghbari (90+1'). East Bengal are bottom of Group D on 2 points; next: Al Hussein (home) on 24 Nov.",
       "watch": [
         "FanCode"
       ],
       "src": [
         {
-          "t": "AIFF – East Bengal held goalless by Oman's Al Seeb in ACL Two",
-          "u": "https://www.the-aiff.com/"
+          "t": "AIFF – East Bengal lose to Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/article/east-bengal-lose-to-al-seeb-in-acl-two"
         },
         {
-          "t": "AFC – Group D: Al Seeb Club 0-0 East Bengal FC",
-          "u": "https://www.the-afc.com/"
+          "t": "ThePrint – East Bengal lose to Al Seeb 0-2",
+          "u": "https://theprint.in/sport/east-bengal-lose-to-al-seeb-0-2-in-acl-2-match/3089748/"
         },
         {
-          "t": "Dream Sports – AFC partners with FanCode (ACL Two, 2025-28)",
-          "u": "https://www.dreamsports.group/newsroom/afc-partners-with-fancode-to-stream-asian-football-tournaments-in-india/"
-        },
-        {
-          "t": "District – ACL 2: East Bengal FC v Al Seeb Club",
-          "u": "https://www.district.in/events/acl-2-group-stage--east-bengal-fc-vs-al-seeb-club-buy-tickets"
+          "t": "Khel Now – East Bengal 0-2 Al-Seeb key takeaways",
+          "u": "https://khelnow.com/football/indian-football-acl-two-east-bengal-vs-al-seeb-key-takeaways"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "3 Nov",
+      "recent": true,
+      "resultAt": "2026-11-03T21:15:00+05:30"
     },
     {
       "id": "nz-ind-odi-4",
@@ -840,80 +635,6 @@
         "Sony Sports Network",
         "SonyLIV"
       ]
-    },
-    {
-      "id": "ckc-ind-sri-final",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Men's final",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "54"
-      ],
-      "b": [
-        "SRI",
-        "Sri Lanka",
-        "20"
-      ],
-      "when": "2026-10-31T21:00:00+05:30",
-      "india": true,
-      "big": true,
-      "gold": true,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "note": "India win the inaugural Commonwealth Kabaddi title unbeaten (8/8); Aditya Shinde Super 10. 30–10 at half-time; Sri Lanka made 7 successful raids from 41.",
-      "src": [
-        {
-          "t": "ANI – India complete Commonwealth Kabaddi double",
-          "u": "https://www.aninews.in/news/sports/others/india-complete-commonwealth-kabaddi-c8217ship-double-with-men8217s-team8217s-final-win-over-sri-lanka20261031225211/"
-        },
-        {
-          "t": "Khel Now – India v Sri Lanka men's final report",
-          "u": "https://khelnow.com/kabaddi/india-vs-sri-lanka-mens-final-report-commonwealth-kabaddi-championship-202610"
-        }
-      ],
-      "win": "a",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-11-01T09:36:00+05:30"
-    },
-    {
-      "id": "ckc-indw-uga-final",
-      "sport": "Kabaddi",
-      "comp": "Commonwealth Kabaddi Championship",
-      "round": "Women's final",
-      "st": "result",
-      "a": [
-        "IND",
-        "India Women",
-        "35"
-      ],
-      "b": [
-        "UGA",
-        "Uganda Women",
-        "15"
-      ],
-      "when": "2026-10-31T19:30:00+05:30",
-      "india": true,
-      "big": true,
-      "gold": true,
-      "venue": "Veer Savarkar Sports Complex, Ahmedabad",
-      "note": "India Women beat Uganda Women to win the women's title; India complete a men's and women's double.",
-      "src": [
-        {
-          "t": "ANI – India complete Commonwealth Kabaddi double",
-          "u": "https://www.aninews.in/news/sports/others/india-complete-commonwealth-kabaddi-c8217ship-double-with-men8217s-team8217s-final-win-over-sri-lanka20261031225211/"
-        },
-        {
-          "t": "Khel Now – India v Sri Lanka men's final report",
-          "u": "https://khelnow.com/kabaddi/india-vs-sri-lanka-mens-final-report-commonwealth-kabaddi-championship-202610"
-        }
-      ],
-      "win": "a",
-      "day": "31 Oct",
-      "recent": true,
-      "resultAt": "2026-11-01T09:36:00+05:30"
     },
     {
       "sport": "Badminton",
@@ -1162,7 +883,7 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live · ODIs from 4 Nov",
+      "status": "Live · 1st ODI 4 Nov, Auckland",
       "live": true,
       "india": true,
       "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
@@ -1218,26 +939,6 @@
       ]
     },
     {
-      "id": "ckc-2026",
-      "sport": "Kabaddi",
-      "name": "Commonwealth Kabaddi Championship 2026",
-      "comp": "Commonwealth Kabaddi Championship",
-      "status": "Concluded · India won men's & women's titles",
-      "live": false,
-      "india": true,
-      "note": "India men beat Sri Lanka 54–20 and women beat Uganda 35–15 in the finals on 31 Oct.",
-      "src": [
-        {
-          "t": "Wikipedia – 2026 Commonwealth Kabaddi Championship",
-          "u": "https://en.wikipedia.org/wiki/2026_Commonwealth_Kabaddi_Championship"
-        },
-        {
-          "t": "Khel Now – Commonwealth Kabaddi Championship 2026: schedule & results (updated 29 Oct)",
-          "u": "https://khelnow.com/kabaddi/schedule-results-commonwealth-kabaddi-championship-202610"
-        }
-      ]
-    },
-    {
       "sport": "Hockey",
       "name": "Asian Champions Trophy 2026",
       "status": "Live · semis 4 Nov, final 5 Nov · Mohali",
@@ -1280,11 +981,15 @@
     {
       "sport": "Football",
       "name": "AFC club competitions",
-      "status": "Live · ACL Two 3 Nov · AWCL 1–7 Nov (Kolkata)",
+      "status": "Live · AWCL 1–7 Nov (Kolkata) · ACL Two next 24 Nov",
       "india": true,
-      "note": "Men: East Bengal host Al-Seeb in ACL Two Group D tonight (7:15 pm) after a 0–0 in Oman; they are 3rd on 2 points. Women: East Bengal beat Ho Chi Minh City 2–1 in their AWCL Group B opener and face Hwacheon KSPO (4 Nov) and April 25 (7 Nov) in Kolkata.",
+      "note": "Men: East Bengal lost 0–2 at home to Al-Seeb on 3 Nov and are bottom of ACL Two Group D (2 pts); Al Hussein at home on 24 Nov. Women: East Bengal beat Ho Chi Minh City 2–1 in their AWCL opener and face Hwacheon KSPO (4 Nov) and April 25 (7 Nov) in Kolkata.",
       "id": "afc-clubs",
       "src": [
+        {
+          "t": "AIFF – East Bengal lose to Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/article/east-bengal-lose-to-al-seeb-in-acl-two"
+        },
         {
           "t": "AIFF – East Bengal held goalless by Oman's Al Seeb in ACL Two",
           "u": "https://www.the-aiff.com/"
@@ -1335,8 +1040,12 @@
       "status": "Live · 2–8 Nov",
       "live": true,
       "india": true,
-      "note": "WTA 250 in Chennai. Indian wild cards in singles: Maaya Rajeshwaran Revathi, Sahaja Yamalapalli and Vaishnavi Adkar; Ankita Raina and Rutuja Bhosale also entered.",
+      "note": "WTA 250 in Chennai. First-round wins for wild cards Maaya Rajeshwaran Revathi (6-4 2-6 7-6 over Kawa) and Vaishnavi Adkar (3-6 6-3 7-5 over Burrage); Maaya meets Falkowska, Adkar meets 7th seed Zakharova in the Round of 16.",
       "src": [
+        {
+          "t": "IndiaSportsHub – Maaya Rajeshwaran Revathi stuns Kawa",
+          "u": "https://www.indiasportshub.com/articles/maaya-rajeshwaran-revathi-stuns-eighth-seed-katarzyna-kawa-to-claim-maiden-wta-250-win-in-chennai"
+        },
         {
           "t": "Olympics.com – Chennai Open 2026 WTA 250: where to watch, Indian players",
           "u": "https://www.olympics.com/en/news/"
@@ -1388,7 +1097,68 @@
   ],
   "feed": [
     {
-      "t": "12:40",
+      "t": "09:32",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India v NZ 1st ODI, Auckland: India (Gill) bowl first; Brar and Arshdeep strike, NZ 97/5 after 21 overs as Mitchell is run out for 28.",
+      "match": "nz-ind-odi-1",
+      "src": [
+        {
+          "t": "India.com – NZ vs IND 1st ODI live (NZ 97/5, 21 ov, 9:32 am IST)",
+          "u": "https://india.com/sports/cricket/india-vs-new-zealand-2026-live-score-1st-odi-match-4-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-eden-park-auckland-8541991"
+        },
+        {
+          "t": "Outlook India – India v NZ 1st ODI live score",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-odi-live-score-2026-nz-vs-india-scorecard-commentary-latest-update-highlights"
+        },
+        {
+          "t": "The Tribune – India opt to chase as Ro-Ko back in action",
+          "u": "https://www.tribuneindia.com/news/sports/1st-odi-india-opt-to-chase-against-new-zealand-as-ro-ko-back-in-action"
+        }
+      ]
+    },
+    {
+      "t": "3 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "East Bengal lose 0–2 to Al-Seeb at home in ACL Two (Méyé 85', Al Aghbari 90+1') and sit bottom of Group D.",
+      "match": "acl2-eb-alseeb",
+      "src": [
+        {
+          "t": "AIFF – East Bengal lose to Al Seeb in ACL Two",
+          "u": "https://www.the-aiff.com/article/east-bengal-lose-to-al-seeb-in-acl-two"
+        },
+        {
+          "t": "ThePrint – East Bengal lose to Al Seeb 0-2",
+          "u": "https://theprint.in/sport/east-bengal-lose-to-al-seeb-0-2-in-acl-2-match/3089748/"
+        },
+        {
+          "t": "Khel Now – East Bengal 0-2 Al-Seeb key takeaways",
+          "u": "https://khelnow.com/football/indian-football-acl-two-east-bengal-vs-al-seeb-key-takeaways"
+        }
+      ]
+    },
+    {
+      "t": "3 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Tennis",
+      "text": "Chennai Open: wild cards Maaya Rajeshwaran Revathi (beat Kawa 6-4 2-6 7-6) and Vaishnavi Adkar (beat Burrage 3-6 6-3 7-5) win their first WTA 250 main-draw matches.",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Maaya stuns Kawa",
+          "u": "https://www.indiasportshub.com/articles/maaya-rajeshwaran-revathi-stuns-eighth-seed-katarzyna-kawa-to-claim-maiden-wta-250-win-in-chennai"
+        },
+        {
+          "t": "IndiaSportsHub – Adkar beats Burrage",
+          "u": "https://www.indiasportshub.com/articles/vaishnavi-adkar-defeats-former-world-no-85-jodie-burrage-to-claim-maiden-wta-tour-level-victory-in-chennai"
+        }
+      ]
+    },
+    {
+      "t": "3 Nov",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
@@ -1534,7 +1304,6 @@
       "c": "var(--win)",
       "m": "Kabaddi",
       "text": "India men beat Sri Lanka 54–20 and women beat Uganda 35–15 to sweep the inaugural Commonwealth Kabaddi Championship, unbeaten.",
-      "match": "ckc-ind-sri-final",
       "src": [
         {
           "t": "ANI – India complete Commonwealth Kabaddi double",
@@ -1545,63 +1314,9 @@
           "u": "https://khelnow.com/kabaddi/india-vs-sri-lanka-mens-final-report-commonwealth-kabaddi-championship-202610"
         }
       ]
-    },
-    {
-      "t": "31 Oct",
-      "tag": "FINAL",
-      "c": "var(--gold)",
-      "m": "Badminton",
-      "text": "Hylo Open: PV Sindhu beat Anmol Kharb 21–13, 21–16 and Lakshya Sen beat Toma Junior Popov 21–17, 21–13; both reach Sunday's finals.",
-      "match": "hylo-sindhu-final",
-      "src": [
-        {
-          "t": "The Tribune – Sindhu, Lakshya reach Hylo Open finals",
-          "u": "https://www.tribuneindia.com/news/sports/sindhu-lakshya-reach-hylo-open-finals-after-impressive-semi-final-wins"
-        },
-        {
-          "t": "Vividh Bharathi – Sindhu reaches second consecutive final",
-          "u": "https://vividhbharathi.com/hylo-open-sindhu-reaches-second-consecutive-final-lakshya-joins-her-in-title-round/"
-        }
-      ]
-    },
-    {
-      "t": "31 Oct",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "ISL: Mohun Bagan SG beat Punjab FC 2–1 to go top; Chennaiyin and Kerala Blasters drew 0–0.",
-      "match": "isl-mbsg-pun",
-      "src": [
-        {
-          "t": "India.com – Chennaiyin FC 0–0 Kerala Blasters (Luna misses penalty)",
-          "u": "https://www.india.com/sports/football/chennaiyin-fc-vs-kerala-blasters-fc-adrian-luna-misses-penalty-as-match-ends-in-0-0-draw-8541168/"
-        }
-      ]
-    },
-    {
-      "t": "31 Oct",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "Hong Kong Sixes: India lose the Bowl semi-final to England by 3 runs (121/4 chasing 125) despite Rahul Tripathi's 56* off 14 balls.",
-      "match": "hk6-eng-ind-bowl-sf",
-      "src": [
-        {
-          "t": "Google – England vs India result",
-          "u": "https://www.google.com/search?q=Hong+Kong+Sixes+England+vs+India+Rahul+Tripathi+56"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "03",
-      "mo": "NOV",
-      "title": "East Bengal v Al-Seeb, AFC Champions League Two",
-      "meta": "Football · Kolkata",
-      "time": "19:15",
-      "match": "acl2-eb-alseeb"
-    },
     {
       "d": "04",
       "mo": "NOV",
