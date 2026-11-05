@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T09:51:48+05:30",
-  "dayLabel": "Thu 5 Nov · India v Japan hockey final 7 pm, India v Pakistan SAFF 3 pm",
+  "lastUpdated": "2026-11-05T12:35:52+05:30",
+  "dayLabel": "Thu 5 Nov · India v Pakistan SAFF 3 pm, hockey final 7 pm, Tanvi Patri YOG final 11 pm",
   "featured": "act-ind-final",
   "matches": [
     {
@@ -710,6 +710,41 @@
           "u": "https://khelnow.com/hockey/india-korea-semifinal-report-mens-hockey-asian-champions-trophy-202611"
         }
       ]
+    },
+    {
+      "id": "yog-patri-zhang",
+      "sport": "Badminton",
+      "comp": "Youth Olympic Games 2026",
+      "round": "Women's singles final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Tanvi Patri",
+        ""
+      ],
+      "b": [
+        "CHN",
+        "Zhang Yixin",
+        ""
+      ],
+      "when": "2026-11-05T23:00:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Dakar, Senegal",
+      "watch": [
+        {
+          "n": "Olympics.com / YouTube – Olympics",
+          "u": "https://www.youtube.com/@Olympics/streams"
+        }
+      ],
+      "note": "15-year-old Tanvi Patri, first Indian in a Youth Olympic badminton singles final (beat 2nd seed Yuzuno Watanabe 21-14 11-21 21-19), meets world junior champion Zhang Yixin for gold. Start around 11 pm IST, may shift; no Indian TV broadcast.",
+      "src": [
+        {
+          "t": "Sunday Guardian – Tanvi Patri vs Zhang Yixin final: date, time, streaming",
+          "u": "https://sundayguardianlive.com/sports/tanvi-patri-vs-zhang-yixin-youth-olympic-games-2026-badminton-final-date-time-live-streaming-in-india-china-and-worldwide-317642/"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1098,14 +1133,6 @@
     {
       "d": "05",
       "mo": "NOV",
-      "title": "Vaishnavi Adkar v Zakharova, Chennai Open R16",
-      "meta": "Tennis · Chennai",
-      "time": "TBC",
-      "match": "chn-adkar-zakharova"
-    },
-    {
-      "d": "05",
-      "mo": "NOV",
       "title": "India v Pakistan, SAFF Championship",
       "meta": "Football · Dhaka",
       "time": "15:00",
@@ -1126,6 +1153,22 @@
       "meta": "Football",
       "time": "19:30",
       "match": "isl-mbsg-odi"
+    },
+    {
+      "d": "05",
+      "mo": "NOV",
+      "title": "Tanvi Patri v Zhang Yixin, Youth Olympics badminton final",
+      "meta": "Badminton · Dakar",
+      "time": "23:00",
+      "match": "yog-patri-zhang"
+    },
+    {
+      "d": "05",
+      "mo": "NOV",
+      "title": "Vaishnavi Adkar v Zakharova, Chennai Open R16",
+      "meta": "Tennis · Chennai",
+      "time": "TBC",
+      "match": "chn-adkar-zakharova"
     },
     {
       "d": "06",
