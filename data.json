@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T09:35:08+05:30",
+  "lastUpdated": "2026-11-05T09:51:48+05:30",
   "dayLabel": "Thu 5 Nov · India v Japan hockey final 7 pm, India v Pakistan SAFF 3 pm",
   "featured": "act-ind-final",
   "matches": [
@@ -482,6 +482,62 @@
       ]
     },
     {
+      "id": "chn-adkar-zakharova",
+      "sport": "Tennis",
+      "comp": "WTA Chennai Open 2026",
+      "round": "Round of 16",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Vaishnavi Adkar",
+        ""
+      ],
+      "b": [
+        "AZ",
+        "Anastasia Zakharova",
+        "",
+        "#6B7280"
+      ],
+      "when": "2026-11-05",
+      "india": true,
+      "venue": "SDAT Tennis Stadium, Chennai",
+      "note": "Indian No. 1 wild card Adkar (beat Burrage 3-6 6-3 7-5 for her maiden Tour win) faces 7th seed Zakharova on Centre Court; exact start time not confirmed.",
+      "src": [
+        {
+          "t": "BBC Sport – WTA Chennai Open scores & schedule",
+          "u": "https://www.bbc.com/sport/tennis/wta-chennai-open/2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "chn-maaya-montgomery",
+      "sport": "Tennis",
+      "comp": "WTA Chennai Open 2026",
+      "round": "Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Maaya Rajeshwaran Revathi",
+        ""
+      ],
+      "b": [
+        "USA",
+        "Robin Montgomery",
+        ""
+      ],
+      "when": "2026-11-06",
+      "india": true,
+      "big": true,
+      "venue": "SDAT Tennis Stadium, Chennai",
+      "note": "17-year-old wild card Maaya beat Falkowska 6-4 6-3 to become the first Indian woman in a WTA quarter-final since Sania Mirza (2012). Time TBC.",
+      "src": [
+        {
+          "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
+          "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
+        }
+      ]
+    },
+    {
       "id": "saff-ind-pak",
       "sport": "Football",
       "comp": "SAFF Championship 2026",
@@ -796,11 +852,15 @@
       "id": "chennai-open",
       "sport": "Tennis",
       "name": "WTA Chennai Open 2026",
-      "status": "Live · 2–8 Nov",
+      "status": "Live · Maaya in QF 6 Nov · till 8 Nov",
       "live": true,
       "india": true,
-      "note": "WTA 250 in Chennai. First-round wins for wild cards Maaya Rajeshwaran Revathi (6-4 2-6 7-6 over Kawa) and Vaishnavi Adkar (3-6 6-3 7-5 over Burrage); Maaya meets Falkowska, Adkar meets 7th seed Zakharova in the Round of 16.",
+      "note": "WTA 250 in Chennai. Wild card Maaya Rajeshwaran Revathi (17) beat Kawa and Falkowska to become the first Indian woman in a Tour quarter-final since Sania Mirza; she plays Robin Montgomery on 6 Nov. Indian No. 1 Vaishnavi Adkar (beat Burrage) faces 7th seed Zakharova in the Round of 16 on 5 Nov.",
       "src": [
+        {
+          "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
+          "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
+        },
         {
           "t": "IndiaSportsHub – Maaya Rajeshwaran Revathi stuns Kawa",
           "u": "https://www.indiasportshub.com/articles/maaya-rajeshwaran-revathi-stuns-eighth-seed-katarzyna-kawa-to-claim-maiden-wta-250-win-in-chennai"
@@ -813,7 +873,8 @@
           "t": "WTA – Chennai Open 2026",
           "u": "https://www.wtatennis.com/tournaments/1148/chennai-open/2026"
         }
-      ]
+      ],
+      "comp": "WTA Chennai Open 2026"
     },
     {
       "sport": "Kabaddi",
@@ -835,6 +896,50 @@
     }
   ],
   "feed": [
+    {
+      "t": "4 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Tennis",
+      "text": "History in Chennai: 17-year-old Maaya Rajeshwaran Revathi beats Falkowska 6-4 6-3 — first Indian woman in a WTA singles quarter-final since Sania Mirza in 2012. Next: Robin Montgomery (USA) on 6 Nov.",
+      "match": "chn-maaya-montgomery",
+      "src": [
+        {
+          "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
+          "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
+        }
+      ]
+    },
+    {
+      "t": "4 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Youth Olympics (Dakar): 15-year-old Tanvi Patri beats Japan's Yuzuno Watanabe 21-14 11-21 21-19 to become the first Indian woman in the Youth Olympic badminton final — a medal assured; she meets world junior champion Zhang Yi Xin (China).",
+      "src": [
+        {
+          "t": "Indian Express – Tanvi Patri vs Zhang Yi Xin: what to expect",
+          "u": "https://indianexpress.com/article/sports/badminton/tanvi-patri-zhang-yi-xin-youth-olympics-badminton-10951405/"
+        },
+        {
+          "t": "Khel Now – Tanvi Patri scripts history",
+          "u": "https://khelnow.com/badminton/tanvi-patri-final-youth-olympid-202611"
+        }
+      ]
+    },
+    {
+      "t": "4 Nov",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Korea Open (Super 500): Anmol Kharb and Tanvi Sharma win their openers and play Round 2 today; HS Prannoy and mixed pair Dhruv–Maneesha go out in Round 1.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Sports LIVE, November 5",
+          "u": "https://www.espn.in/espn/story/_/id/50380240/india-vs-pakistan-saff-cup-maaya-chennai-open-tennis-tanvi-patri-youth-olympics-badminton-semifinal-double-header-isl-indian-sports-live-november-5"
+        }
+      ]
+    },
     {
       "t": "4 Nov",
       "tag": "LOSS",
@@ -938,36 +1043,6 @@
       ]
     },
     {
-      "t": "2 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Tennis",
-      "text": "WTA Chennai Open starts today: wild cards Maaya Rajeshwaran Revathi, Sahaja Yamalapalli and Vaishnavi Adkar lead India's hopes.",
-      "src": [
-        {
-          "t": "WTA – Chennai Open 2026",
-          "u": "https://www.wtatennis.com/tournaments/1148/chennai-open/2026"
-        }
-      ]
-    },
-    {
-      "t": "2 Nov",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 4 under way: Karnataka bowl out Assam for 135, Rajasthan all out for 78 vs Himachal, Raghuvanshi leads Mumbai's strong start vs Railways.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy Live Score, Round 4",
-          "u": "https://sportstar.thehindu.com/cricket/"
-        },
-        {
-          "t": "Google – Ranji Trophy round 4 scores today",
-          "u": "https://www.google.com/search?q=Ranji+Trophy+round+4+scores+today"
-        }
-      ]
-    },
-    {
       "t": "1 Nov",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1017,16 +1092,17 @@
       "c": "var(--gold)",
       "m": "Badminton",
       "text": "PV Sindhu wins the Hylo Open, beating Line Højmark Kjaersfeldt 21–12, 21–14 — her second title of 2026. Lakshya Sen plays Jonatan Christie in the men's final."
-    },
-    {
-      "t": "1 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "ISL: Sporting Club Delhi beat Mumbai City 3–2 with two stoppage-time goals."
     }
   ],
   "schedule": [
+    {
+      "d": "05",
+      "mo": "NOV",
+      "title": "Vaishnavi Adkar v Zakharova, Chennai Open R16",
+      "meta": "Tennis · Chennai",
+      "time": "TBC",
+      "match": "chn-adkar-zakharova"
+    },
     {
       "d": "05",
       "mo": "NOV",
@@ -1058,6 +1134,14 @@
       "meta": "Football",
       "time": "19:30",
       "match": "isl-goa-bfc"
+    },
+    {
+      "d": "06",
+      "mo": "NOV",
+      "title": "Maaya Rajeshwaran v Montgomery, Chennai Open QF",
+      "meta": "Tennis · Chennai",
+      "time": "TBC",
+      "match": "chn-maaya-montgomery"
     },
     {
       "d": "07",
