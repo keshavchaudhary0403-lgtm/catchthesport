@@ -1,48 +1,46 @@
 {
-  "lastUpdated": "2026-11-06T12:22:52+05:30",
-  "dayLabel": "Fri 6 Nov · India U19 v Nepal live, Maaya in Chennai Open QF, FC Goa v Bengaluru 7:30 pm, 2nd ODI tomorrow 7:30 am",
-  "featured": "chn-maaya-montgomery",
+  "lastUpdated": "2026-11-07T09:40:48+05:30",
+  "dayLabel": "Sat 7 Nov · NZ v India 2nd ODI live, India U19 beat Nepal, Inter Kashi v Delhi 5 pm, Chennaiyin v East Bengal 7:30 pm",
+  "featured": "nz-ind-odi-2",
   "matches": [
     {
       "id": "u19ac-ind-nep",
       "sport": "Cricket",
       "comp": "ACC Men's U19 Asia Cup 2026",
       "round": "Group A · Match 4",
-      "st": "live",
+      "st": "result",
       "a": [
         "IND",
         "India U19",
-        "Yet to bat"
+        "129/0 (19.1)"
       ],
       "b": [
         "NEP",
         "Nepal U19",
-        "73/4 (23.4)"
+        "128 (42.3)"
       ],
       "when": "2026-11-06T10:30:00+05:30",
-      "status": "Nepal batting · India chose to bowl",
-      "scoreAt": "2026-11-06T12:22:52+05:30",
       "india": true,
       "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India U19 open their campaign; Ishan Sood ripped through Nepal's top order and Manal Chauhan also struck.",
+      "note": "India U19 win by 10 wickets with 185 balls to spare. Ishan Sood 3/18 (Player of the Match) as Nepal were bowled out for 128; Aaryavir Sehwag 70* off 52 and captain Lakshya Raichandani 53* chased it down in 19.1 overs.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "NDTV Sports – India vs Nepal LIVE, ACC Men's U-19 Asia Cup",
-          "u": "https://sports.ndtv.com/cricket"
+          "t": "ANI – Aaryavir Sehwag's unbeaten 70 power India to 10-wicket win over Nepal",
+          "u": "https://www.aninews.in/news/sports/cricket/acc-mens-u19-asia-cup-2026-aaryavir-sehwags-unbeaten-70-power-india-to-10-wicket-win-over-nepal20261106160253/"
         },
         {
-          "t": "Sportstar – IND U19 vs NEP U19 LIVE: Ishan Sood runs through top order",
-          "u": "https://sportstar.thehindu.com/cricket/"
-        },
-        {
-          "t": "Wisden – U19 Asia Cup 2026: where to watch (Sony Sports Network, Sony LIV)",
-          "u": "https://www.wisden.com/"
+          "t": "Outlook India – Sehwag, Raichandani, Sood power India U-19 to 10-wicket win",
+          "u": "https://www.outlookindia.com/sports/aaryavir-sehwag-lakshya-raichandani-ishan-sood-india-vs-nepal-10-wickets-win-acc-u19-asia-cup-2026"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "6 Nov",
+      "recent": true,
+      "resultAt": "2026-11-06T16:03:00+05:30"
     },
     {
       "id": "u19ac-ind-pak",
@@ -161,7 +159,7 @@
     },
     {
       "id": "nz-ind-odi-2",
-      "st": "upcoming",
+      "st": "live",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -169,31 +167,37 @@
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "41/3 (12.3)",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-11-07T07:30:00+05:30",
       "venue": "Hnry Stadium, Wellington",
-      "note": "Five-match ODI series follows the T20Is; 7:30 am IST start.",
+      "note": "India won the toss and chose to bowl after a rain delay; 47 overs a side. Anshul Kamboj and Auqib Nabi took the early wickets (Seifert, Young, Nicholls). India unchanged: Gill (c), Rohit, Kohli, Iyer, Rahul (wk). Conway is out of the series.",
       "src": [
         {
-          "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
-          "u": "https://www.livemint.com/sports/cricket-news"
+          "t": "VAVEL – NZ v IND 2nd ODI live (NZ 41/3, 12.3 ov)",
+          "u": "https://www.vavel.com/en/cricket/2026/11/07/1278283-new-zealand-vs-india-live-score-2nd-odi-cricket.html"
         },
         {
-          "t": "ESPNcricinfo – India tour of New Zealand 2026 fixtures",
-          "u": "https://www.cricinfo.com/"
+          "t": "Telangana Today – India elect to bowl in second ODI",
+          "u": "https://telanganatoday.com/india-elect-to-bowl-against-new-zealand-in-second-odi"
+        },
+        {
+          "t": "Outlook India – IND v NZ 2nd ODI live",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-2nd-odi-live-score-squad-ind-vs-nz-scorecard-hnry-stadium-wellington-latest-updates"
         }
       ],
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
-      ]
+      ],
+      "status": "NZ batting · 47 overs a side",
+      "scoreAt": "2026-11-07T09:40:48+05:30"
     },
     {
       "id": "nz-ind-odi-3",
@@ -230,46 +234,6 @@
         "Sony Sports Network",
         "SonyLIV"
       ]
-    },
-    {
-      "id": "act-ind-sf",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Semi-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "8"
-      ],
-      "b": [
-        "KOR",
-        "South Korea",
-        "1"
-      ],
-      "when": "2026-11-04T16:30:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Mohali",
-      "note": "India reach a third straight final. Lakra (4', 13') and Dilpreet Singh (21', 25') scored twice each; Harmanpreet (PC), Sukhjeet, Angad Bir Singh, Vivek Sagar also scored. Han Sangjun replied for Korea. Dilpreet Player of the Match. 6–1 at half-time.",
-      "watch": [
-        "Star Sports Select 2",
-        "JioHotstar"
-      ],
-      "src": [
-        {
-          "t": "Khel Now – India put eight past Korea to enter third successive final",
-          "u": "https://khelnow.com/hockey/india-korea-semifinal-report-mens-hockey-asian-champions-trophy-202611"
-        },
-        {
-          "t": "The Tribune – India thrash South Korea 8-1",
-          "u": "https://www.tribuneindia.com/news/sports/india-thrash-south-korea-8-1-to-storm-into-asian-champions-trophy-final-set-up-title-clash-with-japan"
-        }
-      ],
-      "win": "a",
-      "day": "4 Nov",
-      "recent": true,
-      "resultAt": "2026-11-04T18:00:00+05:30"
     },
     {
       "id": "isl-chu-neu",
@@ -363,7 +327,7 @@
     },
     {
       "id": "isl-goa-bfc",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -371,21 +335,25 @@
       "a": [
         "FCG",
         "FC Goa",
-        "",
+        "1",
         "#F97316"
       ],
       "b": [
         "BFC",
         "Bengaluru FC",
-        "",
+        "2",
         "#1E3A8A"
       ],
       "when": "2026-11-06T19:30:00+05:30",
       "venue": "Fatorda Stadium, Goa",
       "src": [
         {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+          "t": "myKhel – Soham Varshneya's late winner fires Bengaluru FC past FC Goa",
+          "u": "https://www.mykhel.com/football/isl-2026-27-soham-varshneyas-late-winner-fires-bengaluru-fc-to-dramatic-victory-over-fc-goa-458335.html"
+        },
+        {
+          "t": "Khel Now – FC Goa 1-2 Bengaluru FC: key takeaways",
+          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fc-goa-vs-bengaluru-fc-key-takeaways"
         }
       ],
       "watch": [
@@ -395,7 +363,12 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "6 Nov",
+      "recent": true,
+      "resultAt": "2026-11-06T22:24:00+05:30",
+      "note": "Borja Martínez (12') put Bengaluru ahead, Franchu (17') levelled for Goa, and substitute Soham Varshneya struck the winner in stoppage time (90+3')."
     },
     {
       "id": "isl-kashi-del",
@@ -468,50 +441,6 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
-    },
-    {
-      "id": "acl2-eb-alseeb",
-      "sport": "Football",
-      "comp": "AFC Champions League Two",
-      "round": "Group D · Matchday 4",
-      "st": "result",
-      "india": true,
-      "a": [
-        "EBFC",
-        "East Bengal FC",
-        "0",
-        "#C8102E"
-      ],
-      "b": [
-        "SEEB",
-        "Al-Seeb",
-        "2",
-        "#1E3A8A"
-      ],
-      "when": "2026-11-03T19:15:00+05:30",
-      "venue": "VYBK, Kolkata",
-      "note": "Al-Seeb won 2–0 with late goals from Axel Méyé (85') and Zahir Al Aghbari (90+1'). East Bengal are bottom of Group D on 2 points; next: Al Hussein (home) on 24 Nov.",
-      "watch": [
-        "FanCode"
-      ],
-      "src": [
-        {
-          "t": "AIFF – East Bengal lose to Al Seeb in ACL Two",
-          "u": "https://www.the-aiff.com/article/east-bengal-lose-to-al-seeb-in-acl-two"
-        },
-        {
-          "t": "ThePrint – East Bengal lose to Al Seeb 0-2",
-          "u": "https://theprint.in/sport/east-bengal-lose-to-al-seeb-0-2-in-acl-2-match/3089748/"
-        },
-        {
-          "t": "Khel Now – East Bengal 0-2 Al-Seeb key takeaways",
-          "u": "https://khelnow.com/football/indian-football-acl-two-east-bengal-vs-al-seeb-key-takeaways"
-        }
-      ],
-      "win": "b",
-      "day": "3 Nov",
-      "recent": true,
-      "resultAt": "2026-11-03T21:15:00+05:30"
     },
     {
       "id": "nz-ind-odi-4",
@@ -617,32 +546,32 @@
       "sport": "Tennis",
       "comp": "WTA Chennai Open 2026",
       "round": "Quarter-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Maaya Rajeshwaran Revathi",
-        ""
+        "3-6 3-6"
       ],
       "b": [
         "USA",
         "Robin Montgomery",
-        ""
+        "6-3 6-3"
       ],
       "when": "2026-11-06",
       "india": true,
       "big": true,
       "venue": "SDAT Tennis Stadium, Chennai",
-      "note": "17-year-old wild card Maaya beat Falkowska 6-4 6-3 to become the first Indian woman in a WTA quarter-final since Sania Mirza (2012). Second match on Centre Court, where play starts at 3 pm IST (after Tjen v Kudermetova); exact time TBC.",
+      "note": "Montgomery beat 16-year-old wild card Maaya in straight sets in the quarter-final. Maaya had become the first Indian woman in a WTA singles quarter-final since Sania Mirza (2012).",
       "src": [
         {
-          "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
-          "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
-        },
-        {
-          "t": "WTA – Chennai Open order of play, Friday 6 Nov (Centre Court from 3:00 pm)",
-          "u": "https://wtafiles.wtatennis.com/pdf/draws/2026/1148/OP.pdf"
+          "t": "The Tribune (ANI) – Maaya Rajeshwaran's historic Chennai Open run ends in quarter-finals",
+          "u": "https://www.tribuneindia.com/news/sports/maaya-rajeshwarans-historic-chennai-open-run-ends-in-quarter-finals/"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "6 Nov",
+      "recent": true,
+      "resultAt": "2026-11-06T23:02:00+05:30"
     },
     {
       "id": "saff-ind-pak",
@@ -726,39 +655,6 @@
           "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
         }
       ]
-    },
-    {
-      "id": "awcl-eb-hwacheon",
-      "sport": "Football",
-      "comp": "AFC Women's Champions League",
-      "round": "Group B · Matchday 2",
-      "st": "result",
-      "india": true,
-      "a": [
-        "EBFC",
-        "East Bengal FC",
-        "1",
-        "#C8102E"
-      ],
-      "b": [
-        "KSPO",
-        "Hwacheon KSPO",
-        "4",
-        "#1D4ED8"
-      ],
-      "when": "2026-11-04T20:00:00+05:30",
-      "venue": "Kolkata",
-      "note": "East Bengal lead through Fazila Ikwaput (17') but Hwacheon KSPO score four (Lee Su-bin, Wie Jae-eun, Mun Eun-ju, Wie). East Bengal have 3 points from two games; 4.25 SC (DPR Korea) already have one qualifying spot.",
-      "src": [
-        {
-          "t": "Khel Now – East Bengal suffer 1-4 defeat against Hwacheon KSPO",
-          "u": "https://khelnow.com/afc-womens-champions-league/indian-football-afc-womens-champions-league-2026-27-east-bengal-vs-hwacheon-kspo-match-report"
-        }
-      ],
-      "win": "b",
-      "day": "4 Nov",
-      "recent": true,
-      "resultAt": "2026-11-05T09:35:08+05:30"
     },
     {
       "id": "awcl-eb-425",
@@ -876,114 +772,6 @@
       "day": "5 Nov",
       "recent": true,
       "resultAt": "2026-11-06T09:35:55+05:30"
-    },
-    {
-      "id": "ranji-ben-mah",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 4 · Group C",
-      "st": "result",
-      "india": true,
-      "a": [
-        "BEN",
-        "Bengal",
-        "143 & 186",
-        "#B91C1C"
-      ],
-      "b": [
-        "MAH",
-        "Maharashtra",
-        "#0EA5E9",
-        "218 & 110/0"
-      ],
-      "when": "2026-11-02",
-      "note": "Maharashtra win by 10 wickets. Mohammed Shami took 4/37 in Maharashtra's first innings; Pradeep Dadhe and Hitesh Walunj 4 wickets each for Maharashtra in Bengal's second.",
-      "win": "b",
-      "day": "2–5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30",
-      "src": [
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round Four wrap-up",
-          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-four-wrap-up-anikethreddy-rearguard-batting-act-inspires-one-wicket-win-tripura-upset-saurashtra"
-        },
-        {
-          "t": "CricTracker – Ranji Trophy 2026-27 Round 4 review",
-          "u": "https://www.crictracker.com/cricket-news/ranji-trophy-2026-27-round-4-review/"
-        }
-      ]
-    },
-    {
-      "id": "ranji-tn-chd",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 4 · Group D",
-      "st": "result",
-      "india": true,
-      "a": [
-        "TN",
-        "Tamil Nadu",
-        "#1D4ED8",
-        "571/7 d"
-      ],
-      "b": [
-        "CHD",
-        "Chandigarh",
-        "#7C3AED",
-        "94 & 218"
-      ],
-      "when": "2026-11-02",
-      "note": "Tamil Nadu win by an innings and 259 runs. Pradosh Ranjan Paul 208, Sriram Ajith Ram 115* and 7/48 in the second innings.",
-      "win": "a",
-      "day": "2–5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30",
-      "src": [
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round Four wrap-up",
-          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-four-wrap-up-anikethreddy-rearguard-batting-act-inspires-one-wicket-win-tripura-upset-saurashtra"
-        },
-        {
-          "t": "CricTracker – Ranji Trophy 2026-27 Round 4 review",
-          "u": "https://www.crictracker.com/cricket-news/ranji-trophy-2026-27-round-4-review/"
-        }
-      ]
-    },
-    {
-      "id": "ranji-mum-rly",
-      "sport": "Cricket",
-      "comp": "Ranji Trophy 2026-27",
-      "round": "Round 4 · Group D",
-      "st": "result",
-      "india": true,
-      "a": [
-        "MUM",
-        "Mumbai",
-        "#0369A1",
-        "396 & 234/4 d"
-      ],
-      "b": [
-        "RLY",
-        "Railways",
-        "#B45309",
-        "259 & 265"
-      ],
-      "when": "2026-11-02",
-      "note": "Mumbai win by 106 runs. Tanush Kotian took 7/45 in the first innings and nine in the match; Shams Mulani 71 and 4/69.",
-      "win": "a",
-      "day": "2–5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30",
-      "src": [
-        {
-          "t": "Wisden – Ranji Trophy 2026/27 Round Four wrap-up",
-          "u": "https://www.wisden.com/series/ranji-trophy-2026-27/cricket-news/ranji-trophy-202627-round-four-wrap-up-anikethreddy-rearguard-batting-act-inspires-one-wicket-win-tripura-upset-saurashtra"
-        },
-        {
-          "t": "CricTracker – Ranji Trophy 2026-27 Round 4 review",
-          "u": "https://www.crictracker.com/cricket-news/ranji-trophy-2026-27-round-4-review/"
-        }
-      ]
     }
   ],
   "competitions": [
@@ -992,7 +780,7 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live series · India lead 1–0 · 2nd ODI 7 Nov",
+      "status": "Live · 2nd ODI in progress · India lead 1–0",
       "live": true,
       "india": true,
       "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
@@ -1012,10 +800,10 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India v Nepal now · till 14 Nov",
+      "status": "Live · India beat Nepal by 10 wkts · v Pakistan 8 Nov · till 14 Nov",
       "live": true,
       "india": true,
-      "note": "Played in Oman (Al Amerat). India's group games: Nepal 6 Nov, Pakistan 8 Nov, UAE 10 Nov, all 10:30 am IST; semi-finals 12 Nov. On Sony Sports Network and SonyLIV.",
+      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets on 6 Nov; next Pakistan 8 Nov, UAE 10 Nov (10:30 am IST); semi-finals 12 Nov. On Sony Sports Network and SonyLIV.",
       "src": [
         {
           "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
@@ -1070,9 +858,9 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · Mohun Bagan top · next: Goa v Bengaluru (6 Nov)",
+      "status": "Live · Mohun Bagan top · Inter Kashi v Delhi, Chennaiyin v East Bengal today",
       "india": true,
-      "note": "Latest: Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov). Next: FC Goa v Bengaluru FC 6 Nov; Inter Kashi v Sporting Delhi and Chennaiyin v East Bengal on 7 Nov.",
+      "note": "Latest: Bengaluru FC 2–1 FC Goa (6 Nov, Varshneya 90+3'), Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov). Today: Inter Kashi v Sporting Delhi 5 pm, Chennaiyin v East Bengal 7:30 pm.",
       "id": "isl",
       "src": [
         {
@@ -1090,7 +878,7 @@
     {
       "sport": "Football",
       "name": "AFC club competitions",
-      "status": "Live · AWCL East Bengal v April 25, 7 Nov · ACL Two next 24 Nov",
+      "status": "Live · AWCL East Bengal v April 25 today 8 pm · ACL Two next 24 Nov",
       "india": true,
       "note": "Men: East Bengal lost 0–2 at home to Al-Seeb on 3 Nov and are bottom of ACL Two Group D (2 pts); Al Hussein at home on 24 Nov. Women: East Bengal beat Ho Chi Minh City 2–1 in their AWCL opener and face Hwacheon KSPO (4 Nov) and April 25 (7 Nov) in Kolkata. East Bengal women lost 1–4 to Hwacheon KSPO (4 Nov).",
       "id": "afc-clubs",
@@ -1150,10 +938,10 @@
       "id": "chennai-open",
       "sport": "Tennis",
       "name": "WTA Chennai Open 2026",
-      "status": "Live · Maaya in QF 6 Nov · till 8 Nov",
+      "status": "Live · semi-finals 7 Nov · till 8 Nov",
       "live": true,
       "india": true,
-      "note": "WTA 250 in Chennai. Wild card Maaya Rajeshwaran Revathi (17) plays Robin Montgomery in the quarter-final on 6 Nov. Indian No. 1 Vaishnavi Adkar lost to 7th seed Zakharova in the Round of 16.",
+      "note": "WTA 250 in Chennai. Wild card Maaya Rajeshwaran Revathi (16) lost 3-6 3-6 to Robin Montgomery in the quarter-final; Indian No. 1 Vaishnavi Adkar lost in the Round of 16. Indian pairs still in the doubles.",
       "src": [
         {
           "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
@@ -1195,11 +983,35 @@
   ],
   "feed": [
     {
-      "t": "12:20",
+      "t": "09:40",
       "tag": "LIVE",
       "c": "var(--live-text)",
       "m": "Cricket",
-      "text": "U19 Asia Cup: India U19 chose to bowl and have Nepal 73/4 after 23.4 overs in Oman — Ishan Sood rips through the top order. India face Pakistan on Sunday.",
+      "text": "2nd ODI, Wellington: India won the toss and bowled after a rain delay (47 overs a side); New Zealand 41/3 after 12.3 overs — Kamboj and Nabi among the wickets. Kohli, Rohit and Gill all play.",
+      "match": "nz-ind-odi-2"
+    },
+    {
+      "t": "23:02 6 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Tennis",
+      "text": "Chennai Open: Maaya Rajeshwaran Revathi's dream run ends in the quarter-final, 3-6 3-6 to Robin Montgomery.",
+      "match": "chn-maaya-montgomery"
+    },
+    {
+      "t": "22:24 6 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "ISL: FC Goa lose 1–2 at home to Bengaluru FC — Soham Varshneya's 90+3' winner after Borja Martínez and Franchu scored.",
+      "match": "isl-goa-bfc"
+    },
+    {
+      "t": "16:03 6 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "U19 Asia Cup: India U19 beat Nepal by 10 wickets — Ishan Sood 3/18, then Aaryavir Sehwag 70* and Lakshya Raichandani 53* chase 129 in 19.1 overs. Pakistan next on Sunday.",
       "match": "u19ac-ind-nep"
     },
     {
@@ -1247,8 +1059,7 @@
       "tag": "NEWS",
       "c": "var(--live-text)",
       "m": "Cricket",
-      "text": "Ranji Trophy Round 4 ends: Maharashtra beat Bengal by 10 wickets, Tamil Nadu (Paul 208) and Karnataka win by an innings, Mumbai beat Railways by 106 runs.",
-      "match": "ranji-ben-mah"
+      "text": "Ranji Trophy Round 4 ends: Maharashtra beat Bengal by 10 wickets, Tamil Nadu (Paul 208) and Karnataka win by an innings, Mumbai beat Railways by 106 runs."
     },
     {
       "t": "4 Nov",
@@ -1286,8 +1097,7 @@
       "tag": "LOSS",
       "c": "var(--accent)",
       "m": "Football",
-      "text": "AFC Women's Champions League: East Bengal lose 1–4 to Hwacheon KSPO in Kolkata despite Ikwaput's early goal; next v 4.25 SC on 7 Nov.",
-      "match": "awcl-eb-hwacheon"
+      "text": "AFC Women's Champions League: East Bengal lose 1–4 to Hwacheon KSPO in Kolkata despite Ikwaput's early goal; next v 4.25 SC on 7 Nov."
     },
     {
       "t": "18:00 4 Nov",
@@ -1304,93 +1114,9 @@
       "m": "Cricket",
       "text": "India beat New Zealand by 5 wickets (DLS) in the 1st ODI in Auckland — Kohli 74, Arshdeep 4/70 — to lead the series 1–0.",
       "match": "nz-ind-odi-1"
-    },
-    {
-      "t": "3 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "East Bengal lose 0–2 to Al-Seeb at home in ACL Two (Méyé 85', Al Aghbari 90+1') and sit bottom of Group D.",
-      "match": "acl2-eb-alseeb",
-      "src": [
-        {
-          "t": "AIFF – East Bengal lose to Al Seeb in ACL Two",
-          "u": "https://www.the-aiff.com/article/east-bengal-lose-to-al-seeb-in-acl-two"
-        },
-        {
-          "t": "ThePrint – East Bengal lose to Al Seeb 0-2",
-          "u": "https://theprint.in/sport/east-bengal-lose-to-al-seeb-0-2-in-acl-2-match/3089748/"
-        },
-        {
-          "t": "Khel Now – East Bengal 0-2 Al-Seeb key takeaways",
-          "u": "https://khelnow.com/football/indian-football-acl-two-east-bengal-vs-al-seeb-key-takeaways"
-        }
-      ]
-    },
-    {
-      "t": "3 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Tennis",
-      "text": "Chennai Open: wild cards Maaya Rajeshwaran Revathi (beat Kawa 6-4 2-6 7-6) and Vaishnavi Adkar (beat Burrage 3-6 6-3 7-5) win their first WTA 250 main-draw matches.",
-      "src": [
-        {
-          "t": "IndiaSportsHub – Maaya stuns Kawa",
-          "u": "https://www.indiasportshub.com/articles/maaya-rajeshwaran-revathi-stuns-eighth-seed-katarzyna-kawa-to-claim-maiden-wta-250-win-in-chennai"
-        },
-        {
-          "t": "IndiaSportsHub – Adkar beats Burrage",
-          "u": "https://www.indiasportshub.com/articles/vaishnavi-adkar-defeats-former-world-no-85-jodie-burrage-to-claim-maiden-wta-tour-level-victory-in-chennai"
-        }
-      ]
-    },
-    {
-      "t": "3 Nov",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Day 2: Pradosh Ranjan Paul hits 150+ for Tamil Nadu vs Chandigarh, Shami takes three for Bengal vs Maharashtra, Karnataka 304/4 lead Assam by 169.",
-      "src": [
-        {
-          "t": "Sportstar – Ranji Trophy live score, round 4 Day 2",
-          "u": "https://sportstar.thehindu.com/cricket/"
-        },
-        {
-          "t": "Hindustan Times – Ranji Trophy Round Four Day 2 live updates",
-          "u": "https://www.hindustantimes.com/cricket"
-        },
-        {
-          "t": "Cricbuzz – Ranji Trophy Elite 2026-27 matches",
-          "u": "https://www.cricbuzz.com/cricket-series"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "06",
-      "mo": "NOV",
-      "title": "India U19 v Nepal U19, U19 Asia Cup",
-      "meta": "Cricket · Oman",
-      "time": "10:30",
-      "match": "u19ac-ind-nep"
-    },
-    {
-      "d": "06",
-      "mo": "NOV",
-      "title": "Maaya Rajeshwaran v Montgomery, Chennai Open QF",
-      "meta": "Tennis · Chennai",
-      "time": "TBC",
-      "match": "chn-maaya-montgomery"
-    },
-    {
-      "d": "06",
-      "mo": "NOV",
-      "title": "FC Goa v Bengaluru FC, ISL",
-      "meta": "Football · Goa",
-      "time": "19:30",
-      "match": "isl-goa-bfc"
-    },
     {
       "d": "07",
       "mo": "NOV",
