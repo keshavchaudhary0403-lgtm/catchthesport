@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-07T12:45:04+05:30",
-  "dayLabel": "Sat 7 Nov · NZ all out 134, India chasing in 2nd ODI · Inter Kashi v Delhi 5 pm, Chennaiyin v East Bengal 7:30 pm",
-  "featured": "nz-ind-odi-2",
+  "lastUpdated": "2026-11-08T09:40:22+05:30",
+  "dayLabel": "Sun 8 Nov · India lead NZ 2–0 after DLS win · India U19 v Pakistan U19 10:30 am",
+  "featured": "u19ac-ind-pak",
   "matches": [
     {
       "id": "u19ac-ind-nep",
@@ -159,7 +159,7 @@
     },
     {
       "id": "nz-ind-odi-2",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -173,35 +173,29 @@
       "b": [
         "IND",
         "India",
-        "19/2 (4.1)"
+        "113/7 (26)"
       ],
       "when": "2026-11-07T07:30:00+05:30",
       "venue": "Hnry Stadium, Wellington",
-      "note": "New Zealand bowled out for 134 in 41 overs (47-over match after rain) — Arshdeep Singh 4 wickets, with Gurnoor Brar, Anshul Kamboj and Auqib Nabi also among the wickets. India chasing 135: Gill out for a golden duck, Kohli also gone early. India lead the series 1–0.",
+      "note": "India win by 4 runs (DLS) after rain ended play — New Zealand 134 in 41 overs (47-over match), India 113/7 in 26 overs against a DLS par of 109. Gurnoor Brar named Player of the Match. India lead the series 2–0.",
       "src": [
         {
-          "t": "Google – NZ v IND 2nd ODI live score (NZ 134, IND 19/2)",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+2nd+ODI+live+score"
+          "t": "ESPN – India beat New Zealand by 4 runs (DLS), 2nd ODI",
+          "u": "https://www.espn.com/cricket/series/24469/game/1539438/new-zealand-vs-india-2nd-odi-24469"
         },
         {
-          "t": "VAVEL – NZ v IND 2nd ODI live (NZ 41/3, 12.3 ov)",
-          "u": "https://www.vavel.com/en/cricket/2026/11/07/1278283-new-zealand-vs-india-live-score-2nd-odi-cricket.html"
-        },
-        {
-          "t": "Telangana Today – India elect to bowl in second ODI",
-          "u": "https://telanganatoday.com/india-elect-to-bowl-against-new-zealand-in-second-odi"
-        },
-        {
-          "t": "Outlook India – IND v NZ 2nd ODI live",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-2nd-odi-live-score-squad-ind-vs-nz-scorecard-hnry-stadium-wellington-latest-updates"
+          "t": "Cricinfo – India go 2-0 up after narrow DLS win",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/match-report"
         }
       ],
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
-      "status": "India need 116 off 42.5 ov",
-      "scoreAt": "2026-11-07T12:45:04+05:30"
+      "win": "b",
+      "day": "7 Nov",
+      "recent": true,
+      "resultAt": "2026-11-07T23:20:00+05:30"
     },
     {
       "id": "nz-ind-odi-3",
@@ -376,7 +370,7 @@
     },
     {
       "id": "isl-kashi-del",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -384,21 +378,21 @@
       "a": [
         "IKFC",
         "Inter Kashi",
-        "",
+        "0",
         "#F59E0B"
       ],
       "b": [
         "DEL",
         "Sporting Club Delhi",
-        "",
+        "3",
         "#B91C1C"
       ],
       "when": "2026-11-07T17:00:00+05:30",
       "venue": "Shree Shiv Chhatrapati Sports Complex, Pune",
       "src": [
         {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+          "t": "IANS – Fortes, Peña and Rodriguinho on target as SC Delhi crush Inter Kashi 3-0",
+          "u": "https://ianslive.in/isl-202627-fortes-pena-and-rodriguinho-on-target-as-sc-delhi-crush-inter-kashi-3-0--20261107194348"
         }
       ],
       "watch": [
@@ -408,11 +402,16 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "7 Nov",
+      "recent": true,
+      "resultAt": "2026-11-07T19:00:00+05:30",
+      "note": "Carlos Fortes (6'), Juan Peña (74') and Rodriguinho (88') score as SC Delhi beat Inter Kashi."
     },
     {
       "id": "isl-che-eb",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Football",
       "comp": "Indian Super League",
@@ -420,21 +419,21 @@
       "a": [
         "CFC",
         "Chennaiyin FC",
-        "",
+        "5",
         "#1D4ED8"
       ],
       "b": [
         "EBFC",
         "East Bengal FC",
-        "",
+        "3",
         "#C8102E"
       ],
       "when": "2026-11-07T19:30:00+05:30",
       "venue": "Jawaharlal Nehru Stadium, Chennai",
       "src": [
         {
-          "t": "ISL – official fixtures & results",
-          "u": "https://www.indiansuperleague.com/schedule-fixtures"
+          "t": "IANS – Brison and Irfan star as Chennaiyin FC rout East Bengal 5-3",
+          "u": "https://ianslive.in/isl-202627-brison-and-irfan-star-as-chennaiyin-fc-rout-defending-champions-east-bengal-5-3--20261107221938"
         }
       ],
       "watch": [
@@ -444,7 +443,12 @@
           "n": "YouTube – ISL (free)",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "7 Nov",
+      "recent": true,
+      "resultAt": "2026-11-07T22:19:00+05:30",
+      "note": "Brison Fernandes (4', 18'), Ramon Tanque (41' pen) and Irfan Yadwad (2) for Chennaiyin; Aké Loba, Dani Ramírez (pen) and David Lalhlansanga for East Bengal. Chennaiyin's first win of the season, East Bengal's first league defeat."
     },
     {
       "id": "nz-ind-odi-4",
@@ -784,7 +788,7 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live · 2nd ODI: India chasing 135 · India lead 1–0",
+      "status": "Live series · India lead 2–0 · 3rd ODI 10 Nov",
       "live": true,
       "india": true,
       "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
@@ -862,9 +866,9 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · Mohun Bagan top · Inter Kashi v Delhi, Chennaiyin v East Bengal today",
+      "status": "Live · Mohun Bagan top · SC Delhi won 3–0 at Inter Kashi, Chennaiyin 5–3 East Bengal",
       "india": true,
-      "note": "Latest: Bengaluru FC 2–1 FC Goa (6 Nov, Varshneya 90+3'), Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov). Today: Inter Kashi v Sporting Delhi 5 pm, Chennaiyin v East Bengal 7:30 pm.",
+      "note": "Latest: Chennaiyin FC 5–3 East Bengal, SC Delhi 3–0 Inter Kashi (7 Nov); Bengaluru FC 2–1 FC Goa (6 Nov); Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov).",
       "id": "isl",
       "src": [
         {
@@ -987,26 +991,28 @@
   ],
   "feed": [
     {
-      "t": "12:45",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "23:20 7 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Cricket",
-      "text": "2nd ODI, Wellington: India bowl New Zealand out for 134 in 41 overs — Arshdeep Singh takes 4. The chase of 135 starts shakily: Gill out first ball, Kohli also gone; India 19/2 after 4.1 overs.",
-      "match": "nz-ind-odi-2",
-      "src": [
-        {
-          "t": "Google – NZ v IND 2nd ODI live score (NZ 134, IND 19/2)",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+2nd+ODI+live+score"
-        }
-      ]
+      "text": "2nd ODI, Wellington: India beat New Zealand by 4 runs (DLS) after rain ended play — NZ 134 in 41 overs, India 113/7 in 26. Gurnoor Brar is Player of the Match; India lead 2–0.",
+      "match": "nz-ind-odi-2"
     },
     {
-      "t": "09:40",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "2nd ODI, Wellington: India won the toss and bowled after a rain delay (47 overs a side); New Zealand 41/3 after 12.3 overs — Kamboj and Nabi among the wickets. Kohli, Rohit and Gill all play.",
-      "match": "nz-ind-odi-2"
+      "t": "22:19 7 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "ISL: East Bengal lose 3–5 at Chennaiyin FC — Brison Fernandes scores twice in the first 18 minutes; Chennaiyin's first win of the season.",
+      "match": "isl-che-eb"
+    },
+    {
+      "t": "19:43 7 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "ISL: Inter Kashi lose 0–3 to SC Delhi in Pune — Fortes, Peña and Rodriguinho score.",
+      "match": "isl-kashi-del"
     },
     {
       "t": "23:02 6 Nov",
@@ -1116,41 +1122,9 @@
       "c": "var(--accent)",
       "m": "Football",
       "text": "AFC Women's Champions League: East Bengal lose 1–4 to Hwacheon KSPO in Kolkata despite Ikwaput's early goal; next v 4.25 SC on 7 Nov."
-    },
-    {
-      "t": "18:00 4 Nov",
-      "tag": "FINAL",
-      "c": "var(--gold)",
-      "m": "Hockey",
-      "text": "India thrash South Korea 8–1 in the Asian Champions Trophy semi-final (Lakra 2, Dilpreet 2) and meet Japan in the final tonight at 7 pm in Mohali.",
-      "match": "act-ind-final"
     }
   ],
   "schedule": [
-    {
-      "d": "07",
-      "mo": "NOV",
-      "title": "New Zealand v India, 2nd ODI",
-      "meta": "Cricket · Wellington",
-      "time": "07:30",
-      "match": "nz-ind-odi-2"
-    },
-    {
-      "d": "07",
-      "mo": "NOV",
-      "title": "Inter Kashi v Sporting Club Delhi, ISL",
-      "meta": "Football · Pune",
-      "time": "17:00",
-      "match": "isl-kashi-del"
-    },
-    {
-      "d": "07",
-      "mo": "NOV",
-      "title": "Chennaiyin FC v East Bengal, ISL",
-      "meta": "Football · Chennai",
-      "time": "19:30",
-      "match": "isl-che-eb"
-    },
     {
       "d": "07",
       "mo": "NOV",
