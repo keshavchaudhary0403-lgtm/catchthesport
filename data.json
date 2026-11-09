@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-08T09:40:22+05:30",
-  "dayLabel": "Sun 8 Nov · India lead NZ 2–0 after DLS win · India U19 v Pakistan U19 10:30 am",
-  "featured": "u19ac-ind-pak",
+  "lastUpdated": "2026-11-09T09:35:03+05:30",
+  "dayLabel": "Mon 9 Nov · India lead NZ 2–0, 3rd ODI tomorrow 7:30 am · India U19 lost to Pakistan U19",
+  "featured": "nz-ind-odi-3",
   "matches": [
     {
       "id": "u19ac-ind-nep",
@@ -47,40 +47,35 @@
       "sport": "Cricket",
       "comp": "ACC Men's U19 Asia Cup 2026",
       "round": "Group A · Match 7",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India U19",
-        ""
+        "208 (46.3)"
       ],
       "b": [
         "PAK",
         "Pakistan U19",
-        ""
+        "209/7 (48.1)"
       ],
       "when": "2026-11-08T10:30:00+05:30",
       "india": true,
-      "big": true,
       "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India v Pakistan in the U19 Asia Cup group stage.",
+      "note": "Pakistan U19 win by 3 wickets with 11 balls to spare. Arjun Rajput's 107 off 85 lifted India U19 to 208; Hamza Zahoor (Player of the Match) made 100* off 108 as Pakistan chased from 61/5. Manal Chauhan 3/32 for India.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
-          "u": "https://www.jagranjosh.com/"
-        },
-        {
-          "t": "Wisden – U19 Asia Cup 2026: where to watch (Sony Sports Network, Sony LIV)",
-          "u": "https://www.wisden.com/"
-        },
-        {
-          "t": "BCCI – India U19 v Pakistan U19 match centre",
-          "u": "https://www.bcci.tv/"
+          "t": "Sunday Guardian – Arjun Rajput's 107 goes in vain as Pakistan snatch dramatic victory",
+          "u": "https://sundayguardianlive.com/sports/india-u19-vs-pakistan-u19-highlights-arjun-rajputs-107-goes-in-vain-as-pakistan-snatch-dramatic-victory-in-acc-u19-asia-cup-2026-319425/"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "8 Nov",
+      "recent": true,
+      "resultAt": "2026-11-08T20:30:00+05:30"
     },
     {
       "id": "u19ac-ind-uae",
@@ -669,33 +664,36 @@
       "sport": "Football",
       "comp": "AFC Women's Champions League",
       "round": "Group B · Matchday 3",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "a": [
         "EBFC",
         "East Bengal FC",
-        "",
+        "0",
         "#C8102E"
       ],
       "b": [
         "425",
         "April 25 SC",
-        "",
+        "2",
         "#B91C1C"
       ],
       "when": "2026-11-07T20:00:00+05:30",
       "venue": "Kolkata",
-      "note": "Final Group B game against North Korea's April 25; top two advance.",
+      "note": "East Bengal lose 0–2 to North Korea's April 25 SC in their final Group B game but still qualify for the AWCL quarter-finals, the first Indian club to do so.",
       "src": [
         {
-          "t": "Wikipedia – 2026–27 AFC Women's Champions League",
-          "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Women%27s_Champions_League"
+          "t": "Khel Now – East Bengal qualify for the quarter-finals despite 2-0 defeat to April 4.25 SC",
+          "u": "https://khelnow.com/afc-womens-champions-league/indian-football-afc-womens-champions-league-2026-27-east-bengal-fc-vs-april-25-sc-match-report"
         },
         {
-          "t": "AIFF – East Bengal drawn with Hwacheon KSPO, Ho Chi Minh City, 4.25 in AWCL group stage",
-          "u": "https://www.the-aiff.com/article/east-bengal-fc-drawn-with-hwacheon-kspo-ho-chi-minh-city-4-25-in-afc-womens-champions-league-group-stage"
+          "t": "The Tribune – East Bengal first Indian club in AWCL quarter-finals",
+          "u": "https://www.tribuneindia.com/news/sports/east-bengal-becomes-first-indian-club-to-reach-quarter-finals-of-afc-womens-champions-league"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "7 Nov",
+      "recent": false
     },
     {
       "id": "act-ind-final",
@@ -808,10 +806,10 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India beat Nepal by 10 wkts · v Pakistan 8 Nov · till 14 Nov",
+      "status": "Live · India lost to Pakistan by 3 wkts · v UAE 10 Nov · till 14 Nov",
       "live": true,
       "india": true,
-      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets on 6 Nov; next Pakistan 8 Nov, UAE 10 Nov (10:30 am IST); semi-finals 12 Nov. On Sony Sports Network and SonyLIV.",
+      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets (6 Nov) but lost to Pakistan by 3 wickets (8 Nov); Pakistan lead Group A on 4 pts, India on 2. Last group game v UAE 10 Nov (10:30 am IST); semi-finals 12 Nov. On Sony Sports Network and SonyLIV.",
       "src": [
         {
           "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
@@ -886,9 +884,9 @@
     {
       "sport": "Football",
       "name": "AFC club competitions",
-      "status": "Live · AWCL East Bengal v April 25 today 8 pm · ACL Two next 24 Nov",
+      "status": "Live · East Bengal women into AWCL quarter-finals · ACL Two next 24 Nov",
       "india": true,
-      "note": "Men: East Bengal lost 0–2 at home to Al-Seeb on 3 Nov and are bottom of ACL Two Group D (2 pts); Al Hussein at home on 24 Nov. Women: East Bengal beat Ho Chi Minh City 2–1 in their AWCL opener and face Hwacheon KSPO (4 Nov) and April 25 (7 Nov) in Kolkata. East Bengal women lost 1–4 to Hwacheon KSPO (4 Nov).",
+      "note": "Women: East Bengal lost 0–2 to April 25 on 7 Nov but qualified for the AWCL quarter-finals, the first Indian club to do so (earlier: beat Ho Chi Minh City 2–1, lost 1–4 to Hwacheon KSPO). Men: East Bengal are bottom of ACL Two Group D (2 pts) after a 0–2 home loss to Al-Seeb on 3 Nov; Al Hussein at home on 24 Nov.",
       "id": "afc-clubs",
       "src": [
         {
@@ -990,6 +988,22 @@
     }
   ],
   "feed": [
+    {
+      "t": "8 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "U19 Asia Cup: India U19 lose to Pakistan U19 by 3 wickets — Arjun Rajput's 107 helps India to 208, but Hamza Zahoor's unbeaten 100 wins it for Pakistan with 11 balls left.",
+      "match": "u19ac-ind-pak"
+    },
+    {
+      "t": "7 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "AWCL: East Bengal lose 0–2 to April 25 SC in Kolkata but go through to the quarter-finals — the first Indian club to reach that stage.",
+      "match": "awcl-eb-425"
+    },
     {
       "t": "23:20 7 Nov",
       "tag": "WIN",
@@ -1098,49 +1112,9 @@
           "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
         }
       ]
-    },
-    {
-      "t": "4 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Youth Olympics (Dakar): 15-year-old Tanvi Patri beats Japan's Yuzuno Watanabe 21-14 11-21 21-19 to become the first Indian woman in the Youth Olympic badminton final — a medal assured; she meets world junior champion Zhang Yi Xin (China).",
-      "src": [
-        {
-          "t": "Indian Express – Tanvi Patri vs Zhang Yi Xin: what to expect",
-          "u": "https://indianexpress.com/article/sports/badminton/tanvi-patri-zhang-yi-xin-youth-olympics-badminton-10951405/"
-        },
-        {
-          "t": "Khel Now – Tanvi Patri scripts history",
-          "u": "https://khelnow.com/badminton/tanvi-patri-final-youth-olympid-202611"
-        }
-      ]
-    },
-    {
-      "t": "4 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "AFC Women's Champions League: East Bengal lose 1–4 to Hwacheon KSPO in Kolkata despite Ikwaput's early goal; next v 4.25 SC on 7 Nov."
     }
   ],
   "schedule": [
-    {
-      "d": "07",
-      "mo": "NOV",
-      "title": "East Bengal v April 25, AFC Women's Champions League",
-      "meta": "Football · Kolkata",
-      "time": "20:00",
-      "match": "awcl-eb-425"
-    },
-    {
-      "d": "08",
-      "mo": "NOV",
-      "title": "India U19 v Pakistan U19, U19 Asia Cup",
-      "meta": "Cricket · Oman",
-      "time": "10:30",
-      "match": "u19ac-ind-pak"
-    },
     {
       "d": "10",
       "mo": "NOV",
