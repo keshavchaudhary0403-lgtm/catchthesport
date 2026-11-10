@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T09:35:03+05:30",
-  "dayLabel": "Mon 9 Nov · India lead NZ 2–0, 3rd ODI tomorrow 7:30 am · India U19 lost to Pakistan U19",
+  "lastUpdated": "2026-11-10T09:35:06+05:30",
+  "dayLabel": "Tue 10 Nov · 3rd NZ v India ODI delayed by rain at the toss · India U19 v UAE U19 10:30 am · India football v NZ friendlies Thu & Sun",
   "featured": "nz-ind-odi-3",
   "matches": [
     {
@@ -96,7 +96,7 @@
       "when": "2026-11-10T10:30:00+05:30",
       "india": true,
       "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "Last group game; semi-finals on 12 Nov.",
+      "note": "Last group game, 10:30 am IST. Pakistan lead Group A on 4 pts; India and UAE have 2 each. Semi-finals 12 Nov, final 14 Nov.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
@@ -111,46 +111,6 @@
           "u": "https://www.wisden.com/"
         }
       ]
-    },
-    {
-      "id": "nz-ind-odi-1",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "1st ODI",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "185 (40.2)",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "143/5 (22.4)"
-      ],
-      "when": "2026-11-04T07:30:00+05:30",
-      "venue": "Eden Park, Auckland",
-      "note": "India win by 5 wickets (DLS; target 143 in 32 ov) and lead the 5-match series 1–0. Virat Kohli 74 off 51; Arshdeep Singh 4/70, Gurnoor Brar 3 wickets; Anshul Kamboj Player of the Match. Rohit Sharma out for a duck. NZ: Seifert 38, Tickner 34.",
-      "src": [
-        {
-          "t": "India.com – NZ vs IND 1st ODI highlights",
-          "u": "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-1st-odi-match-4-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-eden-park-auckland-8541991/"
-        },
-        {
-          "t": "Cricinfo – Kohli and quicks power India to 1-0 lead in Auckland",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-odi-1539437/match-report"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "win": "b",
-      "day": "4 Nov",
-      "recent": true,
-      "resultAt": "2026-11-04T15:33:00+05:30"
     },
     {
       "id": "nz-ind-odi-2",
@@ -211,9 +171,13 @@
         ""
       ],
       "when": "2026-11-10T07:30:00+05:30",
-      "venue": "Hamilton",
-      "note": "Five-match ODI series follows the T20Is; 7:30 am IST start.",
+      "venue": "Seddon Park, Hamilton",
+      "note": "India lead 2–0. Rain and a thunderstorm warning at Hamilton delayed the toss (as of 7:28 am IST); start time to be confirmed. Matt Henry out injured; Kristian Clarke added as cover for Blair Tickner.",
       "src": [
+        {
+          "t": "India.com – IND vs NZ 3rd ODI live: thunderstorm at Hamilton, rain delays toss",
+          "u": "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-3rd-odi-match-10-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-seddon-park-hamilton-8543537/"
+        },
         {
           "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
           "u": "https://www.livemint.com/sports/cricket-news"
@@ -227,96 +191,6 @@
         "Sony Sports Network",
         "SonyLIV"
       ]
-    },
-    {
-      "id": "isl-chu-neu",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "CHB",
-        "Churchill Brothers",
-        "0",
-        "#9F1239"
-      ],
-      "b": [
-        "NEU",
-        "NorthEast United",
-        "2",
-        "#C8102E"
-      ],
-      "when": "2026-11-05T17:00:00+05:30",
-      "venue": "Fatorda Stadium, Goa",
-      "src": [
-        {
-          "t": "Khel Now – NorthEast United extend unbeaten run with 2-0 win over Churchill Brothers",
-          "u": "https://khelnow.com/football/indian-football-isl-northeast-united-vs-churchill-brothers-report"
-        },
-        {
-          "t": "IANS – NorthEast United beat Churchill Brothers 2-0",
-          "u": "https://ianslive.in/isl-202627-northeast-united-beat-churchill-brothers-2-0-extend-unbeaten-run-to-five-games--20261105203303"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "b",
-      "day": "5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30",
-      "note": "Ethyan Gonzalez (16') and Antonio Moyano (90+3') scored; NorthEast United extend their unbeaten run to five games."
-    },
-    {
-      "id": "isl-mbsg-odi",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "MBSG",
-        "Mohun Bagan SG",
-        "3",
-        "#166534"
-      ],
-      "b": [
-        "ODI",
-        "Odisha FC",
-        "2",
-        "#7C3AED"
-      ],
-      "when": "2026-11-05T19:30:00+05:30",
-      "venue": "VYBK, Kolkata",
-      "src": [
-        {
-          "t": "Khel Now – Lee Erwin's late strike seals 3-2 win as Mohun Bagan overcome Odisha FC",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-mohun-bagan-vs-odisha-fc-match-report"
-        },
-        {
-          "t": "IANS – Mohun Bagan edge Odisha in five-goal thriller, go top",
-          "u": "https://ianslive.in/isl-202627-mohun-bagan-super-giant-edge-odisha-fc-in-five-goal-thriller-go-top-of-the-table--20261105223916"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "a",
-      "day": "5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30",
-      "note": "Drazic (47', 74'), Everton (79') and a late Lee Erwin winner (88') for Mohun Bagan; Mahmoud Eid scored for Odisha (51') plus a second. 0–0 at half-time; Bagan go top of the table."
     },
     {
       "id": "isl-goa-bfc",
@@ -513,38 +387,6 @@
       ]
     },
     {
-      "id": "chn-adkar-zakharova",
-      "sport": "Tennis",
-      "comp": "WTA Chennai Open 2026",
-      "round": "Round of 16",
-      "st": "result",
-      "a": [
-        "IND",
-        "Vaishnavi Adkar",
-        "Lost"
-      ],
-      "b": [
-        "AZ",
-        "Anastasia Zakharova",
-        "Won",
-        "#6B7280"
-      ],
-      "when": "2026-11-05",
-      "india": true,
-      "venue": "SDAT Tennis Stadium, Chennai",
-      "note": "7th seed Zakharova beat Indian No. 1 Vaishnavi Adkar in the Round of 16 and plays Stefanini in the quarter-finals; set scores not confirmed.",
-      "src": [
-        {
-          "t": "Fubo – Chennai Open quarter-finals schedule, 6 Nov 2026",
-          "u": "https://www.fubo.tv/news/tennis/chennai-open-quarterfinals-live-stream-how-to-watch-2026-chennai-open-tennis-nov-6-2026/"
-        }
-      ],
-      "win": "b",
-      "day": "5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30"
-    },
-    {
       "id": "chn-maaya-montgomery",
       "sport": "Tennis",
       "comp": "WTA Chennai Open 2026",
@@ -575,48 +417,6 @@
       "day": "6 Nov",
       "recent": true,
       "resultAt": "2026-11-06T23:02:00+05:30"
-    },
-    {
-      "id": "saff-ind-pak",
-      "sport": "Football",
-      "comp": "SAFF Championship 2026",
-      "round": "Group B",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "3"
-      ],
-      "b": [
-        "PAK",
-        "Pakistan",
-        "2"
-      ],
-      "when": "2026-11-05T15:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "National Stadium, Dhaka",
-      "watch": [
-        {
-          "n": "VETO (app & website)",
-          "u": "https://www.vetosports.com"
-        }
-      ],
-      "note": "Suhail Ahmed Bhat scored twice and Manglenthang Kipgen once to lead 3–0; Najeebullah and Alamgir Ghazi pulled two back for Pakistan in stoppage time. Pakistan's Shayak Dost skied a penalty. India fielded a second-string side.",
-      "src": [
-        {
-          "t": "ESPN – India 3-2 Pakistan: Suhail Bhat stars as defending champions open SAFF 2026 with win",
-          "u": "https://www.espn.com/football/story/_/id/50386048/india-vs-pakistan-live-latest-updates-commentary-score-news-saff-championship-2026"
-        },
-        {
-          "t": "Outlook India – India edge Pakistan 3-2 in SAFF Championship 2026 opener",
-          "u": "https://www.outlookindia.com/sports/football/india-vs-pakistan-saff-championship-2026-match-report"
-        }
-      ],
-      "win": "a",
-      "day": "5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30"
     },
     {
       "id": "saff-ind-mdv",
@@ -696,88 +496,62 @@
       "recent": false
     },
     {
-      "id": "act-ind-final",
-      "sport": "Hockey",
-      "comp": "Asian Champions Trophy 2026",
-      "round": "Final",
-      "st": "result",
+      "id": "ind-nz-fr1",
+      "sport": "Football",
+      "comp": "India tour of New Zealand (friendlies)",
+      "round": "1st friendly",
+      "st": "upcoming",
       "a": [
         "IND",
         "India",
-        "4"
+        ""
       ],
       "b": [
-        "JPN",
-        "Japan",
-        "1"
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
       ],
-      "when": "2026-11-05T19:00:00+05:30",
+      "when": "2026-11-12T11:40:00+05:30",
       "india": true,
       "big": true,
-      "gold": true,
-      "venue": "Olympian Balbir Singh Senior Stadium, Mohali",
-      "note": "India record a sixth Asian Champions Trophy title and third in a row, unbeaten (7 wins from 7). Japan led through Matsumoto (3'); Lakra (42'), Dilpreet Singh (47'), Jugraj Singh (52') and Vivek Sagar Prasad (53') turned it round. Malaysia beat South Korea 5–2 for bronze.",
-      "watch": [
-        "Star Sports Select 2",
-        "JioHotstar"
-      ],
+      "venue": "Go Media Stadium, Auckland",
+      "note": "Men's international friendly during the FIFA window; India's first visit to New Zealand. Broadcaster in India not yet confirmed.",
       "src": [
         {
-          "t": "The Tribune – India beat Japan 4-1 to lift record-extending 6th Asian Champions Trophy title",
-          "u": "https://www.tribuneindia.com/news/asian-champions-trophy-2026/india-beat-japan-4-1-to-lift-record-extending-6th-asian-champions-trophy-title"
-        },
-        {
-          "t": "Outlook India – India 4-1 Japan, ACT 2026 final",
-          "u": "https://www.outlookindia.com/sports/hockey/india-vs-japan-hockey-final-live-score-asian-champions-trophy-2026-latest-updates"
+          "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
+          "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
         }
-      ],
-      "win": "a",
-      "day": "5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30"
+      ]
     },
     {
-      "id": "yog-patri-zhang",
-      "sport": "Badminton",
-      "comp": "Youth Olympic Games 2026",
-      "round": "Women's singles final",
-      "st": "result",
+      "id": "ind-nz-fr2",
+      "sport": "Football",
+      "comp": "India tour of New Zealand (friendlies)",
+      "round": "2nd friendly",
+      "st": "upcoming",
       "a": [
         "IND",
-        "Tanvi Patri",
-        "1"
+        "India",
+        ""
       ],
       "b": [
-        "CHN",
-        "Zhang Yixin",
-        "2"
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
       ],
-      "when": "2026-11-05T23:00:00+05:30",
+      "when": "2026-11-15T08:40:00+05:30",
       "india": true,
       "big": true,
-      "gold": true,
-      "venue": "Dakar, Senegal",
-      "watch": [
-        {
-          "n": "Olympics.com / YouTube – Olympics",
-          "u": "https://www.youtube.com/@Olympics/streams"
-        }
-      ],
-      "note": "Tanvi Patri (15) wins Youth Olympic silver — India's first women's singles medal in badminton at the Games — losing 21–15, 13–21, 24–26 to world junior champion Zhang Yixin after saving six match points. Score shows games won.",
+      "venue": "One New Zealand Stadium, Christchurch",
+      "note": "Men's international friendly during the FIFA window; India's first visit to New Zealand. Broadcaster in India not yet confirmed.",
       "src": [
         {
-          "t": "Khel Now – Tanvi Patri becomes India's first-ever woman medallist in badminton at Youth Olympics",
-          "u": "https://khelnow.com/olympics/tanvi-patri-final-report-youth-olympics-202611"
-        },
-        {
-          "t": "ANI – Tanvi Patri creates history, first Indian women's singles shuttler to win Youth Olympics silver",
-          "u": "https://www.aninews.in/news/sports/others/tanvi-patri-creates-history-becomes-first-indian-womens-singles-shuttler-to-win-youth-olympics-silver20261106012005/"
+          "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
+          "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
         }
-      ],
-      "win": "b",
-      "day": "5 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T09:35:55+05:30"
+      ]
     }
   ],
   "competitions": [
@@ -806,7 +580,7 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India lost to Pakistan by 3 wkts · v UAE 10 Nov · till 14 Nov",
+      "status": "Live · India v UAE 10 Nov · semi-finals 12 Nov · final 14 Nov",
       "live": true,
       "india": true,
       "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets (6 Nov) but lost to Pakistan by 3 wickets (8 Nov); Pakistan lead Group A on 4 pts, India on 2. Last group game v UAE 10 Nov (10:30 am IST); semi-finals 12 Nov. On Sony Sports Network and SonyLIV.",
@@ -818,6 +592,22 @@
         {
           "t": "Wisden – U19 Asia Cup 2026: where to watch (Sony Sports Network, Sony LIV)",
           "u": "https://www.wisden.com/"
+        }
+      ]
+    },
+    {
+      "id": "ind-nz-fb",
+      "sport": "Football",
+      "name": "India football tour of New Zealand",
+      "comp": "India tour of New Zealand (friendlies)",
+      "status": "Starts 12 Nov · 2nd friendly 15 Nov",
+      "live": true,
+      "india": true,
+      "note": "Two men's friendlies v New Zealand in Auckland (12 Nov, 11:40 am IST) and Christchurch (15 Nov, 8:40 am IST).",
+      "src": [
+        {
+          "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
+          "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
         }
       ]
     },
@@ -864,7 +654,7 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · Mohun Bagan top · SC Delhi won 3–0 at Inter Kashi, Chennaiyin 5–3 East Bengal",
+      "status": "Live · international break · Mohun Bagan top",
       "india": true,
       "note": "Latest: Chennaiyin FC 5–3 East Bengal, SC Delhi 3–0 Inter Kashi (7 Nov); Bengaluru FC 2–1 FC Goa (6 Nov); Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov).",
       "id": "isl",
@@ -944,10 +734,10 @@
       "id": "chennai-open",
       "sport": "Tennis",
       "name": "WTA Chennai Open 2026",
-      "status": "Live · semi-finals 7 Nov · till 8 Nov",
-      "live": true,
+      "status": "Concluded · 8 Nov",
+      "live": false,
       "india": true,
-      "note": "WTA 250 in Chennai. Wild card Maaya Rajeshwaran Revathi (16) lost 3-6 3-6 to Robin Montgomery in the quarter-final; Indian No. 1 Vaishnavi Adkar lost in the Round of 16. Indian pairs still in the doubles.",
+      "note": "WTA 250 in Chennai. Wild card Maaya Rajeshwaran Revathi (16) became the first Indian woman in a WTA singles quarter-final since Sania Mirza (2012) before losing 3-6 3-6 to Robin Montgomery.",
       "src": [
         {
           "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
@@ -1054,46 +844,6 @@
     },
     {
       "t": "5 Nov",
-      "tag": "FINAL",
-      "c": "var(--gold)",
-      "m": "Badminton",
-      "text": "Silver for Tanvi Patri at the Youth Olympics: the 15-year-old loses a thriller 21–15, 13–21, 24–26 to China's Zhang Yixin after saving six match points — India's first women's badminton medal at the Games.",
-      "match": "yog-patri-zhang"
-    },
-    {
-      "t": "5 Nov",
-      "tag": "FINAL",
-      "c": "var(--gold)",
-      "m": "Hockey",
-      "text": "India are Asian Champions Trophy winners again: a 4–1 comeback win over Japan in Mohali (Lakra, Dilpreet, Jugraj, Vivek Sagar after Japan led 1–0) for a record sixth title.",
-      "match": "act-ind-final"
-    },
-    {
-      "t": "5 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "SAFF Championship: India beat Pakistan 3–2 in Dhaka — Suhail Bhat 2, Kipgen 1 — as Pakistan scored twice in stoppage time.",
-      "match": "saff-ind-pak"
-    },
-    {
-      "t": "5 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "ISL: Mohun Bagan beat Odisha 3–2 with Lee Erwin's 88th-minute winner to go top; NorthEast United beat Churchill Brothers 2–0.",
-      "match": "isl-mbsg-odi"
-    },
-    {
-      "t": "5 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Tennis",
-      "text": "Chennai Open: Indian No. 1 Vaishnavi Adkar goes out in the Round of 16 to 7th seed Zakharova; Maaya Rajeshwaran is India's last singles hope.",
-      "match": "chn-adkar-zakharova"
-    },
-    {
-      "t": "5 Nov",
       "tag": "NEWS",
       "c": "var(--live-text)",
       "m": "Cricket",
@@ -1119,7 +869,7 @@
       "d": "10",
       "mo": "NOV",
       "title": "New Zealand v India, 3rd ODI",
-      "meta": "Cricket · Hamilton",
+      "meta": "Cricket · Hamilton · rain delay",
       "time": "07:30",
       "match": "nz-ind-odi-3"
     },
@@ -1140,12 +890,36 @@
       "match": "saff-ind-mdv"
     },
     {
+      "d": "12",
+      "mo": "NOV",
+      "title": "New Zealand v India, football friendly",
+      "meta": "Football · Auckland",
+      "time": "11:40",
+      "match": "ind-nz-fr1"
+    },
+    {
       "d": "13",
       "mo": "NOV",
       "title": "New Zealand v India, 4th ODI",
       "meta": "Cricket · New Zealand",
       "time": "07:30",
       "match": "nz-ind-odi-4"
+    },
+    {
+      "d": "15",
+      "mo": "NOV",
+      "title": "New Zealand v India, football friendly",
+      "meta": "Football · Christchurch",
+      "time": "08:40",
+      "match": "ind-nz-fr2"
+    },
+    {
+      "d": "15",
+      "mo": "NOV",
+      "title": "New Zealand v India, 5th ODI",
+      "meta": "Cricket · Bay Oval",
+      "time": "07:30",
+      "match": "nz-ind-odi-5"
     }
   ],
   "players": [
