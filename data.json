@@ -1,47 +1,8 @@
 {
-  "lastUpdated": "2026-11-11T09:35:18+05:30",
-  "dayLabel": "Wed 11 Nov · India v Maldives, SAFF Championship 3 pm · India U19 into Asia Cup semis · India football v NZ friendlies Thu & Sun",
+  "lastUpdated": "2026-11-11T09:51:26+05:30",
+  "dayLabel": "Wed 11 Nov · India v Maldives, SAFF 3 pm (draw enough for semis) · Lakshya at Japan Masters · U19 semi v Afghanistan Thu",
   "featured": "saff-ind-mdv",
   "matches": [
-    {
-      "id": "u19ac-ind-nep",
-      "sport": "Cricket",
-      "comp": "ACC Men's U19 Asia Cup 2026",
-      "round": "Group A · Match 4",
-      "st": "result",
-      "a": [
-        "IND",
-        "India U19",
-        "129/0 (19.1)"
-      ],
-      "b": [
-        "NEP",
-        "Nepal U19",
-        "128 (42.3)"
-      ],
-      "when": "2026-11-06T10:30:00+05:30",
-      "india": true,
-      "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India U19 win by 10 wickets with 185 balls to spare. Ishan Sood 3/18 (Player of the Match) as Nepal were bowled out for 128; Aaryavir Sehwag 70* off 52 and captain Lakshya Raichandani 53* chased it down in 19.1 overs.",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "src": [
-        {
-          "t": "ANI – Aaryavir Sehwag's unbeaten 70 power India to 10-wicket win over Nepal",
-          "u": "https://www.aninews.in/news/sports/cricket/acc-mens-u19-asia-cup-2026-aaryavir-sehwags-unbeaten-70-power-india-to-10-wicket-win-over-nepal20261106160253/"
-        },
-        {
-          "t": "Outlook India – Sehwag, Raichandani, Sood power India U-19 to 10-wicket win",
-          "u": "https://www.outlookindia.com/sports/aaryavir-sehwag-lakshya-raichandani-ishan-sood-india-vs-nepal-10-wickets-win-acc-u19-asia-cup-2026"
-        }
-      ],
-      "win": "a",
-      "day": "6 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T16:03:00+05:30"
-    },
     {
       "id": "u19ac-ind-pak",
       "sport": "Cricket",
@@ -196,51 +157,6 @@
       "resultAt": "2026-11-10T11:37:00+05:30"
     },
     {
-      "id": "isl-goa-bfc",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "FCG",
-        "FC Goa",
-        "1",
-        "#F97316"
-      ],
-      "b": [
-        "BFC",
-        "Bengaluru FC",
-        "2",
-        "#1E3A8A"
-      ],
-      "when": "2026-11-06T19:30:00+05:30",
-      "venue": "Fatorda Stadium, Goa",
-      "src": [
-        {
-          "t": "myKhel – Soham Varshneya's late winner fires Bengaluru FC past FC Goa",
-          "u": "https://www.mykhel.com/football/isl-2026-27-soham-varshneyas-late-winner-fires-bengaluru-fc-to-dramatic-victory-over-fc-goa-458335.html"
-        },
-        {
-          "t": "Khel Now – FC Goa 1-2 Bengaluru FC: key takeaways",
-          "u": "https://khelnow.com/football/indian-football-isl-2026-27-fc-goa-vs-bengaluru-fc-key-takeaways"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "b",
-      "day": "6 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T22:24:00+05:30",
-      "note": "Borja Martínez (12') put Bengaluru ahead, Franchu (17') levelled for Goa, and substitute Soham Varshneya struck the winner in stoppage time (90+3')."
-    },
-    {
       "id": "isl-kashi-del",
       "st": "result",
       "india": true,
@@ -341,17 +257,22 @@
         ""
       ],
       "when": "2026-11-13T07:30:00+05:30",
-      "note": "Fourth of five ODIs; venue as per the published tour schedule.",
+      "note": "Fourth of five ODIs (3:00 pm local start). India lead 2–0 after the 3rd ODI was washed out.",
       "src": [
         {
-          "t": "Google – India cricket team fixtures",
-          "u": "https://www.google.com/search?q=India+cricket+schedule+November+2026"
+          "t": "BCCI – New Zealand vs India, 4th ODI, Bay Oval, Mount Maunganui, 13 Nov 2026",
+          "u": "https://www.bcci.tv/"
+        },
+        {
+          "t": "Cricbuzz – NZ vs IND, 4th ODI match facts (Bay Oval, 3:00 pm local)",
+          "u": "https://www.cricbuzz.com/"
         }
       ],
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
-      ]
+      ],
+      "venue": "Bay Oval, Mount Maunganui"
     },
     {
       "id": "nz-ind-odi-5",
@@ -390,42 +311,10 @@
       ]
     },
     {
-      "id": "chn-maaya-montgomery",
-      "sport": "Tennis",
-      "comp": "WTA Chennai Open 2026",
-      "round": "Quarter-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Maaya Rajeshwaran Revathi",
-        "3-6 3-6"
-      ],
-      "b": [
-        "USA",
-        "Robin Montgomery",
-        "6-3 6-3"
-      ],
-      "when": "2026-11-06",
-      "india": true,
-      "big": true,
-      "venue": "SDAT Tennis Stadium, Chennai",
-      "note": "Montgomery beat 16-year-old wild card Maaya in straight sets in the quarter-final. Maaya had become the first Indian woman in a WTA singles quarter-final since Sania Mirza (2012).",
-      "src": [
-        {
-          "t": "The Tribune (ANI) – Maaya Rajeshwaran's historic Chennai Open run ends in quarter-finals",
-          "u": "https://www.tribuneindia.com/news/sports/maaya-rajeshwarans-historic-chennai-open-run-ends-in-quarter-finals/"
-        }
-      ],
-      "win": "b",
-      "day": "6 Nov",
-      "recent": true,
-      "resultAt": "2026-11-06T23:02:00+05:30"
-    },
-    {
       "id": "saff-ind-mdv",
       "sport": "Football",
       "comp": "SAFF Championship 2026",
-      "round": "Group B",
+      "round": "Group B · final group game",
       "st": "upcoming",
       "a": [
         "IND",
@@ -446,15 +335,15 @@
           "u": "https://www.vetosports.com"
         }
       ],
-      "note": "Second Group B game, 3 pm IST kick-off, streamed free on VETO (no live TV in India). India beat Pakistan 3–2 in the opener; head-to-head India 13 wins, 2 draws, 3 losses in 18 meetings. Semi-finals 14 Nov, final 17 Nov.",
+      "note": "Final Group B game, 3 pm IST kick-off, streamed free on VETO (no live TV in India). India beat Pakistan 3–2 and Pakistan beat Maldives 3–0, so a draw is enough for India to reach the semi-finals (14 Nov). Head-to-head v Maldives: India 13 wins, 2 draws, 3 losses.",
       "src": [
         {
-          "t": "Sportstar – SAFF Championship 2026: schedule, kick-off timings (India v Maldives 3 pm, 11 Nov)",
-          "u": "https://sportstar.thehindu.com/football/"
+          "t": "ThePrint – India need draw against Maldives to qualify for SAFF Championship semi-final",
+          "u": "https://theprint.in/"
         },
         {
-          "t": "Indian Express – SAFF Championship 2026: India squad and schedule",
-          "u": "https://indianexpress.com/section/sports/football/"
+          "t": "Dawn – Pakistan cruise past Maldives 3-0",
+          "u": "https://www.dawn.com/"
         },
         {
           "t": "Khel Now – VETO to live stream SAFF Championship 2026",
@@ -463,6 +352,10 @@
         {
           "t": "Daily Jagran – India vs Maldives live streaming: where to watch SAFF Championship 2026",
           "u": "https://www.thedailyjagran.com/sports/news/india-vs-maldives-live-streaming-where-to-watch-saff-championship-2026-for-free-predicted-lineups-match-timings-10335800"
+        },
+        {
+          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
+          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
         }
       ],
       "big": true
@@ -560,6 +453,237 @@
           "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
         }
       ]
+    },
+    {
+      "id": "u19ac-sf-afg-ind",
+      "sport": "Cricket",
+      "comp": "ACC Men's U19 Asia Cup 2026",
+      "round": "Semi-final 2 (B1 v A2)",
+      "st": "upcoming",
+      "a": [
+        "AFG",
+        "Afghanistan U19",
+        ""
+      ],
+      "b": [
+        "IND",
+        "India U19",
+        ""
+      ],
+      "when": "2026-11-12T10:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Al Amerat Cricket Ground, Oman",
+      "note": "India U19 finished second in Group A behind Pakistan; Afghanistan topped Group B. Semi-final 1 is Pakistan v Bangladesh; final 14 Nov.",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ],
+      "src": [
+        {
+          "t": "Cricbuzz – AFGU19 vs INDU19, Semi Final 2 (B1 v A2), 12 Nov, 10:30 am IST",
+          "u": "https://www.cricbuzz.com/"
+        },
+        {
+          "t": "Sportskeeda – Afghanistan U19 vs India U19 semi-final, 12 Nov 10:30 am IST, SonyLIV",
+          "u": "https://www.sportskeeda.com/"
+        }
+      ]
+    },
+    {
+      "id": "kmj26-sen-chi",
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "round": "Men's singles · Round of 32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "TPE",
+        "Chi Yu Jen",
+        ""
+      ],
+      "when": "2026-11-11T14:40:00+05:30",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "note": "Super 500. Eighth seed Lakshya opens against world No. 24 Chi Yu Jen on Court 2 (around 2:40 pm IST) as he chases a World Tour Finals spot. Kidambi Srikanth also plays today.",
+      "src": [
+        {
+          "t": "Sportstar – Lakshya Sen vs Chi Yu Jen: where to watch Japan Masters 2026 Round of 32 (≈2:40 pm IST)",
+          "u": "https://sportstar.thehindu.com/badminton/"
+        },
+        {
+          "t": "BWF – Kumamoto Masters Japan 2026 results / order of play",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/"
+        },
+        {
+          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
+          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+        }
+      ]
+    },
+    {
+      "id": "wact26-ind-mas",
+      "sport": "Hockey",
+      "comp": "Women's Asian Champions Trophy 2026",
+      "round": "Round robin · India game 1",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "MAS",
+        "Malaysia",
+        ""
+      ],
+      "when": "2026-11-19T19:00:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Barkheda Nathu International Sports Complex, Bhopal",
+      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
+          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
+          "u": "https://www.hockeyindia.org/international-tournaments"
+        }
+      ]
+    },
+    {
+      "id": "wact26-ind-kor",
+      "sport": "Hockey",
+      "comp": "Women's Asian Champions Trophy 2026",
+      "round": "Round robin · India game 2",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "KOR",
+        "South Korea",
+        ""
+      ],
+      "when": "2026-11-21T19:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Barkheda Nathu International Sports Complex, Bhopal",
+      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
+          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
+          "u": "https://www.hockeyindia.org/international-tournaments"
+        }
+      ]
+    },
+    {
+      "id": "wact26-ind-tha",
+      "sport": "Hockey",
+      "comp": "Women's Asian Champions Trophy 2026",
+      "round": "Round robin · India game 3",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "THA",
+        "Thailand",
+        ""
+      ],
+      "when": "2026-11-22T19:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Barkheda Nathu International Sports Complex, Bhopal",
+      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
+          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
+          "u": "https://www.hockeyindia.org/international-tournaments"
+        }
+      ]
+    },
+    {
+      "id": "wact26-ind-chn",
+      "sport": "Hockey",
+      "comp": "Women's Asian Champions Trophy 2026",
+      "round": "Round robin · India game 4",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "CHN",
+        "China",
+        ""
+      ],
+      "when": "2026-11-24T19:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Barkheda Nathu International Sports Complex, Bhopal",
+      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
+          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
+          "u": "https://www.hockeyindia.org/international-tournaments"
+        }
+      ]
+    },
+    {
+      "id": "wact26-ind-jpn",
+      "sport": "Hockey",
+      "comp": "Women's Asian Champions Trophy 2026",
+      "round": "Round robin · India game 5",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "JPN",
+        "Japan",
+        ""
+      ],
+      "when": "2026-11-25T19:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Barkheda Nathu International Sports Complex, Bhopal",
+      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
+          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
+          "u": "https://www.hockeyindia.org/international-tournaments"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -568,7 +692,7 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live series · India lead 2–0 · 3rd ODI abandoned · 4th ODI 13 Nov",
+      "status": "Live series · India lead 2–0 · 4th ODI 13 Nov, Mount Maunganui",
       "live": true,
       "india": true,
       "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
@@ -588,10 +712,10 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India U19 into semi-finals · semis 12 Nov · final 14 Nov",
+      "status": "Live · India U19 v Afghanistan semi 12 Nov · final 14 Nov",
       "live": true,
       "india": true,
-      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets (6 Nov), lost to Pakistan by 3 wickets (8 Nov) and beat UAE by 70 runs (10 Nov; Aaryavir Sehwag 160) to reach the semi-finals. On Sony Sports Network and SonyLIV.",
+      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets, lost to Pakistan by 3 wickets and beat UAE by 70 runs (Aaryavir Sehwag 160) to finish second in Group A. Semi-finals 12 Nov: Pakistan v Bangladesh, Afghanistan v India. On Sony Sports Network and SonyLIV.",
       "src": [
         {
           "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
@@ -620,14 +744,77 @@
       ]
     },
     {
+      "id": "kmj-2026",
+      "sport": "Badminton",
+      "name": "Kumamoto Masters Japan 2026",
+      "comp": "Kumamoto Masters Japan 2026",
+      "status": "Live · till 15 Nov",
+      "live": true,
+      "india": true,
+      "note": "BWF Super 500 in Kumamoto. Lakshya Sen and Kidambi Srikanth play their first rounds on 11 Nov; Treesa Jolly–Gayatri Gopichand won their opening match on 10 Nov.",
+      "src": [
+        {
+          "t": "BWF – Kumamoto Masters Japan 2026 results / order of play",
+          "u": "https://bwfworldchampionships.bwfbadminton.com/"
+        },
+        {
+          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
+          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+        }
+      ]
+    },
+    {
+      "id": "yog-dakar",
+      "sport": "Multi-sport",
+      "name": "Youth Olympic Games Dakar 2026",
+      "status": "Live · till 13 Nov",
+      "live": true,
+      "india": true,
+      "note": "Indian medals so far include Taniya's beach wrestling medal (India's first in the sport), Shourya Ambure's bronze (India's first track and field medal at these Games) and swimming bronzes for Tirthank Pegu and Dhinidhi Desinghu; boxer Lairenlakpam is assured of a medal after reaching the semi-finals.",
+      "src": [
+        {
+          "t": "Indian Olympic Association – Dakar 2026",
+          "u": "https://olympic.ind.in/dakar-2026"
+        },
+        {
+          "t": "Wikipedia – 2026 Summer Youth Olympics",
+          "u": "https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics"
+        }
+      ]
+    },
+    {
+      "id": "wact-2026",
+      "sport": "Hockey",
+      "name": "Women's Asian Champions Trophy 2026",
+      "comp": "Women's Asian Champions Trophy 2026",
+      "status": "Starts 19 Nov · Bhopal · till 28 Nov",
+      "live": false,
+      "india": true,
+      "note": "Six teams in Bhopal; hosts India are two-time defending champions. India open v Malaysia on 19 Nov (7 pm IST). Savita left out, Bansari Solanki in.",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
+          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
+          "u": "https://www.hockeyindia.org/international-tournaments"
+        },
+        {
+          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
+          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+        }
+      ]
+    },
+    {
       "id": "saff-2026",
       "sport": "Football",
       "name": "SAFF Championship 2026",
       "comp": "SAFF Championship 2026",
-      "status": "Live · India beat Pakistan 3–2 · India v Maldives 11 Nov · till 17 Nov",
+      "status": "Live · India v Maldives 11 Nov · semis 14 Nov · final 17 Nov",
       "live": true,
       "india": true,
-      "note": "Defending champions India won their opener 3–2 in Dhaka. Streaming on VETO.",
+      "note": "Defending champions India beat Pakistan 3–2; Pakistan then beat Maldives 3–0. India need a draw against Maldives to reach the semi-finals. Streaming on VETO.",
       "src": [
         {
           "t": "Khel Now – VETO to live stream SAFF Championship 2026",
@@ -638,26 +825,6 @@
           "u": "https://www.sportingnews.com/"
         }
       ]
-    },
-    {
-      "sport": "Hockey",
-      "name": "Asian Champions Trophy 2026",
-      "status": "Concluded — India champions, beat Japan 4–1 in the final (5 Nov)",
-      "live": false,
-      "india": true,
-      "id": "act-2026",
-      "note": "India won a record sixth title, unbeaten (7 from 7). Malaysia took bronze, beating South Korea 5–2.",
-      "src": [
-        {
-          "t": "Olympics.com – Asian Champions Trophy 2026: scores, results, points table",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "Khel Now – Men's hockey Asian Champions Trophy 2026 points table",
-          "u": "https://khelnow.com/"
-        }
-      ],
-      "comp": "Asian Champions Trophy 2026"
     },
     {
       "sport": "Football",
@@ -739,34 +906,6 @@
       "comp": "Ranji Trophy 2026-27"
     },
     {
-      "id": "chennai-open",
-      "sport": "Tennis",
-      "name": "WTA Chennai Open 2026",
-      "status": "Concluded · 8 Nov",
-      "live": false,
-      "india": true,
-      "note": "WTA 250 in Chennai. Wild card Maaya Rajeshwaran Revathi (16) became the first Indian woman in a WTA singles quarter-final since Sania Mirza (2012) before losing 3-6 3-6 to Robin Montgomery.",
-      "src": [
-        {
-          "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
-          "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
-        },
-        {
-          "t": "IndiaSportsHub – Maaya Rajeshwaran Revathi stuns Kawa",
-          "u": "https://www.indiasportshub.com/articles/maaya-rajeshwaran-revathi-stuns-eighth-seed-katarzyna-kawa-to-claim-maiden-wta-250-win-in-chennai"
-        },
-        {
-          "t": "Olympics.com – Chennai Open 2026 WTA 250: where to watch, Indian players",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "WTA – Chennai Open 2026",
-          "u": "https://www.wtatennis.com/tournaments/1148/chennai-open/2026"
-        }
-      ],
-      "comp": "WTA Chennai Open 2026"
-    },
-    {
       "sport": "Kabaddi",
       "name": "Pro Kabaddi League 13",
       "status": "Expected December",
@@ -786,6 +925,30 @@
     }
   ],
   "feed": [
+    {
+      "t": "11 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "U19 Asia Cup semi-finals set for Thursday: India U19 face Afghanistan U19 (10:30 am IST), Pakistan meet Bangladesh.",
+      "match": "u19ac-sf-afg-ind"
+    },
+    {
+      "t": "11 Nov",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Football",
+      "text": "SAFF Championship: India need only a draw against Maldives today (3 pm IST, VETO) to reach the semi-finals after Pakistan beat Maldives 3–0.",
+      "match": "saff-ind-mdv"
+    },
+    {
+      "t": "11 Nov",
+      "tag": "NEWS",
+      "c": "var(--live-text)",
+      "m": "Badminton",
+      "text": "Kumamoto Masters: Lakshya Sen opens against Chi Yu Jen around 2:40 pm IST; Treesa–Gayatri won their first-round match on Tuesday.",
+      "match": "kmj26-sen-chi"
+    },
     {
       "t": "10 Nov",
       "tag": "WIN",
@@ -841,54 +1004,17 @@
       "m": "Football",
       "text": "ISL: Inter Kashi lose 0–3 to SC Delhi in Pune — Fortes, Peña and Rodriguinho score.",
       "match": "isl-kashi-del"
-    },
-    {
-      "t": "23:02 6 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Tennis",
-      "text": "Chennai Open: Maaya Rajeshwaran Revathi's dream run ends in the quarter-final, 3-6 3-6 to Robin Montgomery.",
-      "match": "chn-maaya-montgomery"
-    },
-    {
-      "t": "22:24 6 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "ISL: FC Goa lose 1–2 at home to Bengaluru FC — Soham Varshneya's 90+3' winner after Borja Martínez and Franchu scored.",
-      "match": "isl-goa-bfc"
-    },
-    {
-      "t": "16:03 6 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "U19 Asia Cup: India U19 beat Nepal by 10 wickets — Ishan Sood 3/18, then Aaryavir Sehwag 70* and Lakshya Raichandani 53* chase 129 in 19.1 overs. Pakistan next on Sunday.",
-      "match": "u19ac-ind-nep"
-    },
-    {
-      "t": "5 Nov",
-      "tag": "NEWS",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "Ranji Trophy Round 4 ends: Maharashtra beat Bengal by 10 wickets, Tamil Nadu (Paul 208) and Karnataka win by an innings, Mumbai beat Railways by 106 runs."
-    },
-    {
-      "t": "4 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Tennis",
-      "text": "History in Chennai: 17-year-old Maaya Rajeshwaran Revathi beats Falkowska 6-4 6-3 — first Indian woman in a WTA singles quarter-final since Sania Mirza in 2012. Next: Robin Montgomery (USA) on 6 Nov.",
-      "match": "chn-maaya-montgomery",
-      "src": [
-        {
-          "t": "Sportstar – Maaya Rajeshwaran makes last eight, first Indian woman in a Tour QF since Sania Mirza",
-          "u": "https://sportstar.thehindu.com/tennis/wta-250-chennai-open-2026-maaya-rajeshwaran-makes-quarterfinal-sania-mirza-historic-tour-level/article71667335.ece"
-        }
-      ]
     }
   ],
   "schedule": [
+    {
+      "d": "11",
+      "mo": "NOV",
+      "title": "Lakshya Sen v Chi Yu Jen, Kumamoto Masters R32",
+      "meta": "Badminton · Kumamoto",
+      "time": "14:40",
+      "match": "kmj26-sen-chi"
+    },
     {
       "d": "11",
       "mo": "NOV",
@@ -896,6 +1022,14 @@
       "meta": "Football · Dhaka",
       "time": "15:00",
       "match": "saff-ind-mdv"
+    },
+    {
+      "d": "12",
+      "mo": "NOV",
+      "title": "Afghanistan U19 v India U19, U19 Asia Cup semi-final",
+      "meta": "Cricket · Al Amerat",
+      "time": "10:30",
+      "match": "u19ac-sf-afg-ind"
     },
     {
       "d": "12",
@@ -909,9 +1043,17 @@
       "d": "13",
       "mo": "NOV",
       "title": "New Zealand v India, 4th ODI",
-      "meta": "Cricket · New Zealand",
+      "meta": "Cricket · Mount Maunganui",
       "time": "07:30",
       "match": "nz-ind-odi-4"
+    },
+    {
+      "d": "15",
+      "mo": "NOV",
+      "title": "New Zealand v India, 5th ODI",
+      "meta": "Cricket · Bay Oval",
+      "time": "07:30",
+      "match": "nz-ind-odi-5"
     },
     {
       "d": "15",
@@ -922,12 +1064,28 @@
       "match": "ind-nz-fr2"
     },
     {
-      "d": "15",
+      "d": "19",
       "mo": "NOV",
-      "title": "New Zealand v India, 5th ODI",
-      "meta": "Cricket · Bay Oval",
-      "time": "07:30",
-      "match": "nz-ind-odi-5"
+      "title": "India v Malaysia, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "19:00",
+      "match": "wact26-ind-mas"
+    },
+    {
+      "d": "21",
+      "mo": "NOV",
+      "title": "India v South Korea, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "19:00",
+      "match": "wact26-ind-kor"
+    },
+    {
+      "d": "22",
+      "mo": "NOV",
+      "title": "Thailand v India, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "19:00",
+      "match": "wact26-ind-tha"
     }
   ],
   "players": [
