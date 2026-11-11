@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-11T09:51:26+05:30",
-  "dayLabel": "Wed 11 Nov · India v Maldives, SAFF 3 pm (draw enough for semis) · Lakshya at Japan Masters · U19 semi v Afghanistan Thu",
+  "lastUpdated": "2026-11-11T12:22:57+05:30",
+  "dayLabel": "Wed 11 Nov · Lakshya 2:40 pm & Srikanth 4:30 pm at Japan Masters · India v Maldives, SAFF 3 pm · U19 semi Thu",
   "featured": "saff-ind-mdv",
   "matches": [
     {
@@ -526,6 +526,39 @@
       ]
     },
     {
+      "id": "kmj26-srikanth-gemke",
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "round": "Men's singles · Round of 32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Kidambi Srikanth",
+        ""
+      ],
+      "b": [
+        "DEN",
+        "Rasmus Gemke",
+        ""
+      ],
+      "when": "2026-11-11T16:30:00+05:30",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "note": "Srikanth's first match since losing to Ayush Shetty at the French Open; Gemke leads the head-to-head 2–1 (one a walkover). Court 2, around 4:30 pm IST.",
+      "src": [
+        {
+          "t": "Sportstar – Kidambi Srikanth vs Rasmus Gemke: where to watch Japan Masters 2026 Round of 32",
+          "u": "https://sportstar.thehindu.com/badminton/kidambi-srikanth-vs-rasmus-gemke-live-streaming-info-when-where-to-watch-japan-masters-round-of-32-match/article71688364.ece"
+        }
+      ]
+    },
+    {
       "id": "wact26-ind-mas",
       "sport": "Hockey",
       "comp": "Women's Asian Champions Trophy 2026",
@@ -684,6 +717,105 @@
           "u": "https://www.hockeyindia.org/international-tournaments"
         }
       ]
+    },
+    {
+      "id": "hk-nz-ind-t1",
+      "sport": "Hockey",
+      "comp": "Indian Centenary Hockey Series",
+      "round": "1st Test",
+      "st": "upcoming",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-19T11:00:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
+      "note": "Indian Centenary Hockey Series marking 100 years since India's first hockey tour of New Zealand (1926, with Dhyan Chand). Young India squad led by Sanjay, coached by Craig Fulton. Broadcaster in India not yet confirmed. Push-back 6:30 pm local time.",
+      "src": [
+        {
+          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
+          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+        },
+        {
+          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
+          "u": "https://www.hockeynz.co.nz/"
+        }
+      ]
+    },
+    {
+      "id": "hk-nz-ind-t2",
+      "sport": "Hockey",
+      "comp": "Indian Centenary Hockey Series",
+      "round": "2nd Test",
+      "st": "upcoming",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-21T08:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
+      "note": "Indian Centenary Hockey Series marking 100 years since India's first hockey tour of New Zealand (1926, with Dhyan Chand). Young India squad led by Sanjay, coached by Craig Fulton. Broadcaster in India not yet confirmed. Push-back 4 pm local time.",
+      "src": [
+        {
+          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
+          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+        },
+        {
+          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
+          "u": "https://www.hockeynz.co.nz/"
+        }
+      ]
+    },
+    {
+      "id": "hk-nz-ind-t3",
+      "sport": "Hockey",
+      "comp": "Indian Centenary Hockey Series",
+      "round": "3rd Test",
+      "st": "upcoming",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-22T08:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
+      "note": "Indian Centenary Hockey Series marking 100 years since India's first hockey tour of New Zealand (1926, with Dhyan Chand). Young India squad led by Sanjay, coached by Craig Fulton. Broadcaster in India not yet confirmed. Push-back 4 pm local time.",
+      "src": [
+        {
+          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
+          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+        },
+        {
+          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
+          "u": "https://www.hockeynz.co.nz/"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -751,8 +883,12 @@
       "status": "Live · till 15 Nov",
       "live": true,
       "india": true,
-      "note": "BWF Super 500 in Kumamoto. Lakshya Sen and Kidambi Srikanth play their first rounds on 11 Nov; Treesa Jolly–Gayatri Gopichand won their opening match on 10 Nov.",
+      "note": "BWF Super 500 in Kumamoto. Lakshya Sen (≈2:40 pm IST) and Kidambi Srikanth (≈4:30 pm IST, v Rasmus Gemke) play their first rounds on 11 Nov; Treesa Jolly–Gayatri Gopichand are in the round of 16.",
       "src": [
+        {
+          "t": "Sportstar – Kidambi Srikanth vs Rasmus Gemke: where to watch Japan Masters 2026 Round of 32",
+          "u": "https://sportstar.thehindu.com/badminton/kidambi-srikanth-vs-rasmus-gemke-live-streaming-info-when-where-to-watch-japan-masters-round-of-32-match/article71688364.ece"
+        },
         {
           "t": "BWF – Kumamoto Masters Japan 2026 results / order of play",
           "u": "https://bwfworldchampionships.bwfbadminton.com/"
@@ -803,6 +939,26 @@
         {
           "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
           "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+        }
+      ]
+    },
+    {
+      "id": "hk-nz-ind",
+      "sport": "Hockey",
+      "name": "Indian Centenary Hockey Series (men, v New Zealand)",
+      "comp": "Indian Centenary Hockey Series",
+      "status": "Starts 19 Nov · Auckland · till 22 Nov",
+      "live": false,
+      "india": true,
+      "note": "Three men's Tests v New Zealand on 19, 21 and 22 Nov at Lloyd Elsmore Hockey Stadium, Auckland; young squad led by Sanjay.",
+      "src": [
+        {
+          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
+          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+        },
+        {
+          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
+          "u": "https://www.hockeynz.co.nz/"
         }
       ]
     },
@@ -926,6 +1082,47 @@
   ],
   "feed": [
     {
+      "t": "09:32",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "IPL 2027: Mumbai Indians and Punjab Kings complete the Hardik Pandya–Arshdeep Singh swap — Hardik joins PBKS for ₹18 crore, Arshdeep moves to MI at ₹18 crore. MI now need a new captain.",
+      "src": [
+        {
+          "t": "ESPNcricinfo – MI and PBKS complete Hardik Pandya-Arshdeep Singh swap",
+          "u": "https://www.cricinfo.com/story/ipl-2027-mumbai-indians-and-punjab-kings-complete-hardik-pandya-and-arshdeep-singh-swap-1562157"
+        }
+      ]
+    },
+    {
+      "t": "11 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Kumamoto Masters: Kidambi Srikanth plays Denmark's Rasmus Gemke around 4:30 pm IST, after Lakshya Sen's opener (≈2:40 pm). Both on BWF TV YouTube.",
+      "match": "kmj26-srikanth-gemke",
+      "src": [
+        {
+          "t": "Sportstar – Kidambi Srikanth vs Rasmus Gemke: where to watch Japan Masters 2026 Round of 32",
+          "u": "https://sportstar.thehindu.com/badminton/kidambi-srikanth-vs-rasmus-gemke-live-streaming-info-when-where-to-watch-japan-masters-round-of-32-match/article71688364.ece"
+        }
+      ]
+    },
+    {
+      "t": "9 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Hockey",
+      "text": "Hockey: Sanjay to captain a young India men's side in three centenary Tests v New Zealand in Auckland on 19, 21 and 22 Nov.",
+      "match": "hk-nz-ind-t1",
+      "src": [
+        {
+          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
+          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+        }
+      ]
+    },
+    {
       "t": "11 Nov",
       "tag": "NEWS",
       "c": "var(--accent)",
@@ -1024,6 +1221,14 @@
       "match": "saff-ind-mdv"
     },
     {
+      "d": "11",
+      "mo": "NOV",
+      "title": "Kidambi Srikanth v Rasmus Gemke, Kumamoto Masters R32",
+      "meta": "Badminton · Kumamoto",
+      "time": "16:30",
+      "match": "kmj26-srikanth-gemke"
+    },
+    {
       "d": "12",
       "mo": "NOV",
       "title": "Afghanistan U19 v India U19, U19 Asia Cup semi-final",
@@ -1066,6 +1271,14 @@
     {
       "d": "19",
       "mo": "NOV",
+      "title": "New Zealand v India, 1st hockey Test",
+      "meta": "Hockey · Auckland",
+      "time": "11:00",
+      "match": "hk-nz-ind-t1"
+    },
+    {
+      "d": "19",
+      "mo": "NOV",
       "title": "India v Malaysia, Women's Asian Champions Trophy",
       "meta": "Hockey · Bhopal",
       "time": "19:00",
@@ -1074,18 +1287,18 @@
     {
       "d": "21",
       "mo": "NOV",
+      "title": "New Zealand v India, 2nd hockey Test",
+      "meta": "Hockey · Auckland",
+      "time": "08:30",
+      "match": "hk-nz-ind-t2"
+    },
+    {
+      "d": "21",
+      "mo": "NOV",
       "title": "India v South Korea, Women's Asian Champions Trophy",
       "meta": "Hockey · Bhopal",
       "time": "19:00",
       "match": "wact26-ind-kor"
-    },
-    {
-      "d": "22",
-      "mo": "NOV",
-      "title": "Thailand v India, Women's Asian Champions Trophy",
-      "meta": "Hockey · Bhopal",
-      "time": "19:00",
-      "match": "wact26-ind-tha"
     }
   ],
   "players": [
