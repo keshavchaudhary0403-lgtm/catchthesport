@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-10T09:35:06+05:30",
-  "dayLabel": "Tue 10 Nov · 3rd NZ v India ODI delayed by rain at the toss · India U19 v UAE U19 10:30 am · India football v NZ friendlies Thu & Sun",
-  "featured": "nz-ind-odi-3",
+  "lastUpdated": "2026-11-11T09:35:18+05:30",
+  "dayLabel": "Wed 11 Nov · India v Maldives, SAFF Championship 3 pm · India U19 into Asia Cup semis · India football v NZ friendlies Thu & Sun",
+  "featured": "saff-ind-mdv",
   "matches": [
     {
       "id": "u19ac-ind-nep",
@@ -82,35 +82,39 @@
       "sport": "Cricket",
       "comp": "ACC Men's U19 Asia Cup 2026",
       "round": "Group A · Match 11",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India U19",
-        ""
+        "309/7 (50)"
       ],
       "b": [
         "UAE",
         "UAE U19",
-        ""
+        "239 (49.6)"
       ],
       "when": "2026-11-10T10:30:00+05:30",
       "india": true,
       "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "Last group game, 10:30 am IST. Pakistan lead Group A on 4 pts; India and UAE have 2 each. Semi-finals 12 Nov, final 14 Nov.",
+      "note": "India U19 win by 70 runs and qualify for the semi-finals. Aaryavir Sehwag 160 off 168 balls, VK Vineeth 67; Ishan Sood 4/37 as UAE (Ahmed Khudadad 74) were bowled out for 239.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
-          "u": "https://www.jagranjosh.com/"
+          "t": "Times of Oman – Aaryavir Sehwag, Ishan Sood shine as India defeat UAE, qualify for U19 Asia Cup semis",
+          "u": "https://timesofoman.com/article/179005-aaryavir-sehwag-ishan-sood-shine-as-india-defeat-uae-qualify-for-u19-asia-cup-semis"
         },
         {
-          "t": "Wisden – U19 Asia Cup 2026: where to watch (Sony Sports Network, Sony LIV)",
-          "u": "https://www.wisden.com/"
+          "t": "Daily Jagran – Aaryavir Sehwag smashes 160 as India U19 beat UAE by 70 runs",
+          "u": "https://www.thedailyjagran.com/cricket/news/aaryavir-sehwag-smashes-160-as-india-u19-beat-uae-by-70-runs-qualify-for-mens-u19-asia-cup-semi-finals-score-updates-10335827"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "10 Nov",
+      "recent": true,
+      "resultAt": "2026-11-10T18:19:00+05:30"
     },
     {
       "id": "nz-ind-odi-2",
@@ -154,7 +158,7 @@
     },
     {
       "id": "nz-ind-odi-3",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -162,35 +166,34 @@
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "No result",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "No result"
       ],
       "when": "2026-11-10T07:30:00+05:30",
       "venue": "Seddon Park, Hamilton",
-      "note": "India lead 2–0. Rain and a thunderstorm warning at Hamilton delayed the toss (as of 7:28 am IST); start time to be confirmed. Matt Henry out injured; Kristian Clarke added as cover for Blair Tickner.",
+      "note": "Abandoned without a ball bowled due to persistent rain at Seddon Park, Hamilton. Shubman Gill had won the toss and chosen to field; the toss was delayed over two hours. India lead the five-match series 2–0 and cannot lose it.",
       "src": [
         {
-          "t": "India.com – IND vs NZ 3rd ODI live: thunderstorm at Hamilton, rain delays toss",
-          "u": "https://www.india.com/sports/cricket/india-vs-new-zealand-2026-live-score-3rd-odi-match-10-nov-ind-vs-nz-squad-players-list-shubman-gill-mitchell-santner-rohit-sharma-virat-kohli-seddon-park-hamilton-8543537/"
+          "t": "Sports Tak – India vs New Zealand 3rd ODI officially abandoned due to persistent rain in Hamilton",
+          "u": "https://thesportstak.com/cricket/story/india-vs-new-zealand-3rd-odi-officially-abandoned-due-to-persistent-rain-in-hamilton-what-it-means-for-visitors-3560285-2026-11-10"
         },
         {
-          "t": "Livemint – India's tour of New Zealand 2026: full schedule (ODIs 7:30 am IST)",
-          "u": "https://www.livemint.com/sports/cricket-news"
-        },
-        {
-          "t": "ESPNcricinfo – India tour of New Zealand 2026 fixtures",
-          "u": "https://www.cricinfo.com/"
+          "t": "Deccan Herald – 3rd ODI abandoned without a ball being bowled",
+          "u": "https://www.deccanherald.com/sports/cricket/india-vs-new-zealand-3rd-odi-rain-denies-visitors-hat-trick-of-wins-match-abandoned-without-a-ball-being-bowled-4213544"
         }
       ],
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
-      ]
+      ],
+      "day": "10 Nov",
+      "recent": true,
+      "resultAt": "2026-11-10T11:37:00+05:30"
     },
     {
       "id": "isl-goa-bfc",
@@ -443,7 +446,7 @@
           "u": "https://www.vetosports.com"
         }
       ],
-      "note": "Second Group B game, 3 pm IST kick-off. Semi-finals 14 Nov, final 17 Nov.",
+      "note": "Second Group B game, 3 pm IST kick-off, streamed free on VETO (no live TV in India). India beat Pakistan 3–2 in the opener; head-to-head India 13 wins, 2 draws, 3 losses in 18 meetings. Semi-finals 14 Nov, final 17 Nov.",
       "src": [
         {
           "t": "Sportstar – SAFF Championship 2026: schedule, kick-off timings (India v Maldives 3 pm, 11 Nov)",
@@ -456,8 +459,13 @@
         {
           "t": "Khel Now – VETO to live stream SAFF Championship 2026",
           "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
+        },
+        {
+          "t": "Daily Jagran – India vs Maldives live streaming: where to watch SAFF Championship 2026",
+          "u": "https://www.thedailyjagran.com/sports/news/india-vs-maldives-live-streaming-where-to-watch-saff-championship-2026-for-free-predicted-lineups-match-timings-10335800"
         }
-      ]
+      ],
+      "big": true
     },
     {
       "id": "awcl-eb-425",
@@ -560,7 +568,7 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live series · India lead 2–0 · 3rd ODI 10 Nov",
+      "status": "Live series · India lead 2–0 · 3rd ODI abandoned · 4th ODI 13 Nov",
       "live": true,
       "india": true,
       "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
@@ -580,10 +588,10 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India v UAE 10 Nov · semi-finals 12 Nov · final 14 Nov",
+      "status": "Live · India U19 into semi-finals · semis 12 Nov · final 14 Nov",
       "live": true,
       "india": true,
-      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets (6 Nov) but lost to Pakistan by 3 wickets (8 Nov); Pakistan lead Group A on 4 pts, India on 2. Last group game v UAE 10 Nov (10:30 am IST); semi-finals 12 Nov. On Sony Sports Network and SonyLIV.",
+      "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets (6 Nov), lost to Pakistan by 3 wickets (8 Nov) and beat UAE by 70 runs (10 Nov; Aaryavir Sehwag 160) to reach the semi-finals. On Sony Sports Network and SonyLIV.",
       "src": [
         {
           "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
@@ -779,6 +787,22 @@
   ],
   "feed": [
     {
+      "t": "10 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Cricket",
+      "text": "U19 Asia Cup: India U19 beat UAE U19 by 70 runs and reach the semi-finals — Aaryavir Sehwag 160, Ishan Sood 4/37.",
+      "match": "u19ac-ind-uae"
+    },
+    {
+      "t": "10 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "3rd ODI at Hamilton abandoned without a ball bowled due to rain; India lead the series 2–0 with two matches left.",
+      "match": "nz-ind-odi-3"
+    },
+    {
       "t": "8 Nov",
       "tag": "LOSS",
       "c": "var(--accent)",
@@ -865,22 +889,6 @@
     }
   ],
   "schedule": [
-    {
-      "d": "10",
-      "mo": "NOV",
-      "title": "New Zealand v India, 3rd ODI",
-      "meta": "Cricket · Hamilton · rain delay",
-      "time": "07:30",
-      "match": "nz-ind-odi-3"
-    },
-    {
-      "d": "10",
-      "mo": "NOV",
-      "title": "India U19 v UAE U19, U19 Asia Cup",
-      "meta": "Cricket · Oman",
-      "time": "10:30",
-      "match": "u19ac-ind-uae"
-    },
     {
       "d": "11",
       "mo": "NOV",
