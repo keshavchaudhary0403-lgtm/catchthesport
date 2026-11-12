@@ -1,43 +1,8 @@
 {
-  "lastUpdated": "2026-11-12T09:35:32+05:30",
-  "dayLabel": "Thu 12 Nov · U19 Asia Cup semi v Afghanistan 10:30 am · India v NZ football friendly · Kumamoto R16",
+  "lastUpdated": "2026-11-12T12:23:50+05:30",
+  "dayLabel": "Thu 12 Nov · U19 Asia Cup semi live · India v NZ football live · Lakshya & Srikanth into Kumamoto QFs",
   "featured": "u19ac-sf-afg-ind",
   "matches": [
-    {
-      "id": "u19ac-ind-pak",
-      "sport": "Cricket",
-      "comp": "ACC Men's U19 Asia Cup 2026",
-      "round": "Group A · Match 7",
-      "st": "result",
-      "a": [
-        "IND",
-        "India U19",
-        "208 (46.3)"
-      ],
-      "b": [
-        "PAK",
-        "Pakistan U19",
-        "209/7 (48.1)"
-      ],
-      "when": "2026-11-08T10:30:00+05:30",
-      "india": true,
-      "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "Pakistan U19 win by 3 wickets with 11 balls to spare. Arjun Rajput's 107 off 85 lifted India U19 to 208; Hamza Zahoor (Player of the Match) made 100* off 108 as Pakistan chased from 61/5. Manal Chauhan 3/32 for India.",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "src": [
-        {
-          "t": "Sunday Guardian – Arjun Rajput's 107 goes in vain as Pakistan snatch dramatic victory",
-          "u": "https://sundayguardianlive.com/sports/india-u19-vs-pakistan-u19-highlights-arjun-rajputs-107-goes-in-vain-as-pakistan-snatch-dramatic-victory-in-acc-u19-asia-cup-2026-319425/"
-        }
-      ],
-      "win": "b",
-      "day": "8 Nov",
-      "recent": true,
-      "resultAt": "2026-11-08T20:30:00+05:30"
-    },
     {
       "id": "u19ac-ind-uae",
       "sport": "Cricket",
@@ -78,46 +43,6 @@
       "resultAt": "2026-11-10T18:19:00+05:30"
     },
     {
-      "id": "nz-ind-odi-2",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "2nd ODI",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "134 (41)",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "113/7 (26)"
-      ],
-      "when": "2026-11-07T07:30:00+05:30",
-      "venue": "Hnry Stadium, Wellington",
-      "note": "India win by 4 runs (DLS) after rain ended play — New Zealand 134 in 41 overs (47-over match), India 113/7 in 26 overs against a DLS par of 109. Gurnoor Brar named Player of the Match. India lead the series 2–0.",
-      "src": [
-        {
-          "t": "ESPN – India beat New Zealand by 4 runs (DLS), 2nd ODI",
-          "u": "https://www.espn.com/cricket/series/24469/game/1539438/new-zealand-vs-india-2nd-odi-24469"
-        },
-        {
-          "t": "Cricinfo – India go 2-0 up after narrow DLS win",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-2nd-odi-1539438/match-report"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "win": "b",
-      "day": "7 Nov",
-      "recent": true,
-      "resultAt": "2026-11-07T23:20:00+05:30"
-    },
-    {
       "id": "nz-ind-odi-3",
       "st": "result",
       "india": true,
@@ -155,88 +80,6 @@
       "day": "10 Nov",
       "recent": true,
       "resultAt": "2026-11-10T11:37:00+05:30"
-    },
-    {
-      "id": "isl-kashi-del",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "IKFC",
-        "Inter Kashi",
-        "0",
-        "#F59E0B"
-      ],
-      "b": [
-        "DEL",
-        "Sporting Club Delhi",
-        "3",
-        "#B91C1C"
-      ],
-      "when": "2026-11-07T17:00:00+05:30",
-      "venue": "Shree Shiv Chhatrapati Sports Complex, Pune",
-      "src": [
-        {
-          "t": "IANS – Fortes, Peña and Rodriguinho on target as SC Delhi crush Inter Kashi 3-0",
-          "u": "https://ianslive.in/isl-202627-fortes-pena-and-rodriguinho-on-target-as-sc-delhi-crush-inter-kashi-3-0--20261107194348"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "b",
-      "day": "7 Nov",
-      "recent": true,
-      "resultAt": "2026-11-07T19:00:00+05:30",
-      "note": "Carlos Fortes (6'), Juan Peña (74') and Rodriguinho (88') score as SC Delhi beat Inter Kashi."
-    },
-    {
-      "id": "isl-che-eb",
-      "st": "result",
-      "india": true,
-      "sport": "Football",
-      "comp": "Indian Super League",
-      "round": "Phase 1",
-      "a": [
-        "CFC",
-        "Chennaiyin FC",
-        "5",
-        "#1D4ED8"
-      ],
-      "b": [
-        "EBFC",
-        "East Bengal FC",
-        "3",
-        "#C8102E"
-      ],
-      "when": "2026-11-07T19:30:00+05:30",
-      "venue": "Jawaharlal Nehru Stadium, Chennai",
-      "src": [
-        {
-          "t": "IANS – Brison and Irfan star as Chennaiyin FC rout East Bengal 5-3",
-          "u": "https://ianslive.in/isl-202627-brison-and-irfan-star-as-chennaiyin-fc-rout-defending-champions-east-bengal-5-3--20261107221938"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV",
-        {
-          "n": "YouTube – ISL (free)",
-          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
-        }
-      ],
-      "win": "a",
-      "day": "7 Nov",
-      "recent": true,
-      "resultAt": "2026-11-07T22:19:00+05:30",
-      "note": "Brison Fernandes (4', 18'), Ramon Tanque (41' pen) and Irfan Yadwad (2) for Chennaiyin; Aké Loba, Dani Ramírez (pen) and David Lalhlansanga for East Bengal. Chennaiyin's first win of the season, East Bengal's first league defeat."
     },
     {
       "id": "nz-ind-odi-4",
@@ -349,64 +192,32 @@
       "resultAt": "2026-11-12T09:35:32+05:30"
     },
     {
-      "id": "awcl-eb-425",
-      "sport": "Football",
-      "comp": "AFC Women's Champions League",
-      "round": "Group B · Matchday 3",
-      "st": "result",
-      "india": true,
-      "a": [
-        "EBFC",
-        "East Bengal FC",
-        "0",
-        "#C8102E"
-      ],
-      "b": [
-        "425",
-        "April 25 SC",
-        "2",
-        "#B91C1C"
-      ],
-      "when": "2026-11-07T20:00:00+05:30",
-      "venue": "Kolkata",
-      "note": "East Bengal lose 0–2 to North Korea's April 25 SC in their final Group B game but still qualify for the AWCL quarter-finals, the first Indian club to do so.",
-      "src": [
-        {
-          "t": "Khel Now – East Bengal qualify for the quarter-finals despite 2-0 defeat to April 4.25 SC",
-          "u": "https://khelnow.com/afc-womens-champions-league/indian-football-afc-womens-champions-league-2026-27-east-bengal-fc-vs-april-25-sc-match-report"
-        },
-        {
-          "t": "The Tribune – East Bengal first Indian club in AWCL quarter-finals",
-          "u": "https://www.tribuneindia.com/news/sports/east-bengal-becomes-first-indian-club-to-reach-quarter-finals-of-afc-womens-champions-league"
-        }
-      ],
-      "win": "b",
-      "day": "7 Nov",
-      "recent": false
-    },
-    {
       "id": "ind-nz-fr1",
       "sport": "Football",
       "comp": "India tour of New Zealand (friendlies)",
       "round": "1st friendly",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "India",
-        ""
+        "0"
       ],
       "b": [
         "NZ",
         "New Zealand",
-        "",
+        "1",
         "#111827"
       ],
-      "when": "2026-11-12T11:40:00+05:30",
+      "when": "2026-11-12T11:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Go Media Stadium, Auckland",
-      "note": "Men's international friendly during the FIFA window; India's first visit to New Zealand. Streamed on FIFA+ via DAZN (not on TV); Khel Now reports kick-off as 11:30 am or 11:40 am IST.",
+      "note": "New Zealand led through a 5th-minute own goal by B. Varghese; Anirudh Thapa captains India. Kick-off 7 pm NZ time (11:30 am IST); streamed on FIFA+ via DAZN (no TV).",
       "src": [
+        {
+          "t": "Times of India / RNZ – live: New Zealand take early lead via own goal (via Google)",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Auckland+score"
+        },
         {
           "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
           "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
@@ -419,7 +230,9 @@
       "watch": [
         "FIFA+",
         "DAZN"
-      ]
+      ],
+      "status": "1st half",
+      "scoreAt": "2026-11-12T12:10:00+05:30"
     },
     {
       "id": "ind-nz-fr2",
@@ -455,27 +268,31 @@
       "sport": "Cricket",
       "comp": "ACC Men's U19 Asia Cup 2026",
       "round": "Semi-final 2 (B1 v A2)",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "AFG",
         "Afghanistan U19",
-        ""
+        "87/3 (21)"
       ],
       "b": [
         "IND",
         "India U19",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-11-12T10:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India U19 finished second in Group A behind Pakistan; Afghanistan topped Group B. Semi-final 1 is Pakistan v Bangladesh; final 14 Nov.",
+      "note": "Afghanistan won the toss and batted at Al Amerat; Kavya Patel and Yashbardhan Chauhan took early wickets. Semi-final 1 is Pakistan v Bangladesh; final 14 Nov.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
+        {
+          "t": "Outlook India / NDTV Sports / Times of India – live score via Google Top stories (AFG 87/3 in 21 ov)",
+          "u": "https://www.google.com/search?q=India+U19+vs+Afghanistan+U19+semi+final+Asia+Cup+live+score"
+        },
         {
           "t": "Cricbuzz – AFGU19 vs INDU19, Semi Final 2 (B1 v A2), 12 Nov, 10:30 am IST",
           "u": "https://www.cricbuzz.com/"
@@ -484,7 +301,9 @@
           "t": "Sportskeeda – Afghanistan U19 vs India U19 semi-final, 12 Nov 10:30 am IST, SonyLIV",
           "u": "https://www.sportskeeda.com/"
         }
-      ]
+      ],
+      "status": "AFG bat first · 3 down",
+      "scoreAt": "2026-11-12T12:10:00+05:30"
     },
     {
       "id": "kmj26-sen-chi",
@@ -816,19 +635,13 @@
     {
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
       "src": [
         {
-          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
-          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
+          "t": "Sportstar / India Today / BWF results – Kumamoto Masters R16 (via Google)",
+          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
         }
       ],
       "id": "kmj26-sen-dong",
@@ -836,7 +649,7 @@
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "21-8 21-14"
       ],
       "b": [
         "CHN",
@@ -844,24 +657,22 @@
         ""
       ],
       "when": "2026-11-12",
-      "note": "Start time TBC."
+      "note": "Eighth seed Lakshya beat China's Dong Tian Yao in 35 minutes to reach the quarter-finals (13 Nov).",
+      "win": "a",
+      "day": "12 Nov",
+      "recent": true,
+      "resultAt": "2026-11-12T12:23:50+05:30"
     },
     {
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
-      "st": "upcoming",
+      "st": "result",
       "india": true,
       "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
       "src": [
         {
-          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
-          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
+          "t": "Sportstar / India Today / BWF results – Kumamoto Masters R16 (via Google)",
+          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
         }
       ],
       "id": "kmj26-srikanth-naraoka",
@@ -869,7 +680,7 @@
       "a": [
         "IND",
         "Kidambi Srikanth",
-        ""
+        "21-15 11-21 21-18"
       ],
       "b": [
         "JPN",
@@ -877,7 +688,11 @@
         ""
       ],
       "when": "2026-11-12",
-      "note": "Fifth seed Naraoka awaits. Start time TBC."
+      "note": "Srikanth upset fifth seed and world No. 8 Kodai Naraoka in about an hour to reach the quarter-finals (13 Nov).",
+      "win": "a",
+      "day": "12 Nov",
+      "recent": true,
+      "resultAt": "2026-11-12T12:23:50+05:30"
     },
     {
       "sport": "Badminton",
@@ -909,8 +724,8 @@
         "Iwanaga / Nakanishi",
         ""
       ],
-      "when": "2026-11-12",
-      "note": "Third seeds Rin Iwanaga / Kie Nakanishi. Start time TBC."
+      "when": "2026-11-12T11:30:00+05:30",
+      "note": "Third seeds Rin Iwanaga / Kie Nakanishi; IndiaSportsHub lists an 11:30 am IST start. Result not yet confirmed."
     },
     {
       "id": "saff-sf1-ind",
@@ -924,19 +739,89 @@
         ""
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "BHU",
+        "Bhutan",
         ""
       ],
       "when": "2026-11-14",
       "india": true,
       "big": true,
       "venue": "Dhaka",
-      "note": "India face the Group A runner-up (Bangladesh, Bhutan or Sri Lanka, TBC). Kick-off time TBC.",
+      "note": "India (Group B winners) meet Group A runners-up Bhutan in Dhaka; Bangladesh topped Group A after beating Sri Lanka 4–0. Kick-off time TBC.",
       "src": [
+        {
+          "t": "Wikipedia – 2026 SAFF Championship (bracket and Group A results)",
+          "u": "https://en.wikipedia.org/wiki/2026_SAFF_Championship"
+        },
         {
           "t": "Khel Now – India 1-0 Maldives match report",
           "u": "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report"
+        }
+      ]
+    },
+    {
+      "id": "kmj26-sen-qf",
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "round": "Men's singles · Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-11-13",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "note": "Opponent and start time TBC.",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "Sportstar / India Today – Kumamoto Masters R16 (via Google)",
+          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
+        }
+      ]
+    },
+    {
+      "id": "kmj26-srikanth-qf",
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "round": "Men's singles · Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Kidambi Srikanth",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-11-13",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "note": "Opponent and start time TBC.",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "Sportstar / India Today – Kumamoto Masters R16 (via Google)",
+          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
         }
       ]
     }
@@ -967,7 +852,7 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India U19 v Afghanistan semi 12 Nov · final 14 Nov",
+      "status": "Live · India U19 v Afghanistan semi under way · final 14 Nov",
       "live": true,
       "india": true,
       "note": "Played in Oman (Al Amerat). India U19 beat Nepal by 10 wickets, lost to Pakistan by 3 wickets and beat UAE by 70 runs (Aaryavir Sehwag 160) to finish second in Group A. Semi-finals 12 Nov: Pakistan v Bangladesh, Afghanistan v India. On Sony Sports Network and SonyLIV.",
@@ -987,10 +872,10 @@
       "sport": "Football",
       "name": "India football tour of New Zealand",
       "comp": "India tour of New Zealand (friendlies)",
-      "status": "Starts 12 Nov · 2nd friendly 15 Nov",
+      "status": "Live · 2nd friendly 15 Nov",
       "live": true,
       "india": true,
-      "note": "Two men's friendlies v New Zealand in Auckland (12 Nov, 11:40 am IST) and Christchurch (15 Nov, 8:40 am IST).",
+      "note": "Two men's friendlies v New Zealand in Auckland (12 Nov, 11:30 am IST) and Christchurch (15 Nov, 8:40 am IST).",
       "src": [
         {
           "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
@@ -1006,7 +891,7 @@
       "status": "Live · till 15 Nov",
       "live": true,
       "india": true,
-      "note": "Lakshya Sen (beat Chi Yu Jen) and Kidambi Srikanth (beat Gemke) are in the round of 16 on 12 Nov, as are Treesa Jolly–Gayatri Gopichand. Dhruv–Maneesha and Hariharan–Tanisha Crasto are out.",
+      "note": "Lakshya Sen (beat Dong Tian Yao) and Kidambi Srikanth (beat fifth seed Kodai Naraoka) are in the quarter-finals on 13 Nov; Treesa Jolly–Gayatri Gopichand play third seeds Iwanaga–Nakanishi in the round of 16.",
       "src": [
         {
           "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
@@ -1082,10 +967,10 @@
       "sport": "Football",
       "name": "SAFF Championship 2026",
       "comp": "SAFF Championship 2026",
-      "status": "Live · India into semis 14 Nov · final 17 Nov",
+      "status": "Live · India v Bhutan semi 14 Nov · final 17 Nov",
       "live": true,
       "india": true,
-      "note": "India beat Maldives 1–0 to top Group B (6 pts) and meet the Group A runner-up in the semi-final on 14 Nov. Streaming on VETO.",
+      "note": "India beat Maldives 1–0 to top Group B (6 pts) and meet Group A runners-up Bhutan in the semi-final in Dhaka on 14 Nov. Streaming on VETO.",
       "src": [
         {
           "t": "Khel Now – VETO to live stream SAFF Championship 2026",
@@ -1197,16 +1082,58 @@
   ],
   "feed": [
     {
-      "t": "09:50",
-      "tag": "NEWS",
-      "c": "var(--accent)",
+      "t": "12:23",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "U19 Asia Cup semi: Afghanistan U19 87/3 after 21 overs against India U19 in Oman — Kavya Patel and Yashbardhan Chauhan among the wicket-takers.",
+      "match": "u19ac-sf-afg-ind",
+      "src": [
+        {
+          "t": "Outlook India / NDTV Sports / Times of India – live score via Google Top stories (AFG 87/3 in 21 ov)",
+          "u": "https://www.google.com/search?q=India+U19+vs+Afghanistan+U19+semi+final+Asia+Cup+live+score"
+        }
+      ]
+    },
+    {
+      "t": "12:23",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
       "m": "Football",
-      "text": "India v New Zealand friendly in Auckland today, streamed on FIFA+ via DAZN (no TV).",
+      "text": "Friendly in Auckland: New Zealand lead India 1–0 after a 5th-minute own goal.",
       "match": "ind-nz-fr1",
       "src": [
         {
-          "t": "Khel Now – New Zealand vs India live streaming",
-          "u": "https://khelnow.com/football/indian-football-team-international-friendly-new-zealand-vs-india-live-streaming"
+          "t": "Times of India / RNZ – live: New Zealand take early lead via own goal (via Google)",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Auckland+score"
+        }
+      ]
+    },
+    {
+      "t": "12 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Kumamoto Masters: Lakshya Sen beats Dong Tian Yao 21–8, 21–14 and Kidambi Srikanth stuns fifth seed Kodai Naraoka 21–15, 11–21, 21–18 — both into the quarter-finals.",
+      "match": "kmj26-srikanth-naraoka",
+      "src": [
+        {
+          "t": "Sportstar / India Today / BWF results – Kumamoto Masters R16 (via Google)",
+          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
+        }
+      ]
+    },
+    {
+      "t": "12 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "SAFF Championship: India will play Bhutan in the semi-final in Dhaka on 14 Nov; Bangladesh top Group A.",
+      "match": "saff-sf1-ind",
+      "src": [
+        {
+          "t": "Wikipedia – 2026 SAFF Championship (bracket and Group A results)",
+          "u": "https://en.wikipedia.org/wiki/2026_SAFF_Championship"
         }
       ]
     },
@@ -1324,32 +1251,7 @@
       "tag": "LOSS",
       "c": "var(--accent)",
       "m": "Cricket",
-      "text": "U19 Asia Cup: India U19 lose to Pakistan U19 by 3 wickets — Arjun Rajput's 107 helps India to 208, but Hamza Zahoor's unbeaten 100 wins it for Pakistan with 11 balls left.",
-      "match": "u19ac-ind-pak"
-    },
-    {
-      "t": "7 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "AWCL: East Bengal lose 0–2 to April 25 SC in Kolkata but go through to the quarter-finals — the first Indian club to reach that stage.",
-      "match": "awcl-eb-425"
-    },
-    {
-      "t": "23:20 7 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "2nd ODI, Wellington: India beat New Zealand by 4 runs (DLS) after rain ended play — NZ 134 in 41 overs, India 113/7 in 26. Gurnoor Brar is Player of the Match; India lead 2–0.",
-      "match": "nz-ind-odi-2"
-    },
-    {
-      "t": "22:19 7 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "ISL: East Bengal lose 3–5 at Chennaiyin FC — Brison Fernandes scores twice in the first 18 minutes; Chennaiyin's first win of the season.",
-      "match": "isl-che-eb"
+      "text": "U19 Asia Cup: India U19 lose to Pakistan U19 by 3 wickets — Arjun Rajput's 107 helps India to 208, but Hamza Zahoor's unbeaten 100 wins it for Pakistan with 11 balls left."
     }
   ],
   "schedule": [
@@ -1366,15 +1268,16 @@
       "mo": "NOV",
       "title": "New Zealand v India, football friendly",
       "meta": "Football · Auckland",
-      "time": "11:40",
+      "time": "11:30",
       "match": "ind-nz-fr1"
     },
     {
       "d": "12",
       "mo": "NOV",
-      "title": "Lakshya, Srikanth, Treesa–Gayatri, Kumamoto Masters R16",
+      "title": "Treesa–Gayatri v Iwanaga–Nakanishi, Kumamoto Masters R16",
       "meta": "Badminton · Kumamoto",
-      "time": "TBC"
+      "time": "11:30",
+      "match": "kmj26-tg-iwanaga"
     },
     {
       "d": "13",
@@ -1385,9 +1288,17 @@
       "match": "nz-ind-odi-4"
     },
     {
+      "d": "13",
+      "mo": "NOV",
+      "title": "Lakshya Sen & Kidambi Srikanth, Kumamoto Masters quarter-finals",
+      "meta": "Badminton · Kumamoto",
+      "time": "TBC",
+      "match": "kmj26-sen-qf"
+    },
+    {
       "d": "14",
       "mo": "NOV",
-      "title": "India v TBC, SAFF Championship semi-final",
+      "title": "India v Bhutan, SAFF Championship semi-final",
       "meta": "Football · Dhaka",
       "time": "TBC",
       "match": "saff-sf1-ind"
