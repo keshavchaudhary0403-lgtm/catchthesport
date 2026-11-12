@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-11T12:22:57+05:30",
-  "dayLabel": "Wed 11 Nov · Lakshya 2:40 pm & Srikanth 4:30 pm at Japan Masters · India v Maldives, SAFF 3 pm · U19 semi Thu",
-  "featured": "saff-ind-mdv",
+  "lastUpdated": "2026-11-12T09:35:32+05:30",
+  "dayLabel": "Thu 12 Nov · U19 Asia Cup semi v Afghanistan 10:30 am · India v NZ football friendly · Kumamoto R16",
+  "featured": "u19ac-sf-afg-ind",
   "matches": [
     {
       "id": "u19ac-ind-pak",
@@ -315,16 +315,16 @@
       "sport": "Football",
       "comp": "SAFF Championship 2026",
       "round": "Group B · final group game",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "1"
       ],
       "b": [
         "MDV",
         "Maldives",
-        ""
+        "0"
       ],
       "when": "2026-11-11T15:00:00+05:30",
       "india": true,
@@ -335,30 +335,18 @@
           "u": "https://www.vetosports.com"
         }
       ],
-      "note": "Final Group B game, 3 pm IST kick-off, streamed free on VETO (no live TV in India). India beat Pakistan 3–2 and Pakistan beat Maldives 3–0, so a draw is enough for India to reach the semi-finals (14 Nov). Head-to-head v Maldives: India 13 wins, 2 draws, 3 losses.",
+      "note": "Suhail Ahmad Bhat scored a 38th-minute penalty after Abdul Rabeeh was fouled. India finish top of Group B with 6 points and reach the semi-finals on 14 Nov (opponent from Group A, TBC).",
       "src": [
         {
-          "t": "ThePrint – India need draw against Maldives to qualify for SAFF Championship semi-final",
-          "u": "https://theprint.in/"
-        },
-        {
-          "t": "Dawn – Pakistan cruise past Maldives 3-0",
-          "u": "https://www.dawn.com/"
-        },
-        {
-          "t": "Khel Now – VETO to live stream SAFF Championship 2026",
-          "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
-        },
-        {
-          "t": "Daily Jagran – India vs Maldives live streaming: where to watch SAFF Championship 2026",
-          "u": "https://www.thedailyjagran.com/sports/news/india-vs-maldives-live-streaming-where-to-watch-saff-championship-2026-for-free-predicted-lineups-match-timings-10335800"
-        },
-        {
-          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
-          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+          "t": "Khel Now – India 1-0 Maldives match report",
+          "u": "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report"
         }
       ],
-      "big": true
+      "big": true,
+      "win": "a",
+      "day": "11 Nov",
+      "recent": true,
+      "resultAt": "2026-11-12T09:35:32+05:30"
     },
     {
       "id": "awcl-eb-425",
@@ -417,12 +405,20 @@
       "india": true,
       "big": true,
       "venue": "Go Media Stadium, Auckland",
-      "note": "Men's international friendly during the FIFA window; India's first visit to New Zealand. Broadcaster in India not yet confirmed.",
+      "note": "Men's international friendly during the FIFA window; India's first visit to New Zealand. Streamed on FIFA+ via DAZN (not on TV); Khel Now reports kick-off as 11:30 am or 11:40 am IST.",
       "src": [
         {
           "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
           "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
+        },
+        {
+          "t": "Khel Now – New Zealand vs India live streaming",
+          "u": "https://khelnow.com/football/indian-football-team-international-friendly-new-zealand-vs-india-live-streaming"
         }
+      ],
+      "watch": [
+        "FIFA+",
+        "DAZN"
       ]
     },
     {
@@ -495,11 +491,11 @@
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
       "round": "Men's singles · Round of 32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "21-19 21-18"
       ],
       "b": [
         "TPE",
@@ -509,32 +505,28 @@
       "when": "2026-11-11T14:40:00+05:30",
       "india": true,
       "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Super 500. Eighth seed Lakshya opens against world No. 24 Chi Yu Jen on Court 2 (around 2:40 pm IST) as he chases a World Tour Finals spot. Kidambi Srikanth also plays today.",
+      "note": "Eighth seed Lakshya beat Chi Yu Jen in 49 minutes and meets China's Dong Tian Yao in the round of 16.",
       "src": [
         {
-          "t": "Sportstar – Lakshya Sen vs Chi Yu Jen: where to watch Japan Masters 2026 Round of 32 (≈2:40 pm IST)",
-          "u": "https://sportstar.thehindu.com/badminton/"
-        },
-        {
-          "t": "BWF – Kumamoto Masters Japan 2026 results / order of play",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/"
-        },
-        {
-          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
-          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "11 Nov",
+      "recent": true,
+      "resultAt": "2026-11-12T09:35:32+05:30"
     },
     {
       "id": "kmj26-srikanth-gemke",
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
       "round": "Men's singles · Round of 32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Kidambi Srikanth",
-        ""
+        "18-21 21-16 24-22"
       ],
       "b": [
         "DEN",
@@ -550,13 +542,17 @@
           "u": "https://www.youtube.com/@BWFTV"
         }
       ],
-      "note": "Srikanth's first match since losing to Ayush Shetty at the French Open; Gemke leads the head-to-head 2–1 (one a walkover). Court 2, around 4:30 pm IST.",
+      "note": "Srikanth came from a game down to beat Denmark's Rasmus Gemke in 1h 08m and meets Japan's fifth seed Kodai Naraoka in the round of 16.",
       "src": [
         {
-          "t": "Sportstar – Kidambi Srikanth vs Rasmus Gemke: where to watch Japan Masters 2026 Round of 32",
-          "u": "https://sportstar.thehindu.com/badminton/kidambi-srikanth-vs-rasmus-gemke-live-streaming-info-when-where-to-watch-japan-masters-round-of-32-match/article71688364.ece"
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "11 Nov",
+      "recent": true,
+      "resultAt": "2026-11-12T09:35:32+05:30"
     },
     {
       "id": "wact26-ind-mas",
@@ -816,6 +812,133 @@
           "u": "https://www.hockeynz.co.nz/"
         }
       ]
+    },
+    {
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "st": "upcoming",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
+        }
+      ],
+      "id": "kmj26-sen-dong",
+      "round": "Men's singles · Round of 16",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "CHN",
+        "Dong Tian Yao",
+        ""
+      ],
+      "when": "2026-11-12",
+      "note": "Start time TBC."
+    },
+    {
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "st": "upcoming",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
+        }
+      ],
+      "id": "kmj26-srikanth-naraoka",
+      "round": "Men's singles · Round of 16",
+      "a": [
+        "IND",
+        "Kidambi Srikanth",
+        ""
+      ],
+      "b": [
+        "JPN",
+        "Kodai Naraoka",
+        ""
+      ],
+      "when": "2026-11-12",
+      "note": "Fifth seed Naraoka awaits. Start time TBC."
+    },
+    {
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "st": "upcoming",
+      "india": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
+        }
+      ],
+      "id": "kmj26-tg-iwanaga",
+      "round": "Women's doubles · Round of 16",
+      "a": [
+        "IND",
+        "Treesa Jolly / Gayatri Gopichand",
+        ""
+      ],
+      "b": [
+        "JPN",
+        "Iwanaga / Nakanishi",
+        ""
+      ],
+      "when": "2026-11-12",
+      "note": "Third seeds Rin Iwanaga / Kie Nakanishi. Start time TBC."
+    },
+    {
+      "id": "saff-sf1-ind",
+      "sport": "Football",
+      "comp": "SAFF Championship 2026",
+      "round": "Semi-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-11-14",
+      "india": true,
+      "big": true,
+      "venue": "Dhaka",
+      "note": "India face the Group A runner-up (Bangladesh, Bhutan or Sri Lanka, TBC). Kick-off time TBC.",
+      "src": [
+        {
+          "t": "Khel Now – India 1-0 Maldives match report",
+          "u": "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -883,19 +1006,11 @@
       "status": "Live · till 15 Nov",
       "live": true,
       "india": true,
-      "note": "BWF Super 500 in Kumamoto. Lakshya Sen (≈2:40 pm IST) and Kidambi Srikanth (≈4:30 pm IST, v Rasmus Gemke) play their first rounds on 11 Nov; Treesa Jolly–Gayatri Gopichand are in the round of 16.",
+      "note": "Lakshya Sen (beat Chi Yu Jen) and Kidambi Srikanth (beat Gemke) are in the round of 16 on 12 Nov, as are Treesa Jolly–Gayatri Gopichand. Dhruv–Maneesha and Hariharan–Tanisha Crasto are out.",
       "src": [
         {
-          "t": "Sportstar – Kidambi Srikanth vs Rasmus Gemke: where to watch Japan Masters 2026 Round of 32",
-          "u": "https://sportstar.thehindu.com/badminton/kidambi-srikanth-vs-rasmus-gemke-live-streaming-info-when-where-to-watch-japan-masters-round-of-32-match/article71688364.ece"
-        },
-        {
-          "t": "BWF – Kumamoto Masters Japan 2026 results / order of play",
-          "u": "https://bwfworldchampionships.bwfbadminton.com/"
-        },
-        {
-          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
-          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
         }
       ]
     },
@@ -967,10 +1082,10 @@
       "sport": "Football",
       "name": "SAFF Championship 2026",
       "comp": "SAFF Championship 2026",
-      "status": "Live · India v Maldives 11 Nov · semis 14 Nov · final 17 Nov",
+      "status": "Live · India into semis 14 Nov · final 17 Nov",
       "live": true,
       "india": true,
-      "note": "Defending champions India beat Pakistan 3–2; Pakistan then beat Maldives 3–0. India need a draw against Maldives to reach the semi-finals. Streaming on VETO.",
+      "note": "India beat Maldives 1–0 to top Group B (6 pts) and meet the Group A runner-up in the semi-final on 14 Nov. Streaming on VETO.",
       "src": [
         {
           "t": "Khel Now – VETO to live stream SAFF Championship 2026",
@@ -1081,6 +1196,48 @@
     }
   ],
   "feed": [
+    {
+      "t": "09:50",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "India v New Zealand friendly in Auckland today, streamed on FIFA+ via DAZN (no TV).",
+      "match": "ind-nz-fr1",
+      "src": [
+        {
+          "t": "Khel Now – New Zealand vs India live streaming",
+          "u": "https://khelnow.com/football/indian-football-team-international-friendly-new-zealand-vs-india-live-streaming"
+        }
+      ]
+    },
+    {
+      "t": "11 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Kumamoto Masters: Lakshya Sen beats Chi Yu Jen 21–19, 21–18 and Srikanth edges Gemke 18–21, 21–16, 24–22; both into round of 16. Dhruv–Maneesha and Hariharan–Tanisha Crasto lose.",
+      "match": "kmj26-sen-chi",
+      "src": [
+        {
+          "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
+          "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
+        }
+      ]
+    },
+    {
+      "t": "11 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "SAFF Championship: India beat Maldives 1–0 through Suhail Bhat's penalty to top Group B and reach the semi-finals (14 Nov).",
+      "match": "saff-ind-mdv",
+      "src": [
+        {
+          "t": "Khel Now – India 1-0 Maldives match report",
+          "u": "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report"
+        }
+      ]
+    },
     {
       "t": "09:32",
       "tag": "NEWS",
@@ -1193,41 +1350,9 @@
       "m": "Football",
       "text": "ISL: East Bengal lose 3–5 at Chennaiyin FC — Brison Fernandes scores twice in the first 18 minutes; Chennaiyin's first win of the season.",
       "match": "isl-che-eb"
-    },
-    {
-      "t": "19:43 7 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "ISL: Inter Kashi lose 0–3 to SC Delhi in Pune — Fortes, Peña and Rodriguinho score.",
-      "match": "isl-kashi-del"
     }
   ],
   "schedule": [
-    {
-      "d": "11",
-      "mo": "NOV",
-      "title": "Lakshya Sen v Chi Yu Jen, Kumamoto Masters R32",
-      "meta": "Badminton · Kumamoto",
-      "time": "14:40",
-      "match": "kmj26-sen-chi"
-    },
-    {
-      "d": "11",
-      "mo": "NOV",
-      "title": "India v Maldives, SAFF Championship",
-      "meta": "Football · Dhaka",
-      "time": "15:00",
-      "match": "saff-ind-mdv"
-    },
-    {
-      "d": "11",
-      "mo": "NOV",
-      "title": "Kidambi Srikanth v Rasmus Gemke, Kumamoto Masters R32",
-      "meta": "Badminton · Kumamoto",
-      "time": "16:30",
-      "match": "kmj26-srikanth-gemke"
-    },
     {
       "d": "12",
       "mo": "NOV",
@@ -1245,12 +1370,27 @@
       "match": "ind-nz-fr1"
     },
     {
+      "d": "12",
+      "mo": "NOV",
+      "title": "Lakshya, Srikanth, Treesa–Gayatri, Kumamoto Masters R16",
+      "meta": "Badminton · Kumamoto",
+      "time": "TBC"
+    },
+    {
       "d": "13",
       "mo": "NOV",
       "title": "New Zealand v India, 4th ODI",
       "meta": "Cricket · Mount Maunganui",
       "time": "07:30",
       "match": "nz-ind-odi-4"
+    },
+    {
+      "d": "14",
+      "mo": "NOV",
+      "title": "India v TBC, SAFF Championship semi-final",
+      "meta": "Football · Dhaka",
+      "time": "TBC",
+      "match": "saff-sf1-ind"
     },
     {
       "d": "15",
