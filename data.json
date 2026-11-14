@@ -1,86 +1,8 @@
 {
-  "lastUpdated": "2026-11-14T09:39:56+05:30",
-  "dayLabel": "Sat 14 Nov · India U19 v Pakistan U19 Asia Cup final 10:30 am · Lakshya Sen into Kumamoto final · India v Bhutan SAFF semi 2:30 pm",
+  "lastUpdated": "2026-11-14T12:29:11+05:30",
+  "dayLabel": "Sat 14 Nov · U19 Asia Cup final live: PAK 199/2 v India · India v Bhutan SAFF semi 2:30 pm · Lakshya in Kumamoto final",
   "featured": "u19ac-final-ind-pak",
   "matches": [
-    {
-      "id": "u19ac-ind-uae",
-      "sport": "Cricket",
-      "comp": "ACC Men's U19 Asia Cup 2026",
-      "round": "Group A · Match 11",
-      "st": "result",
-      "a": [
-        "IND",
-        "India U19",
-        "309/7 (50)"
-      ],
-      "b": [
-        "UAE",
-        "UAE U19",
-        "239 (49.6)"
-      ],
-      "when": "2026-11-10T10:30:00+05:30",
-      "india": true,
-      "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India U19 win by 70 runs and qualify for the semi-finals. Aaryavir Sehwag 160 off 168 balls, VK Vineeth 67; Ishan Sood 4/37 as UAE (Ahmed Khudadad 74) were bowled out for 239.",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "src": [
-        {
-          "t": "Times of Oman – Aaryavir Sehwag, Ishan Sood shine as India defeat UAE, qualify for U19 Asia Cup semis",
-          "u": "https://timesofoman.com/article/179005-aaryavir-sehwag-ishan-sood-shine-as-india-defeat-uae-qualify-for-u19-asia-cup-semis"
-        },
-        {
-          "t": "Daily Jagran – Aaryavir Sehwag smashes 160 as India U19 beat UAE by 70 runs",
-          "u": "https://www.thedailyjagran.com/cricket/news/aaryavir-sehwag-smashes-160-as-india-u19-beat-uae-by-70-runs-qualify-for-mens-u19-asia-cup-semi-finals-score-updates-10335827"
-        }
-      ],
-      "win": "a",
-      "day": "10 Nov",
-      "recent": true,
-      "resultAt": "2026-11-10T18:19:00+05:30"
-    },
-    {
-      "id": "nz-ind-odi-3",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "3rd ODI",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "No result",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "No result"
-      ],
-      "when": "2026-11-10T07:30:00+05:30",
-      "venue": "Seddon Park, Hamilton",
-      "note": "Abandoned without a ball bowled due to persistent rain at Seddon Park, Hamilton. Shubman Gill had won the toss and chosen to field; the toss was delayed over two hours. India lead the five-match series 2–0 and cannot lose it.",
-      "src": [
-        {
-          "t": "Sports Tak – India vs New Zealand 3rd ODI officially abandoned due to persistent rain in Hamilton",
-          "u": "https://thesportstak.com/cricket/story/india-vs-new-zealand-3rd-odi-officially-abandoned-due-to-persistent-rain-in-hamilton-what-it-means-for-visitors-3560285-2026-11-10"
-        },
-        {
-          "t": "Deccan Herald – 3rd ODI abandoned without a ball being bowled",
-          "u": "https://www.deccanherald.com/sports/cricket/india-vs-new-zealand-3rd-odi-rain-denies-visitors-hat-trick-of-wins-match-abandoned-without-a-ball-being-bowled-4213544"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "day": "10 Nov",
-      "recent": true,
-      "resultAt": "2026-11-10T11:37:00+05:30"
-    },
     {
       "id": "nz-ind-odi-4",
       "st": "result",
@@ -848,37 +770,35 @@
       "sport": "Cricket",
       "comp": "ACC Men's U19 Asia Cup 2026",
       "round": "Final",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "IND",
         "India U19",
-        ""
+        "Yet to bat"
       ],
       "b": [
         "PAK",
         "Pakistan U19",
-        ""
+        "199/2 (28.1)"
       ],
       "when": "2026-11-14T10:30:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
       "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India U19 v Pakistan U19 for the title; Pakistan beat Bangladesh by 9 wickets in the semi (Rizwanullah 5/30). Start 10:30 am IST assumed from PKT listing (10:00 am PKT).",
+      "note": "Pakistan won the toss and batted; Abdul Qadir hit 80 off 54 (8 sixes) before Arjun Rajput removed him, Usman Khan unbeaten past 76 with a 100-plus stand. India U19 field first.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Pakera – Pakistan U19 beat Bangladesh U19 by 9 wickets, Asia Cup final v India",
-          "u": "https://pakera.pk/pakistan-u19-beat-bangladesh-u19-9-wickets-rizwanullah-5-for-30-asia-cup-final-india/"
-        },
-        {
-          "t": "SportsTak – India v Pakistan U19 Asia Cup final",
-          "u": "https://thesportstak.com/cricket/story/ind-vs-pak-in-u-19-asia-cup-2026-final-as-india-crush-afghanistan-to-reach-11th-summit-clash-abste-3560758-2026-11-12"
+          "t": "Google Search – live scorecard and Top stories (Indian Express, TOI, NDTV), 12:22 pm IST",
+          "u": "https://www.google.com/search?q=pak+u19+vs+ind+u19"
         }
-      ]
+      ],
+      "status": "Pakistan U19 batting first",
+      "scoreAt": "2026-11-14T12:22:00+05:30"
     },
     {
       "id": "kmj26-sen-sf",
@@ -927,33 +847,33 @@
       "sport": "Football",
       "comp": "Indian Women's League 2026-27",
       "round": "Matchday 1 · Season opener",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "EBFC",
         "East Bengal",
-        "",
+        "1",
         "#C8102E"
       ],
       "b": [
         "GKFC",
         "Gokulam Kerala",
-        "",
+        "0",
         "#7B1E3A"
       ],
       "when": "2026-11-13T19:00:00+05:30",
       "india": true,
       "venue": "Kalyani Stadium, West Bengal",
-      "note": "Defending champions East Bengal open the 10th IWL season against Gokulam Kerala; eight clubs, 56 matches. Streamed free on YouTube (channel not confirmed).",
+      "note": "Fazila's late winner gives defending champions East Bengal a 1–0 win over Gokulam Kerala in the IWL 2026-27 opener at Kalyani.",
       "src": [
         {
-          "t": "ESPN India – IWL 2026-27 schedule, results, points table",
-          "u": "https://www.espn.in/football/story/_/id/50467215/iwl-2026-27-indian-womens-league-football-news-schedule-scores-results-points-table-east-bengal-gokulam-kerala-kickstart-sethu-nita-bbfs-garhwal-united-hops-juba-sangha"
-        },
-        {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
+          "t": "IANS – IWL 2026/27: Fazila's late winner hands East Bengal 1-0 win over Gokulam Kerala",
+          "u": "https://ianslive.in/iwl-202627-fazilas-late-winner-hands-east-bengal-fc-1-0-victory-over-gokulam-kerala-fc--20261113213619"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "13 Nov",
+      "recent": true,
+      "resultAt": "2026-11-14T12:29:11+05:30"
     },
     {
       "id": "kmj26-sen-final",
@@ -976,7 +896,7 @@
       "big": true,
       "gold": true,
       "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Lakshya Sen into the final after beating Alwi Farhan; opponent and start time TBC.",
+      "note": "Lakshya Sen's second straight Kumamoto final; he meets the winner of Koki Watanabe (JPN) v Kunlavut Vitidsarn (THA, 2nd seed).",
       "watch": [
         {
           "n": "YouTube – BWF TV",
@@ -984,6 +904,10 @@
         }
       ],
       "src": [
+        {
+          "t": "The Tribune (ANI) – Lakshya Sen beats Alwi Farhan to enter final",
+          "u": "https://www.tribuneindia.com/news/sports/japan-masters-lakshya-sen-beats-indonesias-alwi-farhan-to-enter-final/"
+        },
         {
           "t": "Khel Now – Japan Masters 2026 semi-finals live",
           "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
@@ -1017,7 +941,7 @@
       "sport": "Cricket",
       "name": "ACC Men's U19 Asia Cup 2026",
       "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Live · India U19 v Pakistan U19 final 14 Nov",
+      "status": "Live · final v Pakistan today",
       "live": true,
       "india": true,
       "note": "Played in Oman (Al Amerat). India U19 beat Afghanistan by 8 wickets in the semi-final (Raichandani 93) and meet Pakistan, who beat Bangladesh by 9 wickets, in the final on 14 Nov. On Sony Sports Network and SonyLIV.",
@@ -1180,14 +1104,18 @@
       "sport": "Football",
       "name": "Indian Women's League 2026-27",
       "comp": "Indian Women's League 2026-27",
-      "status": "Starts 13 Nov · Kalyani",
+      "status": "Live · Kalyani",
       "live": true,
       "india": true,
-      "note": "10th IWL season: eight clubs, 56 matches; East Bengal v Gokulam Kerala opens at 7 pm IST on 13 Nov.",
+      "note": "10th IWL season: eight clubs, 56 matches. East Bengal beat Gokulam Kerala 1–0 in the opener on 13 Nov.",
       "src": [
         {
           "t": "ESPN India – IWL 2026-27 schedule",
           "u": "https://www.espn.in/football/story/_/id/50467215/iwl-2026-27-indian-womens-league-football-news-schedule-scores-results-points-table-east-bengal-gokulam-kerala-kickstart-sethu-nita-bbfs-garhwal-united-hops-juba-sangha"
+        },
+        {
+          "t": "IANS – IWL 2026/27: Fazila's late winner hands East Bengal 1-0 win over Gokulam Kerala",
+          "u": "https://ianslive.in/iwl-202627-fazilas-late-winner-hands-east-bengal-fc-1-0-victory-over-gokulam-kerala-fc--20261113213619"
         }
       ]
     },
@@ -1266,6 +1194,34 @@
     }
   ],
   "feed": [
+    {
+      "t": "12:22",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "U19 Asia Cup final: Pakistan U19 199/2 after 28.1 overs v India U19 — Abdul Qadir 80 off 54 before Arjun Rajput struck; Usman Khan going strong.",
+      "match": "u19ac-final-ind-pak",
+      "src": [
+        {
+          "t": "Google Search – live scorecard and Top stories (Indian Express, TOI, NDTV), 12:22 pm IST",
+          "u": "https://www.google.com/search?q=pak+u19+vs+ind+u19"
+        }
+      ]
+    },
+    {
+      "t": "13 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "IWL opener: East Bengal beat Gokulam Kerala 1–0 at Kalyani through Fazila's late winner.",
+      "match": "iwl26-ebfc-gkfc",
+      "src": [
+        {
+          "t": "IANS – IWL 2026/27: Fazila's late winner hands East Bengal 1-0 win over Gokulam Kerala",
+          "u": "https://ianslive.in/iwl-202627-fazilas-late-winner-hands-east-bengal-fc-1-0-victory-over-gokulam-kerala-fc--20261113213619"
+        }
+      ]
+    },
     {
       "t": "08:40",
       "tag": "WIN",
@@ -1428,33 +1384,6 @@
         {
           "t": "ANI – Lakshya Sen, Kidambi Srikanth advance to pre-quarterfinals at Kumamoto Masters Japan",
           "u": "https://www.aninews.in/news/sports/others/lakshya-sen-kidambi-srikanth-advance-to-pre-quarterfinals-at-kumamoto-masters-japan20261111223747/"
-        }
-      ]
-    },
-    {
-      "t": "11 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "SAFF Championship: India beat Maldives 1–0 through Suhail Bhat's penalty to top Group B and reach the semi-finals (14 Nov).",
-      "match": "saff-ind-mdv",
-      "src": [
-        {
-          "t": "Khel Now – India 1-0 Maldives match report",
-          "u": "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-maldives-match-report"
-        }
-      ]
-    },
-    {
-      "t": "09:32",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "IPL 2027: Mumbai Indians and Punjab Kings complete the Hardik Pandya–Arshdeep Singh swap — Hardik joins PBKS for ₹18 crore, Arshdeep moves to MI at ₹18 crore. MI now need a new captain.",
-      "src": [
-        {
-          "t": "ESPNcricinfo – MI and PBKS complete Hardik Pandya-Arshdeep Singh swap",
-          "u": "https://www.cricinfo.com/story/ipl-2027-mumbai-indians-and-punjab-kings-complete-hardik-pandya-and-arshdeep-singh-swap-1562157"
         }
       ]
     }
