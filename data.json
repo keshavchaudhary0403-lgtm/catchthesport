@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-13T12:43:57+05:30",
-  "dayLabel": "Fri 13 Nov · India 28/4 chasing 334 in 4th ODI · Lakshya into Kumamoto SF · U19 Asia Cup final v Pakistan tomorrow",
-  "featured": "nz-ind-odi-4",
+  "lastUpdated": "2026-11-14T09:39:56+05:30",
+  "dayLabel": "Sat 14 Nov · India U19 v Pakistan U19 Asia Cup final 10:30 am · Lakshya Sen into Kumamoto final · India v Bhutan SAFF semi 2:30 pm",
+  "featured": "u19ac-final-ind-pak",
   "matches": [
     {
       "id": "u19ac-ind-uae",
@@ -83,7 +83,7 @@
     },
     {
       "id": "nz-ind-odi-4",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -97,18 +97,18 @@
       "b": [
         "IND",
         "India",
-        "28/4 (11.3)"
+        "All out"
       ],
       "when": "2026-11-13T07:30:00+05:30",
-      "note": "New Zealand made 333 all out after India chose to field; India collapsed to 28/4 in reply with Rohit Sharma, Virat Kohli and captain Shreyas Iyer out for ducks. India lead the series 2–0.",
+      "note": "New Zealand win by 244 runs. Will Young 125 off 108 and Tim Seifert 58 set 333; Matt Henry took a six-wicket haul, with Rohit Sharma, Virat Kohli and captain Shreyas Iyer out for ducks. India lead the series 2–1.",
       "src": [
         {
-          "t": "Google live score / NDTV Sports – NZ v IND 4th ODI live",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+4th+ODI+score"
+          "t": "Outlook India – Matt Henry's six-wicket haul powers NZ to 244-run win, cut series deficit to 2-1",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-4th-odi-live-score-commentary-scorecard-nz-vs-ind-today-match-updates-highlights"
         },
         {
-          "t": "Tribune – NZ v IND 4th ODI: India win toss, elect to field first",
-          "u": "https://www.tribuneindia.com/news/india-new-zealand-fourth-odi/nz-vs-ind-4th-odi-india-wins-toss-elects-to-field-first"
+          "t": "Cricinfo – Matt Henry six-for and Will Young hundred crush India",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report"
         }
       ],
       "watch": [
@@ -116,8 +116,10 @@
         "SonyLIV"
       ],
       "venue": "Bay Oval, Mount Maunganui",
-      "status": "India need 306 off 231",
-      "scoreAt": "2026-11-13T12:42:00+05:30"
+      "win": "a",
+      "day": "13 Nov",
+      "recent": true,
+      "resultAt": "2026-11-14T09:39:56+05:30"
     },
     {
       "id": "nz-ind-odi-5",
@@ -883,22 +885,22 @@
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
       "round": "Men's singles · Semi-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "21-12 15-21 21-11"
       ],
       "b": [
         "INA",
         "Alwi Farhan",
-        ""
+        "12-21 21-15 11-21"
       ],
-      "when": "2026-11-14",
+      "when": "2026-11-14T07:20:00+05:30",
       "india": true,
       "big": true,
       "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Eighth seed Lakshya Sen meets sixth seed Alwi Farhan of Indonesia for a place in the final. Start time TBC.",
+      "note": "Eighth seed Lakshya Sen beat sixth seed Alwi Farhan in three games (21–12, 15–21, 21–11) to reach the final. Opponent and time TBC.",
       "watch": [
         {
           "n": "YouTube – BWF TV",
@@ -907,14 +909,18 @@
       ],
       "src": [
         {
-          "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
-          "u": "https://www.google.com/search?q=Srikanth+Koki+Watanabe+quarterfinal+22-24"
+          "t": "TribunWow – Hasil semifinal Kumamoto Masters 2026: Alwi Farhan tumbang lawan wakil India",
+          "u": "https://wow.tribunnews.com/sport/414061/hasil-semifinal-kumamoto-masters-2026-alwi-farhan-tumbang-dalam-duel-rubber-game-lawan-wakil-india"
         },
         {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
+          "t": "Khel Now – Japan Masters 2026 semi-finals live",
+          "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "14 Nov",
+      "recent": true,
+      "resultAt": "2026-11-14T09:39:56+05:30"
     },
     {
       "id": "iwl26-ebfc-gkfc",
@@ -948,6 +954,41 @@
           "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
         }
       ]
+    },
+    {
+      "id": "kmj26-sen-final",
+      "sport": "Badminton",
+      "comp": "Kumamoto Masters Japan 2026",
+      "round": "Men's singles · Final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "Opponent TBC",
+        ""
+      ],
+      "when": "2026-11-15",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Kumamoto Prefectural Gymnasium, Japan",
+      "note": "Lakshya Sen into the final after beating Alwi Farhan; opponent and start time TBC.",
+      "watch": [
+        {
+          "n": "YouTube – BWF TV",
+          "u": "https://www.youtube.com/@BWFTV"
+        }
+      ],
+      "src": [
+        {
+          "t": "Khel Now – Japan Masters 2026 semi-finals live",
+          "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -956,10 +997,10 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live series · India lead 2–0 · 4th ODI live, Mount Maunganui",
+      "status": "Live series · India lead 2–1 · 5th ODI 15 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20I series 3–2 after New Zealand took the 5th T20I in Hamilton by 7 wickets. Five ODIs from 4 Nov and two Tests follow; tour runs to 1 Dec.",
+      "note": "India won the T20I series 3–2. New Zealand won the 4th ODI by 244 runs (Matt Henry six-for); India lead the five-match ODI series 2–1 with the 5th at Mount Maunganui on 15 Nov. Two Tests follow; tour runs to 1 Dec.",
       "src": [
         {
           "t": "Olympics.com – Indian cricket team schedule 2026",
@@ -1012,10 +1053,10 @@
       "sport": "Badminton",
       "name": "Kumamoto Masters Japan 2026",
       "comp": "Kumamoto Masters Japan 2026",
-      "status": "Live · Lakshya in SF 14 Nov · final 15 Nov",
+      "status": "Live · Lakshya in final 15 Nov",
       "live": true,
       "india": true,
-      "note": "Lakshya Sen beat Yushi Tanaka 21–16, 21–15 to reach the semi-finals (v Alwi Farhan, 14 Nov); Kidambi Srikanth lost his quarter-final 22–24, 15–21 to Koki Watanabe.",
+      "note": "Lakshya Sen beat Alwi Farhan 21–12, 15–21, 21–11 in the semi-final and plays the final on 15 Nov; Kidambi Srikanth lost his quarter-final to Koki Watanabe.",
       "src": [
         {
           "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
@@ -1031,8 +1072,8 @@
       "id": "yog-dakar",
       "sport": "Multi-sport",
       "name": "Youth Olympic Games Dakar 2026",
-      "status": "Live · closes 13 Nov",
-      "live": true,
+      "status": "Concluded · closed 13 Nov",
+      "live": false,
       "india": true,
       "note": "Indian medals so far include Taniya's beach wrestling medal (India's first in the sport), Shourya Ambure's bronze (India's first track and field medal at these Games) and swimming bronzes for Tirthank Pegu and Dhinidhi Desinghu; boxers Ambekar and Gunjan won gold on 12 Nov.",
       "src": [
@@ -1226,6 +1267,42 @@
   ],
   "feed": [
     {
+      "t": "08:40",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Kumamoto Masters: Lakshya Sen beats Alwi Farhan 21–12, 15–21, 21–11 to reach the final.",
+      "match": "kmj26-sen-sf",
+      "src": [
+        {
+          "t": "TribunWow – Hasil semifinal Kumamoto Masters 2026: Alwi Farhan tumbang lawan wakil India",
+          "u": "https://wow.tribunnews.com/sport/414061/hasil-semifinal-kumamoto-masters-2026-alwi-farhan-tumbang-dalam-duel-rubber-game-lawan-wakil-india"
+        },
+        {
+          "t": "Khel Now – Japan Masters 2026 semi-finals live",
+          "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
+        }
+      ]
+    },
+    {
+      "t": "13 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "4th ODI: New Zealand beat India by 244 runs at Bay Oval — Matt Henry's six-wicket haul, Will Young 125; India lead the series 2–1.",
+      "match": "nz-ind-odi-4",
+      "src": [
+        {
+          "t": "Outlook India – Matt Henry's six-wicket haul powers NZ to 244-run win, cut series deficit to 2-1",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-4th-odi-live-score-commentary-scorecard-nz-vs-ind-today-match-updates-highlights"
+        },
+        {
+          "t": "Cricinfo – Matt Henry six-for and Will Young hundred crush India",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report"
+        }
+      ]
+    },
+    {
       "t": "12:40",
       "tag": "LIVE",
       "c": "var(--live-text)",
@@ -1380,53 +1457,9 @@
           "u": "https://www.cricinfo.com/story/ipl-2027-mumbai-indians-and-punjab-kings-complete-hardik-pandya-and-arshdeep-singh-swap-1562157"
         }
       ]
-    },
-    {
-      "t": "11 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Kumamoto Masters: Kidambi Srikanth plays Denmark's Rasmus Gemke around 4:30 pm IST, after Lakshya Sen's opener (≈2:40 pm). Both on BWF TV YouTube.",
-      "match": "kmj26-srikanth-gemke",
-      "src": [
-        {
-          "t": "Sportstar – Kidambi Srikanth vs Rasmus Gemke: where to watch Japan Masters 2026 Round of 32",
-          "u": "https://sportstar.thehindu.com/badminton/kidambi-srikanth-vs-rasmus-gemke-live-streaming-info-when-where-to-watch-japan-masters-round-of-32-match/article71688364.ece"
-        }
-      ]
-    },
-    {
-      "t": "9 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Hockey",
-      "text": "Hockey: Sanjay to captain a young India men's side in three centenary Tests v New Zealand in Auckland on 19, 21 and 22 Nov.",
-      "match": "hk-nz-ind-t1",
-      "src": [
-        {
-          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
-          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "13",
-      "mo": "NOV",
-      "title": "New Zealand v India, 4th ODI (live)",
-      "meta": "Cricket · Mount Maunganui",
-      "time": "07:30",
-      "match": "nz-ind-odi-4"
-    },
-    {
-      "d": "13",
-      "mo": "NOV",
-      "title": "East Bengal v Gokulam Kerala, IWL opener",
-      "meta": "Football · Kalyani",
-      "time": "19:00",
-      "match": "iwl26-ebfc-gkfc"
-    },
     {
       "d": "14",
       "mo": "NOV",
@@ -1444,20 +1477,20 @@
       "match": "saff-sf1-ind"
     },
     {
-      "d": "14",
-      "mo": "NOV",
-      "title": "Lakshya Sen v Alwi Farhan, Kumamoto Masters SF",
-      "meta": "Badminton · Kumamoto",
-      "time": "TBC",
-      "match": "kmj26-sen-sf"
-    },
-    {
       "d": "15",
       "mo": "NOV",
       "title": "New Zealand v India, 5th ODI",
       "meta": "Cricket · Bay Oval",
       "time": "07:30",
       "match": "nz-ind-odi-5"
+    },
+    {
+      "d": "15",
+      "mo": "NOV",
+      "title": "Lakshya Sen, Kumamoto Masters final",
+      "meta": "Badminton · Kumamoto",
+      "time": "TBC",
+      "match": "kmj26-sen-final"
     },
     {
       "d": "15",
