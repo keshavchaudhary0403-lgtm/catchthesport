@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-15T09:36:01+05:30",
-  "dayLabel": "Sun 15 Nov · 5th ODI live: India 86/4 · Lakshya in Kumamoto final · SAFF final Tue",
-  "featured": "nz-ind-odi-5",
+  "lastUpdated": "2026-11-15T19:27:17+05:30",
+  "dayLabel": "Sun 15 Nov · India win ODI series 3–1 · Lakshya wins Kumamoto · SAFF final v Pakistan Tue",
+  "featured": "saff-final-ind",
   "matches": [
     {
       "id": "nz-ind-odi-4",
@@ -45,7 +45,7 @@
     },
     {
       "id": "nz-ind-odi-5",
-      "st": "live",
+      "st": "result",
       "india": true,
       "sport": "Cricket",
       "comp": "New Zealand v India",
@@ -53,39 +53,45 @@
       "a": [
         "NZ",
         "New Zealand",
-        "Yet to bat",
+        "187 (48.1)",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        "86/4"
+        "209 (42.1)"
       ],
       "when": "2026-11-15T07:30:00+05:30",
       "venue": "Bay Oval, Mount Maunganui",
-      "note": "Mitchell Santner won the toss and bowled. Rohit Sharma 7, Virat Kohli 5 (both to Matthew Fisher), Ruturaj Gaikwad 18 (Jacob Duffy) and Shreyas Iyer 22 out. Yash Thakur debuts, Siraj returns. India lead 2–1.",
+      "note": "India win by 22 runs and take the series 3–1. Axar Patel 46 and Ishan Kishan 46 lifted India to 209 (Santner 3-47, Duffy 3-60); Arshdeep Singh 3-30, Axar 2-28 and Siraj 2-50 bowled NZ out for 187 (Foxcroft 31).",
       "src": [
         {
-          "t": "India TV – IND vs NZ 5th ODI live (8:58 am IST)",
-          "u": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-odi-live-score-india-look-to-bounce-back-after-defeat-in-previous-bout-1059481"
+          "t": "ESPNcricinfo – Arshdeep and Co help India defend 209 for 3-1 series win",
+          "u": "https://www.espncricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
         },
         {
-          "t": "Daily Jagran – India lose three early wickets",
-          "u": "https://www.thedailyjagran.com/cricket/news/ind-vs-nz-5th-odi-india-in-deep-trouble-after-losing-three-early-wickets-as-rohit-and-kohli-depart-against-new-zealand-10336333"
+          "t": "Hindustan Times – Arshdeep stars with 3 wickets as IND win by 22 runs",
+          "u": "https://www.hindustantimes.com/cricket"
+        },
+        {
+          "t": "Google – 5th ODI result card",
+          "u": "https://www.google.com/search?q=India+vs+New+Zealand+5th+ODI+result"
         }
       ],
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
-      "status": "India 4 down · NZ chose to bowl",
-      "scoreAt": "2026-11-15T08:58:00+05:30"
+      "win": "b",
+      "day": "15 Nov",
+      "recent": true,
+      "resultAt": "2026-11-15T19:27:17+05:30"
     },
     {
-      "id": "ind-nz-fr1",
+      "id": "ind-nz-fr2",
       "sport": "Football",
       "comp": "India tour of New Zealand (friendlies)",
-      "round": "1st friendly",
+      "round": "2nd friendly",
       "st": "result",
       "a": [
         "IND",
@@ -95,113 +101,36 @@
       "b": [
         "NZ",
         "New Zealand",
-        "5",
-        "#111827"
-      ],
-      "when": "2026-11-12T11:30:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Go Media Stadium, Auckland",
-      "note": "New Zealand 5–0 India. Bijoy Varghese own goal (5'), Jesse Randall (34', 43'), Chris Wood (57'), Lachlan Bayliss (74'); India's goalkeeper saved a Bill Tuiloma penalty. Streamed on FIFA+ via DAZN, no Indian TV.",
-      "src": [
-        {
-          "t": "myKhel – Blue Tigers thrashed as Oceanian champions put five goals in Auckland",
-          "u": "https://www.mykhel.com/football/india-vs-new-zealand-blue-tigers-thrashed-as-oceanian-champions-put-five-goals-in-auckland-458759.html"
-        },
-        {
-          "t": "India.com – New Zealand thrash India 5-0 in Auckland friendly",
-          "u": "https://www.india.com/sports/football/ind-vs-nz-new-zealand-thrash-india-5-0-in-auckland-friendly-blue-tigers-suffer-humiliating-defeat-8544365/"
-        }
-      ],
-      "watch": [
-        "FIFA+",
-        "DAZN"
-      ],
-      "win": "b",
-      "day": "12 Nov",
-      "recent": true,
-      "resultAt": "2026-11-13T09:37:06+05:30"
-    },
-    {
-      "id": "ind-nz-fr2",
-      "sport": "Football",
-      "comp": "India tour of New Zealand (friendlies)",
-      "round": "2nd friendly",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "India",
-        ""
-      ],
-      "b": [
-        "NZ",
-        "New Zealand",
-        "",
+        "3",
         "#111827"
       ],
       "when": "2026-11-15T08:40:00+05:30",
       "india": true,
       "big": true,
       "venue": "One New Zealand Stadium, Christchurch",
-      "note": "Second and last friendly, in Christchurch (kick-off 8:40 am IST), after India's 5–0 defeat in Auckland. Streamed on FIFA+ via DAZN. Score not confirmed at last check.",
+      "note": "New Zealand win 3–0 in Christchurch with all three goals in the first half, Chris Wood among the scorers; India lose both friendlies (0–5, 0–3) and end their year.",
       "src": [
         {
-          "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
-          "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
+          "t": "Sportstar – Chris Wood scores as India lose to New Zealand in second friendly",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
         },
         {
-          "t": "AIFF – Jamil calls for India response as Blue Tigers face New Zealand in Christchurch",
-          "u": "https://www.the-aiff.com/article/jamil-calls-for-india-response-as-blue-tigers-face-new-zealand-in-christchurch"
+          "t": "ESPN – New Zealand dismiss India 3-0 in another one-sided friendly",
+          "u": "https://www.espn.com/football/"
+        },
+        {
+          "t": "Google – New Zealand v India result card",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Christchurch+result"
         }
       ],
       "watch": [
         "FIFA+",
         "DAZN"
-      ]
-    },
-    {
-      "id": "u19ac-sf-afg-ind",
-      "sport": "Cricket",
-      "comp": "ACC Men's U19 Asia Cup 2026",
-      "round": "Semi-final 2 (B1 v A2)",
-      "st": "result",
-      "a": [
-        "AFG",
-        "Afghanistan U19",
-        "227/8 (50)"
-      ],
-      "b": [
-        "IND",
-        "India U19",
-        "230/2 (36.5)"
-      ],
-      "when": "2026-11-12T10:30:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Al Amerat Cricket Ground, Oman",
-      "note": "India U19 win by 8 wickets with 79 balls to spare and reach their 11th Asia Cup final. Lakshya Raichandani 93, VK Vineeth 57*, Aaryavir Sehwag 51; Ishan Sood 3/43. Pakistan beat Bangladesh by 9 wickets in the other semi.",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "src": [
-        {
-          "t": "SportsTak – India crush Afghanistan to reach 11th summit clash, set up India v Pakistan final",
-          "u": "https://thesportstak.com/cricket/story/ind-vs-pak-in-u-19-asia-cup-2026-final-as-india-crush-afghanistan-to-reach-11th-summit-clash-abste-3560758-2026-11-12"
-        },
-        {
-          "t": "CricTracker – India defeat Afghanistan to book meeting with Pakistan in U19 Asia Cup final",
-          "u": "https://www.crictracker.com/cricket-news/india-defeat-afghanistan-to-book-meeting-with-pakistan-in-u19-asia-cup-final-8107/"
-        },
-        {
-          "t": "Tribune – India sets up title clash with Pakistan after 8-wicket victory over Afghanistan",
-          "u": "https://www.tribuneindia.com/news/aaryavir-sehwag/u19-asia-cup-india-sets-up-title-clash-with-pakistan-after-8-wicket-victory-over-afghanistan"
-        }
       ],
       "win": "b",
-      "day": "12 Nov",
+      "day": "15 Nov",
       "recent": true,
-      "resultAt": "2026-11-13T09:37:06+05:30"
+      "resultAt": "2026-11-15T19:27:17+05:30"
     },
     {
       "id": "wact26-ind-mas",
@@ -463,105 +392,6 @@
       ]
     },
     {
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "st": "result",
-      "india": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "src": [
-        {
-          "t": "Sportstar / India Today / BWF results – Kumamoto Masters R16 (via Google)",
-          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
-        }
-      ],
-      "id": "kmj26-sen-dong",
-      "round": "Men's singles · Round of 16",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "21-8 21-14"
-      ],
-      "b": [
-        "CHN",
-        "Dong Tian Yao",
-        ""
-      ],
-      "when": "2026-11-12",
-      "note": "Eighth seed Lakshya beat China's Dong Tian Yao in 35 minutes to reach the quarter-finals (13 Nov).",
-      "win": "a",
-      "day": "12 Nov",
-      "recent": true,
-      "resultAt": "2026-11-12T12:23:50+05:30"
-    },
-    {
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "st": "result",
-      "india": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "src": [
-        {
-          "t": "Sportstar / India Today / BWF results – Kumamoto Masters R16 (via Google)",
-          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
-        }
-      ],
-      "id": "kmj26-srikanth-naraoka",
-      "round": "Men's singles · Round of 16",
-      "a": [
-        "IND",
-        "Kidambi Srikanth",
-        "21-15 11-21 21-18"
-      ],
-      "b": [
-        "JPN",
-        "Kodai Naraoka",
-        ""
-      ],
-      "when": "2026-11-12",
-      "note": "Srikanth upset fifth seed and world No. 8 Kodai Naraoka in about an hour to reach the quarter-finals (13 Nov).",
-      "win": "a",
-      "day": "12 Nov",
-      "recent": true,
-      "resultAt": "2026-11-12T12:23:50+05:30"
-    },
-    {
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "st": "result",
-      "india": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
-      "src": [
-        {
-          "t": "Telangana Today – Srikanth, Lakshya keep India's hopes alive at Kumamoto Masters",
-          "u": "https://telanganatoday.com/srikanth-lakshya-keep-indias-hopes-alive-at-kumamoto-masters"
-        }
-      ],
-      "id": "kmj26-tg-iwanaga",
-      "round": "Women's doubles · Round of 16",
-      "a": [
-        "IND",
-        "Treesa Jolly / Gayatri Gopichand",
-        "14-21 14-21"
-      ],
-      "b": [
-        "JPN",
-        "Iwanaga / Nakanishi",
-        "21-14 21-14"
-      ],
-      "when": "2026-11-12T11:30:00+05:30",
-      "note": "Treesa Jolly / Gayatri Gopichand lose 14–21, 14–21 to third seeds Rin Iwanaga / Kie Nakanishi. India's doubles challenge ends.",
-      "win": "b",
-      "day": "12 Nov",
-      "recent": true,
-      "resultAt": "2026-11-13T09:37:06+05:30"
-    },
-    {
       "id": "saff-sf1-ind",
       "sport": "Football",
       "comp": "SAFF Championship 2026",
@@ -790,43 +620,41 @@
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
       "round": "Men's singles · Final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "13-21 21-18 21-14"
       ],
       "b": [
         "JPN",
         "Koki Watanabe",
-        ""
+        "21-13 18-21 14-21"
       ],
       "when": "2026-11-15T08:20:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
       "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Lakshya Sen's second straight Kumamoto final v Japan's Koki Watanabe, who beat Kunlavut Vitidsarn in the semi. Sen leads the head-to-head 4–3 but Watanabe won the last two meetings. Tentative start 8:20 am IST; result not confirmed at last check.",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
+      "note": "Lakshya Sen wins the Kumamoto Masters Japan (Super 500), coming from a game down to beat home favourite Koki Watanabe 13–21, 21–18, 21–14 in 64 minutes — his second straight title after the Hylo Open.",
       "src": [
         {
           "t": "The Tribune (ANI) – Lakshya Sen beats Alwi Farhan to enter final",
           "u": "https://www.tribuneindia.com/news/sports/japan-masters-lakshya-sen-beats-indonesias-alwi-farhan-to-enter-final/"
         },
         {
-          "t": "Khel Now – Japan Masters 2026 semi-finals live",
-          "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
+          "t": "BWF – Kumamoto Masters 2026 men's singles final (Instagram/YouTube BWF TV)",
+          "u": "https://www.youtube.com/@BWFTV"
         },
         {
-          "t": "Khel Now – Japan Masters 2026 final live",
-          "u": "https://khelnow.com/badminton/lakshya-sen-final-live-japan-masters-202611"
+          "t": "Google – Lakshya Sen Koki Watanabe Kumamoto final",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Koki+Watanabe+Kumamoto+Masters+final"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "15 Nov",
+      "recent": true,
+      "resultAt": "2026-11-15T19:27:17+05:30"
     },
     {
       "id": "saff-final-ind",
@@ -840,15 +668,15 @@
         ""
       ],
       "b": [
-        "TBC",
-        "Bangladesh / Pakistan",
+        "PAK",
+        "Pakistan",
         ""
       ],
-      "when": "2026-11-17",
+      "when": "2026-11-17T19:30:00+05:30",
       "india": true,
       "big": true,
       "gold": true,
-      "note": "India face the winner of Bangladesh v Pakistan (other semi, 14 Nov). Kick-off time and venue not yet confirmed.",
+      "note": "India v Pakistan in the SAFF final. Pakistan reached their first-ever final by beating hosts Bangladesh 1–0 (Abdul Samad 86'); India beat Bhutan 2–1. The sides met in the group opener on 5 Nov.",
       "watch": [
         {
           "n": "VETO (app & website)",
@@ -857,8 +685,335 @@
       ],
       "src": [
         {
-          "t": "The Tribune (AIFF Media) – India reach SAFF Championship final",
-          "u": "https://www.tribuneindia.com/news/aiff-media/india-hold-off-bhutan-fightback-to-reach-saff-championship-final"
+          "t": "Sportstar – Pakistan beat Bangladesh 1-0, reach SAFF final for the first time",
+          "u": "https://sportstar.thehindu.com/football/"
+        },
+        {
+          "t": "AFC – SAFF Championship: India, Pakistan set up final showdown",
+          "u": "https://www.the-afc.com/"
+        },
+        {
+          "t": "Google – India v Pakistan SAFF final, Tue 17 Nov 7:30 pm IST",
+          "u": "https://www.google.com/search?q=India+vs+Pakistan+SAFF+Championship+2026+final+date+time+IST+Dhaka"
+        }
+      ],
+      "venue": "National Stadium, Dhaka"
+    },
+    {
+      "id": "saff-sf2-ban-pak",
+      "sport": "Football",
+      "comp": "SAFF Championship 2026",
+      "round": "Semi-final",
+      "st": "result",
+      "a": [
+        "BAN",
+        "Bangladesh",
+        "0"
+      ],
+      "b": [
+        "PAK",
+        "Pakistan",
+        "1"
+      ],
+      "when": "2026-11-14",
+      "win": "b",
+      "day": "14 Nov",
+      "recent": true,
+      "resultAt": "2026-11-15T19:27:17+05:30",
+      "big": true,
+      "venue": "National Stadium, Dhaka",
+      "note": "Abdul Samad's 86th-minute winner sends Pakistan into their first SAFF final, against India.",
+      "src": [
+        {
+          "t": "Sportstar – Bangladesh vs Pakistan highlights",
+          "u": "https://sportstar.thehindu.com/football/"
+        },
+        {
+          "t": "24 News HD – Pakistan beat Bangladesh 1-0 to set up SAFF final",
+          "u": "https://www.24newshd.tv/"
+        }
+      ]
+    },
+    {
+      "id": "nz-ind-test1",
+      "sport": "Cricket",
+      "comp": "New Zealand v India",
+      "round": "1st Test",
+      "st": "upcoming",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-19T03:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Basin Reserve, Wellington",
+      "note": "First of two Tests (19–23 Nov). Shubman Gill captains India.",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ],
+      "src": [
+        {
+          "t": "Times of India – New Zealand v India 1st Test, 19 Nov 2026, 3:30 am IST",
+          "u": "https://timesofindia.indiatimes.com/sports/cricket"
+        },
+        {
+          "t": "BCCI – New Zealand vs India, 2nd Test, Hagley Oval, 27 Nov",
+          "u": "https://www.bcci.tv/"
+        }
+      ]
+    },
+    {
+      "id": "nz-ind-test2",
+      "sport": "Cricket",
+      "comp": "New Zealand v India",
+      "round": "2nd Test",
+      "st": "upcoming",
+      "a": [
+        "NZ",
+        "New Zealand",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "IND",
+        "India",
+        ""
+      ],
+      "when": "2026-11-27T03:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Hagley Oval, Christchurch",
+      "note": "Second Test, 27 Nov – 1 Dec; final match of the tour.",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV"
+      ],
+      "src": [
+        {
+          "t": "Times of India – New Zealand v India 1st Test, 19 Nov 2026, 3:30 am IST",
+          "u": "https://timesofindia.indiatimes.com/sports/cricket"
+        },
+        {
+          "t": "BCCI – New Zealand vs India, 2nd Test, Hagley Oval, 27 Nov",
+          "u": "https://www.bcci.tv/"
+        }
+      ]
+    },
+    {
+      "id": "isl-ebfc-scd",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "EBFC",
+        "East Bengal",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "SCD",
+        "SC Delhi",
+        "",
+        "#1D4ED8"
+      ],
+      "when": "2026-11-20T17:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "VYBK, Kolkata",
+      "note": "ISL resumes after the international break.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        }
+      ]
+    },
+    {
+      "id": "isl-bfc-mcfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "BFC",
+        "Bengaluru FC",
+        "",
+        "#1E3A8A"
+      ],
+      "b": [
+        "MCFC",
+        "Mumbai City",
+        "",
+        "#38BDF8"
+      ],
+      "when": "2026-11-20T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Sree Kanteerava Stadium, Bengaluru",
+      "note": "ISL resumes after the international break.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        }
+      ]
+    },
+    {
+      "id": "isl-cfc-pfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "CFC",
+        "Chennaiyin",
+        "",
+        "#1D4ED8"
+      ],
+      "b": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-11-21T17:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "JLN Stadium, Chennai",
+      "note": "ISL resumes after the international break.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        }
+      ]
+    },
+    {
+      "id": "isl-neu-fcg",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#EA580C"
+      ],
+      "when": "2026-11-21T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Indira Gandhi Stadium, Guwahati",
+      "note": "ISL resumes after the international break.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        }
+      ]
+    },
+    {
+      "id": "isl-chu-mbsg",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "CHU",
+        "Churchill Brothers",
+        "",
+        "#B91C1C"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan",
+        "",
+        "#065F46"
+      ],
+      "when": "2026-11-22T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Fatorda, Goa",
+      "note": "ISL resumes after the international break.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        }
+      ]
+    },
+    {
+      "id": "isl-neu-scd",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "SCD",
+        "SC Delhi",
+        "",
+        "#1D4ED8"
+      ],
+      "when": "2026-11-24T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Khuman Lampak, Imphal",
+      "note": "ISL resumes after the international break.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        }
+      ]
+    },
+    {
+      "id": "isl-ebfc-mbsg-derby",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1 · Kolkata Derby",
+      "st": "upcoming",
+      "a": [
+        "EBFC",
+        "East Bengal",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan",
+        "",
+        "#065F46"
+      ],
+      "when": "2026-11-29T19:30:00+05:30",
+      "india": true,
+      "big": true,
+      "note": "The Kolkata Derby. Venue to be confirmed.",
+      "src": [
+        {
+          "t": "Google – Mohun Bagan ISL fixtures (Sun 29 Nov, 7:30 pm)",
+          "u": "https://www.google.com/search?q=ISL+next+match+November+2026+Mohun+Bagan+fixture"
         }
       ]
     }
@@ -869,10 +1024,10 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live series · India lead 2–1 · 5th ODI live today",
+      "status": "Live tour · India won ODIs 3–1 · 1st Test 19 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20I series 3–2. New Zealand won the 4th ODI by 244 runs (Matt Henry six-for); India lead the five-match ODI series 2–1 with the 5th at Mount Maunganui on 15 Nov. Two Tests follow; tour runs to 1 Dec.",
+      "note": "India won the T20I series 3–2 and the ODI series 3–1 (22-run win in the 5th ODI at Mount Maunganui). Two Tests follow: Wellington from 19 Nov and Christchurch from 27 Nov.",
       "src": [
         {
           "t": "Olympics.com – Indian cricket team schedule 2026",
@@ -909,10 +1064,10 @@
       "sport": "Football",
       "name": "India football tour of New Zealand",
       "comp": "India tour of New Zealand (friendlies)",
-      "status": "Live · India lost 1st friendly 0–5 · 2nd friendly 15 Nov",
-      "live": true,
+      "status": "Concluded · New Zealand won both (5–0, 3–0)",
+      "live": false,
       "india": true,
-      "note": "Two men's friendlies v New Zealand. New Zealand won in Auckland 5–0 on 12 Nov; the second is in Christchurch on 15 Nov (8:40 am IST).",
+      "note": "Two men's friendlies v New Zealand: lost 0–5 in Auckland (12 Nov) and 0–3 in Christchurch (15 Nov).",
       "src": [
         {
           "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
@@ -925,10 +1080,10 @@
       "sport": "Badminton",
       "name": "Kumamoto Masters Japan 2026",
       "comp": "Kumamoto Masters Japan 2026",
-      "status": "Live · Lakshya in final 15 Nov",
-      "live": true,
+      "status": "Concluded · Lakshya Sen champion, 15 Nov",
+      "live": false,
       "india": true,
-      "note": "Lakshya Sen beat Alwi Farhan 21–12, 15–21, 21–11 in the semi-final and plays the final on 15 Nov; Kidambi Srikanth lost his quarter-final to Koki Watanabe.",
+      "note": "Lakshya Sen won the men's singles title, beating Koki Watanabe 13–21, 21–18, 21–14 in the final after wins over Dong Tian Yao, Yushi Tanaka and Alwi Farhan. Kidambi Srikanth lost in the quarter-finals to Watanabe.",
       "src": [
         {
           "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
@@ -1012,10 +1167,10 @@
       "sport": "Football",
       "name": "SAFF Championship 2026",
       "comp": "SAFF Championship 2026",
-      "status": "Live · India beat Bhutan 2–1 in semi · final 17 Nov",
+      "status": "Live · Final India v Pakistan, 17 Nov 7:30 pm",
       "live": true,
       "india": true,
-      "note": "India beat Maldives 1–0 to top Group B and meet Bhutan in the semi-final in Dhaka on 14 Nov (2:30 pm IST). Streaming on VETO.",
+      "note": "India beat Bhutan 2–1 and Pakistan beat hosts Bangladesh 1–0 in the semi-finals; the final is at the National Stadium, Dhaka on 17 Nov (7:30 pm IST). Streaming on VETO.",
       "src": [
         {
           "t": "Khel Now – VETO to live stream SAFF Championship 2026",
@@ -1030,11 +1185,15 @@
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Live · international break · Mohun Bagan top",
+      "status": "Resumes 20 Nov · Mohun Bagan top · Kolkata Derby 29 Nov",
       "india": true,
       "note": "Latest: Chennaiyin FC 5–3 East Bengal, SC Delhi 3–0 Inter Kashi (7 Nov); Bengaluru FC 2–1 FC Goa (6 Nov); Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov).",
       "id": "isl",
       "src": [
+        {
+          "t": "ESPN India – Indian Super League fixtures",
+          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+        },
         {
           "t": "Wikipedia – 2026-27 Indian Super League",
           "u": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Indian_Super_League"
@@ -1143,20 +1302,90 @@
   ],
   "feed": [
     {
-      "t": "09:36",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
+      "t": "15 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Cricket",
-      "text": "5th ODI: India 86/4 (as of 8:58 am) after New Zealand opt to bowl — Rohit 7, Kohli 5, Gaikwad 18, Iyer 22 out; Yash Thakur debuts.",
+      "text": "India beat New Zealand by 22 runs in the 5th ODI to win the series 3–1 — defending 209 (Axar 46, Kishan 46), Arshdeep took 3-30 as NZ were all out for 187.",
       "match": "nz-ind-odi-5",
       "src": [
         {
-          "t": "India TV – IND vs NZ 5th ODI live (8:58 am IST)",
-          "u": "https://www.indiatvnews.com/sports/cricket/ind-vs-nz-5th-odi-live-score-india-look-to-bounce-back-after-defeat-in-previous-bout-1059481"
+          "t": "ESPNcricinfo – Arshdeep and Co help India defend 209 for 3-1 series win",
+          "u": "https://www.espncricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
         },
         {
-          "t": "Daily Jagran – India lose three early wickets",
-          "u": "https://www.thedailyjagran.com/cricket/news/ind-vs-nz-5th-odi-india-in-deep-trouble-after-losing-three-early-wickets-as-rohit-and-kohli-depart-against-new-zealand-10336333"
+          "t": "Hindustan Times – Arshdeep stars with 3 wickets as IND win by 22 runs",
+          "u": "https://www.hindustantimes.com/cricket"
+        },
+        {
+          "t": "Google – 5th ODI result card",
+          "u": "https://www.google.com/search?q=India+vs+New+Zealand+5th+ODI+result"
+        }
+      ]
+    },
+    {
+      "t": "15 Nov",
+      "tag": "GOLD",
+      "c": "var(--gold)",
+      "m": "Badminton",
+      "text": "Lakshya Sen wins the Kumamoto Masters Japan, fighting back to beat Koki Watanabe 13–21, 21–18, 21–14 — his second title in a row.",
+      "match": "kmj26-sen-final",
+      "src": [
+        {
+          "t": "The Tribune (ANI) – Lakshya Sen beats Alwi Farhan to enter final",
+          "u": "https://www.tribuneindia.com/news/sports/japan-masters-lakshya-sen-beats-indonesias-alwi-farhan-to-enter-final/"
+        },
+        {
+          "t": "BWF – Kumamoto Masters 2026 men's singles final (Instagram/YouTube BWF TV)",
+          "u": "https://www.youtube.com/@BWFTV"
+        },
+        {
+          "t": "Google – Lakshya Sen Koki Watanabe Kumamoto final",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Koki+Watanabe+Kumamoto+Masters+final"
+        }
+      ]
+    },
+    {
+      "t": "15 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "India lose 0–3 to New Zealand in the second friendly in Christchurch — eight goals conceded across the two games.",
+      "match": "ind-nz-fr2",
+      "src": [
+        {
+          "t": "Sportstar – Chris Wood scores as India lose to New Zealand in second friendly",
+          "u": "https://sportstar.thehindu.com/football/indian-football/"
+        },
+        {
+          "t": "ESPN – New Zealand dismiss India 3-0 in another one-sided friendly",
+          "u": "https://www.espn.com/football/"
+        },
+        {
+          "t": "Google – New Zealand v India result card",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Christchurch+result"
+        }
+      ]
+    },
+    {
+      "t": "14 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "SAFF final set: India v Pakistan on Tue 17 Nov (7:30 pm IST, Dhaka) after Pakistan beat hosts Bangladesh 1–0.",
+      "match": "saff-final-ind",
+      "src": [
+        {
+          "t": "Sportstar – Pakistan beat Bangladesh 1-0, reach SAFF final for the first time",
+          "u": "https://sportstar.thehindu.com/football/"
+        },
+        {
+          "t": "AFC – SAFF Championship: India, Pakistan set up final showdown",
+          "u": "https://www.the-afc.com/"
+        },
+        {
+          "t": "Google – India v Pakistan SAFF final, Tue 17 Nov 7:30 pm IST",
+          "u": "https://www.google.com/search?q=India+vs+Pakistan+SAFF+Championship+2026+final+date+time+IST+Dhaka"
         }
       ]
     },
@@ -1243,20 +1472,6 @@
       ]
     },
     {
-      "t": "12:40",
-      "tag": "LIVE",
-      "c": "var(--live-text)",
-      "m": "Cricket",
-      "text": "4th ODI: India in deep trouble at 28/4 chasing 334 — Rohit Sharma, Virat Kohli and Shreyas Iyer all out for ducks after New Zealand made 333.",
-      "match": "nz-ind-odi-4",
-      "src": [
-        {
-          "t": "Google live score / NDTV Sports – NZ v IND 4th ODI live",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+4th+ODI+score"
-        }
-      ]
-    },
-    {
       "t": "09:45",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1298,84 +1513,30 @@
       ]
     },
     {
-      "t": "12 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "U19 Asia Cup: India U19 beat Afghanistan U19 by 8 wickets (230/2 chasing 228) to reach the final — Lakshya Raichandani 93, VK Vineeth 57*. They meet Pakistan on 14 Nov.",
-      "match": "u19ac-sf-afg-ind"
-    },
-    {
-      "t": "12 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "India lose 0–5 to New Zealand in the Auckland friendly — Jesse Randall scores twice, Wood and Bayliss also score, plus an early own goal.",
-      "match": "ind-nz-fr1"
-    },
-    {
-      "t": "12 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Kumamoto Masters: Treesa Jolly–Gayatri Gopichand lose 14–21, 14–21 to third seeds Iwanaga–Nakanishi; Lakshya Sen (v Tanaka) and Srikanth (v Watanabe) play quarter-finals on 13 Nov.",
-      "match": "kmj26-tg-iwanaga"
-    },
-    {
       "t": "07:43",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Cricket",
       "text": "4th ODI: Shreyas Iyer (captain, Gill rested) wins the toss and India field first at Bay Oval; India lead 2–0.",
       "match": "nz-ind-odi-4"
-    },
-    {
-      "t": "12 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Kumamoto Masters: Lakshya Sen beats Dong Tian Yao 21–8, 21–14 and Kidambi Srikanth stuns fifth seed Kodai Naraoka 21–15, 11–21, 21–18 — both into the quarter-finals.",
-      "match": "kmj26-srikanth-naraoka",
-      "src": [
-        {
-          "t": "Sportstar / India Today / BWF results – Kumamoto Masters R16 (via Google)",
-          "u": "https://www.google.com/search?q=Kumamoto+Masters+2026+Lakshya+Sen+Srikanth+round+of+16+result"
-        }
-      ]
     }
   ],
   "schedule": [
     {
-      "d": "15",
-      "mo": "NOV",
-      "title": "New Zealand v India, 5th ODI",
-      "meta": "Cricket · Bay Oval",
-      "time": "07:30",
-      "match": "nz-ind-odi-5"
-    },
-    {
-      "d": "15",
-      "mo": "NOV",
-      "title": "Lakshya Sen v Koki Watanabe, Kumamoto Masters final",
-      "meta": "Badminton · Kumamoto",
-      "time": "08:20",
-      "match": "kmj26-sen-final"
-    },
-    {
-      "d": "15",
-      "mo": "NOV",
-      "title": "New Zealand v India, football friendly",
-      "meta": "Football · Christchurch",
-      "time": "08:40",
-      "match": "ind-nz-fr2"
-    },
-    {
       "d": "17",
       "mo": "NOV",
-      "title": "India v TBC, SAFF Championship final",
+      "title": "India v Pakistan, SAFF Championship final",
       "meta": "Football · Dhaka",
-      "time": "TBC",
+      "time": "19:30",
       "match": "saff-final-ind"
+    },
+    {
+      "d": "19",
+      "mo": "NOV",
+      "title": "New Zealand v India, 1st Test",
+      "meta": "Cricket · Wellington",
+      "time": "03:30",
+      "match": "nz-ind-test1"
     },
     {
       "d": "19",
@@ -1408,6 +1569,46 @@
       "meta": "Hockey · Bhopal",
       "time": "19:00",
       "match": "wact26-ind-kor"
+    },
+    {
+      "d": "22",
+      "mo": "NOV",
+      "title": "New Zealand v India, 3rd hockey Test",
+      "meta": "Hockey · Auckland",
+      "time": "08:30",
+      "match": "hk-nz-ind-t3"
+    },
+    {
+      "d": "22",
+      "mo": "NOV",
+      "title": "India v Thailand, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "19:00",
+      "match": "wact26-ind-tha"
+    },
+    {
+      "d": "24",
+      "mo": "NOV",
+      "title": "India v China, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "19:00",
+      "match": "wact26-ind-chn"
+    },
+    {
+      "d": "25",
+      "mo": "NOV",
+      "title": "India v Japan, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "19:00",
+      "match": "wact26-ind-jpn"
+    },
+    {
+      "d": "27",
+      "mo": "NOV",
+      "title": "New Zealand v India, 2nd Test",
+      "meta": "Cricket · Christchurch",
+      "time": "03:30",
+      "match": "nz-ind-test2"
     }
   ],
   "players": [
@@ -1547,5 +1748,5 @@
       "bg": "#1F2937"
     }
   ],
-  "sources": "Google (live cards & Top stories), ESPNcricinfo, Cricbuzz, Livemint, Khel Now, Olympics.com, Hindustan Times, ISL, AIFF, AFC, FIH, Sportstar, Wikipedia."
+  "sources": "Google (live cards & Top stories), ESPNcricinfo, Cricbuzz, Livemint, Khel Now, Olympics.com, Hindustan Times, ISL, AIFF, AFC, FIH, Sportstar, Wikipedia, BWF, ESPN India."
 }
