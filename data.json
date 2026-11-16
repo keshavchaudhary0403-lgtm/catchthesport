@@ -1,48 +1,8 @@
 {
-  "lastUpdated": "2026-11-16T09:39:01+05:30",
-  "dayLabel": "Sun 15 Nov · India win ODI series 3–1 · Lakshya wins Kumamoto · SAFF final v Pakistan Tue",
+  "lastUpdated": "2026-11-16T12:23:13+05:30",
+  "dayLabel": "Mon 16 Nov · SAFF final v Pakistan Tue · India U17 v Palestine · Hong Kong Open",
   "featured": "saff-final-ind",
   "matches": [
-    {
-      "id": "nz-ind-odi-4",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "4th ODI",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "333 (50)",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "All out"
-      ],
-      "when": "2026-11-13T07:30:00+05:30",
-      "note": "New Zealand win by 244 runs. Will Young 125 off 108 and Tim Seifert 58 set 333; Matt Henry took a six-wicket haul, with Rohit Sharma, Virat Kohli and captain Shreyas Iyer out for ducks. India lead the series 2–1.",
-      "src": [
-        {
-          "t": "Outlook India – Matt Henry's six-wicket haul powers NZ to 244-run win, cut series deficit to 2-1",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-4th-odi-live-score-commentary-scorecard-nz-vs-ind-today-match-updates-highlights"
-        },
-        {
-          "t": "Cricinfo – Matt Henry six-for and Will Young hundred crush India",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "venue": "Bay Oval, Mount Maunganui",
-      "win": "a",
-      "day": "13 Nov",
-      "recent": true,
-      "resultAt": "2026-11-14T09:39:56+05:30"
-    },
     {
       "id": "nz-ind-odi-5",
       "st": "result",
@@ -430,76 +390,6 @@
       "resultAt": "2026-11-15T09:36:01+05:30"
     },
     {
-      "id": "kmj26-sen-qf",
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "round": "Men's singles · Quarter-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "21-16 21-15"
-      ],
-      "b": [
-        "JPN",
-        "Yushi Tanaka",
-        ""
-      ],
-      "when": "2026-11-13",
-      "india": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Eighth seed Lakshya beat home favourite Yushi Tanaka in 40 minutes to reach the semi-finals, where he meets sixth seed Alwi Farhan of Indonesia.",
-      "src": [
-        {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
-        },
-        {
-          "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
-          "u": "https://www.google.com/search?q=Srikanth+Koki+Watanabe+quarterfinal+22-24"
-        }
-      ],
-      "win": "a",
-      "day": "13 Nov",
-      "recent": true,
-      "resultAt": "2026-11-13T12:43:57+05:30"
-    },
-    {
-      "id": "kmj26-srikanth-qf",
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "round": "Men's singles · Quarter-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Kidambi Srikanth",
-        "22-24 15-21"
-      ],
-      "b": [
-        "JPN",
-        "Koki Watanabe",
-        "24-22 21-15"
-      ],
-      "when": "2026-11-13",
-      "india": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Srikanth lost to world No. 15 Koki Watanabe in 41 minutes; Watanabe won 16 of the last 19 points. A day earlier Srikanth had beaten Kodai Naraoka.",
-      "src": [
-        {
-          "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
-          "u": "https://www.google.com/search?q=Srikanth+Koki+Watanabe+quarterfinal+22-24"
-        },
-        {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
-        }
-      ],
-      "win": "b",
-      "day": "13 Nov",
-      "recent": true,
-      "resultAt": "2026-11-13T12:43:57+05:30"
-    },
-    {
       "id": "u19ac-final-ind-pak",
       "sport": "Cricket",
       "comp": "ACC Men's U19 Asia Cup 2026",
@@ -581,39 +471,6 @@
       "day": "14 Nov",
       "recent": true,
       "resultAt": "2026-11-14T09:39:56+05:30"
-    },
-    {
-      "id": "iwl26-ebfc-gkfc",
-      "sport": "Football",
-      "comp": "Indian Women's League 2026-27",
-      "round": "Matchday 1 · Season opener",
-      "st": "result",
-      "a": [
-        "EBFC",
-        "East Bengal",
-        "1",
-        "#C8102E"
-      ],
-      "b": [
-        "GKFC",
-        "Gokulam Kerala",
-        "0",
-        "#7B1E3A"
-      ],
-      "when": "2026-11-13T19:00:00+05:30",
-      "india": true,
-      "venue": "Kalyani Stadium, West Bengal",
-      "note": "Fazila's late winner gives defending champions East Bengal a 1–0 win over Gokulam Kerala in the IWL 2026-27 opener at Kalyani.",
-      "src": [
-        {
-          "t": "IANS – IWL 2026/27: Fazila's late winner hands East Bengal 1-0 win over Gokulam Kerala",
-          "u": "https://ianslive.in/iwl-202627-fazilas-late-winner-hands-east-bengal-fc-1-0-victory-over-gokulam-kerala-fc--20261113213619"
-        }
-      ],
-      "win": "a",
-      "day": "13 Nov",
-      "recent": true,
-      "resultAt": "2026-11-14T12:29:11+05:30"
     },
     {
       "id": "kmj26-sen-final",
@@ -755,19 +612,19 @@
       "india": true,
       "big": true,
       "venue": "Basin Reserve, Wellington",
-      "note": "First of two Tests (19–23 Nov). Shubman Gill captains India.",
+      "note": "First of two Tests (19–23 Nov) at the Basin Reserve; play starts 3:30 am IST (toss 3:00 am). Shubman Gill captains India; Jasprit Bumrah returns.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Times of India – New Zealand v India 1st Test, 19 Nov 2026, 3:30 am IST",
-          "u": "https://timesofindia.indiatimes.com/sports/cricket"
+          "t": "Yahoo Sports – NZ v India 1st Test: timings, venue, Bumrah returns",
+          "u": "https://sports.yahoo.com/"
         },
         {
-          "t": "BCCI – New Zealand vs India, 2nd Test, Hagley Oval, 27 Nov",
-          "u": "https://www.bcci.tv/"
+          "t": "Google – India vs New Zealand 1st Test start time",
+          "u": "https://www.google.com/search?q=India+vs+New+Zealand+1st+Test+2026+start+time+IST"
         }
       ]
     },
@@ -1100,6 +957,184 @@
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
       ]
+    },
+    {
+      "id": "u17q-ind-gum",
+      "sport": "Football",
+      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
+      "round": "Group E",
+      "st": "result",
+      "a": [
+        "IND",
+        "India U17",
+        "12"
+      ],
+      "b": [
+        "GUM",
+        "Guam U17",
+        "0"
+      ],
+      "when": "2026-11-14T13:00:00+05:30",
+      "win": "a",
+      "day": "14 Nov",
+      "recent": true,
+      "resultAt": "2026-11-16T12:23:13+05:30",
+      "india": true,
+      "venue": "Kuala Lumpur Football Stadium",
+      "note": "Captain Dallalmuon Gangte and Raj Wahengbam hat-tricks, David Irom two; India top Group E level on six points with Palestine.",
+      "src": [
+        {
+          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
+        }
+      ]
+    },
+    {
+      "id": "u17q-pal-ind",
+      "sport": "Football",
+      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
+      "round": "Group E",
+      "st": "upcoming",
+      "a": [
+        "PLE",
+        "Palestine U17",
+        ""
+      ],
+      "b": [
+        "IND",
+        "India U17",
+        ""
+      ],
+      "when": "2026-11-17T13:00:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Kuala Lumpur Football Stadium",
+      "note": "Top-of-the-table clash: both sides on six points. Only group winners qualify directly for Uzbekistan 2027.",
+      "src": [
+        {
+          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
+          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+        },
+        {
+          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
+        }
+      ]
+    },
+    {
+      "id": "u17q-ind-mas",
+      "sport": "Football",
+      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
+      "round": "Group E",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "India U17",
+        ""
+      ],
+      "b": [
+        "MAS",
+        "Malaysia U17",
+        ""
+      ],
+      "when": "2026-11-20T18:30:00+05:30",
+      "india": true,
+      "venue": "Kuala Lumpur Football Stadium",
+      "note": "India's last group game, against hosts Malaysia.",
+      "src": [
+        {
+          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
+          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+        }
+      ]
+    },
+    {
+      "id": "hko26-sen-r32",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's singles · Round of 32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "HKG",
+        "Lee Cheuk Yiu",
+        ""
+      ],
+      "when": "2026-11-17",
+      "india": true,
+      "big": true,
+      "venue": "Hong Kong",
+      "note": "Lakshya, fresh from back-to-back titles, needs a deep run to seal his BWF World Tour Finals place; could meet Kunlavut Vitidsarn in round 2. Exact day/time of the match TBC.",
+      "src": [
+        {
+          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
+          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+        }
+      ]
+    },
+    {
+      "id": "hko26-satchi-r32",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's doubles · Round of 32",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Satwik / Chirag",
+        ""
+      ],
+      "b": [
+        "CHN",
+        "Hu Ke Yuan / Lin Xiang Yi",
+        ""
+      ],
+      "when": "2026-11-17",
+      "india": true,
+      "venue": "Hong Kong",
+      "note": "Fifth seeds Satwiksairaj Rankireddy and Chirag Shetty open the Super 500. Exact day/time TBC.",
+      "src": [
+        {
+          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
+          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+        }
+      ]
+    },
+    {
+      "id": "wcc26-g1",
+      "sport": "Chess",
+      "comp": "FIDE World Championship 2026",
+      "round": "Game 1",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "D Gukesh",
+        ""
+      ],
+      "b": [
+        "UZB",
+        "Javokhir Sindarov",
+        ""
+      ],
+      "when": "2026-11-24T19:30:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Geneva, Switzerland",
+      "note": "Gukesh defends his world title; up to 14 games (24 Nov – 12 Dec), each starting 7:30 pm IST.",
+      "src": [
+        {
+          "t": "World Chess – Gukesh vs Sindarov: everything you need to know",
+          "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know"
+        },
+        {
+          "t": "Wikipedia – World Chess Championship 2026",
+          "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1160,6 +1195,62 @@
       ]
     },
     {
+      "id": "afc-u17q",
+      "sport": "Football",
+      "name": "AFC U17 Asian Cup 2027 Qualifiers (Group E)",
+      "status": "Live · Kuala Lumpur · till 20 Nov",
+      "live": true,
+      "india": true,
+      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
+      "note": "India beat Singapore 4–2 and Guam 12–0; Palestine (17 Nov) and Malaysia (20 Nov) to come.",
+      "src": [
+        {
+          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
+        },
+        {
+          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
+          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+        }
+      ]
+    },
+    {
+      "id": "hko-2026",
+      "sport": "Badminton",
+      "name": "Hong Kong Open 2026 (Super 500)",
+      "status": "Live · 17–22 Nov",
+      "live": true,
+      "india": true,
+      "comp": "Hong Kong Open 2026",
+      "note": "Last qualifying event for the World Tour Finals; Lakshya Sen, Srikanth, Satwik/Chirag, Treesa/Gayatri among Indians in the draw.",
+      "src": [
+        {
+          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
+          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+        }
+      ]
+    },
+    {
+      "id": "wcc-2026",
+      "sport": "Chess",
+      "name": "FIDE World Championship: Gukesh v Sindarov",
+      "status": "Starts 24 Nov · Geneva · till 12 Dec",
+      "live": false,
+      "india": true,
+      "comp": "FIDE World Championship 2026",
+      "note": "Opening ceremony 22 Nov; games at 7:30 pm IST.",
+      "src": [
+        {
+          "t": "World Chess – Gukesh vs Sindarov: everything you need to know",
+          "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know"
+        },
+        {
+          "t": "Wikipedia – World Chess Championship 2026",
+          "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+        }
+      ]
+    },
+    {
       "id": "kmj-2026",
       "sport": "Badminton",
       "name": "Kumamoto Masters Japan 2026",
@@ -1176,29 +1267,6 @@
         {
           "t": "ESPN India – Indian Sports LIVE, 13 Nov",
           "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
-        }
-      ]
-    },
-    {
-      "id": "yog-dakar",
-      "sport": "Multi-sport",
-      "name": "Youth Olympic Games Dakar 2026",
-      "status": "Concluded · closed 13 Nov",
-      "live": false,
-      "india": true,
-      "note": "Indian medals so far include Taniya's beach wrestling medal (India's first in the sport), Shourya Ambure's bronze (India's first track and field medal at these Games) and swimming bronzes for Tirthank Pegu and Dhinidhi Desinghu; boxers Ambekar and Gunjan won gold on 12 Nov.",
-      "src": [
-        {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
-        },
-        {
-          "t": "Indian Olympic Association – Dakar 2026",
-          "u": "https://olympic.ind.in/dakar-2026"
-        },
-        {
-          "t": "Wikipedia – 2026 Summer Youth Olympics",
-          "u": "https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics"
         }
       ]
     },
@@ -1386,6 +1454,52 @@
   ],
   "feed": [
     {
+      "t": "16 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Hong Kong Open draw: Lakshya Sen opens against Lee Cheuk Yiu, Satwik/Chirag face China's Hu Ke Yuan/Lin Xiang Yi; the Super 500 starts Tuesday.",
+      "match": "hko26-sen-r32",
+      "src": [
+        {
+          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
+          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+        }
+      ]
+    },
+    {
+      "t": "16 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "India U17 face Palestine on Tue 17 Nov (1 pm IST) in Kuala Lumpur — both on six points at the top of Group E.",
+      "match": "u17q-pal-ind",
+      "src": [
+        {
+          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
+          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+        }
+      ]
+    },
+    {
+      "t": "16 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Chess",
+      "text": "World Championship: Gukesh v Sindarov game 1 is on Tue 24 Nov at 7:30 pm IST in Geneva.",
+      "match": "wcc26-g1",
+      "src": [
+        {
+          "t": "World Chess – Gukesh vs Sindarov: everything you need to know",
+          "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know"
+        },
+        {
+          "t": "Wikipedia – World Chess Championship 2026",
+          "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+        }
+      ]
+    },
+    {
       "t": "15 Nov",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1453,6 +1567,20 @@
     },
     {
       "t": "14 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "India U17 thrash Guam 12–0 in the AFC U17 Asian Cup qualifiers — hat-tricks for Gangte and Wahengbam.",
+      "match": "u17q-ind-gum",
+      "src": [
+        {
+          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
+        }
+      ]
+    },
+    {
+      "t": "14 Nov",
       "tag": "NEWS",
       "c": "var(--accent)",
       "m": "Football",
@@ -1506,21 +1634,7 @@
       ]
     },
     {
-      "t": "13 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "IWL opener: East Bengal beat Gokulam Kerala 1–0 at Kalyani through Fazila's late winner.",
-      "match": "iwl26-ebfc-gkfc",
-      "src": [
-        {
-          "t": "IANS – IWL 2026/27: Fazila's late winner hands East Bengal 1-0 win over Gokulam Kerala",
-          "u": "https://ianslive.in/iwl-202627-fazilas-late-winner-hands-east-bengal-fc-1-0-victory-over-gokulam-kerala-fc--20261113213619"
-        }
-      ]
-    },
-    {
-      "t": "08:40",
+      "t": "14 Nov",
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Badminton",
@@ -1536,76 +1650,17 @@
           "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
         }
       ]
-    },
-    {
-      "t": "13 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "4th ODI: New Zealand beat India by 244 runs at Bay Oval — Matt Henry's six-wicket haul, Will Young 125; India lead the series 2–1.",
-      "match": "nz-ind-odi-4",
-      "src": [
-        {
-          "t": "Outlook India – Matt Henry's six-wicket haul powers NZ to 244-run win, cut series deficit to 2-1",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-4th-odi-live-score-commentary-scorecard-nz-vs-ind-today-match-updates-highlights"
-        },
-        {
-          "t": "Cricinfo – Matt Henry six-for and Will Young hundred crush India",
-          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report"
-        }
-      ]
-    },
-    {
-      "t": "09:45",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Kumamoto Masters: Lakshya Sen beats home favourite Yushi Tanaka 21–16, 21–15 to reach the semi-finals; he meets Indonesia's Alwi Farhan on Saturday.",
-      "match": "kmj26-sen-sf",
-      "src": [
-        {
-          "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
-          "u": "https://www.google.com/search?q=Srikanth+Koki+Watanabe+quarterfinal+22-24"
-        }
-      ]
-    },
-    {
-      "t": "09:06",
-      "tag": "OUT",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Kumamoto Masters: Kidambi Srikanth loses his quarter-final 22–24, 15–21 to Japan's Koki Watanabe.",
-      "match": "kmj26-srikanth-qf",
-      "src": [
-        {
-          "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
-          "u": "https://www.google.com/search?q=Srikanth+Koki+Watanabe+quarterfinal+22-24"
-        }
-      ]
-    },
-    {
-      "t": "12 Nov",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Boxing",
-      "text": "Youth Olympics: boxers Ambekar and Gunjan win gold medals in Dakar.",
-      "src": [
-        {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
-        }
-      ]
-    },
-    {
-      "t": "07:43",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "4th ODI: Shreyas Iyer (captain, Gill rested) wins the toss and India field first at Bay Oval; India lead 2–0.",
-      "match": "nz-ind-odi-4"
     }
   ],
   "schedule": [
+    {
+      "d": "17",
+      "mo": "NOV",
+      "title": "Palestine v India, AFC U17 qualifier",
+      "meta": "Football · Kuala Lumpur",
+      "time": "13:00",
+      "match": "u17q-pal-ind"
+    },
     {
       "d": "17",
       "mo": "NOV",
@@ -1613,6 +1668,14 @@
       "meta": "Football · Dhaka",
       "time": "19:30",
       "match": "saff-final-ind"
+    },
+    {
+      "d": "17",
+      "mo": "NOV",
+      "title": "Lakshya Sen v Lee Cheuk Yiu, Hong Kong Open R32",
+      "meta": "Badminton · Hong Kong",
+      "time": "TBC",
+      "match": "hko26-sen-r32"
     },
     {
       "d": "19",
@@ -1637,6 +1700,14 @@
       "meta": "Hockey · Bhopal",
       "time": "19:00",
       "match": "wact26-ind-mas"
+    },
+    {
+      "d": "20",
+      "mo": "NOV",
+      "title": "India v Malaysia, AFC U17 qualifier",
+      "meta": "Football · Kuala Lumpur",
+      "time": "18:30",
+      "match": "u17q-ind-mas"
     },
     {
       "d": "21",
@@ -1677,22 +1748,6 @@
       "meta": "Hockey · Bhopal",
       "time": "19:00",
       "match": "wact26-ind-chn"
-    },
-    {
-      "d": "25",
-      "mo": "NOV",
-      "title": "India v Japan, Women's Asian Champions Trophy",
-      "meta": "Hockey · Bhopal",
-      "time": "19:00",
-      "match": "wact26-ind-jpn"
-    },
-    {
-      "d": "27",
-      "mo": "NOV",
-      "title": "New Zealand v India, 2nd Test",
-      "meta": "Cricket · Christchurch",
-      "time": "03:30",
-      "match": "nz-ind-test2"
     }
   ],
   "players": [
