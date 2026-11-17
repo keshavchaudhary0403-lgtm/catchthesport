@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-16T12:23:13+05:30",
-  "dayLabel": "Mon 16 Nov · SAFF final v Pakistan Tue · India U17 v Palestine · Hong Kong Open",
-  "featured": "saff-final-ind",
+  "lastUpdated": "2026-11-17T23:34:51+05:30",
+  "dayLabel": "Tue 17 Nov · India win SAFF title · 1st Test v NZ Thu 3:30 am",
+  "featured": "nz-ind-test1",
   "matches": [
     {
       "id": "nz-ind-odi-5",
@@ -352,127 +352,6 @@
       ]
     },
     {
-      "id": "saff-sf1-ind",
-      "sport": "Football",
-      "comp": "SAFF Championship 2026",
-      "round": "Semi-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "2"
-      ],
-      "b": [
-        "BHU",
-        "Bhutan",
-        "1"
-      ],
-      "when": "2026-11-14T14:30:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "National Stadium, Dhaka",
-      "note": "India reach the SAFF final: Vishnu PV (9') and captain Chinglensana Singh (28'); Bhutan pulled one back through Kinzang Tashi Tobden (48') after VAR overturned an offside flag. VAR also cancelled a penalty for India.",
-      "src": [
-        {
-          "t": "The Tribune (AIFF Media) – India hold off Bhutan fightback to reach SAFF Championship final",
-          "u": "https://www.tribuneindia.com/news/aiff-media/india-hold-off-bhutan-fightback-to-reach-saff-championship-final"
-        }
-      ],
-      "watch": [
-        {
-          "n": "VETO (app & website)",
-          "u": "https://www.vetosports.com"
-        }
-      ],
-      "win": "a",
-      "day": "14 Nov",
-      "recent": true,
-      "resultAt": "2026-11-15T09:36:01+05:30"
-    },
-    {
-      "id": "u19ac-final-ind-pak",
-      "sport": "Cricket",
-      "comp": "ACC Men's U19 Asia Cup 2026",
-      "round": "Final",
-      "st": "result",
-      "a": [
-        "IND",
-        "India U19",
-        "339/9 (50)"
-      ],
-      "b": [
-        "PAK",
-        "Pakistan U19",
-        "337/9 (50)"
-      ],
-      "when": "2026-11-14T10:30:00+05:30",
-      "india": true,
-      "big": true,
-      "gold": true,
-      "venue": "Al Amerat Cricket Ground, Muscat",
-      "note": "India U19 win the Asia Cup by one wicket off the last ball, chasing 338. Mohit Ulva 49* (player of the match), Lakshya Raichandani 80, Aaryavir Sehwag 58 (player of the tournament). Pakistan: Usman Khan 107, Abdul Qadir 80, Farhan Yousuf 63.",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "src": [
-        {
-          "t": "Dawn – India edge Pakistan in cliffhanger to clinch U-19 Asia Cup",
-          "u": "https://www.dawn.com/news/2044585/india-edge-pakistan-in-cliffhanger-to-clinch-u-19-asia-cup"
-        },
-        {
-          "t": "Open – Mohit Ulva sealed a last-ball, one-wicket thriller",
-          "u": "https://openthemagazine.com/sports/india-beat-pakistan-in-u19-asia-cup-final-how-mohit-ulva-sealed-a-last-ball-one-wicket-thriller"
-        }
-      ],
-      "win": "a",
-      "day": "14 Nov",
-      "recent": true,
-      "resultAt": "2026-11-15T09:36:01+05:30"
-    },
-    {
-      "id": "kmj26-sen-sf",
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "round": "Men's singles · Semi-final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "21-12 15-21 21-11"
-      ],
-      "b": [
-        "INA",
-        "Alwi Farhan",
-        "12-21 21-15 11-21"
-      ],
-      "when": "2026-11-14T07:20:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Eighth seed Lakshya Sen beat sixth seed Alwi Farhan in three games (21–12, 15–21, 21–11) to reach the final. Opponent and time TBC.",
-      "watch": [
-        {
-          "n": "YouTube – BWF TV",
-          "u": "https://www.youtube.com/@BWFTV"
-        }
-      ],
-      "src": [
-        {
-          "t": "TribunWow – Hasil semifinal Kumamoto Masters 2026: Alwi Farhan tumbang lawan wakil India",
-          "u": "https://wow.tribunnews.com/sport/414061/hasil-semifinal-kumamoto-masters-2026-alwi-farhan-tumbang-dalam-duel-rubber-game-lawan-wakil-india"
-        },
-        {
-          "t": "Khel Now – Japan Masters 2026 semi-finals live",
-          "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
-        }
-      ],
-      "win": "a",
-      "day": "14 Nov",
-      "recent": true,
-      "resultAt": "2026-11-14T09:39:56+05:30"
-    },
-    {
       "id": "kmj26-sen-final",
       "sport": "Badminton",
       "comp": "Kumamoto Masters Japan 2026",
@@ -518,78 +397,41 @@
       "sport": "Football",
       "comp": "SAFF Championship 2026",
       "round": "Final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
-      ],
-      "b": [
-        "PAK",
-        "Pakistan",
-        ""
-      ],
-      "when": "2026-11-17T19:30:00+05:30",
-      "india": true,
-      "big": true,
-      "gold": true,
-      "note": "India v Pakistan in the SAFF final. Pakistan reached their first-ever final by beating hosts Bangladesh 1–0 (Abdul Samad 86'); India beat Bhutan 2–1. The sides met in the group opener on 5 Nov.",
-      "watch": [
-        {
-          "n": "VETO (app & website)",
-          "u": "https://www.vetosports.com"
-        }
-      ],
-      "src": [
-        {
-          "t": "Sportstar – Pakistan beat Bangladesh 1-0, reach SAFF final for the first time",
-          "u": "https://sportstar.thehindu.com/football/"
-        },
-        {
-          "t": "AFC – SAFF Championship: India, Pakistan set up final showdown",
-          "u": "https://www.the-afc.com/"
-        },
-        {
-          "t": "Google – India v Pakistan SAFF final, Tue 17 Nov 7:30 pm IST",
-          "u": "https://www.google.com/search?q=India+vs+Pakistan+SAFF+Championship+2026+final+date+time+IST+Dhaka"
-        }
-      ],
-      "venue": "National Stadium, Dhaka"
-    },
-    {
-      "id": "saff-sf2-ban-pak",
-      "sport": "Football",
-      "comp": "SAFF Championship 2026",
-      "round": "Semi-final",
-      "st": "result",
-      "a": [
-        "BAN",
-        "Bangladesh",
-        "0"
+        "2"
       ],
       "b": [
         "PAK",
         "Pakistan",
         "1"
       ],
-      "when": "2026-11-14",
-      "win": "b",
-      "day": "14 Nov",
-      "recent": true,
-      "resultAt": "2026-11-15T19:27:17+05:30",
+      "when": "2026-11-17T19:30:00+05:30",
+      "india": true,
       "big": true,
-      "venue": "National Stadium, Dhaka",
-      "note": "Abdul Samad's 86th-minute winner sends Pakistan into their first SAFF final, against India.",
+      "gold": true,
+      "note": "India came from behind for a record 10th SAFF title (third in a row): Alamgir Ghazi put Pakistan ahead at 45+1', Junaid Shah was sent off after a VAR review, Suhail Ahmad Bhat equalised and Sandip Mandi headed a late winner (Player of the Match).",
       "src": [
         {
-          "t": "Sportstar – Bangladesh vs Pakistan highlights",
-          "u": "https://sportstar.thehindu.com/football/"
+          "t": "ESPN India – India beat Pakistan 2-1 to win 10th SAFF Championship title",
+          "u": "https://www.espn.in/football/"
         },
         {
-          "t": "24 News HD – Pakistan beat Bangladesh 1-0 to set up SAFF final",
-          "u": "https://www.24newshd.tv/"
+          "t": "Al Jazeera – India 2-1 Pakistan: SAFF Championship final",
+          "u": "https://www.aljazeera.com/sports/"
+        },
+        {
+          "t": "Google – India v Pakistan SAFF final result",
+          "u": "https://www.google.com/search?q=India+vs+Pakistan+SAFF+Championship+final+result"
         }
-      ]
+      ],
+      "venue": "National Stadium, Dhaka",
+      "win": "a",
+      "day": "17 Nov",
+      "recent": true,
+      "resultAt": "2026-11-17T23:34:51+05:30"
     },
     {
       "id": "nz-ind-test1",
@@ -959,67 +801,44 @@
       ]
     },
     {
-      "id": "u17q-ind-gum",
+      "id": "u17q-pal-ind",
       "sport": "Football",
       "comp": "AFC U17 Asian Cup 2027 Qualifiers",
       "round": "Group E",
       "st": "result",
       "a": [
-        "IND",
-        "India U17",
-        "12"
-      ],
-      "b": [
-        "GUM",
-        "Guam U17",
-        "0"
-      ],
-      "when": "2026-11-14T13:00:00+05:30",
-      "win": "a",
-      "day": "14 Nov",
-      "recent": true,
-      "resultAt": "2026-11-16T12:23:13+05:30",
-      "india": true,
-      "venue": "Kuala Lumpur Football Stadium",
-      "note": "Captain Dallalmuon Gangte and Raj Wahengbam hat-tricks, David Irom two; India top Group E level on six points with Palestine.",
-      "src": [
-        {
-          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
-        }
-      ]
-    },
-    {
-      "id": "u17q-pal-ind",
-      "sport": "Football",
-      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
-      "round": "Group E",
-      "st": "upcoming",
-      "a": [
         "PLE",
         "Palestine U17",
-        ""
+        "1"
       ],
       "b": [
         "IND",
         "India U17",
-        ""
+        "4"
       ],
       "when": "2026-11-17T13:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Kuala Lumpur Football Stadium",
-      "note": "Top-of-the-table clash: both sides on six points. Only group winners qualify directly for Uzbekistan 2027.",
+      "note": "Rain-hit win over 10-man Palestine (red card 10'): Kamgouhao Doungel, Mukundo Singh, captain Dallalmuon Gangte and Zoramdinthara Lalhunmawia scored. India top Group E and need a draw v Malaysia on 20 Nov to qualify.",
       "src": [
         {
-          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
-          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+          "t": "AFC – Qualifiers Group E: Palestine 1-4 India",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html"
         },
         {
-          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
+          "t": "Sportstar – India beats 10-man Palestine in rain-hit match",
+          "u": "https://sportstar.thehindu.com/football/"
+        },
+        {
+          "t": "Google – India U17 v Palestine result",
+          "u": "https://www.google.com/search?q=India+U17+vs+Palestine+AFC+U17+Asian+Cup+qualifiers+result"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "17 Nov",
+      "recent": true,
+      "resultAt": "2026-11-17T23:34:51+05:30"
     },
     {
       "id": "u17q-ind-mas",
@@ -1040,7 +859,7 @@
       "when": "2026-11-20T18:30:00+05:30",
       "india": true,
       "venue": "Kuala Lumpur Football Stadium",
-      "note": "India's last group game, against hosts Malaysia.",
+      "note": "Group decider: India top Group E and need only a draw against hosts Malaysia to reach the AFC U17 Asian Cup 2027 finals in Uzbekistan.",
       "src": [
         {
           "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
@@ -1064,15 +883,19 @@
         "Lee Cheuk Yiu",
         ""
       ],
-      "when": "2026-11-17",
+      "when": "2026-11-18",
       "india": true,
       "big": true,
       "venue": "Hong Kong",
-      "note": "Lakshya, fresh from back-to-back titles, needs a deep run to seal his BWF World Tour Finals place; could meet Kunlavut Vitidsarn in round 2. Exact day/time of the match TBC.",
+      "note": "Lakshya, fresh from back-to-back titles, needs a deep run (semi-finals) to be certain of his BWF World Tour Finals place. Scheduled for Wed 18 Nov; time TBC.",
       "src": [
         {
           "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
           "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+        },
+        {
+          "t": "Flashscore – Lakshya Sen v Lee Cheuk Yiu, 18 Nov",
+          "u": "https://www.flashscore.in/badminton/"
         }
       ]
     },
@@ -1081,27 +904,35 @@
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
       "round": "Men's doubles · Round of 32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Satwik / Chirag",
-        ""
+        "15-21 21-17 28-26"
       ],
       "b": [
-        "CHN",
-        "Hu Ke Yuan / Lin Xiang Yi",
-        ""
+        "TPE",
+        "Lee Jhe-huei / Yang Po-hsuan",
+        "21-15 17-21 26-28"
       ],
       "when": "2026-11-17",
       "india": true,
       "venue": "Hong Kong",
-      "note": "Fifth seeds Satwiksairaj Rankireddy and Chirag Shetty open the Super 500. Exact day/time TBC.",
+      "note": "Satwik/Chirag saved four match points to win a 28-26 decider against Chinese Taipei's world No. 15 pair, ending a run of three straight first-round exits.",
       "src": [
         {
-          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
-          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+          "t": "Olympics.com – Satwik-Chirag end losing streak with thrilling first-round win",
+          "u": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-satwik-chirag-first-round-results"
+        },
+        {
+          "t": "Sportstar – Satwik-Chirag win first-round thriller against Lee-Yang",
+          "u": "https://sportstar.thehindu.com/badminton/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "17 Nov",
+      "recent": true,
+      "resultAt": "2026-11-17T23:34:51+05:30"
     },
     {
       "id": "wcc26-g1",
@@ -1159,26 +990,6 @@
       ]
     },
     {
-      "id": "u19-asia-cup",
-      "sport": "Cricket",
-      "name": "ACC Men's U19 Asia Cup 2026",
-      "comp": "ACC Men's U19 Asia Cup 2026",
-      "status": "Concluded · India beat Pakistan by 1 wicket in the final, 14 Nov",
-      "live": false,
-      "india": true,
-      "note": "Played in Oman (Al Amerat). India U19 beat Afghanistan by 8 wickets in the semi-final (Raichandani 93) and meet Pakistan, who beat Bangladesh by 9 wickets, in the final on 14 Nov. On Sony Sports Network and SonyLIV.",
-      "src": [
-        {
-          "t": "Jagran Josh – ACC Men's U19 Asia Cup 2026: schedule, India matches (all 10:30 am IST)",
-          "u": "https://www.jagranjosh.com/"
-        },
-        {
-          "t": "Wisden – U19 Asia Cup 2026: where to watch (Sony Sports Network, Sony LIV)",
-          "u": "https://www.wisden.com/"
-        }
-      ]
-    },
-    {
       "id": "ind-nz-fb",
       "sport": "Football",
       "name": "India football tour of New Zealand",
@@ -1202,8 +1013,12 @@
       "live": true,
       "india": true,
       "comp": "AFC U17 Asian Cup 2027 Qualifiers",
-      "note": "India beat Singapore 4–2 and Guam 12–0; Palestine (17 Nov) and Malaysia (20 Nov) to come.",
+      "note": "India beat Singapore 4–2, Guam 12–0 and Palestine 4–1; a draw v Malaysia on 20 Nov seals qualification.",
       "src": [
+        {
+          "t": "AFC – Qualifiers Group E: Palestine 1-4 India",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html"
+        },
         {
           "t": "AFC – Qualifiers Group E: India 12-0 Guam",
           "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
@@ -1222,7 +1037,7 @@
       "live": true,
       "india": true,
       "comp": "Hong Kong Open 2026",
-      "note": "Last qualifying event for the World Tour Finals; Lakshya Sen, Srikanth, Satwik/Chirag, Treesa/Gayatri among Indians in the draw.",
+      "note": "Last qualifying event for the World Tour Finals. Satwik/Chirag won a first-round thriller; Lakshya Sen opens v Lee Cheuk Yiu on 18 Nov.",
       "src": [
         {
           "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
@@ -1319,18 +1134,14 @@
       "sport": "Football",
       "name": "SAFF Championship 2026",
       "comp": "SAFF Championship 2026",
-      "status": "Live · Final India v Pakistan, 17 Nov 7:30 pm",
-      "live": true,
+      "status": "Concluded · India champions (10th title), 17 Nov",
+      "live": false,
       "india": true,
-      "note": "India beat Bhutan 2–1 and Pakistan beat hosts Bangladesh 1–0 in the semi-finals; the final is at the National Stadium, Dhaka on 17 Nov (7:30 pm IST). Streaming on VETO.",
+      "note": "India beat Pakistan 2–1 in the final in Dhaka for a record 10th title and a third in a row.",
       "src": [
         {
-          "t": "Khel Now – VETO to live stream SAFF Championship 2026",
-          "u": "https://khelnow.com/football/indian-football-team-saff-championship-2026-live-streaming"
-        },
-        {
-          "t": "Sporting News – When is India vs Pakistan at SAFF 2026",
-          "u": "https://www.sportingnews.com/"
+          "t": "ESPN India – India beat Pakistan 2-1 to win 10th SAFF Championship title",
+          "u": "https://www.espn.in/football/"
         }
       ]
     },
@@ -1454,16 +1265,56 @@
   ],
   "feed": [
     {
-      "t": "16 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Hong Kong Open draw: Lakshya Sen opens against Lee Cheuk Yiu, Satwik/Chirag face China's Hu Ke Yuan/Lin Xiang Yi; the Super 500 starts Tuesday.",
-      "match": "hko26-sen-r32",
+      "t": "22:05",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "India are SAFF champions for a record 10th time — coming from behind to beat 10-man Pakistan 2–1 in Dhaka. Suhail Ahmad Bhat equalised, Sandip Mandi headed a late winner.",
+      "match": "saff-final-ind",
       "src": [
         {
-          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
-          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
+          "t": "ESPN India – India beat Pakistan 2-1 to win 10th SAFF Championship title",
+          "u": "https://www.espn.in/football/"
+        },
+        {
+          "t": "Al Jazeera – India 2-1 Pakistan: SAFF Championship final",
+          "u": "https://www.aljazeera.com/sports/"
+        }
+      ]
+    },
+    {
+      "t": "17 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "India U17 beat 10-man Palestine 4–1 in a rain-hit qualifier in Kuala Lumpur; a draw against Malaysia on Friday sends them to the AFC U17 Asian Cup.",
+      "match": "u17q-pal-ind",
+      "src": [
+        {
+          "t": "AFC – Qualifiers Group E: Palestine 1-4 India",
+          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html"
+        },
+        {
+          "t": "Sportstar – India beats 10-man Palestine in rain-hit match",
+          "u": "https://sportstar.thehindu.com/football/"
+        }
+      ]
+    },
+    {
+      "t": "17 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Hong Kong Open: Satwik/Chirag save four match points to beat Lee Jhe-huei/Yang Po-hsuan 15–21, 21–17, 28–26 in round one.",
+      "match": "hko26-satchi-r32",
+      "src": [
+        {
+          "t": "Olympics.com – Satwik-Chirag end losing streak with thrilling first-round win",
+          "u": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-satwik-chirag-first-round-results"
+        },
+        {
+          "t": "Sportstar – Satwik-Chirag win first-round thriller against Lee-Yang",
+          "u": "https://sportstar.thehindu.com/badminton/"
         }
       ]
     },
@@ -1471,13 +1322,13 @@
       "t": "16 Nov",
       "tag": "NEWS",
       "c": "var(--accent)",
-      "m": "Football",
-      "text": "India U17 face Palestine on Tue 17 Nov (1 pm IST) in Kuala Lumpur — both on six points at the top of Group E.",
-      "match": "u17q-pal-ind",
+      "m": "Badminton",
+      "text": "Hong Kong Open draw: Lakshya Sen opens against Lee Cheuk Yiu; Satwik/Chirag face Chinese Taipei's Lee Jhe-huei/Yang Po-hsuan. The Super 500 starts Tuesday.",
+      "match": "hko26-sen-r32",
       "src": [
         {
-          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
-          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
+          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
         }
       ]
     },
@@ -1564,113 +1415,11 @@
           "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Christchurch+result"
         }
       ]
-    },
-    {
-      "t": "14 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "India U17 thrash Guam 12–0 in the AFC U17 Asian Cup qualifiers — hat-tricks for Gangte and Wahengbam.",
-      "match": "u17q-ind-gum",
-      "src": [
-        {
-          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
-        }
-      ]
-    },
-    {
-      "t": "14 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "SAFF final set: India v Pakistan on Tue 17 Nov (7:30 pm IST, Dhaka) after Pakistan beat hosts Bangladesh 1–0.",
-      "match": "saff-final-ind",
-      "src": [
-        {
-          "t": "Sportstar – Pakistan beat Bangladesh 1-0, reach SAFF final for the first time",
-          "u": "https://sportstar.thehindu.com/football/"
-        },
-        {
-          "t": "AFC – SAFF Championship: India, Pakistan set up final showdown",
-          "u": "https://www.the-afc.com/"
-        },
-        {
-          "t": "Google – India v Pakistan SAFF final, Tue 17 Nov 7:30 pm IST",
-          "u": "https://www.google.com/search?q=India+vs+Pakistan+SAFF+Championship+2026+final+date+time+IST+Dhaka"
-        }
-      ]
-    },
-    {
-      "t": "14 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India U19 win the Asia Cup, beating Pakistan U19 by one wicket off the last ball (339/9 v 337/9) — Mohit Ulva 49*.",
-      "match": "u19ac-final-ind-pak",
-      "src": [
-        {
-          "t": "Dawn – India edge Pakistan in cliffhanger to clinch U-19 Asia Cup",
-          "u": "https://www.dawn.com/news/2044585/india-edge-pakistan-in-cliffhanger-to-clinch-u-19-asia-cup"
-        },
-        {
-          "t": "Open – Mohit Ulva sealed a last-ball, one-wicket thriller",
-          "u": "https://openthemagazine.com/sports/india-beat-pakistan-in-u19-asia-cup-final-how-mohit-ulva-sealed-a-last-ball-one-wicket-thriller"
-        }
-      ]
-    },
-    {
-      "t": "14 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "SAFF Championship: India beat Bhutan 2–1 in Dhaka to reach the final on 17 Nov.",
-      "match": "saff-sf1-ind",
-      "src": [
-        {
-          "t": "The Tribune (AIFF Media) – India hold off Bhutan fightback to reach SAFF Championship final",
-          "u": "https://www.tribuneindia.com/news/aiff-media/india-hold-off-bhutan-fightback-to-reach-saff-championship-final"
-        }
-      ]
-    },
-    {
-      "t": "14 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Kumamoto Masters: Lakshya Sen beats Alwi Farhan 21–12, 15–21, 21–11 to reach the final.",
-      "match": "kmj26-sen-sf",
-      "src": [
-        {
-          "t": "TribunWow – Hasil semifinal Kumamoto Masters 2026: Alwi Farhan tumbang lawan wakil India",
-          "u": "https://wow.tribunnews.com/sport/414061/hasil-semifinal-kumamoto-masters-2026-alwi-farhan-tumbang-dalam-duel-rubber-game-lawan-wakil-india"
-        },
-        {
-          "t": "Khel Now – Japan Masters 2026 semi-finals live",
-          "u": "https://khelnow.com/badminton/lakshya-semifinals-live-japan-masters-202611"
-        }
-      ]
     }
   ],
   "schedule": [
     {
-      "d": "17",
-      "mo": "NOV",
-      "title": "Palestine v India, AFC U17 qualifier",
-      "meta": "Football · Kuala Lumpur",
-      "time": "13:00",
-      "match": "u17q-pal-ind"
-    },
-    {
-      "d": "17",
-      "mo": "NOV",
-      "title": "India v Pakistan, SAFF Championship final",
-      "meta": "Football · Dhaka",
-      "time": "19:30",
-      "match": "saff-final-ind"
-    },
-    {
-      "d": "17",
+      "d": "18",
       "mo": "NOV",
       "title": "Lakshya Sen v Lee Cheuk Yiu, Hong Kong Open R32",
       "meta": "Badminton · Hong Kong",
