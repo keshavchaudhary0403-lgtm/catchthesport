@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-17T23:34:51+05:30",
-  "dayLabel": "Tue 17 Nov · India win SAFF title · 1st Test v NZ Thu 3:30 am",
+  "lastUpdated": "2026-11-18T12:22:56+05:30",
+  "dayLabel": "Wed 18 Nov · Lakshya v Merklé 2 pm · 1st Test v NZ Thu 3:30 am",
   "featured": "nz-ind-test1",
   "matches": [
     {
@@ -879,23 +879,27 @@
         ""
       ],
       "b": [
-        "HKG",
-        "Lee Cheuk Yiu",
+        "FRA",
+        "Arnaud Merklé",
         ""
       ],
-      "when": "2026-11-18",
+      "when": "2026-11-18T14:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Hong Kong",
-      "note": "Lakshya, fresh from back-to-back titles, needs a deep run (semi-finals) to be certain of his BWF World Tour Finals place. Scheduled for Wed 18 Nov; time TBC.",
+      "note": "Draw revised after withdrawals — Lakshya now opens against France's Arnaud Merklé (H2H 1–1), not Lee Cheuk Yiu. A semi-final run seals his BWF World Tour Finals place.",
       "src": [
+        {
+          "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
+          "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
+        },
+        {
+          "t": "ESPN – Indian Sports LIVE, November 18",
+          "u": "https://www.espn.com.au/espn/story/_/id/50511639/lakshya-sen-kidambi-srikanth-others-action-hong-kong-open-indian-sports-live-november-18"
+        },
         {
           "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
           "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
-        },
-        {
-          "t": "Flashscore – Lakshya Sen v Lee Cheuk Yiu, 18 Nov",
-          "u": "https://www.flashscore.in/badminton/"
         }
       ]
     },
@@ -1037,8 +1041,12 @@
       "live": true,
       "india": true,
       "comp": "Hong Kong Open 2026",
-      "note": "Last qualifying event for the World Tour Finals. Satwik/Chirag won a first-round thriller; Lakshya Sen opens v Lee Cheuk Yiu on 18 Nov.",
+      "note": "Last qualifying event for the World Tour Finals. Satwik/Chirag won a first-round thriller; Lakshya Sen opens v Arnaud Merklé (FRA) at 2 pm IST on 18 Nov after draw changes.",
       "src": [
+        {
+          "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
+          "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
+        },
         {
           "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
           "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
@@ -1265,7 +1273,34 @@
   ],
   "feed": [
     {
-      "t": "22:05",
+      "t": "17 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Hong Kong Open: after withdrawals reshaped the draw, Lakshya Sen now opens against France's Arnaud Merklé at 2 pm IST today instead of Lee Cheuk Yiu.",
+      "match": "hko26-sen-r32",
+      "src": [
+        {
+          "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
+          "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
+        }
+      ]
+    },
+    {
+      "t": "17 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "MS Dhoni ends his IPL playing career on retention deadline day; Chennai Super Kings name him Team Mentor from IPL 2027.",
+      "src": [
+        {
+          "t": "The Hindu – Dhoni ends IPL playing career as CSK appoints him team mentor",
+          "u": "https://www.thehindu.com/sport/cricket/chennai-super-kings-ms-dhoni-team-mentor-retire-nov-17-2026/article71711142.ece"
+        }
+      ]
+    },
+    {
+      "t": "17 Nov",
       "tag": "WIN",
       "c": "var(--win)",
       "m": "Football",
@@ -1421,9 +1456,9 @@
     {
       "d": "18",
       "mo": "NOV",
-      "title": "Lakshya Sen v Lee Cheuk Yiu, Hong Kong Open R32",
+      "title": "Lakshya Sen v Arnaud Merklé, Hong Kong Open R32",
       "meta": "Badminton · Hong Kong",
-      "time": "TBC",
+      "time": "14:00",
       "match": "hko26-sen-r32"
     },
     {
