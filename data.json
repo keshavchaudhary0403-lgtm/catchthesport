@@ -1,97 +1,8 @@
 {
-  "lastUpdated": "2026-11-18T12:22:56+05:30",
-  "dayLabel": "Wed 18 Nov · Lakshya v Merklé 2 pm · 1st Test v NZ Thu 3:30 am",
+  "lastUpdated": "2026-11-19T12:23:17+05:30",
+  "dayLabel": "Thu 19 Nov · 1st Test: NZ 243/5 · Lakshya v Loh Fri 7:30 am",
   "featured": "nz-ind-test1",
   "matches": [
-    {
-      "id": "nz-ind-odi-5",
-      "st": "result",
-      "india": true,
-      "sport": "Cricket",
-      "comp": "New Zealand v India",
-      "round": "5th ODI",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "187 (48.1)",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "209 (42.1)"
-      ],
-      "when": "2026-11-15T07:30:00+05:30",
-      "venue": "Bay Oval, Mount Maunganui",
-      "note": "India win by 22 runs and take the series 3–1. Axar Patel 46 and Ishan Kishan 46 lifted India to 209 (Santner 3-47, Duffy 3-60); Arshdeep Singh 3-30, Axar 2-28 and Siraj 2-50 bowled NZ out for 187 (Foxcroft 31).",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Arshdeep and Co help India defend 209 for 3-1 series win",
-          "u": "https://www.espncricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
-        },
-        {
-          "t": "Hindustan Times – Arshdeep stars with 3 wickets as IND win by 22 runs",
-          "u": "https://www.hindustantimes.com/cricket"
-        },
-        {
-          "t": "Google – 5th ODI result card",
-          "u": "https://www.google.com/search?q=India+vs+New+Zealand+5th+ODI+result"
-        }
-      ],
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
-      "win": "b",
-      "day": "15 Nov",
-      "recent": true,
-      "resultAt": "2026-11-15T19:27:17+05:30"
-    },
-    {
-      "id": "ind-nz-fr2",
-      "sport": "Football",
-      "comp": "India tour of New Zealand (friendlies)",
-      "round": "2nd friendly",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "0"
-      ],
-      "b": [
-        "NZ",
-        "New Zealand",
-        "3",
-        "#111827"
-      ],
-      "when": "2026-11-15T08:40:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "One New Zealand Stadium, Christchurch",
-      "note": "New Zealand win 3–0 in Christchurch with all three goals in the first half, Chris Wood among the scorers; India lose both friendlies (0–5, 0–3) and end their year.",
-      "src": [
-        {
-          "t": "Sportstar – Chris Wood scores as India lose to New Zealand in second friendly",
-          "u": "https://sportstar.thehindu.com/football/indian-football/"
-        },
-        {
-          "t": "ESPN – New Zealand dismiss India 3-0 in another one-sided friendly",
-          "u": "https://www.espn.com/football/"
-        },
-        {
-          "t": "Google – New Zealand v India result card",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Christchurch+result"
-        }
-      ],
-      "watch": [
-        "FIFA+",
-        "DAZN"
-      ],
-      "win": "b",
-      "day": "15 Nov",
-      "recent": true,
-      "resultAt": "2026-11-15T19:27:17+05:30"
-    },
     {
       "id": "wact26-ind-mas",
       "sport": "Hockey",
@@ -352,47 +263,6 @@
       ]
     },
     {
-      "id": "kmj26-sen-final",
-      "sport": "Badminton",
-      "comp": "Kumamoto Masters Japan 2026",
-      "round": "Men's singles · Final",
-      "st": "result",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "13-21 21-18 21-14"
-      ],
-      "b": [
-        "JPN",
-        "Koki Watanabe",
-        "21-13 18-21 14-21"
-      ],
-      "when": "2026-11-15T08:20:00+05:30",
-      "india": true,
-      "big": true,
-      "gold": true,
-      "venue": "Kumamoto Prefectural Gymnasium, Japan",
-      "note": "Lakshya Sen wins the Kumamoto Masters Japan (Super 500), coming from a game down to beat home favourite Koki Watanabe 13–21, 21–18, 21–14 in 64 minutes — his second straight title after the Hylo Open.",
-      "src": [
-        {
-          "t": "The Tribune (ANI) – Lakshya Sen beats Alwi Farhan to enter final",
-          "u": "https://www.tribuneindia.com/news/sports/japan-masters-lakshya-sen-beats-indonesias-alwi-farhan-to-enter-final/"
-        },
-        {
-          "t": "BWF – Kumamoto Masters 2026 men's singles final (Instagram/YouTube BWF TV)",
-          "u": "https://www.youtube.com/@BWFTV"
-        },
-        {
-          "t": "Google – Lakshya Sen Koki Watanabe Kumamoto final",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Koki+Watanabe+Kumamoto+Masters+final"
-        }
-      ],
-      "win": "a",
-      "day": "15 Nov",
-      "recent": true,
-      "resultAt": "2026-11-15T19:27:17+05:30"
-    },
-    {
       "id": "saff-final-ind",
       "sport": "Football",
       "comp": "SAFF Championship 2026",
@@ -438,37 +308,35 @@
       "sport": "Cricket",
       "comp": "New Zealand v India",
       "round": "1st Test",
-      "st": "upcoming",
+      "st": "live",
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "243/5 (82)",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "Yet to bat"
       ],
       "when": "2026-11-19T03:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Basin Reserve, Wellington",
-      "note": "First of two Tests (19–23 Nov) at the Basin Reserve; play starts 3:30 am IST (toss 3:00 am). Shubman Gill captains India; Jasprit Bumrah returns.",
+      "note": "NZ chose to bat. India had them 70/5, but Henry Nicholls (113*) and Glenn Phillips (94*) added an unbroken 173 and India went wicketless in the final session. Day 2 starts 3:30 am IST.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Yahoo Sports – NZ v India 1st Test: timings, venue, Bumrah returns",
-          "u": "https://sports.yahoo.com/"
-        },
-        {
-          "t": "Google – India vs New Zealand 1st Test start time",
-          "u": "https://www.google.com/search?q=India+vs+New+Zealand+1st+Test+2026+start+time+IST"
+          "t": "Google – NZ v India 1st Test score (Times of India, NDTV, Indian Express, Cricbuzz)",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+1st+Test+score"
         }
-      ]
+      ],
+      "status": "Stumps, Day 1",
+      "scoreAt": "2026-11-19T12:23:17+05:30"
     },
     {
       "id": "nz-ind-test2",
@@ -872,36 +740,36 @@
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
       "round": "Men's singles · Round of 32",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "14-21 21-16 25-23"
       ],
       "b": [
         "FRA",
         "Arnaud Merklé",
-        ""
+        "21-14 16-21 23-25"
       ],
       "when": "2026-11-18T14:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Hong Kong",
-      "note": "Draw revised after withdrawals — Lakshya now opens against France's Arnaud Merklé (H2H 1–1), not Lee Cheuk Yiu. A semi-final run seals his BWF World Tour Finals place.",
+      "note": "Lakshya came from a game down and edged a 25-23 decider against France's Arnaud Merklé.",
       "src": [
+        {
+          "t": "Google – Lakshya Sen Hong Kong Open scores",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
+        },
         {
           "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
           "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
-        },
-        {
-          "t": "ESPN – Indian Sports LIVE, November 18",
-          "u": "https://www.espn.com.au/espn/story/_/id/50511639/lakshya-sen-kidambi-srikanth-others-action-hong-kong-open-indian-sports-live-november-18"
-        },
-        {
-          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
-          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "18 Nov",
+      "recent": true,
+      "resultAt": "2026-11-19T12:23:17+05:30"
     },
     {
       "id": "hko26-satchi-r32",
@@ -970,6 +838,183 @@
           "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
         }
       ]
+    },
+    {
+      "id": "hko26-sen-r16",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's singles · Round of 16",
+      "st": "result",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        "21-11 21-18"
+      ],
+      "b": [
+        "DEN",
+        "Rasmus Gemke",
+        "11-21 18-21"
+      ],
+      "when": "2026-11-19",
+      "win": "a",
+      "day": "19 Nov",
+      "recent": true,
+      "resultAt": "2026-11-19T12:23:17+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Hong Kong",
+      "note": "Straight-games win over Denmark's Rasmus Gemke sends Lakshya into the quarter-finals. He had already sealed his World Tour Finals place after Srikanth beat Koki Watanabe.",
+      "src": [
+        {
+          "t": "Google – Lakshya Sen Hong Kong Open scores",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
+        }
+      ]
+    },
+    {
+      "id": "hko26-satchi-r16",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's doubles · Round of 16",
+      "st": "result",
+      "a": [
+        "IND",
+        "Satwik / Chirag",
+        "21-19 21-16"
+      ],
+      "b": [
+        "MAS",
+        "Azriyn / Tan",
+        "19-21 16-21"
+      ],
+      "when": "2026-11-19",
+      "win": "a",
+      "day": "19 Nov",
+      "recent": true,
+      "resultAt": "2026-11-19T12:23:17+05:30",
+      "india": true,
+      "venue": "Hong Kong",
+      "note": "Fifth seeds Satwik/Chirag beat Malaysia's Azriyn/Tan in straight games to reach the quarter-finals.",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
+          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
+        }
+      ]
+    },
+    {
+      "id": "hko26-rakshitha-r16",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Women's singles · Round of 16",
+      "st": "result",
+      "a": [
+        "IND",
+        "Rakshitha Ramraj",
+        "21-18 24-22"
+      ],
+      "b": [
+        "CHN",
+        "Chen Yufei",
+        "18-21 22-24"
+      ],
+      "when": "2026-11-19",
+      "win": "a",
+      "day": "19 Nov",
+      "recent": true,
+      "resultAt": "2026-11-19T12:23:17+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Hong Kong",
+      "note": "Upset of the tournament: 19-year-old Rakshitha (world No. 47) beats second seed and Tokyo Olympic champion Chen Yufei to reach the quarter-finals, after knocking out Mia Blichfeldt in round one.",
+      "src": [
+        {
+          "t": "Google – Rakshitha beats Chen Yufei (Indian Express, News18, The Bridge)",
+          "u": "https://www.google.com/search?q=Rakshita+Ramraj+stuns+Chen+Yufei+quarterfinals+Hong+Kong+Open"
+        }
+      ]
+    },
+    {
+      "id": "hko26-sen-qf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's singles · Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        ""
+      ],
+      "b": [
+        "SGP",
+        "Loh Kean Yew",
+        ""
+      ],
+      "when": "2026-11-20T07:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Hong Kong",
+      "note": "Lakshya v Singapore's Loh Kean Yew for a semi-final place. Time as listed on Google's tournament card.",
+      "src": [
+        {
+          "t": "Google – Lakshya Sen Hong Kong Open schedule",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
+        }
+      ]
+    },
+    {
+      "id": "hko26-satchi-qf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's doubles · Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Satwik / Chirag",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-11-20",
+      "india": true,
+      "venue": "Hong Kong",
+      "note": "Opponent and time to be confirmed.",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
+          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
+        }
+      ]
+    },
+    {
+      "id": "hko26-rakshitha-qf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Women's singles · Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Rakshitha Ramraj",
+        ""
+      ],
+      "b": [
+        "TBC",
+        "TBC",
+        ""
+      ],
+      "when": "2026-11-20",
+      "india": true,
+      "venue": "Hong Kong",
+      "note": "Opponent and time to be confirmed.",
+      "src": [
+        {
+          "t": "Google – Rakshitha into Hong Kong Open quarter-finals",
+          "u": "https://www.google.com/search?q=Rakshita+Ramraj+stuns+Chen+Yufei+quarterfinals+Hong+Kong+Open"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -978,10 +1023,10 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live tour · India won ODIs 3–1 · 1st Test 19 Nov",
+      "status": "Live · 1st Test, Wellington · 2nd Test from 27 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20I series 3–2 and the ODI series 3–1 (22-run win in the 5th ODI at Mount Maunganui). Two Tests follow: Wellington from 19 Nov and Christchurch from 27 Nov.",
+      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Basin Reserve, 19–23 Nov): NZ 243/5 at stumps on Day 1. 2nd Test in Christchurch from 27 Nov.",
       "src": [
         {
           "t": "Olympics.com – Indian cricket team schedule 2026",
@@ -990,22 +1035,6 @@
         {
           "t": "Livemint – India's tour of New Zealand 2026 schedule",
           "u": "https://www.livemint.com/sports/cricket-news"
-        }
-      ]
-    },
-    {
-      "id": "ind-nz-fb",
-      "sport": "Football",
-      "name": "India football tour of New Zealand",
-      "comp": "India tour of New Zealand (friendlies)",
-      "status": "Concluded · New Zealand won both (5–0, 3–0)",
-      "live": false,
-      "india": true,
-      "note": "Two men's friendlies v New Zealand: lost 0–5 in Auckland (12 Nov) and 0–3 in Christchurch (15 Nov).",
-      "src": [
-        {
-          "t": "ANI – Indian football team arrives in New Zealand for two international friendlies",
-          "u": "https://www.aninews.in/news/sports/football/indian-football-team-arrives-in-new-zealand-for-two-international-friendlies20261109231208/"
         }
       ]
     },
@@ -1041,15 +1070,15 @@
       "live": true,
       "india": true,
       "comp": "Hong Kong Open 2026",
-      "note": "Last qualifying event for the World Tour Finals. Satwik/Chirag won a first-round thriller; Lakshya Sen opens v Arnaud Merklé (FRA) at 2 pm IST on 18 Nov after draw changes.",
+      "note": "Last qualifying event for the World Tour Finals. Lakshya (beat Merklé and Gemke), Satwik/Chirag and Rakshitha Ramraj (stunned Chen Yufei) are in the quarter-finals on 20 Nov.",
       "src": [
+        {
+          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
+          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
+        },
         {
           "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
           "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
-        },
-        {
-          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
-          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
         }
       ]
     },
@@ -1070,26 +1099,6 @@
         {
           "t": "Wikipedia – World Chess Championship 2026",
           "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
-        }
-      ]
-    },
-    {
-      "id": "kmj-2026",
-      "sport": "Badminton",
-      "name": "Kumamoto Masters Japan 2026",
-      "comp": "Kumamoto Masters Japan 2026",
-      "status": "Concluded · Lakshya Sen champion, 15 Nov",
-      "live": false,
-      "india": true,
-      "note": "Lakshya Sen won the men's singles title, beating Koki Watanabe 13–21, 21–18, 21–14 in the final after wins over Dong Tian Yao, Yushi Tanaka and Alwi Farhan. Kidambi Srikanth lost in the quarter-finals to Watanabe.",
-      "src": [
-        {
-          "t": "Google – Sportstar/Hindustan Times/India Today: Kumamoto QFs",
-          "u": "https://www.google.com/search?q=Srikanth+Koki+Watanabe+quarterfinal+22-24"
-        },
-        {
-          "t": "ESPN India – Indian Sports LIVE, 13 Nov",
-          "u": "https://www.espn.in/espn/story/_/id/50462964/lakshya-sen-kidambi-srikanth-japan-masters-quarterfinals-indian-womens-league-begins-youth-olympics-total-chess-indian-sports-live-november-13"
         }
       ]
     },
@@ -1273,16 +1282,72 @@
   ],
   "feed": [
     {
-      "t": "17 Nov",
+      "t": "19 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Hong Kong Open: 19-year-old Rakshitha Ramraj stuns Olympic champion Chen Yufei 21–18, 24–22 to reach the quarter-finals.",
+      "match": "hko26-rakshitha-r16",
+      "src": [
+        {
+          "t": "Google – Rakshitha beats Chen Yufei (Indian Express, News18, The Bridge)",
+          "u": "https://www.google.com/search?q=Rakshita+Ramraj+stuns+Chen+Yufei+quarterfinals+Hong+Kong+Open"
+        }
+      ]
+    },
+    {
+      "t": "19 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Lakshya Sen beats Rasmus Gemke 21–11, 21–18; meets Loh Kean Yew in the quarter-final at 7:30 am IST on Friday.",
+      "match": "hko26-sen-r16",
+      "src": [
+        {
+          "t": "Google – Lakshya Sen Hong Kong Open scores",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
+        }
+      ]
+    },
+    {
+      "t": "19 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Satwik/Chirag beat Malaysia's Azriyn/Tan 21–19, 21–16 to make the Hong Kong Open quarter-finals.",
+      "match": "hko26-satchi-r16",
+      "src": [
+        {
+          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
+          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
+        }
+      ]
+    },
+    {
+      "t": "19 Nov",
       "tag": "NEWS",
       "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "1st Test, Day 1: India had New Zealand 70/5 but Nicholls (113*) and Phillips (94*) took them to 243/5 at stumps in Wellington.",
+      "match": "nz-ind-test1",
+      "src": [
+        {
+          "t": "Google – NZ v India 1st Test score (Times of India, NDTV, Indian Express, Cricbuzz)",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+1st+Test+score"
+        }
+      ]
+    },
+    {
+      "t": "18 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
       "m": "Badminton",
-      "text": "Hong Kong Open: after withdrawals reshaped the draw, Lakshya Sen now opens against France's Arnaud Merklé at 2 pm IST today instead of Lee Cheuk Yiu.",
+      "text": "Lakshya Sen wins a 25–23 decider against Arnaud Merklé to open his Hong Kong Open campaign; Srikanth's win over Watanabe sealed Lakshya's World Tour Finals spot.",
       "match": "hko26-sen-r32",
       "src": [
         {
-          "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
-          "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
+          "t": "Google – Lakshya Sen Hong Kong Open scores",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
         }
       ]
     },
@@ -1357,20 +1422,6 @@
       "t": "16 Nov",
       "tag": "NEWS",
       "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Hong Kong Open draw: Lakshya Sen opens against Lee Cheuk Yiu; Satwik/Chirag face Chinese Taipei's Lee Jhe-huei/Yang Po-hsuan. The Super 500 starts Tuesday.",
-      "match": "hko26-sen-r32",
-      "src": [
-        {
-          "t": "DD News (PTI) – Lakshya aims to seal World Tour Finals spot at Hong Kong Open",
-          "u": "https://ddnews.gov.in/en/lakshya-aims-to-seal-bwf-world-tour-final-spot-at-hong-kong-open/"
-        }
-      ]
-    },
-    {
-      "t": "16 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
       "m": "Chess",
       "text": "World Championship: Gukesh v Sindarov game 1 is on Tue 24 Nov at 7:30 pm IST in Geneva.",
       "match": "wcc26-g1",
@@ -1384,83 +1435,9 @@
           "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
         }
       ]
-    },
-    {
-      "t": "15 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Cricket",
-      "text": "India beat New Zealand by 22 runs in the 5th ODI to win the series 3–1 — defending 209 (Axar 46, Kishan 46), Arshdeep took 3-30 as NZ were all out for 187.",
-      "match": "nz-ind-odi-5",
-      "src": [
-        {
-          "t": "ESPNcricinfo – Arshdeep and Co help India defend 209 for 3-1 series win",
-          "u": "https://www.espncricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-odi-1539441/match-report"
-        },
-        {
-          "t": "Hindustan Times – Arshdeep stars with 3 wickets as IND win by 22 runs",
-          "u": "https://www.hindustantimes.com/cricket"
-        },
-        {
-          "t": "Google – 5th ODI result card",
-          "u": "https://www.google.com/search?q=India+vs+New+Zealand+5th+ODI+result"
-        }
-      ]
-    },
-    {
-      "t": "15 Nov",
-      "tag": "GOLD",
-      "c": "var(--gold)",
-      "m": "Badminton",
-      "text": "Lakshya Sen wins the Kumamoto Masters Japan, fighting back to beat Koki Watanabe 13–21, 21–18, 21–14 — his second title in a row.",
-      "match": "kmj26-sen-final",
-      "src": [
-        {
-          "t": "The Tribune (ANI) – Lakshya Sen beats Alwi Farhan to enter final",
-          "u": "https://www.tribuneindia.com/news/sports/japan-masters-lakshya-sen-beats-indonesias-alwi-farhan-to-enter-final/"
-        },
-        {
-          "t": "BWF – Kumamoto Masters 2026 men's singles final (Instagram/YouTube BWF TV)",
-          "u": "https://www.youtube.com/@BWFTV"
-        },
-        {
-          "t": "Google – Lakshya Sen Koki Watanabe Kumamoto final",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Koki+Watanabe+Kumamoto+Masters+final"
-        }
-      ]
-    },
-    {
-      "t": "15 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Football",
-      "text": "India lose 0–3 to New Zealand in the second friendly in Christchurch — eight goals conceded across the two games.",
-      "match": "ind-nz-fr2",
-      "src": [
-        {
-          "t": "Sportstar – Chris Wood scores as India lose to New Zealand in second friendly",
-          "u": "https://sportstar.thehindu.com/football/indian-football/"
-        },
-        {
-          "t": "ESPN – New Zealand dismiss India 3-0 in another one-sided friendly",
-          "u": "https://www.espn.com/football/"
-        },
-        {
-          "t": "Google – New Zealand v India result card",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+football+friendly+Christchurch+result"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "18",
-      "mo": "NOV",
-      "title": "Lakshya Sen v Arnaud Merklé, Hong Kong Open R32",
-      "meta": "Badminton · Hong Kong",
-      "time": "14:00",
-      "match": "hko26-sen-r32"
-    },
     {
       "d": "19",
       "mo": "NOV",
@@ -1484,6 +1461,14 @@
       "meta": "Hockey · Bhopal",
       "time": "19:00",
       "match": "wact26-ind-mas"
+    },
+    {
+      "d": "20",
+      "mo": "NOV",
+      "title": "Lakshya Sen v Loh Kean Yew, Hong Kong Open QF",
+      "meta": "Badminton · Hong Kong",
+      "time": "07:30",
+      "match": "hko26-sen-qf"
     },
     {
       "d": "20",
