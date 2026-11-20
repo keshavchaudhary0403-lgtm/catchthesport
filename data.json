@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-20T09:35:18+05:30",
-  "dayLabel": "Fri 20 Nov · 1st Test: NZ 317/6 at lunch, Day 2 · HK Open QFs",
+  "lastUpdated": "2026-11-20T12:24:02+05:30",
+  "dayLabel": "Fri 20 Nov · 1st Test: India 159/1 trail NZ 368 · Lakshya, Satwik/Chirag in HK Open semis",
   "featured": "nz-ind-test1",
   "matches": [
     {
@@ -316,31 +316,35 @@
       "a": [
         "NZ",
         "New Zealand",
-        "317/6 (108)",
+        "368",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        "Yet to bat"
+        "159/1"
       ],
       "when": "2026-11-19T03:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Basin Reserve, Wellington",
-      "note": "NZ chose to bat. Henry Nicholls is on 146* and Nathan Smith 13*; Glenn Phillips was bowled by Akash Deep for 118 after a 216-run fifth-wicket stand. Bumrah 3/75, Akash Deep 2/45. India yet to bat; score as of the Day 2 lunch report.",
+      "note": "NZ chose to bat and made 368 (121 ov): Henry Nicholls 175*, Glenn Phillips 118; Bumrah 4 wickets, Akash Deep 3. India 159/1 at stumps on Day 2: Yashasvi Jaiswal 85 (lbw Henry on review), KL Rahul 52*, Devdutt Padikkal 16*.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
+          "t": "Outlook India – 1st Test Day 2 highlights: India 159/1 at stumps, trail by 209",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+        },
+        {
           "t": "IANS – 1st Test: Nicholls unbeaten on 146, Phillips hits 118 as NZ reach 317/6",
           "u": "https://ianslive.in/1st-test-nicholls-unbeaten-on-146-phillips-hits-118-as-nz-reach-3176-against-india--20261120062615"
         }
       ],
-      "status": "Day 2 · lunch",
-      "scoreAt": "2026-11-20T06:33:00+05:30"
+      "status": "Day 2 · stumps · India trail by 209",
+      "scoreAt": "2026-11-20T11:19:00+05:30"
     },
     {
       "id": "nz-ind-test2",
@@ -943,6 +947,140 @@
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
       "round": "Men's singles · Quarter-final",
+      "st": "result",
+      "a": [
+        "IND",
+        "Lakshya Sen",
+        "21-17 10-21 21-13"
+      ],
+      "b": [
+        "SGP",
+        "Loh Kean Yew",
+        "17-21 21-10 13-21"
+      ],
+      "when": "2026-11-20T07:30:00+05:30",
+      "india": true,
+      "big": true,
+      "venue": "Hong Kong",
+      "note": "Lakshya beat Singapore's Loh Kean Yew (8th seed, 2021 world champion) in three games to reach the semi-finals.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+        },
+        {
+          "t": "Google – Lakshya Sen v Loh Kean Yew result",
+          "u": "https://www.google.com/search?q=Lakshya+Sen+Loh+Kean+Yew+Hong+Kong+Open+quarterfinal"
+        }
+      ],
+      "win": "a",
+      "day": "20 Nov",
+      "recent": true,
+      "resultAt": "2026-11-20T12:24:02+05:30"
+    },
+    {
+      "id": "hko26-satchi-qf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's doubles · Quarter-final",
+      "st": "result",
+      "a": [
+        "IND",
+        "Satwik / Chirag",
+        "21-12 13-21 21-16"
+      ],
+      "b": [
+        "CHN",
+        "Hu Ke Yuan / Lin Xiang Yi",
+        "12-21 21-13 16-21"
+      ],
+      "when": "2026-11-20",
+      "india": true,
+      "venue": "Hong Kong",
+      "note": "Fifth seeds Satwik/Chirag beat China's Hu Ke Yuan / Lin Xiang Yi in three games to reach the semi-finals.",
+      "src": [
+        {
+          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
+          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
+        },
+        {
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+        }
+      ],
+      "win": "a",
+      "day": "20 Nov",
+      "recent": true,
+      "resultAt": "2026-11-20T12:24:02+05:30"
+    },
+    {
+      "id": "hko26-rakshitha-qf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Women's singles · Quarter-final",
+      "st": "result",
+      "a": [
+        "IND",
+        "Rakshitha Ramraj",
+        "19-21 16-21"
+      ],
+      "b": [
+        "THA",
+        "Pornpawee Chochuwong",
+        "21-19 21-16"
+      ],
+      "when": "2026-11-20",
+      "india": true,
+      "venue": "Hong Kong",
+      "note": "Rakshitha's run, which included a win over Olympic champion Chen Yufei, ends with a straight-games loss to Thailand's Pornpawee Chochuwong.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+        }
+      ],
+      "win": "b",
+      "day": "20 Nov",
+      "recent": true,
+      "resultAt": "2026-11-20T12:24:02+05:30"
+    },
+    {
+      "id": "hko26-srikanth-qf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's singles · Quarter-final",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "Kidambi Srikanth",
+        ""
+      ],
+      "b": [
+        "THA",
+        "Kunlavut Vitidsarn",
+        ""
+      ],
+      "when": "2026-11-20T13:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Kai Tak Arena, Hong Kong",
+      "note": "Srikanth (beat Koki Watanabe and Yoo Tae-bin) faces second seed Kunlavut Vitidsarn for a semi-final place.",
+      "src": [
+        {
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+        },
+        {
+          "t": "Google – Kidambi Srikanth Hong Kong Open quarter-final (1:30 pm IST)",
+          "u": "https://www.google.com/search?q=Kidambi+Srikanth+Hong+Kong+Open+quarterfinal+score"
+        }
+      ]
+    },
+    {
+      "id": "hko26-sen-sf",
+      "sport": "Badminton",
+      "comp": "Hong Kong Open 2026",
+      "round": "Men's singles · Semi-final",
       "st": "upcoming",
       "a": [
         "IND",
@@ -950,27 +1088,27 @@
         ""
       ],
       "b": [
-        "SGP",
-        "Loh Kean Yew",
+        "TBC",
+        "TBC",
         ""
       ],
-      "when": "2026-11-20T07:30:00+05:30",
+      "when": "2026-11-21",
       "india": true,
       "big": true,
-      "venue": "Hong Kong",
-      "note": "Lakshya v Singapore's Loh Kean Yew (8th seed, 2021 world champion) for a semi-final place. Listed for 7:30 am IST; result not yet found.",
+      "venue": "Kai Tak Arena, Hong Kong",
+      "note": "Opponent to be decided from the remaining quarter-finals. Time to be confirmed.",
       "src": [
         {
-          "t": "Google – Lakshya Sen Hong Kong Open schedule",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
         }
       ]
     },
     {
-      "id": "hko26-satchi-qf",
+      "id": "hko26-satchi-sf",
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
-      "round": "Men's doubles · Quarter-final",
+      "round": "Men's doubles · Semi-final",
       "st": "upcoming",
       "a": [
         "IND",
@@ -978,45 +1116,19 @@
         ""
       ],
       "b": [
-        "CHN",
-        "Hu Ke Yuan / Lin Xiang Yi",
+        "TBC",
+        "TBC",
         ""
       ],
-      "when": "2026-11-20",
+      "when": "2026-11-21",
       "india": true,
-      "venue": "Hong Kong",
-      "note": "Fifth seeds Satwik/Chirag face China's Hu Ke Yuan / Lin Xiang Yi for a semi-final place. Time to be confirmed.",
+      "big": true,
+      "venue": "Kai Tak Arena, Hong Kong",
+      "note": "Opponents: winners of Lundgaard/Vestergaard (DEN) v Man Wei Chong/Tee Kai Wun (MAS). Time to be confirmed.",
       "src": [
         {
-          "t": "ThePrint/PTI – Satwik-Chirag enter Hong Kong Open quarterfinals",
-          "u": "https://theprint.in/sport/satwik-chirag-enter-hong-kong-open-quarterfinals-rakshitha-stuns-olympic-champion/3102898/"
-        }
-      ]
-    },
-    {
-      "id": "hko26-rakshitha-qf",
-      "sport": "Badminton",
-      "comp": "Hong Kong Open 2026",
-      "round": "Women's singles · Quarter-final",
-      "st": "upcoming",
-      "a": [
-        "IND",
-        "Rakshitha Ramraj",
-        ""
-      ],
-      "b": [
-        "THA",
-        "Pornpawee Chochuwong",
-        ""
-      ],
-      "when": "2026-11-20",
-      "india": true,
-      "venue": "Hong Kong",
-      "note": "Rakshitha Ramraj (world No. 47) faces Thailand's Pornpawee Chochuwong for a semi-final place. Time to be confirmed.",
-      "src": [
-        {
-          "t": "myKhel – Rakshitha Ramraj stuns Olympic champion Chen Yu Fei",
-          "u": "https://www.mykhel.com/badminton/rakshitha-ramraj-stuns-olympic-champion-chen-yu-fei-459497.html"
+          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
+          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
         }
       ]
     }
@@ -1030,8 +1142,12 @@
       "status": "Live · 1st Test, Wellington · 2nd Test from 27 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Basin Reserve, 19–23 Nov): NZ 317/6 at Day 2 lunch (Nicholls 146*). 2nd Test in Christchurch from 27 Nov.",
+      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Basin Reserve, 19–23 Nov): NZ 368 (Nicholls 175*), India 159/1 at stumps on Day 2. 2nd Test in Christchurch from 27 Nov.",
       "src": [
+        {
+          "t": "Outlook India – 1st Test Day 2 highlights: India 159/1 at stumps, trail by 209",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+        },
         {
           "t": "Olympics.com – Indian cricket team schedule 2026",
           "u": "https://www.olympics.com/en/news/"
@@ -1070,19 +1186,19 @@
       "id": "hko-2026",
       "sport": "Badminton",
       "name": "Hong Kong Open 2026 (Super 500)",
-      "status": "Live · 17–22 Nov",
+      "status": "Live · semis 21 Nov · final 22 Nov",
       "live": true,
       "india": true,
       "comp": "Hong Kong Open 2026",
-      "note": "Last qualifying event for the World Tour Finals. Quarter-finals on 20 Nov: Lakshya v Loh Kean Yew, Satwik/Chirag v Hu/Lin (CHN), Rakshitha v Chochuwong (THA).",
+      "note": "Last qualifying event for the World Tour Finals. Lakshya Sen and Satwik/Chirag reached the semi-finals (21 Nov); Rakshitha lost her QF to Chochuwong; Srikanth v Kunlavut QF at 1:30 pm IST, 20 Nov.",
       "src": [
         {
-          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
-          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
         },
         {
-          "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
-          "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
+          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
+          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
         }
       ]
     },
@@ -1286,6 +1402,62 @@
   ],
   "feed": [
     {
+      "t": "20 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Lakshya Sen beats Loh Kean Yew 21–17, 10–21, 21–13 to reach the Hong Kong Open semi-finals.",
+      "match": "hko26-sen-qf",
+      "src": [
+        {
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Badminton",
+      "text": "Satwik/Chirag beat China's Hu Ke Yuan/Lin Xiang Yi 21–12, 13–21, 21–16 to make the Hong Kong Open semi-finals.",
+      "match": "hko26-satchi-qf",
+      "src": [
+        {
+          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
+          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Rakshitha Ramraj's Hong Kong Open run ends: she loses 19–21, 16–21 to Thailand's Pornpawee Chochuwong in the quarter-finals.",
+      "match": "hko26-rakshitha-qf",
+      "src": [
+        {
+          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
+          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "1st Test, Day 2: NZ all out for 368 (Nicholls 175*, Bumrah 4 wickets); Jaiswal 85 and Rahul 52* take India to 159/1 at stumps, 209 behind.",
+      "match": "nz-ind-test1",
+      "src": [
+        {
+          "t": "Outlook India – 1st Test Day 2 highlights: India 159/1 at stumps, trail by 209",
+          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+        }
+      ]
+    },
+    {
       "t": "19 Nov",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1314,20 +1486,6 @@
         {
           "t": "The Bridge/PTI – India beat Malaysia 4-1 to begin title defence",
           "u": "https://thebridge.in/hockey/india-beat-malaysia-womens-asian-champions-trophy-2026-58430"
-        }
-      ]
-    },
-    {
-      "t": "20 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "1st Test, Day 2: Nicholls (146*) leads NZ to 317/6 at lunch after Akash Deep bowled Phillips for 118; Bumrah has 3/75.",
-      "match": "nz-ind-test1",
-      "src": [
-        {
-          "t": "IANS – 1st Test: Nicholls unbeaten on 146, Phillips hits 118 as NZ reach 317/6",
-          "u": "https://ianslive.in/1st-test-nicholls-unbeaten-on-146-phillips-hits-118-as-nz-reach-3176-against-india--20261120062615"
         }
       ]
     },
@@ -1467,42 +1625,16 @@
           "u": "https://sportstar.thehindu.com/badminton/"
         }
       ]
-    },
-    {
-      "t": "16 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Chess",
-      "text": "World Championship: Gukesh v Sindarov game 1 is on Tue 24 Nov at 7:30 pm IST in Geneva.",
-      "match": "wcc26-g1",
-      "src": [
-        {
-          "t": "World Chess – Gukesh vs Sindarov: everything you need to know",
-          "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know"
-        },
-        {
-          "t": "Wikipedia – World Chess Championship 2026",
-          "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
-        }
-      ]
     }
   ],
   "schedule": [
     {
       "d": "20",
       "mo": "NOV",
-      "title": "New Zealand v India, 1st Test (Day 2)",
-      "meta": "Cricket · Wellington",
-      "time": "03:30",
-      "match": "nz-ind-test1"
-    },
-    {
-      "d": "20",
-      "mo": "NOV",
-      "title": "Lakshya Sen v Loh Kean Yew, Hong Kong Open QF",
+      "title": "Kidambi Srikanth v Kunlavut Vitidsarn, Hong Kong Open QF",
       "meta": "Badminton · Hong Kong",
-      "time": "07:30",
-      "match": "hko26-sen-qf"
+      "time": "13:30",
+      "match": "hko26-srikanth-qf"
     },
     {
       "d": "20",
@@ -1515,10 +1647,34 @@
     {
       "d": "21",
       "mo": "NOV",
+      "title": "New Zealand v India, 1st Test (Day 3)",
+      "meta": "Cricket · Wellington",
+      "time": "03:30",
+      "match": "nz-ind-test1"
+    },
+    {
+      "d": "21",
+      "mo": "NOV",
       "title": "New Zealand v India, 2nd hockey Test",
       "meta": "Hockey · Auckland",
       "time": "08:30",
       "match": "hk-nz-ind-t2"
+    },
+    {
+      "d": "21",
+      "mo": "NOV",
+      "title": "Lakshya Sen, Hong Kong Open semi-final",
+      "meta": "Badminton · Hong Kong",
+      "time": "TBC",
+      "match": "hko26-sen-sf"
+    },
+    {
+      "d": "21",
+      "mo": "NOV",
+      "title": "Satwik / Chirag, Hong Kong Open semi-final",
+      "meta": "Badminton · Hong Kong",
+      "time": "TBC",
+      "match": "hko26-satchi-sf"
     },
     {
       "d": "21",
