@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-19T12:23:17+05:30",
-  "dayLabel": "Thu 19 Nov · 1st Test: NZ 243/5 · Lakshya v Loh Fri 7:30 am",
+  "lastUpdated": "2026-11-20T09:35:18+05:30",
+  "dayLabel": "Fri 20 Nov · 1st Test: NZ 317/6 at lunch, Day 2 · HK Open QFs",
   "featured": "nz-ind-test1",
   "matches": [
     {
@@ -8,32 +8,32 @@
       "sport": "Hockey",
       "comp": "Women's Asian Champions Trophy 2026",
       "round": "Round robin · India game 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "4"
       ],
       "b": [
         "MAS",
         "Malaysia",
-        ""
+        "1"
       ],
       "when": "2026-11-19T19:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "India came from 1-1 at half-time: Mumtaz Khan equalised after Nuramirah Zulkifli's 19' opener, then Salima Tete (35'), debutant Puja Sahoo (39', Player of the Match) and Lalremsiami (49') scored. Next: South Korea, 21 Nov.",
       "src": [
         {
-          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
-          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
-        },
-        {
-          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
-          "u": "https://www.hockeyindia.org/international-tournaments"
+          "t": "The Bridge/PTI – India beat Malaysia 4-1 to begin title defence",
+          "u": "https://thebridge.in/hockey/india-beat-malaysia-womens-asian-champions-trophy-2026-58430"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "19 Nov",
+      "recent": true,
+      "resultAt": "2026-11-20T09:34:47+05:30"
     },
     {
       "id": "wact26-ind-kor",
@@ -55,7 +55,7 @@
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -87,7 +87,7 @@
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -119,7 +119,7 @@
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -151,7 +151,7 @@
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin; top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -168,33 +168,37 @@
       "sport": "Hockey",
       "comp": "Indian Centenary Hockey Series",
       "round": "1st Test",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "2",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "3"
       ],
       "when": "2026-11-19T11:00:00+05:30",
       "india": true,
       "big": true,
       "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
-      "note": "Indian Centenary Hockey Series marking 100 years since India's first hockey tour of New Zealand (1926, with Dhyan Chand). Young India squad led by Sanjay, coached by Craig Fulton. Broadcaster in India not yet confirmed. Push-back 6:30 pm local time.",
+      "note": "India held off a late New Zealand charge to win the opening Test of the Indian Centenary Hockey Series 3–2 in Auckland. 2nd Test 21 Nov.",
       "src": [
         {
-          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
-          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+          "t": "RNZ – India hold off Black Sticks to win opening hockey test in centenary series",
+          "u": "https://www.rnz.co.nz/news/indonz/2690098/india-hold-off-black-sticks-to-win-opening-hockey-test-in-centenary-series"
         },
         {
-          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
-          "u": "https://www.hockeynz.co.nz/"
+          "t": "IndiaSportsHub – India begin New Zealand tour with 3-2 win over Vantage Black Sticks",
+          "u": "https://www.indiasportshub.com/articles/india-begin-new-zealand-tour-with-3-2-win-over-vantage-black-sticks"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "19 Nov",
+      "recent": true,
+      "resultAt": "2026-11-20T09:35:18+05:30"
     },
     {
       "id": "hk-nz-ind-t2",
@@ -312,7 +316,7 @@
       "a": [
         "NZ",
         "New Zealand",
-        "243/5 (82)",
+        "317/6 (108)",
         "#111827"
       ],
       "b": [
@@ -324,19 +328,19 @@
       "india": true,
       "big": true,
       "venue": "Basin Reserve, Wellington",
-      "note": "NZ chose to bat. India had them 70/5, but Henry Nicholls (113*) and Glenn Phillips (94*) added an unbroken 173 and India went wicketless in the final session. Day 2 starts 3:30 am IST.",
+      "note": "NZ chose to bat. Henry Nicholls is on 146* and Nathan Smith 13*; Glenn Phillips was bowled by Akash Deep for 118 after a 216-run fifth-wicket stand. Bumrah 3/75, Akash Deep 2/45. India yet to bat; score as of the Day 2 lunch report.",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Google – NZ v India 1st Test score (Times of India, NDTV, Indian Express, Cricbuzz)",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+1st+Test+score"
+          "t": "IANS – 1st Test: Nicholls unbeaten on 146, Phillips hits 118 as NZ reach 317/6",
+          "u": "https://ianslive.in/1st-test-nicholls-unbeaten-on-146-phillips-hits-118-as-nz-reach-3176-against-india--20261120062615"
         }
       ],
-      "status": "Stumps, Day 1",
-      "scoreAt": "2026-11-19T12:23:17+05:30"
+      "status": "Day 2 · lunch",
+      "scoreAt": "2026-11-20T06:33:00+05:30"
     },
     {
       "id": "nz-ind-test2",
@@ -954,7 +958,7 @@
       "india": true,
       "big": true,
       "venue": "Hong Kong",
-      "note": "Lakshya v Singapore's Loh Kean Yew for a semi-final place. Time as listed on Google's tournament card.",
+      "note": "Lakshya v Singapore's Loh Kean Yew (8th seed, 2021 world champion) for a semi-final place. Listed for 7:30 am IST; result not yet found.",
       "src": [
         {
           "t": "Google – Lakshya Sen Hong Kong Open schedule",
@@ -974,18 +978,18 @@
         ""
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "CHN",
+        "Hu Ke Yuan / Lin Xiang Yi",
         ""
       ],
       "when": "2026-11-20",
       "india": true,
       "venue": "Hong Kong",
-      "note": "Opponent and time to be confirmed.",
+      "note": "Fifth seeds Satwik/Chirag face China's Hu Ke Yuan / Lin Xiang Yi for a semi-final place. Time to be confirmed.",
       "src": [
         {
-          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
-          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
+          "t": "ThePrint/PTI – Satwik-Chirag enter Hong Kong Open quarterfinals",
+          "u": "https://theprint.in/sport/satwik-chirag-enter-hong-kong-open-quarterfinals-rakshitha-stuns-olympic-champion/3102898/"
         }
       ]
     },
@@ -1001,18 +1005,18 @@
         ""
       ],
       "b": [
-        "TBC",
-        "TBC",
+        "THA",
+        "Pornpawee Chochuwong",
         ""
       ],
       "when": "2026-11-20",
       "india": true,
       "venue": "Hong Kong",
-      "note": "Opponent and time to be confirmed.",
+      "note": "Rakshitha Ramraj (world No. 47) faces Thailand's Pornpawee Chochuwong for a semi-final place. Time to be confirmed.",
       "src": [
         {
-          "t": "Google – Rakshitha into Hong Kong Open quarter-finals",
-          "u": "https://www.google.com/search?q=Rakshita+Ramraj+stuns+Chen+Yufei+quarterfinals+Hong+Kong+Open"
+          "t": "myKhel – Rakshitha Ramraj stuns Olympic champion Chen Yu Fei",
+          "u": "https://www.mykhel.com/badminton/rakshitha-ramraj-stuns-olympic-champion-chen-yu-fei-459497.html"
         }
       ]
     }
@@ -1026,7 +1030,7 @@
       "status": "Live · 1st Test, Wellington · 2nd Test from 27 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Basin Reserve, 19–23 Nov): NZ 243/5 at stumps on Day 1. 2nd Test in Christchurch from 27 Nov.",
+      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Basin Reserve, 19–23 Nov): NZ 317/6 at Day 2 lunch (Nicholls 146*). 2nd Test in Christchurch from 27 Nov.",
       "src": [
         {
           "t": "Olympics.com – Indian cricket team schedule 2026",
@@ -1070,7 +1074,7 @@
       "live": true,
       "india": true,
       "comp": "Hong Kong Open 2026",
-      "note": "Last qualifying event for the World Tour Finals. Lakshya (beat Merklé and Gemke), Satwik/Chirag and Rakshitha Ramraj (stunned Chen Yufei) are in the quarter-finals on 20 Nov.",
+      "note": "Last qualifying event for the World Tour Finals. Quarter-finals on 20 Nov: Lakshya v Loh Kean Yew, Satwik/Chirag v Hu/Lin (CHN), Rakshitha v Chochuwong (THA).",
       "src": [
         {
           "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
@@ -1107,10 +1111,10 @@
       "sport": "Hockey",
       "name": "Women's Asian Champions Trophy 2026",
       "comp": "Women's Asian Champions Trophy 2026",
-      "status": "Starts 19 Nov · Bhopal · till 28 Nov",
-      "live": false,
+      "status": "Live · Bhopal · till 28 Nov",
+      "live": true,
       "india": true,
-      "note": "Six teams in Bhopal; hosts India are two-time defending champions. India open v Malaysia on 19 Nov (7 pm IST). Savita left out, Bansari Solanki in.",
+      "note": "Six teams in Bhopal; hosts India are two-time defending champions. India beat Malaysia 4–1 on 19 Nov; next v South Korea 21 Nov (7 pm IST). Also: China 7–0 Thailand, Japan 1–0 Korea.",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -1131,10 +1135,10 @@
       "sport": "Hockey",
       "name": "Indian Centenary Hockey Series (men, v New Zealand)",
       "comp": "Indian Centenary Hockey Series",
-      "status": "Starts 19 Nov · Auckland · till 22 Nov",
-      "live": false,
+      "status": "Live · Auckland · till 22 Nov",
+      "live": true,
       "india": true,
-      "note": "Three men's Tests v New Zealand on 19, 21 and 22 Nov at Lloyd Elsmore Hockey Stadium, Auckland; young squad led by Sanjay.",
+      "note": "Three men's Tests v New Zealand (19, 21, 22 Nov) in Auckland; India won the 1st 3–2. Young squad led by Sanjay.",
       "src": [
         {
           "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
@@ -1281,6 +1285,52 @@
     }
   ],
   "feed": [
+    {
+      "t": "19 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "India men beat New Zealand 3–2 in the first Test of the Centenary Series in Auckland, surviving a late scare.",
+      "match": "hk-nz-ind-t1",
+      "src": [
+        {
+          "t": "RNZ – India hold off Black Sticks to win opening hockey test in centenary series",
+          "u": "https://www.rnz.co.nz/news/indonz/2690098/india-hold-off-black-sticks-to-win-opening-hockey-test-in-centenary-series"
+        },
+        {
+          "t": "IndiaSportsHub – India begin New Zealand tour with 3-2 win over Vantage Black Sticks",
+          "u": "https://www.indiasportshub.com/articles/india-begin-new-zealand-tour-with-3-2-win-over-vantage-black-sticks"
+        }
+      ]
+    },
+    {
+      "t": "19 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "Women's Asian Champions Trophy: defending champions India beat Malaysia 4–1 in Bhopal; Salima Tete, Puja Sahoo (on debut) and Lalremsiami scored after Mumtaz Khan's equaliser.",
+      "match": "wact26-ind-mas",
+      "src": [
+        {
+          "t": "The Bridge/PTI – India beat Malaysia 4-1 to begin title defence",
+          "u": "https://thebridge.in/hockey/india-beat-malaysia-womens-asian-champions-trophy-2026-58430"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "1st Test, Day 2: Nicholls (146*) leads NZ to 317/6 at lunch after Akash Deep bowled Phillips for 118; Bumrah has 3/75.",
+      "match": "nz-ind-test1",
+      "src": [
+        {
+          "t": "IANS – 1st Test: Nicholls unbeaten on 146, Phillips hits 118 as NZ reach 317/6",
+          "u": "https://ianslive.in/1st-test-nicholls-unbeaten-on-146-phillips-hits-118-as-nz-reach-3176-against-india--20261120062615"
+        }
+      ]
+    },
     {
       "t": "19 Nov",
       "tag": "WIN",
@@ -1439,28 +1489,12 @@
   ],
   "schedule": [
     {
-      "d": "19",
+      "d": "20",
       "mo": "NOV",
-      "title": "New Zealand v India, 1st Test",
+      "title": "New Zealand v India, 1st Test (Day 2)",
       "meta": "Cricket · Wellington",
       "time": "03:30",
       "match": "nz-ind-test1"
-    },
-    {
-      "d": "19",
-      "mo": "NOV",
-      "title": "New Zealand v India, 1st hockey Test",
-      "meta": "Hockey · Auckland",
-      "time": "11:00",
-      "match": "hk-nz-ind-t1"
-    },
-    {
-      "d": "19",
-      "mo": "NOV",
-      "title": "India v Malaysia, Women's Asian Champions Trophy",
-      "meta": "Hockey · Bhopal",
-      "time": "19:00",
-      "match": "wact26-ind-mas"
     },
     {
       "d": "20",
