@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-20T12:24:02+05:30",
-  "dayLabel": "Fri 20 Nov · 1st Test: India 159/1 trail NZ 368 · Lakshya, Satwik/Chirag in HK Open semis",
+  "lastUpdated": "2026-11-22T23:23:03+05:30",
+  "dayLabel": "Sun 22 Nov · 1st Test Day 5 next: NZ 119/2, trail India's 720/9d by 233 · India women 3/3 in Bhopal",
   "featured": "nz-ind-test1",
   "matches": [
     {
@@ -40,64 +40,72 @@
       "sport": "Hockey",
       "comp": "Women's Asian Champions Trophy 2026",
       "round": "Round robin · India game 2",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "2"
       ],
       "b": [
         "KOR",
         "South Korea",
-        ""
+        "1"
       ],
       "when": "2026-11-21T19:00:00+05:30",
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "Mumtaz Khan (30') and Sunelita Toppo (34', PC) scored before Hong Young-eun pulled one back (56'). Navneet Kaur Player of the Match. Second straight win.",
       "src": [
         {
-          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
-          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+          "t": "Hockey India – India edge past South Korea 2–1 to register second consecutive win",
+          "u": "https://www.hockeyindia.org/news"
         },
         {
-          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
-          "u": "https://www.hockeyindia.org/international-tournaments"
+          "t": "Olympics.com – India beat South Korea 2-1 for second straight win",
+          "u": "https://www.olympics.com/en/news/"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "21 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "wact26-ind-tha",
       "sport": "Hockey",
       "comp": "Women's Asian Champions Trophy 2026",
       "round": "Round robin · India game 3",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India",
-        ""
+        "7"
       ],
       "b": [
         "THA",
         "Thailand",
-        ""
+        "0"
       ],
-      "when": "2026-11-22T19:00:00+05:30",
+      "when": "2026-11-22T17:15:00+05:30",
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "Third win in three: India beat Thailand 7-0 in Bhopal. Next: China on 24 Nov.",
       "src": [
         {
-          "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
-          "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+          "t": "FIH – Women's Asian Champions Trophy Bhopal 2026: Thailand 0-7 India (final)",
+          "u": "https://www.fih.hockey/"
         },
         {
-          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
-          "u": "https://www.hockeyindia.org/international-tournaments"
+          "t": "Google – India vs Thailand Women's Asian Champions Trophy result",
+          "u": "https://www.google.com/search?q=Women's+Asian+Champions+Trophy+India+vs+Thailand+result+22+November"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "22 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "wact26-ind-chn",
@@ -115,11 +123,11 @@
         "China",
         ""
       ],
-      "when": "2026-11-24T19:00:00+05:30",
+      "when": "2026-11-24",
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "India have won all three games (4-1 Malaysia, 2-1 Korea, 7-0 Thailand). Top four reach the semi-finals (27 Nov), final 28 Nov. Start time to be confirmed (the Thailand game moved to 5:15 pm).",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -147,11 +155,11 @@
         "Japan",
         ""
       ],
-      "when": "2026-11-25T19:00:00+05:30",
+      "when": "2026-11-25",
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "Hosts and defending champions India in the six-team round robin (opened with a 4-1 win over Malaysia); top four reach the semi-finals (27 Nov), final 28 Nov.",
+      "note": "India have won all three games (4-1 Malaysia, 2-1 Korea, 7-0 Thailand). Top four reach the semi-finals (27 Nov), final 28 Nov. Start time to be confirmed (the Thailand game moved to 5:15 pm).",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -205,107 +213,72 @@
       "sport": "Hockey",
       "comp": "Indian Centenary Hockey Series",
       "round": "2nd Test",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "2",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "2"
       ],
       "when": "2026-11-21T08:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
-      "note": "Indian Centenary Hockey Series marking 100 years since India's first hockey tour of New Zealand (1926, with Dhyan Chand). Young India squad led by Sanjay, coached by Craig Fulton. Broadcaster in India not yet confirmed. Push-back 4 pm local time.",
+      "note": "2-2 draw: Angad Singh and captain Sanjay (late strike) scored for India.",
       "src": [
         {
-          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
-          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+          "t": "Sportstar – India draws 2-2 with New Zealand in second hockey test of centenary series",
+          "u": "https://sportstar.thehindu.com/hockey/"
         },
         {
-          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
-          "u": "https://www.hockeynz.co.nz/"
+          "t": "Olympics.com – Sanjay Rana's late strike helps India clinch a draw",
+          "u": "https://www.olympics.com/en/news/"
         }
-      ]
+      ],
+      "day": "21 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "hk-nz-ind-t3",
       "sport": "Hockey",
       "comp": "Indian Centenary Hockey Series",
       "round": "3rd Test",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "NZ",
         "New Zealand",
-        "",
+        "2",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        ""
+        "2"
       ],
       "when": "2026-11-22T08:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
-      "note": "Indian Centenary Hockey Series marking 100 years since India's first hockey tour of New Zealand (1926, with Dhyan Chand). Young India squad led by Sanjay, coached by Craig Fulton. Broadcaster in India not yet confirmed. Push-back 4 pm local time.",
+      "note": "Another 2-2 draw; India win the three-match Centenary Series 1-0. Sanjay was India's top scorer in the series (3 goals).",
       "src": [
         {
-          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
-          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
+          "t": "Sportstar – India seals hockey Test series 1-0 vs New Zealand, draws 2-2 in final match",
+          "u": "https://sportstar.thehindu.com/hockey/"
         },
         {
-          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
-          "u": "https://www.hockeynz.co.nz/"
-        }
-      ]
-    },
-    {
-      "id": "saff-final-ind",
-      "sport": "Football",
-      "comp": "SAFF Championship 2026",
-      "round": "Final",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "2"
-      ],
-      "b": [
-        "PAK",
-        "Pakistan",
-        "1"
-      ],
-      "when": "2026-11-17T19:30:00+05:30",
-      "india": true,
-      "big": true,
-      "gold": true,
-      "note": "India came from behind for a record 10th SAFF title (third in a row): Alamgir Ghazi put Pakistan ahead at 45+1', Junaid Shah was sent off after a VAR review, Suhail Ahmad Bhat equalised and Sandip Mandi headed a late winner (Player of the Match).",
-      "src": [
-        {
-          "t": "ESPN India – India beat Pakistan 2-1 to win 10th SAFF Championship title",
-          "u": "https://www.espn.in/football/"
-        },
-        {
-          "t": "Al Jazeera – India 2-1 Pakistan: SAFF Championship final",
-          "u": "https://www.aljazeera.com/sports/"
-        },
-        {
-          "t": "Google – India v Pakistan SAFF final result",
-          "u": "https://www.google.com/search?q=India+vs+Pakistan+SAFF+Championship+final+result"
+          "t": "Wikipedia – Indian Centenary Hockey Series",
+          "u": "https://en.wikipedia.org/wiki/Indian_Centenary_Hockey_Series"
         }
       ],
-      "venue": "National Stadium, Dhaka",
-      "win": "a",
-      "day": "17 Nov",
+      "day": "22 Nov",
       "recent": true,
-      "resultAt": "2026-11-17T23:34:51+05:30"
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "nz-ind-test1",
@@ -316,35 +289,43 @@
       "a": [
         "NZ",
         "New Zealand",
-        "368",
+        "368 & 119/2",
         "#111827"
       ],
       "b": [
         "IND",
         "India",
-        "159/1"
+        "720/9d"
       ],
       "when": "2026-11-19T03:30:00+05:30",
       "india": true,
       "big": true,
       "venue": "Basin Reserve, Wellington",
-      "note": "NZ chose to bat and made 368 (121 ov): Henry Nicholls 175*, Glenn Phillips 118; Bumrah 4 wickets, Akash Deep 3. India 159/1 at stumps on Day 2: Yashasvi Jaiswal 85 (lbw Henry on review), KL Rahul 52*, Devdutt Padikkal 16*.",
+      "note": "NZ 368 (Nicholls 175*, Phillips 118; Bumrah 4 wkts). India declared on 720/9, their highest Test total in New Zealand: KL Rahul 136, Rishabh Pant 128, Jaiswal 85, Dhruv Jurel 78. Lead 352. NZ 119/2 at stumps on Day 4 (Conway 59*); India need 8 wickets on Day 5 (from 3:30 am IST, 23 Nov).",
       "watch": [
         "Sony Sports Network",
         "SonyLIV"
       ],
       "src": [
         {
-          "t": "Outlook India – 1st Test Day 2 highlights: India 159/1 at stumps, trail by 209",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+          "t": "NDTV Sports – 1st Test Day 4: NZ 119/2 at stumps, trail India by 233",
+          "u": "https://sports.ndtv.com/cricket"
         },
         {
-          "t": "IANS – 1st Test: Nicholls unbeaten on 146, Phillips hits 118 as NZ reach 317/6",
-          "u": "https://ianslive.in/1st-test-nicholls-unbeaten-on-146-phillips-hits-118-as-nz-reach-3176-against-india--20261120062615"
+          "t": "Cricbuzz – Conway keeps New Zealand afloat after Pant's ton powers India to record 720",
+          "u": "https://www.cricbuzz.com/cricket-news"
+        },
+        {
+          "t": "Indian Express – 720/9: India record highest-ever Test score in New Zealand",
+          "u": "https://indianexpress.com/section/sports/cricket/"
+        },
+        {
+          "t": "Google – New Zealand vs India 1st Test score",
+          "u": "https://www.google.com/search?q=New+Zealand+vs+India+1st+Test+score"
         }
       ],
-      "status": "Day 2 · stumps · India trail by 209",
-      "scoreAt": "2026-11-20T11:19:00+05:30"
+      "status": "Day 4 stumps · NZ trail by 233",
+      "scoreAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "nz-ind-test2",
@@ -388,28 +369,28 @@
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Phase 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "EBFC",
         "East Bengal",
-        "",
+        "2",
         "#C8102E"
       ],
       "b": [
         "SCD",
         "SC Delhi",
-        "",
+        "2",
         "#1D4ED8"
       ],
       "when": "2026-11-20T17:00:00+05:30",
       "india": true,
       "big": false,
       "venue": "VYBK, Kolkata",
-      "note": "ISL resumes after the international break.",
+      "note": "Edmund Lalrindika (40') and Aké Loba (83') for East Bengal; Carlos Fortes (31' pen) and Ashutosh Mehta (67') for SC Delhi.",
       "src": [
         {
-          "t": "ESPN India – Indian Super League fixtures",
-          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+          "t": "Google – East Bengal vs SC Delhi (ISL match card)",
+          "u": "https://www.google.com/search?q=East+Bengal+vs+SC+Delhi+ISL"
         },
         {
           "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
@@ -423,35 +404,38 @@
           "n": "YouTube – ISL",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "day": "20 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "isl-bfc-mcfc",
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Phase 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "BFC",
         "Bengaluru FC",
-        "",
+        "2",
         "#1E3A8A"
       ],
       "b": [
         "MCFC",
         "Mumbai City",
-        "",
+        "0",
         "#38BDF8"
       ],
       "when": "2026-11-20T19:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Sree Kanteerava Stadium, Bengaluru",
-      "note": "ISL resumes after the international break.",
+      "note": "Borja Martínez (57' pen) and Ryan Williams (85') keep Bengaluru unbeaten.",
       "src": [
         {
-          "t": "ESPN India – Indian Super League fixtures",
-          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+          "t": "Google – Bengaluru FC vs Mumbai City (ISL match card)",
+          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Mumbai+City+ISL"
         },
         {
           "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
@@ -465,35 +449,39 @@
           "n": "YouTube – ISL",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "a",
+      "day": "20 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "isl-cfc-pfc",
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Phase 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "CFC",
         "Chennaiyin",
-        "",
+        "1",
         "#1D4ED8"
       ],
       "b": [
         "PFC",
         "Punjab FC",
-        "",
+        "1",
         "#B91C1C"
       ],
       "when": "2026-11-21T17:00:00+05:30",
       "india": true,
       "big": false,
       "venue": "JLN Stadium, Chennai",
-      "note": "ISL resumes after the international break.",
+      "note": "Raphaël Messi Bouli scored for Punjab (41') after a Nikhil Prabhu own goal (13') put Chennaiyin ahead. Fans paid tribute to co-owner MS Dhoni in the 7th minute.",
       "src": [
         {
-          "t": "ESPN India – Indian Super League fixtures",
-          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+          "t": "Google – Chennaiyin vs Punjab FC (ISL match card)",
+          "u": "https://www.google.com/search?q=Chennaiyin+vs+Punjab+FC+ISL"
         },
         {
           "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
@@ -507,35 +495,38 @@
           "n": "YouTube – ISL",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "day": "21 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "isl-neu-fcg",
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Phase 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "NEU",
         "NorthEast United",
-        "",
+        "0",
         "#111827"
       ],
       "b": [
         "FCG",
         "FC Goa",
-        "",
+        "1",
         "#EA580C"
       ],
       "when": "2026-11-21T19:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Indira Gandhi Stadium, Guwahati",
-      "note": "ISL resumes after the international break.",
+      "note": "Muhammed Nemil scored in the first minute to end NorthEast United's unbeaten run.",
       "src": [
         {
-          "t": "ESPN India – Indian Super League fixtures",
-          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+          "t": "Google – NorthEast United vs FC Goa (ISL match card)",
+          "u": "https://www.google.com/search?q=NorthEast+United+vs+FC+Goa+ISL"
         },
         {
           "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
@@ -549,35 +540,39 @@
           "n": "YouTube – ISL",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "21 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "isl-chu-mbsg",
       "sport": "Football",
       "comp": "Indian Super League",
       "round": "Phase 1",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "CHU",
         "Churchill Brothers",
-        "",
+        "1",
         "#B91C1C"
       ],
       "b": [
         "MBSG",
         "Mohun Bagan",
-        "",
+        "2",
         "#065F46"
       ],
       "when": "2026-11-22T19:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Fatorda, Goa",
-      "note": "ISL resumes after the international break.",
+      "note": "Lallianzuala Chhangte (27') and Anirudh Thapa (62') scored; Sebastián Gutiérrez's 85th-minute penalty came too late. Mohun Bagan stay top on 15 points.",
       "src": [
         {
-          "t": "ESPN India – Indian Super League fixtures",
-          "u": "https://www.espn.in/football/fixtures/_/league/ind.1"
+          "t": "Google – Churchill Brothers vs Mohun Bagan (ISL match card)",
+          "u": "https://www.google.com/search?q=Churchill+Brothers+vs+Mohun+Bagan+ISL"
         },
         {
           "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
@@ -591,7 +586,11 @@
           "n": "YouTube – ISL",
           "u": "https://www.youtube.com/@IndianSuperLeague/streams"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "22 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "isl-neu-scd",
@@ -677,142 +676,38 @@
       ]
     },
     {
-      "id": "u17q-pal-ind",
-      "sport": "Football",
-      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
-      "round": "Group E",
-      "st": "result",
-      "a": [
-        "PLE",
-        "Palestine U17",
-        "1"
-      ],
-      "b": [
-        "IND",
-        "India U17",
-        "4"
-      ],
-      "when": "2026-11-17T13:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Kuala Lumpur Football Stadium",
-      "note": "Rain-hit win over 10-man Palestine (red card 10'): Kamgouhao Doungel, Mukundo Singh, captain Dallalmuon Gangte and Zoramdinthara Lalhunmawia scored. India top Group E and need a draw v Malaysia on 20 Nov to qualify.",
-      "src": [
-        {
-          "t": "AFC – Qualifiers Group E: Palestine 1-4 India",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html"
-        },
-        {
-          "t": "Sportstar – India beats 10-man Palestine in rain-hit match",
-          "u": "https://sportstar.thehindu.com/football/"
-        },
-        {
-          "t": "Google – India U17 v Palestine result",
-          "u": "https://www.google.com/search?q=India+U17+vs+Palestine+AFC+U17+Asian+Cup+qualifiers+result"
-        }
-      ],
-      "win": "b",
-      "day": "17 Nov",
-      "recent": true,
-      "resultAt": "2026-11-17T23:34:51+05:30"
-    },
-    {
       "id": "u17q-ind-mas",
       "sport": "Football",
       "comp": "AFC U17 Asian Cup 2027 Qualifiers",
       "round": "Group E",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "India U17",
-        ""
+        "0"
       ],
       "b": [
         "MAS",
         "Malaysia U17",
-        ""
+        "0"
       ],
       "when": "2026-11-20T18:30:00+05:30",
       "india": true,
       "venue": "Kuala Lumpur Football Stadium",
-      "note": "Group decider: India top Group E and need only a draw against hosts Malaysia to reach the AFC U17 Asian Cup 2027 finals in Uzbekistan.",
+      "note": "Goalless draw with hosts Malaysia was enough: India top Group E with 10 points and qualify for the AFC U17 Asian Cup 2027 finals in Uzbekistan.",
       "src": [
         {
-          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
-          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
-        }
-      ]
-    },
-    {
-      "id": "hko26-sen-r32",
-      "sport": "Badminton",
-      "comp": "Hong Kong Open 2026",
-      "round": "Men's singles · Round of 32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "14-21 21-16 25-23"
-      ],
-      "b": [
-        "FRA",
-        "Arnaud Merklé",
-        "21-14 16-21 23-25"
-      ],
-      "when": "2026-11-18T14:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Hong Kong",
-      "note": "Lakshya came from a game down and edged a 25-23 decider against France's Arnaud Merklé.",
-      "src": [
-        {
-          "t": "Google – Lakshya Sen Hong Kong Open scores",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
+          "t": "NewKerala – India U17 hold Malaysia 0-0 to top Group E and qualify",
+          "u": "https://www.newkerala.com/news/"
         },
         {
-          "t": "IndiaSportsHub – HK Open withdrawals: Lakshya now faces Merklé",
-          "u": "https://www.indiasportshub.com/articles/hong-kong-open-2026-major-withdrawals-reshape-men-s-singles-draw-as-lakshya-sen-gets-favourable-route"
+          "t": "Google – India U17 vs Malaysia U17 result",
+          "u": "https://www.google.com/search?q=India+U17+vs+Malaysia+U17+AFC+qualifier+result+20+November"
         }
       ],
-      "win": "a",
-      "day": "18 Nov",
+      "day": "20 Nov",
       "recent": true,
-      "resultAt": "2026-11-19T12:23:17+05:30"
-    },
-    {
-      "id": "hko26-satchi-r32",
-      "sport": "Badminton",
-      "comp": "Hong Kong Open 2026",
-      "round": "Men's doubles · Round of 32",
-      "st": "result",
-      "a": [
-        "IND",
-        "Satwik / Chirag",
-        "15-21 21-17 28-26"
-      ],
-      "b": [
-        "TPE",
-        "Lee Jhe-huei / Yang Po-hsuan",
-        "21-15 17-21 26-28"
-      ],
-      "when": "2026-11-17",
-      "india": true,
-      "venue": "Hong Kong",
-      "note": "Satwik/Chirag saved four match points to win a 28-26 decider against Chinese Taipei's world No. 15 pair, ending a run of three straight first-round exits.",
-      "src": [
-        {
-          "t": "Olympics.com – Satwik-Chirag end losing streak with thrilling first-round win",
-          "u": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-satwik-chirag-first-round-results"
-        },
-        {
-          "t": "Sportstar – Satwik-Chirag win first-round thriller against Lee-Yang",
-          "u": "https://sportstar.thehindu.com/badminton/"
-        }
-      ],
-      "win": "a",
-      "day": "17 Nov",
-      "recent": true,
-      "resultAt": "2026-11-17T23:34:51+05:30"
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "wcc26-g1",
@@ -844,101 +739,6 @@
         {
           "t": "Wikipedia – World Chess Championship 2026",
           "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
-        }
-      ]
-    },
-    {
-      "id": "hko26-sen-r16",
-      "sport": "Badminton",
-      "comp": "Hong Kong Open 2026",
-      "round": "Men's singles · Round of 16",
-      "st": "result",
-      "a": [
-        "IND",
-        "Lakshya Sen",
-        "21-11 21-18"
-      ],
-      "b": [
-        "DEN",
-        "Rasmus Gemke",
-        "11-21 18-21"
-      ],
-      "when": "2026-11-19",
-      "win": "a",
-      "day": "19 Nov",
-      "recent": true,
-      "resultAt": "2026-11-19T12:23:17+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Hong Kong",
-      "note": "Straight-games win over Denmark's Rasmus Gemke sends Lakshya into the quarter-finals. He had already sealed his World Tour Finals place after Srikanth beat Koki Watanabe.",
-      "src": [
-        {
-          "t": "Google – Lakshya Sen Hong Kong Open scores",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
-        }
-      ]
-    },
-    {
-      "id": "hko26-satchi-r16",
-      "sport": "Badminton",
-      "comp": "Hong Kong Open 2026",
-      "round": "Men's doubles · Round of 16",
-      "st": "result",
-      "a": [
-        "IND",
-        "Satwik / Chirag",
-        "21-19 21-16"
-      ],
-      "b": [
-        "MAS",
-        "Azriyn / Tan",
-        "19-21 16-21"
-      ],
-      "when": "2026-11-19",
-      "win": "a",
-      "day": "19 Nov",
-      "recent": true,
-      "resultAt": "2026-11-19T12:23:17+05:30",
-      "india": true,
-      "venue": "Hong Kong",
-      "note": "Fifth seeds Satwik/Chirag beat Malaysia's Azriyn/Tan in straight games to reach the quarter-finals.",
-      "src": [
-        {
-          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
-          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
-        }
-      ]
-    },
-    {
-      "id": "hko26-rakshitha-r16",
-      "sport": "Badminton",
-      "comp": "Hong Kong Open 2026",
-      "round": "Women's singles · Round of 16",
-      "st": "result",
-      "a": [
-        "IND",
-        "Rakshitha Ramraj",
-        "21-18 24-22"
-      ],
-      "b": [
-        "CHN",
-        "Chen Yufei",
-        "18-21 22-24"
-      ],
-      "when": "2026-11-19",
-      "win": "a",
-      "day": "19 Nov",
-      "recent": true,
-      "resultAt": "2026-11-19T12:23:17+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Hong Kong",
-      "note": "Upset of the tournament: 19-year-old Rakshitha (world No. 47) beats second seed and Tokyo Olympic champion Chen Yufei to reach the quarter-finals, after knocking out Mia Blichfeldt in round one.",
-      "src": [
-        {
-          "t": "Google – Rakshitha beats Chen Yufei (Indian Express, News18, The Bridge)",
-          "u": "https://www.google.com/search?q=Rakshita+Ramraj+stuns+Chen+Yufei+quarterfinals+Hong+Kong+Open"
         }
       ]
     },
@@ -1049,86 +849,377 @@
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
       "round": "Men's singles · Quarter-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Kidambi Srikanth",
-        ""
+        "17-21 7-21"
       ],
       "b": [
         "THA",
         "Kunlavut Vitidsarn",
-        ""
+        "21-17 21-7"
       ],
       "when": "2026-11-20T13:30:00+05:30",
       "india": true,
       "big": false,
       "venue": "Kai Tak Arena, Hong Kong",
-      "note": "Srikanth (beat Koki Watanabe and Yoo Tae-bin) faces second seed Kunlavut Vitidsarn for a semi-final place.",
+      "note": "Srikanth's run ends against second seed Kunlavut Vitidsarn.",
       "src": [
         {
-          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
-          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
-        },
-        {
-          "t": "Google – Kidambi Srikanth Hong Kong Open quarter-final (1:30 pm IST)",
-          "u": "https://www.google.com/search?q=Kidambi+Srikanth+Hong+Kong+Open+quarterfinal+score"
+          "t": "Google – Kidambi Srikanth v Kunlavut Vitidsarn (Hong Kong Open QF)",
+          "u": "https://www.google.com/search?q=Kidambi+Srikanth+Kunlavut+Vitidsarn+Hong+Kong+Open+quarterfinal"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "20 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "hko26-sen-sf",
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
       "round": "Men's singles · Semi-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Lakshya Sen",
-        ""
+        "13-21 13-21"
       ],
       "b": [
-        "TBC",
-        "TBC",
-        ""
+        "DEN",
+        "Anders Antonsen",
+        "21-13 21-13"
       ],
       "when": "2026-11-21",
       "india": true,
       "big": true,
       "venue": "Kai Tak Arena, Hong Kong",
-      "note": "Opponent to be decided from the remaining quarter-finals. Time to be confirmed.",
+      "note": "Anders Antonsen ends Lakshya's 13-match winning streak on the World Tour in straight games.",
       "src": [
         {
-          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
-          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+          "t": "The Bridge – Lakshya Sen's 13-match winning streak ends in Hong Kong Open semis",
+          "u": "https://thebridge.in/badminton/"
+        },
+        {
+          "t": "NDTV Sports – Lakshya knocked out in semis, loses in straight games",
+          "u": "https://sports.ndtv.com/badminton"
         }
-      ]
+      ],
+      "win": "b",
+      "day": "21 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
     },
     {
       "id": "hko26-satchi-sf",
       "sport": "Badminton",
       "comp": "Hong Kong Open 2026",
       "round": "Men's doubles · Semi-final",
-      "st": "upcoming",
+      "st": "result",
       "a": [
         "IND",
         "Satwik / Chirag",
-        ""
+        "18-21 19-21"
       ],
       "b": [
-        "TBC",
-        "TBC",
-        ""
+        "MAS",
+        "Man Wei Chong / Tee Kai Wun",
+        "21-18 21-19"
       ],
       "when": "2026-11-21",
       "india": true,
       "big": true,
       "venue": "Kai Tak Arena, Hong Kong",
-      "note": "Opponents: winners of Lundgaard/Vestergaard (DEN) v Man Wei Chong/Tee Kai Wun (MAS). Time to be confirmed.",
+      "note": "Satwik/Chirag lose in straight games to Malaysia's eighth seeds, who went on to win the title on 22 Nov.",
       "src": [
         {
-          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
-          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
+          "t": "Sportstar – Satwik-Chirag lose Hong Kong Open semifinal",
+          "u": "https://sportstar.thehindu.com/badminton/"
+        },
+        {
+          "t": "Google – Satwik Chirag Hong Kong Open 2026 semifinal",
+          "u": "https://www.google.com/search?q=Satwik+Chirag+Hong+Kong+Open+2026+semifinal+final"
+        }
+      ],
+      "win": "b",
+      "day": "21 Nov",
+      "recent": true,
+      "resultAt": "2026-11-22T23:23:03+05:30"
+    },
+    {
+      "id": "isl-ik-chu",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "IK",
+        "Inter Kashi",
+        "",
+        "#7C3AED"
+      ],
+      "b": [
+        "CHU",
+        "Churchill Brothers",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-11-27T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "Indian Super League 2026-27, Phase 1.",
+      "src": [
+        {
+          "t": "Google – Inter Kashi next match (ISL fixtures, IST)",
+          "u": "https://www.google.com/search?q=Inter+Kashi+next+match"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-mcfc-cfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "MCFC",
+        "Mumbai City",
+        "",
+        "#38BDF8"
+      ],
+      "b": [
+        "CFC",
+        "Chennaiyin",
+        "",
+        "#1D4ED8"
+      ],
+      "when": "2026-11-28T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "Indian Super League 2026-27, Phase 1.",
+      "src": [
+        {
+          "t": "Google – Mumbai City next match (ISL fixtures, IST)",
+          "u": "https://www.google.com/search?q=Mumbai+City+next+match"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-fcg-kbfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#EA580C"
+      ],
+      "b": [
+        "KBFC",
+        "Kerala Blasters",
+        "",
+        "#FACC15"
+      ],
+      "when": "2026-11-29T17:00:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "Indian Super League 2026-27, Phase 1.",
+      "src": [
+        {
+          "t": "Google – FC Goa next match (ISL fixtures, IST)",
+          "u": "https://www.google.com/search?q=FC+Goa+next+match"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-neu-pfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "NEU",
+        "NorthEast United",
+        "",
+        "#111827"
+      ],
+      "b": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-11-30",
+      "india": true,
+      "big": false,
+      "note": "Kick-off time to be confirmed (sources list 5 pm and 7:30 pm).",
+      "src": [
+        {
+          "t": "Google – NorthEast United next match (ISL fixtures, IST)",
+          "u": "https://www.google.com/search?q=NorthEast+United+next+match"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-ofc-bfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "OFC",
+        "Odisha FC",
+        "",
+        "#6D28D9"
+      ],
+      "b": [
+        "BFC",
+        "Bengaluru FC",
+        "",
+        "#1E3A8A"
+      ],
+      "when": "2026-12-04T17:00:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "Indian Super League 2026-27, Phase 1.",
+      "src": [
+        {
+          "t": "Google – Odisha FC next match (ISL fixtures, IST)",
+          "u": "https://www.google.com/search?q=Odisha+FC+next+match"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "isl-ebfc-pfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "EBFC",
+        "East Bengal",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "PFC",
+        "Punjab FC",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-12-04T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "Indian Super League 2026-27, Phase 1.",
+      "src": [
+        {
+          "t": "Google – East Bengal next match (ISL fixtures, IST)",
+          "u": "https://www.google.com/search?q=East+Bengal+next+match"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ],
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ]
+    },
+    {
+      "id": "acl2-ebfc-hus",
+      "sport": "Football",
+      "comp": "AFC Champions League Two",
+      "round": "Group D · Matchday 5",
+      "st": "upcoming",
+      "a": [
+        "EBFC",
+        "East Bengal",
+        "",
+        "#C8102E"
+      ],
+      "b": [
+        "HUS",
+        "Al Hussein",
+        "",
+        "#1F2937"
+      ],
+      "when": "2026-11-24T19:15:00+05:30",
+      "india": true,
+      "big": false,
+      "note": "East Bengal (bottom of Group D) host Jordan's Al Hussein; the reverse fixture ended 2-2 after East Bengal led 2-0.",
+      "src": [
+        {
+          "t": "Google – East Bengal vs Al Hussein, ACL Two (Tue 24 Nov, 7:15 pm IST)",
+          "u": "https://www.google.com/search?q=East+Bengal+vs+Al+Hussein+AFC+Champions+League+Two+24+November"
         }
       ]
     }
@@ -1139,22 +1230,18 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live · 1st Test, Wellington · 2nd Test from 27 Nov",
+      "status": "Live · 1st Test Day 5 · 2nd Test from 27 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Basin Reserve, 19–23 Nov): NZ 368 (Nicholls 175*), India 159/1 at stumps on Day 2. 2nd Test in Christchurch from 27 Nov.",
+      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Wellington): NZ 368 & 119/2 v India 720/9d — India need 8 wickets on the final day. 2nd Test in Christchurch from 27 Nov.",
       "src": [
         {
-          "t": "Outlook India – 1st Test Day 2 highlights: India 159/1 at stumps, trail by 209",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
+          "t": "NDTV Sports – 1st Test Day 4: NZ 119/2 at stumps, trail India by 233",
+          "u": "https://sports.ndtv.com/cricket"
         },
         {
-          "t": "Olympics.com – Indian cricket team schedule 2026",
-          "u": "https://www.olympics.com/en/news/"
-        },
-        {
-          "t": "Livemint – India's tour of New Zealand 2026 schedule",
-          "u": "https://www.livemint.com/sports/cricket-news"
+          "t": "Cricbuzz – Conway keeps New Zealand afloat after Pant's ton powers India to record 720",
+          "u": "https://www.cricbuzz.com/cricket-news"
         }
       ]
     },
@@ -1162,23 +1249,19 @@
       "id": "afc-u17q",
       "sport": "Football",
       "name": "AFC U17 Asian Cup 2027 Qualifiers (Group E)",
-      "status": "Live · Kuala Lumpur · till 20 Nov",
-      "live": true,
+      "status": "Concluded · India qualified, 20 Nov",
+      "live": false,
       "india": true,
       "comp": "AFC U17 Asian Cup 2027 Qualifiers",
-      "note": "India beat Singapore 4–2, Guam 12–0 and Palestine 4–1; a draw v Malaysia on 20 Nov seals qualification.",
+      "note": "India topped Group E with 10 points (4–2 Singapore, 12–0 Guam, 4–1 Palestine, 0–0 Malaysia) and qualify for the AFC U17 Asian Cup 2027 in Uzbekistan.",
       "src": [
         {
-          "t": "AFC – Qualifiers Group E: Palestine 1-4 India",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html"
+          "t": "NewKerala – India U17 hold Malaysia 0-0 to top Group E and qualify",
+          "u": "https://www.newkerala.com/news/"
         },
         {
-          "t": "AFC – Qualifiers Group E: India 12-0 Guam",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html/news/qualifiers-group-e-india-12-0-guam-malaysia-2-1-singapore"
-        },
-        {
-          "t": "Sportstar – AFC U-17 Asian Cup 2027 qualifiers full schedule (IST)",
-          "u": "https://sportstar.thehindu.com/football/afc-u17-asian-cup-2027-qualifiers-full-schedule-teams-venue-kick-off-timing-live-streaming-info/article71680735.ece"
+          "t": "Google – India U17 vs Malaysia U17 result",
+          "u": "https://www.google.com/search?q=India+U17+vs+Malaysia+U17+AFC+qualifier+result+20+November"
         }
       ]
     },
@@ -1186,19 +1269,23 @@
       "id": "hko-2026",
       "sport": "Badminton",
       "name": "Hong Kong Open 2026 (Super 500)",
-      "status": "Live · semis 21 Nov · final 22 Nov",
-      "live": true,
+      "status": "Concluded · 22 Nov",
+      "live": false,
       "india": true,
       "comp": "Hong Kong Open 2026",
-      "note": "Last qualifying event for the World Tour Finals. Lakshya Sen and Satwik/Chirag reached the semi-finals (21 Nov); Rakshitha lost her QF to Chochuwong; Srikanth v Kunlavut QF at 1:30 pm IST, 20 Nov.",
+      "note": "Indian semi-finalists Lakshya Sen (lost to Antonsen) and Satwik/Chirag (lost to eventual champions Man Wei Chong/Tee Kai Wun) went out on 21 Nov; Srikanth and Rakshitha lost in the quarter-finals.",
       "src": [
         {
-          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
-          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
+          "t": "The Bridge – Lakshya Sen's 13-match winning streak ends in Hong Kong Open semis",
+          "u": "https://thebridge.in/badminton/"
         },
         {
-          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
-          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
+          "t": "NDTV Sports – Lakshya knocked out in semis, loses in straight games",
+          "u": "https://sports.ndtv.com/badminton"
+        },
+        {
+          "t": "Sportstar – Satwik-Chirag lose Hong Kong Open semifinal",
+          "u": "https://sportstar.thehindu.com/badminton/"
         }
       ]
     },
@@ -1230,7 +1317,7 @@
       "status": "Live · Bhopal · till 28 Nov",
       "live": true,
       "india": true,
-      "note": "Six teams in Bhopal; hosts India are two-time defending champions. India beat Malaysia 4–1 on 19 Nov; next v South Korea 21 Nov (7 pm IST). Also: China 7–0 Thailand, Japan 1–0 Korea.",
+      "note": "Hosts India have won all three games: 4–1 Malaysia, 2–1 South Korea, 7–0 Thailand. Next: China (24 Nov) and Japan (25 Nov); semi-finals 27 Nov, final 28 Nov.",
       "src": [
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
@@ -1251,43 +1338,31 @@
       "sport": "Hockey",
       "name": "Indian Centenary Hockey Series (men, v New Zealand)",
       "comp": "Indian Centenary Hockey Series",
-      "status": "Live · Auckland · till 22 Nov",
-      "live": true,
-      "india": true,
-      "note": "Three men's Tests v New Zealand (19, 21, 22 Nov) in Auckland; India won the 1st 3–2. Young squad led by Sanjay.",
-      "src": [
-        {
-          "t": "Sportstar – India hockey squad for New Zealand tour, Sanjay named captain",
-          "u": "https://sportstar.thehindu.com/hockey/india-hockey-squad-for-new-zealand-tour-full-list-of-players-sanjay-named-captain-ind-v-nz/article71682038.ece"
-        },
-        {
-          "t": "Hockey New Zealand – Vantage Black Sticks v India Test series announced",
-          "u": "https://www.hockeynz.co.nz/"
-        }
-      ]
-    },
-    {
-      "id": "saff-2026",
-      "sport": "Football",
-      "name": "SAFF Championship 2026",
-      "comp": "SAFF Championship 2026",
-      "status": "Concluded · India champions (10th title), 17 Nov",
+      "status": "Concluded · India won 1–0, 22 Nov",
       "live": false,
       "india": true,
-      "note": "India beat Pakistan 2–1 in the final in Dhaka for a record 10th title and a third in a row.",
+      "note": "India won the 1st Test 3–2, then drew 2–2 and 2–2 to take the Centenary Series 1–0. Sanjay top-scored with 3 goals.",
       "src": [
         {
-          "t": "ESPN India – India beat Pakistan 2-1 to win 10th SAFF Championship title",
-          "u": "https://www.espn.in/football/"
+          "t": "Sportstar – India seals hockey Test series 1-0 vs New Zealand, draws 2-2 in final match",
+          "u": "https://sportstar.thehindu.com/hockey/"
+        },
+        {
+          "t": "Wikipedia – Indian Centenary Hockey Series",
+          "u": "https://en.wikipedia.org/wiki/Indian_Centenary_Hockey_Series"
+        },
+        {
+          "t": "Sportstar – India draws 2-2 with New Zealand in second hockey test of centenary series",
+          "u": "https://sportstar.thehindu.com/hockey/"
         }
       ]
     },
     {
       "sport": "Football",
       "name": "Indian Super League 2026-27",
-      "status": "Resumes 20 Nov · Mohun Bagan top · Kolkata Derby 29 Nov",
+      "status": "Live · Mohun Bagan top (15 pts) · Kolkata Derby 29 Nov",
       "india": true,
-      "note": "Latest: Chennaiyin FC 5–3 East Bengal, SC Delhi 3–0 Inter Kashi (7 Nov); Bengaluru FC 2–1 FC Goa (6 Nov); Mohun Bagan 3–2 Odisha, NorthEast United 2–0 Churchill Brothers (5 Nov).",
+      "note": "Table: Mohun Bagan 15 (6 played), Bengaluru 13 (5), NorthEast United 11 (6). This week: Churchill 1–2 Mohun Bagan (22 Nov), NorthEast 0–1 Goa and Chennaiyin 1–1 Punjab (21 Nov), East Bengal 2–2 SC Delhi and Bengaluru 2–0 Mumbai City (20 Nov).",
       "id": "isl",
       "src": [
         {
@@ -1329,7 +1404,7 @@
     {
       "sport": "Football",
       "name": "AFC club competitions",
-      "status": "Live · East Bengal women into AWCL quarter-finals · ACL Two next 24 Nov",
+      "status": "Live · East Bengal v Al Hussein (ACL Two) 24 Nov, 7:15 pm",
       "india": true,
       "note": "Women: East Bengal lost 0–2 to April 25 on 7 Nov but qualified for the AWCL quarter-finals, the first Indian club to do so (earlier: beat Ho Chi Minh City 2–1, lost 1–4 to Hwacheon KSPO). Men: East Bengal are bottom of ACL Two Group D (2 pts) after a 0–2 home loss to Al-Seeb on 3 Nov; Al Hussein at home on 24 Nov.",
       "id": "afc-clubs",
@@ -1402,6 +1477,198 @@
   ],
   "feed": [
     {
+      "t": "22 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "Mohun Bagan win 2–1 at Churchill Brothers (Chhangte, Thapa) to stay top of the ISL on 15 points.",
+      "match": "isl-chu-mbsg",
+      "src": [
+        {
+          "t": "Google – Churchill Brothers vs Mohun Bagan (ISL match card)",
+          "u": "https://www.google.com/search?q=Churchill+Brothers+vs+Mohun+Bagan+ISL"
+        }
+      ]
+    },
+    {
+      "t": "22 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "India women make it three wins from three at the Asian Champions Trophy, beating Thailand 7–0 in Bhopal.",
+      "match": "wact26-ind-tha",
+      "src": [
+        {
+          "t": "FIH – Women's Asian Champions Trophy Bhopal 2026: Thailand 0-7 India (final)",
+          "u": "https://www.fih.hockey/"
+        },
+        {
+          "t": "Google – India vs Thailand Women's Asian Champions Trophy result",
+          "u": "https://www.google.com/search?q=Women's+Asian+Champions+Trophy+India+vs+Thailand+result+22+November"
+        }
+      ]
+    },
+    {
+      "t": "22 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "1st Test, Day 4: India declare on a record 720/9 (Rahul 136, Pant 128, Jurel 78), lead by 352; NZ 119/2 at stumps — India need 8 wickets on Day 5.",
+      "match": "nz-ind-test1",
+      "src": [
+        {
+          "t": "NDTV Sports – 1st Test Day 4: NZ 119/2 at stumps, trail India by 233",
+          "u": "https://sports.ndtv.com/cricket"
+        },
+        {
+          "t": "Cricbuzz – Conway keeps New Zealand afloat after Pant's ton powers India to record 720",
+          "u": "https://www.cricbuzz.com/cricket-news"
+        }
+      ]
+    },
+    {
+      "t": "22 Nov",
+      "tag": "DRAW",
+      "c": "var(--accent)",
+      "m": "Hockey",
+      "text": "India men draw 2–2 with New Zealand in the 3rd Test and win the Centenary Series 1–0.",
+      "match": "hk-nz-ind-t3",
+      "src": [
+        {
+          "t": "Sportstar – India seals hockey Test series 1-0 vs New Zealand, draws 2-2 in final match",
+          "u": "https://sportstar.thehindu.com/hockey/"
+        }
+      ]
+    },
+    {
+      "t": "21 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Hockey",
+      "text": "India women beat South Korea 2–1 (Mumtaz Khan, Sunelita Toppo) for a second straight Asian Champions Trophy win.",
+      "match": "wact26-ind-kor",
+      "src": [
+        {
+          "t": "Hockey India – India edge past South Korea 2–1 to register second consecutive win",
+          "u": "https://www.hockeyindia.org/news"
+        },
+        {
+          "t": "Olympics.com – India beat South Korea 2-1 for second straight win",
+          "u": "https://www.olympics.com/en/news/"
+        }
+      ]
+    },
+    {
+      "t": "21 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Lakshya Sen loses 13–21, 13–21 to Anders Antonsen in the Hong Kong Open semi-final, ending his 13-match winning streak.",
+      "match": "hko26-sen-sf",
+      "src": [
+        {
+          "t": "The Bridge – Lakshya Sen's 13-match winning streak ends in Hong Kong Open semis",
+          "u": "https://thebridge.in/badminton/"
+        },
+        {
+          "t": "NDTV Sports – Lakshya knocked out in semis, loses in straight games",
+          "u": "https://sports.ndtv.com/badminton"
+        }
+      ]
+    },
+    {
+      "t": "21 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Satwik/Chirag go out 18–21, 19–21 to Malaysia's Man Wei Chong/Tee Kai Wun in the Hong Kong Open semi-finals.",
+      "match": "hko26-satchi-sf",
+      "src": [
+        {
+          "t": "Sportstar – Satwik-Chirag lose Hong Kong Open semifinal",
+          "u": "https://sportstar.thehindu.com/badminton/"
+        }
+      ]
+    },
+    {
+      "t": "21 Nov",
+      "tag": "DRAW",
+      "c": "var(--accent)",
+      "m": "Hockey",
+      "text": "India men draw 2–2 with New Zealand in the 2nd Test in Auckland; Sanjay struck late.",
+      "match": "hk-nz-ind-t2",
+      "src": [
+        {
+          "t": "Sportstar – India draws 2-2 with New Zealand in second hockey test of centenary series",
+          "u": "https://sportstar.thehindu.com/hockey/"
+        },
+        {
+          "t": "Olympics.com – Sanjay Rana's late strike helps India clinch a draw",
+          "u": "https://www.olympics.com/en/news/"
+        }
+      ]
+    },
+    {
+      "t": "21 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Football",
+      "text": "FC Goa end NorthEast United's unbeaten ISL run with a first-minute Muhammed Nemil goal (1–0).",
+      "match": "isl-neu-fcg",
+      "src": [
+        {
+          "t": "Google – NorthEast United vs FC Goa (ISL match card)",
+          "u": "https://www.google.com/search?q=NorthEast+United+vs+FC+Goa+ISL"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "India U17 draw 0–0 with Malaysia to top Group E and qualify for the AFC U17 Asian Cup 2027.",
+      "match": "u17q-ind-mas",
+      "src": [
+        {
+          "t": "NewKerala – India U17 hold Malaysia 0-0 to top Group E and qualify",
+          "u": "https://www.newkerala.com/news/"
+        },
+        {
+          "t": "Google – India U17 vs Malaysia U17 result",
+          "u": "https://www.google.com/search?q=India+U17+vs+Malaysia+U17+AFC+qualifier+result+20+November"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "WIN",
+      "c": "var(--win)",
+      "m": "Football",
+      "text": "Bengaluru FC beat Mumbai City 2–0; East Bengal and SC Delhi draw 2–2 as the ISL resumes.",
+      "match": "isl-bfc-mcfc",
+      "src": [
+        {
+          "t": "Google – Bengaluru FC vs Mumbai City (ISL match card)",
+          "u": "https://www.google.com/search?q=Bengaluru+FC+vs+Mumbai+City+ISL"
+        }
+      ]
+    },
+    {
+      "t": "20 Nov",
+      "tag": "LOSS",
+      "c": "var(--accent)",
+      "m": "Badminton",
+      "text": "Kidambi Srikanth loses 17–21, 7–21 to Kunlavut Vitidsarn in the Hong Kong Open quarter-finals.",
+      "match": "hko26-srikanth-qf",
+      "src": [
+        {
+          "t": "Google – Kidambi Srikanth v Kunlavut Vitidsarn (Hong Kong Open QF)",
+          "u": "https://www.google.com/search?q=Kidambi+Srikanth+Kunlavut+Vitidsarn+Hong+Kong+Open+quarterfinal"
+        }
+      ]
+    },
+    {
       "t": "20 Nov",
       "tag": "WIN",
       "c": "var(--win)",
@@ -1442,271 +1709,88 @@
           "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
         }
       ]
-    },
-    {
-      "t": "20 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "1st Test, Day 2: NZ all out for 368 (Nicholls 175*, Bumrah 4 wickets); Jaiswal 85 and Rahul 52* take India to 159/1 at stumps, 209 behind.",
-      "match": "nz-ind-test1",
-      "src": [
-        {
-          "t": "Outlook India – 1st Test Day 2 highlights: India 159/1 at stumps, trail by 209",
-          "u": "https://www.outlookindia.com/sports/cricket/india-vs-new-zealand-1st-test-day-2-live-score-ind-vs-nz-scorecard-latest-updates-highlights"
-        }
-      ]
-    },
-    {
-      "t": "19 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Hockey",
-      "text": "India men beat New Zealand 3–2 in the first Test of the Centenary Series in Auckland, surviving a late scare.",
-      "match": "hk-nz-ind-t1",
-      "src": [
-        {
-          "t": "RNZ – India hold off Black Sticks to win opening hockey test in centenary series",
-          "u": "https://www.rnz.co.nz/news/indonz/2690098/india-hold-off-black-sticks-to-win-opening-hockey-test-in-centenary-series"
-        },
-        {
-          "t": "IndiaSportsHub – India begin New Zealand tour with 3-2 win over Vantage Black Sticks",
-          "u": "https://www.indiasportshub.com/articles/india-begin-new-zealand-tour-with-3-2-win-over-vantage-black-sticks"
-        }
-      ]
-    },
-    {
-      "t": "19 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Hockey",
-      "text": "Women's Asian Champions Trophy: defending champions India beat Malaysia 4–1 in Bhopal; Salima Tete, Puja Sahoo (on debut) and Lalremsiami scored after Mumtaz Khan's equaliser.",
-      "match": "wact26-ind-mas",
-      "src": [
-        {
-          "t": "The Bridge/PTI – India beat Malaysia 4-1 to begin title defence",
-          "u": "https://thebridge.in/hockey/india-beat-malaysia-womens-asian-champions-trophy-2026-58430"
-        }
-      ]
-    },
-    {
-      "t": "19 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Hong Kong Open: 19-year-old Rakshitha Ramraj stuns Olympic champion Chen Yufei 21–18, 24–22 to reach the quarter-finals.",
-      "match": "hko26-rakshitha-r16",
-      "src": [
-        {
-          "t": "Google – Rakshitha beats Chen Yufei (Indian Express, News18, The Bridge)",
-          "u": "https://www.google.com/search?q=Rakshita+Ramraj+stuns+Chen+Yufei+quarterfinals+Hong+Kong+Open"
-        }
-      ]
-    },
-    {
-      "t": "19 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Lakshya Sen beats Rasmus Gemke 21–11, 21–18; meets Loh Kean Yew in the quarter-final at 7:30 am IST on Friday.",
-      "match": "hko26-sen-r16",
-      "src": [
-        {
-          "t": "Google – Lakshya Sen Hong Kong Open scores",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
-        }
-      ]
-    },
-    {
-      "t": "19 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Satwik/Chirag beat Malaysia's Azriyn/Tan 21–19, 21–16 to make the Hong Kong Open quarter-finals.",
-      "match": "hko26-satchi-r16",
-      "src": [
-        {
-          "t": "IndiaSportsHub – Satwik-Chirag reach Hong Kong Open quarter-finals",
-          "u": "https://www.indiasportshub.com/articles/satwik-chirag-reach-hong-kong-open-quarter-finals-after-two-impressive-wins"
-        }
-      ]
-    },
-    {
-      "t": "19 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "1st Test, Day 1: India had New Zealand 70/5 but Nicholls (113*) and Phillips (94*) took them to 243/5 at stumps in Wellington.",
-      "match": "nz-ind-test1",
-      "src": [
-        {
-          "t": "Google – NZ v India 1st Test score (Times of India, NDTV, Indian Express, Cricbuzz)",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+1st+Test+score"
-        }
-      ]
-    },
-    {
-      "t": "18 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Lakshya Sen wins a 25–23 decider against Arnaud Merklé to open his Hong Kong Open campaign; Srikanth's win over Watanabe sealed Lakshya's World Tour Finals spot.",
-      "match": "hko26-sen-r32",
-      "src": [
-        {
-          "t": "Google – Lakshya Sen Hong Kong Open scores",
-          "u": "https://www.google.com/search?q=Lakshya+Sen+Hong+Kong+Open+2026"
-        }
-      ]
-    },
-    {
-      "t": "17 Nov",
-      "tag": "NEWS",
-      "c": "var(--accent)",
-      "m": "Cricket",
-      "text": "MS Dhoni ends his IPL playing career on retention deadline day; Chennai Super Kings name him Team Mentor from IPL 2027.",
-      "src": [
-        {
-          "t": "The Hindu – Dhoni ends IPL playing career as CSK appoints him team mentor",
-          "u": "https://www.thehindu.com/sport/cricket/chennai-super-kings-ms-dhoni-team-mentor-retire-nov-17-2026/article71711142.ece"
-        }
-      ]
-    },
-    {
-      "t": "17 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "India are SAFF champions for a record 10th time — coming from behind to beat 10-man Pakistan 2–1 in Dhaka. Suhail Ahmad Bhat equalised, Sandip Mandi headed a late winner.",
-      "match": "saff-final-ind",
-      "src": [
-        {
-          "t": "ESPN India – India beat Pakistan 2-1 to win 10th SAFF Championship title",
-          "u": "https://www.espn.in/football/"
-        },
-        {
-          "t": "Al Jazeera – India 2-1 Pakistan: SAFF Championship final",
-          "u": "https://www.aljazeera.com/sports/"
-        }
-      ]
-    },
-    {
-      "t": "17 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Football",
-      "text": "India U17 beat 10-man Palestine 4–1 in a rain-hit qualifier in Kuala Lumpur; a draw against Malaysia on Friday sends them to the AFC U17 Asian Cup.",
-      "match": "u17q-pal-ind",
-      "src": [
-        {
-          "t": "AFC – Qualifiers Group E: Palestine 1-4 India",
-          "u": "https://www.the-afc.com/en/national/afc_u17_asian_cup.html"
-        },
-        {
-          "t": "Sportstar – India beats 10-man Palestine in rain-hit match",
-          "u": "https://sportstar.thehindu.com/football/"
-        }
-      ]
-    },
-    {
-      "t": "17 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Hong Kong Open: Satwik/Chirag save four match points to beat Lee Jhe-huei/Yang Po-hsuan 15–21, 21–17, 28–26 in round one.",
-      "match": "hko26-satchi-r32",
-      "src": [
-        {
-          "t": "Olympics.com – Satwik-Chirag end losing streak with thrilling first-round win",
-          "u": "https://www.olympics.com/en/news/hong-kong-open-2026-badminton-satwik-chirag-first-round-results"
-        },
-        {
-          "t": "Sportstar – Satwik-Chirag win first-round thriller against Lee-Yang",
-          "u": "https://sportstar.thehindu.com/badminton/"
-        }
-      ]
     }
   ],
   "schedule": [
     {
-      "d": "20",
+      "d": "23",
       "mo": "NOV",
-      "title": "Kidambi Srikanth v Kunlavut Vitidsarn, Hong Kong Open QF",
-      "meta": "Badminton · Hong Kong",
-      "time": "13:30",
-      "match": "hko26-srikanth-qf"
-    },
-    {
-      "d": "20",
-      "mo": "NOV",
-      "title": "India v Malaysia, AFC U17 qualifier",
-      "meta": "Football · Kuala Lumpur",
-      "time": "18:30",
-      "match": "u17q-ind-mas"
-    },
-    {
-      "d": "21",
-      "mo": "NOV",
-      "title": "New Zealand v India, 1st Test (Day 3)",
+      "title": "New Zealand v India, 1st Test (Day 5)",
       "meta": "Cricket · Wellington",
       "time": "03:30",
       "match": "nz-ind-test1"
-    },
-    {
-      "d": "21",
-      "mo": "NOV",
-      "title": "New Zealand v India, 2nd hockey Test",
-      "meta": "Hockey · Auckland",
-      "time": "08:30",
-      "match": "hk-nz-ind-t2"
-    },
-    {
-      "d": "21",
-      "mo": "NOV",
-      "title": "Lakshya Sen, Hong Kong Open semi-final",
-      "meta": "Badminton · Hong Kong",
-      "time": "TBC",
-      "match": "hko26-sen-sf"
-    },
-    {
-      "d": "21",
-      "mo": "NOV",
-      "title": "Satwik / Chirag, Hong Kong Open semi-final",
-      "meta": "Badminton · Hong Kong",
-      "time": "TBC",
-      "match": "hko26-satchi-sf"
-    },
-    {
-      "d": "21",
-      "mo": "NOV",
-      "title": "India v South Korea, Women's Asian Champions Trophy",
-      "meta": "Hockey · Bhopal",
-      "time": "19:00",
-      "match": "wact26-ind-kor"
-    },
-    {
-      "d": "22",
-      "mo": "NOV",
-      "title": "New Zealand v India, 3rd hockey Test",
-      "meta": "Hockey · Auckland",
-      "time": "08:30",
-      "match": "hk-nz-ind-t3"
-    },
-    {
-      "d": "22",
-      "mo": "NOV",
-      "title": "India v Thailand, Women's Asian Champions Trophy",
-      "meta": "Hockey · Bhopal",
-      "time": "19:00",
-      "match": "wact26-ind-tha"
     },
     {
       "d": "24",
       "mo": "NOV",
       "title": "India v China, Women's Asian Champions Trophy",
       "meta": "Hockey · Bhopal",
-      "time": "19:00",
+      "time": "TBC",
       "match": "wact26-ind-chn"
+    },
+    {
+      "d": "24",
+      "mo": "NOV",
+      "title": "East Bengal v Al Hussein, AFC Champions League Two",
+      "meta": "Football · Kolkata",
+      "time": "19:15",
+      "match": "acl2-ebfc-hus"
+    },
+    {
+      "d": "24",
+      "mo": "NOV",
+      "title": "Gukesh v Sindarov, World Championship Game 1",
+      "meta": "Chess · Geneva",
+      "time": "19:30",
+      "match": "wcc26-g1"
+    },
+    {
+      "d": "24",
+      "mo": "NOV",
+      "title": "NorthEast United v SC Delhi, ISL",
+      "meta": "Football · Imphal",
+      "time": "19:30",
+      "match": "isl-neu-scd"
+    },
+    {
+      "d": "25",
+      "mo": "NOV",
+      "title": "India v Japan, Women's Asian Champions Trophy",
+      "meta": "Hockey · Bhopal",
+      "time": "TBC",
+      "match": "wact26-ind-jpn"
+    },
+    {
+      "d": "27",
+      "mo": "NOV",
+      "title": "New Zealand v India, 2nd Test",
+      "meta": "Cricket · Christchurch",
+      "time": "03:30",
+      "match": "nz-ind-test2"
+    },
+    {
+      "d": "27",
+      "mo": "NOV",
+      "title": "Inter Kashi v Churchill Brothers, ISL",
+      "meta": "Football",
+      "time": "19:30",
+      "match": "isl-ik-chu"
+    },
+    {
+      "d": "28",
+      "mo": "NOV",
+      "title": "Mumbai City v Chennaiyin, ISL",
+      "meta": "Football",
+      "time": "19:30",
+      "match": "isl-mcfc-cfc"
+    },
+    {
+      "d": "29",
+      "mo": "NOV",
+      "title": "East Bengal v Mohun Bagan, Kolkata Derby",
+      "meta": "Football · ISL",
+      "time": "19:30",
+      "match": "isl-ebfc-mbsg-derby"
     }
   ],
   "players": [
