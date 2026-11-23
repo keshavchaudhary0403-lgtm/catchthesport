@@ -1,40 +1,8 @@
 {
-  "lastUpdated": "2026-11-22T23:23:03+05:30",
-  "dayLabel": "Sun 22 Nov · 1st Test Day 5 next: NZ 119/2, trail India's 720/9d by 233 · India women 3/3 in Bhopal",
-  "featured": "nz-ind-test1",
+  "lastUpdated": "2026-11-23T12:22:46+05:30",
+  "dayLabel": "Mon 23 Nov · 1st Test drawn in Wellington · Gukesh v Sindarov from Tue",
+  "featured": "wcc26-g1",
   "matches": [
-    {
-      "id": "wact26-ind-mas",
-      "sport": "Hockey",
-      "comp": "Women's Asian Champions Trophy 2026",
-      "round": "Round robin · India game 1",
-      "st": "result",
-      "a": [
-        "IND",
-        "India",
-        "4"
-      ],
-      "b": [
-        "MAS",
-        "Malaysia",
-        "1"
-      ],
-      "when": "2026-11-19T19:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "India came from 1-1 at half-time: Mumtaz Khan equalised after Nuramirah Zulkifli's 19' opener, then Salima Tete (35'), debutant Puja Sahoo (39', Player of the Match) and Lalremsiami (49') scored. Next: South Korea, 21 Nov.",
-      "src": [
-        {
-          "t": "The Bridge/PTI – India beat Malaysia 4-1 to begin title defence",
-          "u": "https://thebridge.in/hockey/india-beat-malaysia-womens-asian-champions-trophy-2026-58430"
-        }
-      ],
-      "win": "a",
-      "day": "19 Nov",
-      "recent": true,
-      "resultAt": "2026-11-20T09:34:47+05:30"
-    },
     {
       "id": "wact26-ind-kor",
       "sport": "Hockey",
@@ -123,19 +91,19 @@
         "China",
         ""
       ],
-      "when": "2026-11-24",
+      "when": "2026-11-24T19:00:00+05:30",
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "India have won all three games (4-1 Malaysia, 2-1 Korea, 7-0 Thailand). Top four reach the semi-finals (27 Nov), final 28 Nov. Start time to be confirmed (the Thailand game moved to 5:15 pm).",
+      "note": "India (3 wins from 3: 4-1 Malaysia, 2-1 Korea, 7-0 Thailand) have already qualified for the semi-finals (27 Nov); final 28 Nov.",
       "src": [
+        {
+          "t": "Google – Women's Asian Champions Trophy 2026: India v China 7 pm, Japan v India 7 pm (Olympics.com, Sportstar, NDTV Profit)",
+          "u": "https://www.google.com/search?q=women%27s+asian+champions+trophy+2026+schedule+India+vs+Japan+November+25+semi-final+final+time"
+        },
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
           "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
-        },
-        {
-          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
-          "u": "https://www.hockeyindia.org/international-tournaments"
         }
       ]
     },
@@ -155,58 +123,21 @@
         "Japan",
         ""
       ],
-      "when": "2026-11-25",
+      "when": "2026-11-25T19:00:00+05:30",
       "india": true,
       "big": false,
       "venue": "Barkheda Nathu International Sports Complex, Bhopal",
-      "note": "India have won all three games (4-1 Malaysia, 2-1 Korea, 7-0 Thailand). Top four reach the semi-finals (27 Nov), final 28 Nov. Start time to be confirmed (the Thailand game moved to 5:15 pm).",
+      "note": "Last round-robin game. India have already qualified for the semi-finals (27 Nov, 4:30 pm and 7 pm); final 28 Nov.",
       "src": [
+        {
+          "t": "Google – Women's Asian Champions Trophy 2026: India v China 7 pm, Japan v India 7 pm (Olympics.com, Sportstar, NDTV Profit)",
+          "u": "https://www.google.com/search?q=women%27s+asian+champions+trophy+2026+schedule+India+vs+Japan+November+25+semi-final+final+time"
+        },
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
           "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
-        },
-        {
-          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
-          "u": "https://www.hockeyindia.org/international-tournaments"
         }
       ]
-    },
-    {
-      "id": "hk-nz-ind-t1",
-      "sport": "Hockey",
-      "comp": "Indian Centenary Hockey Series",
-      "round": "1st Test",
-      "st": "result",
-      "a": [
-        "NZ",
-        "New Zealand",
-        "2",
-        "#111827"
-      ],
-      "b": [
-        "IND",
-        "India",
-        "3"
-      ],
-      "when": "2026-11-19T11:00:00+05:30",
-      "india": true,
-      "big": true,
-      "venue": "Lloyd Elsmore Hockey Stadium, Auckland",
-      "note": "India held off a late New Zealand charge to win the opening Test of the Indian Centenary Hockey Series 3–2 in Auckland. 2nd Test 21 Nov.",
-      "src": [
-        {
-          "t": "RNZ – India hold off Black Sticks to win opening hockey test in centenary series",
-          "u": "https://www.rnz.co.nz/news/indonz/2690098/india-hold-off-black-sticks-to-win-opening-hockey-test-in-centenary-series"
-        },
-        {
-          "t": "IndiaSportsHub – India begin New Zealand tour with 3-2 win over Vantage Black Sticks",
-          "u": "https://www.indiasportshub.com/articles/india-begin-new-zealand-tour-with-3-2-win-over-vantage-black-sticks"
-        }
-      ],
-      "win": "b",
-      "day": "19 Nov",
-      "recent": true,
-      "resultAt": "2026-11-20T09:35:18+05:30"
     },
     {
       "id": "hk-nz-ind-t2",
@@ -285,11 +216,11 @@
       "sport": "Cricket",
       "comp": "New Zealand v India",
       "round": "1st Test",
-      "st": "live",
+      "st": "result",
       "a": [
         "NZ",
         "New Zealand",
-        "368 & 119/2",
+        "368 & 239/5",
         "#111827"
       ],
       "b": [
@@ -301,31 +232,24 @@
       "india": true,
       "big": true,
       "venue": "Basin Reserve, Wellington",
-      "note": "NZ 368 (Nicholls 175*, Phillips 118; Bumrah 4 wkts). India declared on 720/9, their highest Test total in New Zealand: KL Rahul 136, Rishabh Pant 128, Jaiswal 85, Dhruv Jurel 78. Lead 352. NZ 119/2 at stumps on Day 4 (Conway 59*); India need 8 wickets on Day 5 (from 3:30 am IST, 23 Nov).",
-      "watch": [
-        "Sony Sports Network",
-        "SonyLIV"
-      ],
+      "note": "Match drawn. NZ 368 (Nicholls 175*, Phillips 118; Bumrah 4 wkts) & 239/5 (Mitchell 49* off 186, Phillips 26* off 126 in an unbroken 63-run stand); India 720/9d (Rahul 136, Pant 128, Jaiswal 85, Jurel 78). 2nd Test in Christchurch from 27 Nov.",
       "src": [
         {
-          "t": "NDTV Sports – 1st Test Day 4: NZ 119/2 at stumps, trail India by 233",
-          "u": "https://sports.ndtv.com/cricket"
+          "t": "The Tribune – India, New Zealand play out draw in Wellington Test after fightback from Mitchell, Phillips",
+          "u": "https://www.tribuneindia.com/news/sports/india-new-zealand-play-out-draw-in-wellington-test-after-tough-fightback-from-mitchell-phillips"
         },
         {
-          "t": "Cricbuzz – Conway keeps New Zealand afloat after Pant's ton powers India to record 720",
-          "u": "https://www.cricbuzz.com/cricket-news"
+          "t": "ThePrint – Mitchell, Phillips defy India as New Zealand earn draw in opening Test",
+          "u": "https://theprint.in/sport/mitchell-phillips-defy-india-as-new-zealand-earn-draw-in-opening-test/3106143/"
         },
         {
-          "t": "Indian Express – 720/9: India record highest-ever Test score in New Zealand",
-          "u": "https://indianexpress.com/section/sports/cricket/"
-        },
-        {
-          "t": "Google – New Zealand vs India 1st Test score",
-          "u": "https://www.google.com/search?q=New+Zealand+vs+India+1st+Test+score"
+          "t": "ESPNcricinfo – NZ vs Ind, 1st Test, Day 5 live blog: dead pitch forces draw",
+          "u": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-test-1539442/live-match-blog"
         }
       ],
-      "status": "Day 4 stumps · NZ trail by 233",
-      "scoreAt": "2026-11-22T23:23:03+05:30"
+      "day": "23 Nov",
+      "recent": true,
+      "resultAt": "2026-11-23T12:22:46+05:30"
     },
     {
       "id": "nz-ind-test2",
@@ -1230,38 +1154,18 @@
       "sport": "Cricket",
       "name": "India tour of New Zealand",
       "comp": "New Zealand v India",
-      "status": "Live · 1st Test Day 5 · 2nd Test from 27 Nov",
+      "status": "Live series · 2nd Test from 27 Nov",
       "live": true,
       "india": true,
-      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Wellington): NZ 368 & 119/2 v India 720/9d — India need 8 wickets on the final day. 2nd Test in Christchurch from 27 Nov.",
+      "note": "India won the T20Is 3–2 and the ODIs 3–1. 1st Test (Wellington) drawn: India 720/9d, NZ 368 & 239/5. 2nd Test in Christchurch from 27 Nov.",
       "src": [
         {
-          "t": "NDTV Sports – 1st Test Day 4: NZ 119/2 at stumps, trail India by 233",
-          "u": "https://sports.ndtv.com/cricket"
+          "t": "The Tribune – India, New Zealand play out draw in Wellington Test after fightback from Mitchell, Phillips",
+          "u": "https://www.tribuneindia.com/news/sports/india-new-zealand-play-out-draw-in-wellington-test-after-tough-fightback-from-mitchell-phillips"
         },
         {
-          "t": "Cricbuzz – Conway keeps New Zealand afloat after Pant's ton powers India to record 720",
-          "u": "https://www.cricbuzz.com/cricket-news"
-        }
-      ]
-    },
-    {
-      "id": "afc-u17q",
-      "sport": "Football",
-      "name": "AFC U17 Asian Cup 2027 Qualifiers (Group E)",
-      "status": "Concluded · India qualified, 20 Nov",
-      "live": false,
-      "india": true,
-      "comp": "AFC U17 Asian Cup 2027 Qualifiers",
-      "note": "India topped Group E with 10 points (4–2 Singapore, 12–0 Guam, 4–1 Palestine, 0–0 Malaysia) and qualify for the AFC U17 Asian Cup 2027 in Uzbekistan.",
-      "src": [
-        {
-          "t": "NewKerala – India U17 hold Malaysia 0-0 to top Group E and qualify",
-          "u": "https://www.newkerala.com/news/"
-        },
-        {
-          "t": "Google – India U17 vs Malaysia U17 result",
-          "u": "https://www.google.com/search?q=India+U17+vs+Malaysia+U17+AFC+qualifier+result+20+November"
+          "t": "ThePrint – Mitchell, Phillips defy India as New Zealand earn draw in opening Test",
+          "u": "https://theprint.in/sport/mitchell-phillips-defy-india-as-new-zealand-earn-draw-in-opening-test/3106143/"
         }
       ]
     },
@@ -1286,6 +1190,25 @@
         {
           "t": "Sportstar – Satwik-Chirag lose Hong Kong Open semifinal",
           "u": "https://sportstar.thehindu.com/badminton/"
+        }
+      ]
+    },
+    {
+      "id": "smi-2026",
+      "sport": "Badminton",
+      "name": "Syed Modi India International 2026 (Super 300)",
+      "status": "Starts 24 Nov · Lucknow · till 29 Nov",
+      "live": true,
+      "india": true,
+      "note": "BWF Super 300 at the BBD UP Badminton Academy, Lucknow, 24–29 November.",
+      "src": [
+        {
+          "t": "AllSportDB – 2026 BWF World Tour: Syed Modi International",
+          "u": "https://allsportdb.com/Events/2026-BWF-Badminton-World-Tour-Syed-Modi-International-18522"
+        },
+        {
+          "t": "New Straits Times – Zii Jia aims to turn high seeding into overdue title in Lucknow",
+          "u": "https://www.nst.com.my/amp/sports/badminton/2026/11/1580336/zii-jia-aims-turn-high-seeding-overdue-title-lucknow"
         }
       ]
     },
@@ -1317,19 +1240,15 @@
       "status": "Live · Bhopal · till 28 Nov",
       "live": true,
       "india": true,
-      "note": "Hosts India have won all three games: 4–1 Malaysia, 2–1 South Korea, 7–0 Thailand. Next: China (24 Nov) and Japan (25 Nov); semi-finals 27 Nov, final 28 Nov.",
+      "note": "Hosts India have won all three games (4–1 Malaysia, 2–1 South Korea, 7–0 Thailand) and are into the semi-finals. Next: China (24 Nov, 7 pm) and Japan (25 Nov, 7 pm); semi-finals 27 Nov, final 28 Nov.",
       "src": [
+        {
+          "t": "Google – Women's Asian Champions Trophy 2026: India v China 7 pm, Japan v India 7 pm (Olympics.com, Sportstar, NDTV Profit)",
+          "u": "https://www.google.com/search?q=women%27s+asian+champions+trophy+2026+schedule+India+vs+Japan+November+25+semi-final+final+time"
+        },
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
           "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
-        },
-        {
-          "t": "Hockey India – Women's Asian Champions Trophy Bhopal 2026 schedule",
-          "u": "https://www.hockeyindia.org/international-tournaments"
-        },
-        {
-          "t": "ESPN – Indian Sports LIVE, November 11 (Lakshya at Japan Masters, India v Maldives)",
-          "u": "https://www.espn.com.au/espn/story/_/id/50443228/lakshya-action-japan-masters-india-face-maldives-saff-cup-indian-sports-live-november-11"
         }
       ]
     },
@@ -1476,6 +1395,34 @@
     }
   ],
   "feed": [
+    {
+      "t": "23 Nov",
+      "tag": "DRAW",
+      "c": "var(--accent)",
+      "m": "Cricket",
+      "text": "1st Test drawn in Wellington: Daryl Mitchell (49* off 186) and Glenn Phillips (26*) bat out the final day as NZ finish on 239/5 after India's 720/9d.",
+      "match": "nz-ind-test1",
+      "src": [
+        {
+          "t": "The Tribune – India, New Zealand play out draw in Wellington Test after fightback from Mitchell, Phillips",
+          "u": "https://www.tribuneindia.com/news/sports/india-new-zealand-play-out-draw-in-wellington-test-after-tough-fightback-from-mitchell-phillips"
+        }
+      ]
+    },
+    {
+      "t": "23 Nov",
+      "tag": "NEWS",
+      "c": "var(--accent)",
+      "m": "Hockey",
+      "text": "India women are through to the Asian Champions Trophy semi-finals; they play China on Tuesday (7 pm) and Japan on Wednesday (7 pm) in Bhopal.",
+      "match": "wact26-ind-chn",
+      "src": [
+        {
+          "t": "Google – Women's Asian Champions Trophy 2026: India v China 7 pm, Japan v India 7 pm (Olympics.com, Sportstar, NDTV Profit)",
+          "u": "https://www.google.com/search?q=women%27s+asian+champions+trophy+2026+schedule+India+vs+Japan+November+25+semi-final+final+time"
+        }
+      ]
+    },
     {
       "t": "22 Nov",
       "tag": "WIN",
@@ -1681,51 +1628,15 @@
           "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
         }
       ]
-    },
-    {
-      "t": "20 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Satwik/Chirag beat China's Hu Ke Yuan/Lin Xiang Yi 21–12, 13–21, 21–16 to make the Hong Kong Open semi-finals.",
-      "match": "hko26-satchi-qf",
-      "src": [
-        {
-          "t": "Sportstar – Satwik-Chirag reach Hong Kong Open 2026 semifinals after three-game win",
-          "u": "https://sportstar.thehindu.com/badminton/satwik-chirag-hong-kong-open-2026-semifinals/article71723224.ece"
-        }
-      ]
-    },
-    {
-      "t": "20 Nov",
-      "tag": "LOSS",
-      "c": "var(--accent)",
-      "m": "Badminton",
-      "text": "Rakshitha Ramraj's Hong Kong Open run ends: she loses 19–21, 16–21 to Thailand's Pornpawee Chochuwong in the quarter-finals.",
-      "match": "hko26-rakshitha-qf",
-      "src": [
-        {
-          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
-          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
-        }
-      ]
     }
   ],
   "schedule": [
-    {
-      "d": "23",
-      "mo": "NOV",
-      "title": "New Zealand v India, 1st Test (Day 5)",
-      "meta": "Cricket · Wellington",
-      "time": "03:30",
-      "match": "nz-ind-test1"
-    },
     {
       "d": "24",
       "mo": "NOV",
       "title": "India v China, Women's Asian Champions Trophy",
       "meta": "Hockey · Bhopal",
-      "time": "TBC",
+      "time": "19:00",
       "match": "wact26-ind-chn"
     },
     {
@@ -1757,7 +1668,7 @@
       "mo": "NOV",
       "title": "India v Japan, Women's Asian Champions Trophy",
       "meta": "Hockey · Bhopal",
-      "time": "TBC",
+      "time": "19:00",
       "match": "wact26-ind-jpn"
     },
     {
