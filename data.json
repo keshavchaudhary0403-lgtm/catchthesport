@@ -1,8 +1,47 @@
 {
-  "lastUpdated": "2026-11-24T09:39:36+05:30",
-  "dayLabel": "Tue 24 Nov · India v China hockey 7 pm · Gukesh v Sindarov Game 1 · East Bengal in ACL Two",
+  "lastUpdated": "2026-11-24T12:23:10+05:30",
+  "dayLabel": "Tue 24 Nov · India A v UAE live · India v China hockey 7 pm · Gukesh v Sindarov Game 1",
   "featured": "wcc26-g1",
   "matches": [
+    {
+      "id": "rsac26-inda-uae",
+      "sport": "Cricket",
+      "comp": "Asia Cup Rising Stars 2026",
+      "round": "Group B",
+      "st": "live",
+      "a": [
+        "UAE",
+        "UAE",
+        "45/2 (9.5)"
+      ],
+      "b": [
+        "IND",
+        "India A",
+        "Yet to bat"
+      ],
+      "when": "2026-11-24T11:30:00+05:30",
+      "status": "UAE batting · chose to bat",
+      "scoreAt": "2026-11-24T12:22:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "West End Park International Cricket Stadium, Doha",
+      "note": "India A's last group game after a 48-run loss to Pakistan A; Harshit Rana and Arshad Khan took the openers. Tilak Varma captains.",
+      "watch": [
+        "Sony Sports 1",
+        "Sony Sports 2",
+        "SonyLIV"
+      ],
+      "src": [
+        {
+          "t": "Sportstar – India A vs UAE LIVE Score, Rising Stars Asia Cup 2026",
+          "u": "https://sportstar.thehindu.com/cricket/india-a-vs-uae-live-score-rising-stars-asia-cup-2026/article71737168.ece"
+        },
+        {
+          "t": "Livemint – Rising Stars Asia Cup 2026: TV channels in India",
+          "u": "https://www.livemint.com/sports/cricket-news"
+        }
+      ]
+    },
     {
       "id": "wact26-ind-kor",
       "sport": "Hockey",
@@ -670,8 +709,16 @@
       "big": true,
       "gold": true,
       "venue": "Geneva, Switzerland",
-      "note": "Gukesh defends his world title; up to 14 games (24 Nov – 12 Dec), each starting 7:30 pm IST.",
+      "note": "Gukesh defends his world title; Sindarov has White in Game 1. Up to 14 games (24 Nov – 12 Dec), each starting 7:30 pm IST; rest day after every three games.",
       "src": [
+        {
+          "t": "Chess.com – How to watch FIDE World Championship 2026 Game 1",
+          "u": "https://www.chess.com/news"
+        },
+        {
+          "t": "Indian Express – Gukesh vs Sindarov full schedule",
+          "u": "https://indianexpress.com/section/sports/chess/"
+        },
         {
           "t": "World Chess – Gukesh vs Sindarov: everything you need to know",
           "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know"
@@ -679,16 +726,129 @@
         {
           "t": "Wikipedia – World Chess Championship 2026",
           "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
-        },
-        {
-          "t": "World Chess – Gukesh v Sindarov: everything you need to know",
-          "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship"
         }
       ],
       "watch": [
         {
           "n": "World Chess (official)",
           "u": "https://worldchess.com"
+        }
+      ]
+    },
+    {
+      "id": "wcc26-g2",
+      "sport": "Chess",
+      "comp": "FIDE World Championship 2026",
+      "round": "Game 2",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "D Gukesh",
+        ""
+      ],
+      "b": [
+        "UZB",
+        "Javokhir Sindarov",
+        ""
+      ],
+      "when": "2026-11-25T19:30:00+05:30",
+      "india": true,
+      "big": true,
+      "gold": true,
+      "venue": "Geneva, Switzerland",
+      "note": "World Championship match game; 7:30 pm IST start.",
+      "watch": [
+        {
+          "n": "World Chess (official)",
+          "u": "https://worldchess.com"
+        }
+      ],
+      "src": [
+        {
+          "t": "Chess.com – How to watch FIDE World Championship 2026 Game 1",
+          "u": "https://www.chess.com/news"
+        },
+        {
+          "t": "Indian Express – Gukesh vs Sindarov full schedule",
+          "u": "https://indianexpress.com/section/sports/chess/"
+        }
+      ]
+    },
+    {
+      "id": "wcc26-g3",
+      "sport": "Chess",
+      "comp": "FIDE World Championship 2026",
+      "round": "Game 3",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "D Gukesh",
+        ""
+      ],
+      "b": [
+        "UZB",
+        "Javokhir Sindarov",
+        ""
+      ],
+      "when": "2026-11-26T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "gold": true,
+      "venue": "Geneva, Switzerland",
+      "note": "World Championship match game; 7:30 pm IST start.",
+      "watch": [
+        {
+          "n": "World Chess (official)",
+          "u": "https://worldchess.com"
+        }
+      ],
+      "src": [
+        {
+          "t": "Chess.com – How to watch FIDE World Championship 2026 Game 1",
+          "u": "https://www.chess.com/news"
+        },
+        {
+          "t": "Indian Express – Gukesh vs Sindarov full schedule",
+          "u": "https://indianexpress.com/section/sports/chess/"
+        }
+      ]
+    },
+    {
+      "id": "wcc26-g4",
+      "sport": "Chess",
+      "comp": "FIDE World Championship 2026",
+      "round": "Game 4",
+      "st": "upcoming",
+      "a": [
+        "IND",
+        "D Gukesh",
+        ""
+      ],
+      "b": [
+        "UZB",
+        "Javokhir Sindarov",
+        ""
+      ],
+      "when": "2026-11-28T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "gold": true,
+      "venue": "Geneva, Switzerland",
+      "note": "World Championship match game; 7:30 pm IST start. Rest day on 27 Nov.",
+      "watch": [
+        {
+          "n": "World Chess (official)",
+          "u": "https://worldchess.com"
+        }
+      ],
+      "src": [
+        {
+          "t": "Chess.com – How to watch FIDE World Championship 2026 Game 1",
+          "u": "https://www.chess.com/news"
+        },
+        {
+          "t": "Indian Express – Gukesh vs Sindarov full schedule",
+          "u": "https://indianexpress.com/section/sports/chess/"
         }
       ]
     },
@@ -1179,6 +1339,144 @@
       "watch": [
         "FanCode"
       ]
+    },
+    {
+      "id": "isl-fcg-mcfc",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "FCG",
+        "FC Goa",
+        "",
+        "#EA580C"
+      ],
+      "b": [
+        "MCFC",
+        "Mumbai City",
+        "",
+        "#38BDF8"
+      ],
+      "when": "2026-12-05T17:00:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Fatorda Stadium, Goa",
+      "note": "Indian Super League 2026-27, Phase 1.",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "Livemint – ISL 2026-27 phase 1 full schedule",
+          "u": "https://www.livemint.com/sports/football-news"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule and fixtures",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ]
+    },
+    {
+      "id": "isl-ik-mbsg",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "IK",
+        "Inter Kashi",
+        "",
+        "#0F766E"
+      ],
+      "b": [
+        "MBSG",
+        "Mohun Bagan",
+        "",
+        "#065F46"
+      ],
+      "when": "2026-12-05T19:30:00+05:30",
+      "india": true,
+      "big": false,
+      "venue": "Shree Shiv Chhatrapati Sports Complex, Pune",
+      "note": "Indian Super League 2026-27, Phase 1 (venue per Olympics.com).",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "Livemint – ISL 2026-27 phase 1 full schedule",
+          "u": "https://www.livemint.com/sports/football-news"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule and fixtures",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ]
+    },
+    {
+      "id": "isl-kbfc-chu",
+      "sport": "Football",
+      "comp": "Indian Super League",
+      "round": "Phase 1",
+      "st": "upcoming",
+      "a": [
+        "KBFC",
+        "Kerala Blasters",
+        "",
+        "#FACC15"
+      ],
+      "b": [
+        "CHU",
+        "Churchill Brothers",
+        "",
+        "#B91C1C"
+      ],
+      "when": "2026-12-06",
+      "india": true,
+      "big": false,
+      "venue": "Jawaharlal Nehru Stadium, Kochi",
+      "note": "Kick-off time to be confirmed.",
+      "watch": [
+        "Sony Sports Network",
+        "SonyLIV",
+        {
+          "n": "YouTube – ISL",
+          "u": "https://www.youtube.com/@IndianSuperLeague/streams"
+        }
+      ],
+      "src": [
+        {
+          "t": "Livemint – ISL 2026-27 phase 1 full schedule",
+          "u": "https://www.livemint.com/sports/football-news"
+        },
+        {
+          "t": "Olympics.com – ISL 2026-27 schedule and fixtures",
+          "u": "https://www.olympics.com/en/news/indian-super-league-isl-2026-27-football-schedule-fixtures-match-list"
+        },
+        {
+          "t": "MediaInfoline – ISL announces Sony Sports Network, Sony LIV and YouTube as 2026-27 partners",
+          "u": "https://www.mediainfoline.com/sports/isl-announces-sony-sports-network-sony-liv-and-youtube-as-multi-platform-partners-for-2026-27-season"
+        }
+      ]
     }
   ],
   "competitions": [
@@ -1199,6 +1497,30 @@
         {
           "t": "ThePrint – Mitchell, Phillips defy India as New Zealand earn draw in opening Test",
           "u": "https://theprint.in/sport/mitchell-phillips-defy-india-as-new-zealand-earn-draw-in-opening-test/3106143/"
+        }
+      ]
+    },
+    {
+      "id": "rsac-2026",
+      "sport": "Cricket",
+      "name": "Asia Cup Rising Stars 2026",
+      "status": "Live · Doha · semis 26–27 Nov",
+      "live": true,
+      "india": true,
+      "comp": "Asia Cup Rising Stars 2026",
+      "note": "ACC emerging-teams event in Doha, 19–29 Nov; India A (Tilak Varma, captain) in Group B with Pakistan A and UAE.",
+      "src": [
+        {
+          "t": "Sportstar – India A vs UAE LIVE Score, Rising Stars Asia Cup 2026",
+          "u": "https://sportstar.thehindu.com/cricket/india-a-vs-uae-live-score-rising-stars-asia-cup-2026/article71737168.ece"
+        },
+        {
+          "t": "Livemint – Rising Stars Asia Cup 2026: TV channels in India",
+          "u": "https://www.livemint.com/sports/cricket-news"
+        },
+        {
+          "t": "Cricbuzz – ACC Men's Asia Cup Rising Stars 2026 matches",
+          "u": "https://www.cricbuzz.com/cricket-series"
         }
       ]
     },
@@ -1230,7 +1552,7 @@
       "id": "smi-2026",
       "sport": "Badminton",
       "name": "Syed Modi India International 2026 (Super 300)",
-      "status": "Starts 24 Nov · Lucknow · till 29 Nov",
+      "status": "Live · Lucknow · till 29 Nov",
       "live": true,
       "india": true,
       "note": "BWF Super 300 at the BBD UP Badminton Academy, Lucknow, 24–29 November.",
@@ -1249,8 +1571,8 @@
       "id": "wcc-2026",
       "sport": "Chess",
       "name": "FIDE World Championship: Gukesh v Sindarov",
-      "status": "Starts 24 Nov · Geneva · till 12 Dec",
-      "live": false,
+      "status": "Live · Game 1 tonight 7:30 pm · till 12 Dec",
+      "live": true,
       "india": true,
       "comp": "FIDE World Championship 2026",
       "note": "Opening ceremony 22 Nov; games at 7:30 pm IST.",
@@ -1428,6 +1750,24 @@
     }
   ],
   "feed": [
+    {
+      "t": "11:30",
+      "tag": "LIVE",
+      "c": "var(--live-text)",
+      "m": "Cricket",
+      "text": "India A v UAE under way in Doha at the Asia Cup Rising Stars: UAE chose to bat, Harshit Rana and Arshad Khan remove both openers. India A lost to Pakistan A by 48 runs on Sunday.",
+      "match": "rsac26-inda-uae",
+      "src": [
+        {
+          "t": "Sportstar – India A vs UAE LIVE Score, Rising Stars Asia Cup 2026",
+          "u": "https://sportstar.thehindu.com/cricket/india-a-vs-uae-live-score-rising-stars-asia-cup-2026/article71737168.ece"
+        },
+        {
+          "t": "Livemint – Rising Stars Asia Cup 2026: TV channels in India",
+          "u": "https://www.livemint.com/sports/cricket-news"
+        }
+      ]
+    },
     {
       "t": "23 Nov",
       "tag": "DRAW",
@@ -1647,23 +1987,17 @@
           "u": "https://www.google.com/search?q=Kidambi+Srikanth+Kunlavut+Vitidsarn+Hong+Kong+Open+quarterfinal"
         }
       ]
-    },
-    {
-      "t": "20 Nov",
-      "tag": "WIN",
-      "c": "var(--win)",
-      "m": "Badminton",
-      "text": "Lakshya Sen beats Loh Kean Yew 21–17, 10–21, 21–13 to reach the Hong Kong Open semi-finals.",
-      "match": "hko26-sen-qf",
-      "src": [
-        {
-          "t": "ESPN India – Indian Sports LIVE, 20 Nov: Hong Kong Open quarter-final results",
-          "u": "https://www.espn.in/espn/story/_/id/50536911/lakshya-sen-kidambi-srikanth-satwiksairaj-rankireddy-chirag-shetty-rakshitha-hong-kong-open-isl-double-header-indian-sports-live-november-20"
-        }
-      ]
     }
   ],
   "schedule": [
+    {
+      "d": "24",
+      "mo": "NOV",
+      "title": "UAE v India A, Asia Cup Rising Stars",
+      "meta": "Cricket · Doha",
+      "time": "11:30",
+      "match": "rsac26-inda-uae"
+    },
     {
       "d": "24",
       "mo": "NOV",
@@ -1705,6 +2039,22 @@
       "match": "wact26-ind-jpn"
     },
     {
+      "d": "25",
+      "mo": "NOV",
+      "title": "Gukesh v Sindarov, World Championship Game 2",
+      "meta": "Chess · Geneva",
+      "time": "19:30",
+      "match": "wcc26-g2"
+    },
+    {
+      "d": "26",
+      "mo": "NOV",
+      "title": "Gukesh v Sindarov, World Championship Game 3",
+      "meta": "Chess · Geneva",
+      "time": "19:30",
+      "match": "wcc26-g3"
+    },
+    {
       "d": "27",
       "mo": "NOV",
       "title": "New Zealand v India, 2nd Test",
@@ -1727,14 +2077,6 @@
       "meta": "Football",
       "time": "19:30",
       "match": "isl-mcfc-cfc"
-    },
-    {
-      "d": "29",
-      "mo": "NOV",
-      "title": "East Bengal v Mohun Bagan, Kolkata Derby",
-      "meta": "Football · ISL",
-      "time": "19:30",
-      "match": "isl-ebfc-mbsg-derby"
     }
   ],
   "players": [
