@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-23T12:22:46+05:30",
-  "dayLabel": "Mon 23 Nov · 1st Test drawn in Wellington · Gukesh v Sindarov from Tue",
+  "lastUpdated": "2026-11-24T09:39:36+05:30",
+  "dayLabel": "Tue 24 Nov · India v China hockey 7 pm · Gukesh v Sindarov Game 1 · East Bengal in ACL Two",
   "featured": "wcc26-g1",
   "matches": [
     {
@@ -104,7 +104,15 @@
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
           "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Outlook India – Women's Asian Champions Trophy 2026 guide",
+          "u": "https://www.outlookindia.com/sports/hockey/womens-asian-champions-trophy-2026-guide-squads-schedule-and-live-streaming"
         }
+      ],
+      "watch": [
+        "Star Sports 2",
+        "JioHotstar"
       ]
     },
     {
@@ -136,7 +144,15 @@
         {
           "t": "Wikipedia – 2026 Women's Asian Champions Trophy (fixtures, IST)",
           "u": "https://en.wikipedia.org/wiki/2026_Women%27s_Asian_Champions_Trophy"
+        },
+        {
+          "t": "Outlook India – Women's Asian Champions Trophy 2026 guide",
+          "u": "https://www.outlookindia.com/sports/hockey/womens-asian-champions-trophy-2026-guide-squads-schedule-and-live-streaming"
         }
+      ],
+      "watch": [
+        "Star Sports 2",
+        "JioHotstar"
       ]
     },
     {
@@ -663,6 +679,16 @@
         {
           "t": "Wikipedia – World Chess Championship 2026",
           "u": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+        },
+        {
+          "t": "World Chess – Gukesh v Sindarov: everything you need to know",
+          "u": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship"
+        }
+      ],
+      "watch": [
+        {
+          "n": "World Chess (official)",
+          "u": "https://worldchess.com"
         }
       ]
     },
@@ -1144,7 +1170,14 @@
         {
           "t": "Google – East Bengal vs Al Hussein, ACL Two (Tue 24 Nov, 7:15 pm IST)",
           "u": "https://www.google.com/search?q=East+Bengal+vs+Al+Hussein+AFC+Champions+League+Two+24+November"
+        },
+        {
+          "t": "Khel Now – East Bengal v Al Hussein live streaming (FanCode)",
+          "u": "https://khelnow.com/football/indian-football-acl-two-east-bengal-vs-al-hussein-live-streaming"
         }
+      ],
+      "watch": [
+        "FanCode"
       ]
     }
   ],
